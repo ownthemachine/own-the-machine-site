@@ -27,11 +27,11 @@ a funnel to the book.
 | Persona | Arrives via | Must find within one screen |
 |---|---|---|
 | Curious citizen | social card, press | the ask in one sentence, the simulator, sign (when live) |
-| Journalist | press kit, search | the memorandum, the counter-arguments, a contact |
+| Journalist | press kit, search | the memorandum, the counter-arguments, the ledger, a contact |
 | MEP staffer / policy analyst | Brussels channels | the full legal text, article-numbered, citable |
 | Potential organiser | distribution phase | the gates, the kit, who is behind this |
 | Developer | HN, GitHub | the repo, GOVERNANCE.md, how to open a PR |
-| Sceptic | argument threads | objections 1-14 stated at full strength, before our answers |
+| Sceptic | argument threads | objections 1-14 at full strength, and the ledger showing findings acted on |
 
 The sceptic is a first-class persona. The counter-arguments page is not
 buried; it is in the primary navigation. That is the differentiator and the
@@ -50,6 +50,14 @@ credibility strategy.
 - **/law/memorandum**: explanatory memorandum, including
   **/law/objections**: the fourteen counter-arguments, verbatim from the
   repo, with their design-consequence table.
+- **/law/ledger**: the public change history of the draft. Each versioned
+  change with what prompted it (issue, objection), what the adversarial
+  review found, the editor's disposition and a diff link, rendered from the
+  law repo's structured review files and release notes. This page, not the
+  review tooling, is the public story: the machinery stays inspectable in
+  the tools repo, under the hood; the product is a law that shows its work.
+  One disclosure line on the page: reviews are run adversarially by AI under
+  the editor's responsibility.
 - **/simulator**: client-side only. Inputs: covered Single Market activity,
   reserve rate, crystallisation assumptions, eligible adults. Outputs:
   per-citizen EUR/yr trajectory (compounding curve, NOT a first-year
