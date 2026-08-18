@@ -2,7 +2,7 @@
 
 The website and dividend simulator for the Own the Machine campaign.
 **The law itself lives in the sibling repository
-[own-the-machine](https://github.com/thetwit4u/own-the-machine)**, which is
+[own-the-machine](https://github.com/ownthemachine/own-the-machine)**, which is
 the single source of truth: this site renders the regulation, memorandum and
 evidence from a pinned version of that repo at build time, and never carries
 its own copy.
