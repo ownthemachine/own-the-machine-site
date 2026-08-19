@@ -21,6 +21,7 @@ export default {
     lawEnglish: 'The English text is the draft. This page shows the authoritative English text; translations of the legal text are for understanding only.',
     pageMachine: 'This page was translated and reviewed by the project’s open pipeline; a native reader has not yet verified it. Found an error? Open an issue.',
     enOnly: 'This page is not yet available in this language; the English original follows.',
+    stale: 'The English original has changed since this translation was made; details may differ until it is refreshed.',
     pageVerified: 'This translation has been verified by a native reader.',
   },
   home: {

@@ -106,9 +106,50 @@ const withToc = (html, depth = 2) => {
   return { html: out, toc };
 };
 
+// ---- localised long-form content ------------------------------------
+// content/{lang}/{name}.md are gated translations with frontmatter
+// (source, source-commit, status). Missing file = English fallback with
+// an honesty banner; stale source-commit = an extra staleness line.
+const CONTENT = join(process.cwd(), 'content');
+const parseFM = (raw) => {
+  const m = raw.match(/^---\n([\s\S]*?)\n---\n/);
+  const meta = {};
+  let body = raw;
+  if (m) {
+    for (const line of m[1].split('\n')) {
+      const i = line.indexOf(':');
+      if (i > 0) meta[line.slice(0, i).trim()] = line.slice(i + 1).trim();
+    }
+    body = raw.slice(m[0].length);
+  }
+  return { meta, body };
+};
+const loadLocalized = (name, opts = {}) => {
+  const out = {};
+  for (const loc of ['nl', 'fr', 'de', 'es']) {
+    const f = join(CONTENT, loc, `${name}.md`);
+    if (!existsSync(f)) continue;
+    const { meta, body } = parseFM(readFileSync(f, 'utf8'));
+    const html = linkRepoPaths(marked.parse(body.trim()));
+    const doc = opts.toc ? withToc(html, opts.depth || 2) : { html, toc: [] };
+    out[loc] = {
+      ...doc,
+      status: meta.status || 'machine',
+      stale: opts.lawSource ? (meta['source-commit'] || '') !== lawCommit : false,
+    };
+  }
+  return out;
+};
+
 // ---- memorandum: objections + severability --------------------------
-const objections = withToc(linkRepoPaths(marked.parse(read('regulation/memorandum/counter-arguments.md'))), 3);
-const severability = withToc(linkRepoPaths(marked.parse(read('regulation/memorandum/severability.md'))));
+const objections = {
+  en: withToc(linkRepoPaths(marked.parse(read('regulation/memorandum/counter-arguments.md'))), 3),
+  ...loadLocalized('objections', { toc: true, depth: 3, lawSource: true }),
+};
+const severability = {
+  en: withToc(linkRepoPaths(marked.parse(read('regulation/memorandum/severability.md')))),
+  ...loadLocalized('severability', { toc: true, lawSource: true }),
+};
 
 // ---- ledger: review files with front matter -------------------------
 const revDir = join(LAW, 'pipeline', 'reviews');
@@ -134,9 +175,21 @@ const ledger = readdirSync(revDir).filter((f) => f.endsWith('.md')).sort().rever
 });
 
 // ---- evidence -------------------------------------------------------
-let evidence = { html: '', toc: [] };
-try { evidence = withToc(linkRepoPaths(marked.parse(read('evidence/EVIDENCE.md').replace(/^# .+\n/, '')))); }
-catch (e) { console.error('sync-law: WARNING, evidence source missing, page will be empty:', e.message); }
+let evidence = { en: { html: '', toc: [] } };
+try {
+  evidence = {
+    en: withToc(linkRepoPaths(marked.parse(read('evidence/EVIDENCE.md').replace(/^# .+\n/, '')))),
+    ...loadLocalized('evidence', { toc: true, lawSource: true }),
+  };
+} catch (e) { console.error('sync-law: WARNING, evidence source missing, page will be empty:', e.message); }
+
+// ---- about + contribute (site-native content) -----------------------
+const siteDoc = (name) => ({
+  en: { html: marked.parse(readFileSync(join(CONTENT, 'en', `${name}.md`), 'utf8')) },
+  ...loadLocalized(name),
+});
+const about = siteDoc('about');
+const contribute = siteDoc('contribute');
 
 // ---- structure ------------------------------------------------------
 const structure = marked.parse(stripNotes(read('regulation/STRUCTURE.md')).replace(/^# .+$/m, '').trim());
@@ -144,6 +197,6 @@ const structure = marked.parse(stripNotes(read('regulation/STRUCTURE.md')).repla
 writeFileSync(join(OUT, 'law.json'), JSON.stringify({
   lawCommit,
   builtAt: new Date().toISOString(),
-  articles, recitals, annexes, objections, severability, ledger, evidence, structure,
+  articles, recitals, annexes, objections, severability, ledger, evidence, about, contribute, structure,
 }, null, 1));
 console.log(`sync-law: ${articles.length} articles, ${annexes.length} annexes, ${ledger.length} ledger entries @ ${lawCommit}`);

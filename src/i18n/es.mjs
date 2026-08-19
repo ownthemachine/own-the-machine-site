@@ -22,6 +22,7 @@ export default {
     lawEnglish: 'El texto inglés es el proyecto. Esta página muestra el texto inglés auténtico; las traducciones del texto jurídico sirven solo para su comprensión.',
     pageMachine: 'Esta página fue traducida y revisada por la cadena abierta del proyecto; una persona nativa aún no la ha verificado. ¿Ha encontrado un error? Abra una incidencia.',
     enOnly: 'Esta página aún no está disponible en español; a continuación figura el original en inglés.',
+    stale: 'El original inglés ha cambiado desde que se hizo esta traducción; puede haber diferencias hasta que se actualice.',
     pageVerified: 'Esta traducción ha sido verificada por una persona nativa.',
   },
   home: {
@@ -34,7 +35,7 @@ export default {
     col2Head: 'El derecho',
     col2: 'Cada ciudadano adulto de la Unión posee un derecho igual, personal e intocable en una Reserva común. Sin comprobación de rentas, sin solicitud, sin condiciones. Los repartos son reducidos al principio y se capitalizan a lo largo de una generación.',
     col3Head: 'El método',
-    col3: 'Redactada en público, sometida a exámenes contradictorios, cada veredicto y cada corrección en acta. El <a href="%LEDGER%">libro mayor</a> muestra a la ley discutiendo consigo misma, y perdiendo los argumentos que merecía perder.',
+    col3: 'Redactada en público, sometida a exámenes contradictorios, con cada veredicto y cada corrección en acta. El <a href="%LEDGER%">libro mayor</a> muestra a la ley discutiendo consigo misma, y perdiendo los argumentos que merecía perder.',
     declared: 'Interés declarado: el proyecto nació de un libro de su iniciador; la campaña se sostiene sobre su propio texto jurídico, y cada argumento aquí puede comprobarse sin comprar nada. Proyecto en el commit %COMMIT%.',
     title: 'Un proyecto de reglamento de la ciudadanía de Europa',
   },
@@ -81,7 +82,7 @@ export default {
   ledger: {
     title: 'El libro mayor', eyebrow: 'La ley enseña cómo se hizo',
     intro1: 'Antes de fusionarse, cualquier texto de este Reglamento pasa seis controles contradictorios: forma jurídica, cumplimiento de las restricciones de diseño, base jurídica, abogado del diablo, coherencia con el Derecho de la UE vigente, y fidelidad entre la capa en lenguaje llano y la capa jurídica.',
-    intro2: 'Cada veredicto queda registrado en el repositorio, incluidos los desfavorables. Un veredicto REVISE solo se fusiona con una decisión escrita del editor. Las revisiones las realiza una IA mediante un procedimiento contradictorio, bajo la responsabilidad del editor; las decisiones de abajo son las del editor, en acta.',
+    intro2: 'Cada veredicto queda registrado en el repositorio, incluidos los desfavorables. Un veredicto REVISE solo se fusiona con una decisión escrita del editor. Las revisiones las realiza una IA mediante un procedimiento contradictorio, bajo la responsabilidad del editor; las decisiones de abajo son las del editor, y constan en acta.',
     intro3: 'Cada entrada lleva un sello derivado de su hash de commit: no hay dos modificaciones con la misma marca.',
     description: 'El historial público de cambios del proyecto: cada revisión contradictoria, cada veredicto, cada decisión editorial.',
     gates: {
