@@ -29,7 +29,7 @@ export default {
     ask: 'Wanneer productie geen arbeid op schaal meer nodig heeft, hoort elke burger van de Unie een aandeel te bezitten in wat de machines voortbrengen. Dit is de wet die dat regelt: een volledige ontwerpverordening van de EU, openbaar geschreven, met de bezwaren in hun sterkste vorm gepubliceerd vóór de artikelen.',
     ctaRead: 'Lees de wet', ctaObjections: 'Begin bij de bezwaren',
     col1Head: 'Het mechanisme',
-    col1: 'Eén stemrechtloze warrant per hypergeautomatiseerd bedrijf: 3 % van het kapitaal, pas opgeëist op het moment dat de eigenaren zelf verzilveren. Niets is betaalbaar in geld en niets vloeit naar enige overheidsbegroting.',
+    col1: 'Eén stemrechtloze warrant per hypergeautomatiseerd bedrijf: 3 % van het kapitaal, pas opgeëist op het moment dat de eigenaren zelf verzilveren. Niets is opeisbaar in contanten en niets vloeit naar de staatskas.',
     col2Head: 'De aanspraak',
     col2: 'Elke volwassen burger van de Unie houdt een gelijke, persoonlijke, onaantastbare aanspraak in een gemeenschappelijke Reserve. Geen middelentoets, geen aanvraag, geen voorwaarden. Uitkeringen beginnen klein en groeien over een generatie aan.',
     col3Head: 'De methode',
@@ -79,7 +79,7 @@ export default {
   },
   ledger: {
     title: 'Het grootboek', eyebrow: 'De wet legt verantwoording af',
-    intro1: 'Voordat enige tekst van deze verordening wordt samengevoegd, passeert zij zes vijandige toetsingspoorten: wettelijke vorm, naleving van ontwerpbeperkingen, rechtsgrond, advocaat van de tegenpartij, samenhang met bestaand EU-recht, en consistentie tussen de klare-taallaag en de juridische laag.',
+    intro1: 'Voordat ook maar één tekst van deze verordening wordt samengevoegd, passeert zij zes vijandige toetsingspoorten: wettelijke vorm, naleving van ontwerpbeperkingen, rechtsgrond, advocaat van de tegenpartij, samenhang met bestaand EU-recht, en consistentie tussen de klare-taallaag en de juridische laag.',
     intro2: 'Elk oordeel wordt aan de repository toevertrouwd, ook de oordelen die pijn deden. Een REVISE-oordeel wordt alleen samengevoegd met een schriftelijke beslissing van de redacteur. Reviews worden vijandig uitgevoerd door AI onder verantwoordelijkheid van de redacteur; de beslissingen hieronder zijn die van de redacteur, op schrift.',
     intro3: 'Elke vermelding draagt een zegel afgeleid van haar commit-hash: geen twee wijzigingen dragen hetzelfde merk.',
     description: 'De openbare wijzigingsgeschiedenis van het ontwerp: elke vijandige review, elk oordeel, elke redactionele beslissing.',
