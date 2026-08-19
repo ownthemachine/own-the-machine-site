@@ -1,6 +1,6 @@
 ---
 source: regulation/memorandum/counter-arguments.md
-source-commit: c484663
+source-commit: 97206ad
 status: gate-reviewed
 ---
 
@@ -569,6 +569,16 @@ de financieringsbron, waar het nodig is.
 
 ---
 
+### 15. Eén euro per jaar is een belediging, geen beleid
+
+**Het bezwaar, in zijn sterkste vorm.** Draai de eigen simulator van het instrument op voorzichtige aannames en hij keert een burger het eerste decennium een euro of twee per jaar uit. Geen redelijk mens hecht daar waarde aan; geen kiezer voert er campagne voor; geen journalist weerstaat de kop. Het apparaat staat in geen verhouding tot wat het aflevert: een nieuw orgaan van de Unie, een aanwijzingsregime, waarderingsmachinerie, comitologie, boetes tot 10 % van de wereldwijde omzet, alles om minder dan de prijs van een kop koffie op te leveren. Erger nog: de eigen eerlijkheidsdoctrine van het project verbiedt meer te beloven. Een initiatief dat elke ondertekenaar volgens zijn eigen regels moet vertellen "je zult hier twintig jaar lang niets van merken" heeft een boodschap gekozen waarmee nog nooit een massacampagne is gewonnen. Een basisinkomen belooft ten minste de huur.
+
+**Wat eraan klopt.** De vroege stroom is werkelijk klein, en de campagne mag haar structureel niet opblazen. Het inzamelingsrisico is reëel: uitgestelde beloningen leggen het aan elke deur af tegen directe beloningen.
+
+**Het antwoord dat het instrument moet geven.** Drie delen. Ten eerste is de kleinheid kalibratie, geen falen: de omvang van het instrument volgt per constructie de omvang van het verschijnsel. Drie procent van weinig is weinig, afgenomen van bijna niemand, en in die wereld verplicht artikel 14, lid 3, de Commissie te rapporteren dat de premisse niet is uitgekomen en wijziging of intrekking voor te stellen; een blijvend klein dividend is de falsificatievoorwaarde die afgaat, geen beleid dat hinkt. Het dividend is alleen klein in de wereld waarin het probleem ook klein is. Ten tweede kan de aanspraak alleen vroeg worden gekocht. De bevroren Deense loonronde van DKK 4 368 uit 1978, destijds zinloos geld, is vandaag DKK 119 506; twee derde van het Noorse fonds is samengesteld rendement, geen olie. Het alternatieve moment, de aanspraak opeisen nadat de winsten zichtbaar zijn en de eigenaren verankerd, is onteigening en politiek onmogelijk. De euro koopt het certificaat, en om dat certificaat is het te doen. Ten derde groeit het vermogen sneller aan dan de stroom: op dezelfde voorzichtige aannames staat de Reserve tegen jaar dertig voor ruwweg EUR 400 aan eigen kapitaal achter elke burger, nog vóór één jaaruitkering indruk maakt. Een campagne die de uitkering toont zonder het belang, beschrijft haar eigen instrument verkeerd.
+
+**Ontwerpconsequentie.** Dit bezwaar is waarom DC-14 bestaat (nooit openen met een cijfer uit de beginjaren), waarom artikel 14, lid 3, de falsificatievoorwaarde in de tekst zelf draagt, en waarom bijlage II inkomsten uitkeert en nooit hoofdsom. Het voegt daar zelf nog één mechanische regel aan toe: waar een uitkeringsbedrag per burger wordt getoond, staat het belang per burger in de Reserve ernaast (DC-31).
+
 ## De beperkingentabel
 
 De artikelen worden aan de hand van deze tabel geredigeerd. Een ontwerp dat een DC
@@ -606,6 +616,7 @@ schendt, zakt voor de review, hoe goed het proza ook is.
 | DC-28 | Alleen de financieringsbron is nieuw; bestaande infrastructuur voor de uitkering | 14 |
 | DC-29 | Marktconforme waarborg dat niemand slechter af is, onafhankelijke en afzonderlijk aanvechtbare waardering, rechterlijke toetsing | 1 |
 | DC-30 | Essentiële onderdelen (trigger, eigendom van de reserve, aanspraak, inmenging) in de artikelen, nooit gedelegeerd | 1 |
+| DC-31 | Waar een uitkeringsbedrag per burger wordt getoond, staat het belang per burger in de Reserve ernaast | 15 |
 
 ## Status
 

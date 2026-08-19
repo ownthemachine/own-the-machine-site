@@ -1,6 +1,6 @@
 ---
 source: regulation/memorandum/counter-arguments.md
-source-commit: c484663
+source-commit: 97206ad
 status: gate-reviewed
 ---
 
@@ -564,6 +564,16 @@ Finanzierungsquelle beschränkt, wo sie nötig ist.
 
 ---
 
+### 15. Ein Euro im Jahr ist eine Beleidigung, keine Politik
+
+**Der Einwand, in aller Schärfe.** Lässt man den eigenen Simulator des Instruments mit vorsichtigen Annahmen laufen, zahlt er einer Bürgerin im ersten Jahrzehnt ein, zwei Euro im Jahr. Kein vernünftiger Mensch misst dem Wert bei; kein Wähler macht dafür Wahlkampf; kein Journalist widersteht der Schlagzeile. Der Apparat steht in einem grotesken Missverhältnis zu seinem Ertrag: eine neue Einrichtung der Union, ein Benennungsregime, Bewertungsmaschinerie, Komitologie, Geldbußen bis zu 10 % des weltweiten Umsatzes, alles, um weniger als den Preis eines Kaffees zu liefern. Schlimmer noch: die Ehrlichkeitsdoktrin des Projekts verbietet, mehr zu versprechen. Eine Initiative, die jeder Unterzeichnerin nach ihren eigenen Regeln sagen muss „davon werden Sie zwanzig Jahre lang nichts spüren", hat eine Botschaft gewählt, mit der noch keine Massenkampagne gewonnen wurde. Ein Grundeinkommen verspricht wenigstens die Miete.
+
+**Was daran richtig ist.** Der frühe Fluss ist wirklich klein, und die Kampagne darf ihn strukturell nicht aufblähen. Das Sammelrisiko ist real: aufgeschobene Belohnungen verlieren an jeder Haustür gegen sofortige.
+
+**Die Antwort, die das Instrument geben muss.** In drei Teilen. Erstens ist die Kleinheit Kalibrierung, kein Scheitern: die Größe des Instruments folgt konstruktionsbedingt der Größe des Phänomens. Drei Prozent von wenig sind wenig, fast niemandem genommen, und in dieser Welt verpflichtet Artikel 14 Absatz 3 die Kommission, das Scheitern der Prämisse festzustellen und Änderung oder Aufhebung vorzuschlagen; eine dauerhaft kleine Dividende ist das Greifen der Falsifikationsbedingung, kein Hinken der Politik. Die Dividende ist nur in der Welt klein, in der auch das Problem klein ist. Zweitens lässt sich der Anspruch nur früh erwerben. Die 1978 eingefrorene Einzahlung eines dänischen Arbeitnehmers von 4 368 DKK, damals belangloses Geld, ist heute 119 506 DKK wert; zwei Drittel des norwegischen Fonds sind Zinseszins, nicht Öl. Der andere Zeitpunkt, den Anteil einzufordern, wenn die Gewinne sichtbar und die Eigentümer sich festgesetzt haben, ist Enteignung und politisch unmöglich. Der Euro kauft das Zertifikat, und auf das Zertifikat kommt es an. Drittens läuft der Bestand dem Fluss voraus: unter denselben vorsichtigen Annahmen steht die Reserve im dreißigsten Jahr mit rund 400 EUR an eigenem Kapital hinter jeder Bürgerin, bevor eine einzige Jahresausschüttung beeindruckt. Eine Kampagne, die die Ausschüttung ohne den Anteil zeigt, beschreibt ihr eigenes Instrument falsch.
+
+**Konsequenz für den Entwurf.** Dieser Einwand ist der Grund für DC-14 (nie mit einer Zahl der Anfangsjahre einsteigen), dafür, dass Artikel 14 Absatz 3 die Falsifikationsbedingung ausdrücklich enthält, und dafür, dass Anhang II Erträge ausschüttet und nie Substanz. Er fügt eine eigene mechanische Regel hinzu: wo ein Auszahlungsbetrag je Bürgerin gezeigt wird, steht der Anteil je Bürgerin an der Reserve daneben (DC-31).
+
 ## Die Tabelle der Vorgaben
 
 Die Artikel werden gegen diese Tabelle entworfen. Ein Entwurf, der eine DC
@@ -601,6 +611,7 @@ verletzt, fällt in der Prüfung durch, ganz gleich, wie seine Prosa lautet.
 | DC-28 | Neuheit nur bei der Finanzierungsquelle; bestehende Schienen für die Auszahlung | 14 |
 | DC-29 | Marktkonformes Schlechterstellungsverbot, unabhängige und gesondert anfechtbare Bewertung, gerichtliche Überprüfung | 1 |
 | DC-30 | Wesentliche Elemente (Auslöser, Eigentum der Reserve, Anspruch, Eingriff) in den Artikeln, nie delegiert | 1 |
+| DC-31 | Wo ein Auszahlungsbetrag je Bürgerin gezeigt wird, steht der Anteil je Bürgerin an der Reserve daneben | 15 |
 
 ## Status
 

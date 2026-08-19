@@ -72,7 +72,7 @@ export default {
     title: 'Las objeciones, en su formulación más sólida',
     eyebrow: 'Memorando · la honestidad primero',
     intro: 'Cada argumento serio contra este Reglamento, enunciado tan bien como lo enunciarían sus oponentes, antes de redactar un solo artículo. Cada objeción termina en consecuencias de diseño, y la tabla de restricciones de diseño de abajo es un criterio de fusión: el texto que la viole no se fusiona. Cuando se admite una objeción, así se hace constar. Esta página es la estrategia de credibilidad de la campaña, no su confesión: léala primero, y luego lea <a href="%LAW%">la ley que produjo</a>.',
-    description: 'Catorce objeciones al proyecto, publicadas en su formulación más sólida, cada una con sus consecuencias de diseño.',
+    description: 'Quince objeciones al proyecto, publicadas en su formulación más sólida, cada una con sus consecuencias de diseño.',
   },
   memorandum: {
     title: 'Divisibilidad: lo que sobrevive a la poda',
@@ -108,6 +108,7 @@ export default {
     chartLabel: 'Reparto proyectado por ciudadano y año, horizonte de 30 años, con banda de incertidumbre',
     axisLabel: 'EUR por ciudadano y año, en euros constantes de 2026',
     sentence: 'Bajo estos supuestos, un ciudadano recibe aproximadamente entre %LOW% y %HIGH% EUR al año hacia %YEAR%, en aumento a medida que la Reserva se capitaliza. Los primeros años rozan el cero a propósito: la Reserva preserva el capital antes de repartir, por ley.',
+    stakeSentence: 'Detrás de ese reparto está la participación: hacia %YEAR%, unos %SLOW% a %SHIGH% EUR de capital de la Reserva por ciudadano, capitalizándose.',
     assumptionsHead: 'Cada supuesto de este modelo',
     assumptions: [
       'El 3 % del valor de una empresa designada entra en la Reserva en el primer evento de liquidez de esa empresa (fijado por el artículo 5, apartado 2); el valor de la empresa se toma como diez veces los ingresos cubiertos, una cifra redonda deliberada.',

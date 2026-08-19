@@ -10,13 +10,15 @@ const VALUE_MULTIPLE = 10; // firm value as a multiple of covered revenue
 const YEARS = 30;
 
 interface Inputs { revBn: number; lag: number; ret: number; growth: number }
+interface Series { dist: number[]; stake: number[] }
 
-function run({ revBn, lag, ret, growth }: Inputs): number[] {
+function run({ revBn, lag, ret, growth }: Inputs): Series {
   const r = ret / 100;
   const g = growth / 100;
   const flowAtFull = (revBn * VALUE_MULTIPLE) / 10; // EUR bn of firm value crystallising per year
   let capital = 0; // EUR bn, real
   const dist: number[] = [];
+  const stake: number[] = [];
   const history: number[] = [];
   for (let y = 0; y < YEARS; y++) {
     const growthYears = Math.max(0, y - (lag + 10));
@@ -29,8 +31,9 @@ function run({ revBn, lag, ret, growth }: Inputs): number[] {
     capital += capital * r - d + 0.03 * flow;
     history.push(d);
     dist.push((d * 1e9) / ADULTS); // EUR per citizen per year
+    stake.push((capital * 1e9) / ADULTS); // DC-31: the stake beside the payout
   }
-  return dist;
+  return { dist, stake };
 }
 
 const $ = (id: string) => document.getElementById(id) as HTMLInputElement;
@@ -46,9 +49,10 @@ function draw() {
   $('ret-out').textContent = String(inputs.ret);
   $('growth-out').textContent = String(inputs.growth);
 
-  const central = run(inputs);
-  const low = run({ revBn: inputs.revBn * 0.5, lag: Math.min(15, inputs.lag + 3), ret: Math.max(2, inputs.ret - 1), growth: Math.max(0, inputs.growth - 2) });
-  const high = run({ revBn: inputs.revBn * 1.6, lag: Math.max(3, inputs.lag - 2), ret: Math.min(6, inputs.ret + 1), growth: Math.min(12, inputs.growth + 3) });
+  const centralS = run(inputs);
+  const lowS = run({ revBn: inputs.revBn * 0.5, lag: Math.min(15, inputs.lag + 3), ret: Math.max(2, inputs.ret - 1), growth: Math.max(0, inputs.growth - 2) });
+  const highS = run({ revBn: inputs.revBn * 1.6, lag: Math.max(3, inputs.lag - 2), ret: Math.min(6, inputs.ret + 1), growth: Math.min(12, inputs.growth + 3) });
+  const central = centralS.dist, low = lowS.dist, high = highS.dist;
 
   const W = 720, H = 300, PL = 52, PB = 30, PT = 12;
   const maxY = Math.max(...high, 10) * 1.08;
@@ -69,10 +73,15 @@ function draw() {
     `<text x="${PL}" y="${PT + 2}" font-size="11" fill="var(--ink-soft)" font-family="var(--ui)">${I18N.axisLabel}</text>`;
 
   const y20l = low[19], y20h = high[19];
-  document.getElementById('sentence')!.textContent = (I18N.sentence || '')
+  const payoutLine = (I18N.sentence || '')
     .split('%LOW%').join(fmt(y20l))
     .split('%HIGH%').join(fmt(y20h))
     .split('%YEAR%').join(String(year0 + 19));
+  const stakeLine = (I18N.stakeSentence || '')
+    .split('%SLOW%').join(nfInt.format(Math.round(lowS.stake[19])))
+    .split('%SHIGH%').join(nfInt.format(Math.round(highS.stake[19])))
+    .split('%YEAR%').join(String(year0 + 19));
+  document.getElementById('sentence')!.textContent = payoutLine + ' ' + stakeLine;
 }
 
 for (const id of ['rev', 'lag', 'ret', 'growth']) $(id).addEventListener('input', draw);
