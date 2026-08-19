@@ -9,7 +9,7 @@ date: 2026-08-19
 # Review
 
 > Reviewer: OpenRouter `google/gemini-3.7-flash` · 2026-08-19T04:49:00+00:00 · tokens in=3255 out=2874
-> Prompt: /Users/dave/.claude/jobs/44518f3c/tmp/site/translations/NATIVE-EAR-PROMPT.md · Verbatim model output below — do not edit.
+> Prompt: translations/NATIVE-EAR-PROMPT.md · Verbatim model output below — do not edit.
 
 * **« Voici la loi qui le fait : »**
   * *Pourquoi cela heurte :* Calque brut de l'anglais (*« Here is the law that does it »*). Tournure enfantine et syntaxiquement pauvre dans un contexte juridique.

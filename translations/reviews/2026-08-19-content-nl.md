@@ -29,7 +29,7 @@ fix-agent reports archived with the session.
 # Review
 
 > Reviewer: OpenRouter `google/gemini-3.7-flash` · 2026-08-19T09:50:14+00:00 · tokens in=17215 out=3770
-> Prompt: /Users/dave/.claude/jobs/44518f3c/tmp/site/translations/REVIEW-PROMPT.md · Verbatim model output below — do not edit.
+> Prompt: translations/REVIEW-PROMPT.md · Verbatim model output below — do not edit.
 
 ### Findings
 
@@ -81,7 +81,7 @@ VERDICT: REVISE
 # Review
 
 > Reviewer: OpenRouter `google/gemini-3.7-flash` · 2026-08-19T09:50:13+00:00 · tokens in=13474 out=3643
-> Prompt: /Users/dave/.claude/jobs/44518f3c/tmp/site/translations/REVIEW-PROMPT.md · Verbatim model output below — do not edit.
+> Prompt: translations/REVIEW-PROMPT.md · Verbatim model output below — do not edit.
 
 ### Findings
 
@@ -125,7 +125,7 @@ VERDICT: REVISE
 # Review
 
 > Reviewer: OpenRouter `google/gemini-3.7-flash` · 2026-08-19T09:56:49+00:00 · tokens in=13510 out=2989
-> Prompt: /Users/dave/.claude/jobs/44518f3c/tmp/site/translations/NATIVE-EAR-PROMPT.md · Verbatim model output below — do not edit.
+> Prompt: translations/NATIVE-EAR-PROMPT.md · Verbatim model output below — do not edit.
 
 Here is the native-ear editorial review of the Dutch text.
 
