@@ -7,9 +7,11 @@
   "scripts": {
     "sync": "node scripts/sync-law.mjs",
     "dev": "npm run sync && astro dev",
-    "build": "npm run sync && npm run artefacts && astro build",
+    "build": "npm run sync && npm run artefacts && npm run og && astro build",
     "preview": "astro preview",
-    "artefacts": "node scripts/make-artefacts.mjs"
+    "artefacts": "node scripts/make-artefacts.mjs",
+    "og": "node scripts/make-og.mjs",
+    "audit": "node scripts/a11y.mjs"
   },
   "dependencies": {
     "@fontsource/inter": "^5.1.0",
@@ -21,6 +23,7 @@
     "puppeteer": "^25.8.0"
   },
   "devDependencies": {
+    "@axe-core/puppeteer": "^4.13.0",
     "@types/node": "^26.2.0"
   }
 }

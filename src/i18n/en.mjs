@@ -62,6 +62,7 @@ export default {
     eyebrowArticle: 'The draft Regulation · Article %N%',
     eyebrowAnnex: 'The draft Regulation · Annex %N%',
     eyebrowRecitals: 'The draft Regulation',
+    plainLabel: 'Plain language · not the legal text',
     whereas: 'Whereas:',
     provenance: 'Verbatim from the law repo at commit %COMMIT%',
     prevRecitals: '&larr; Recitals', nextAnnex: 'Annex I &rarr;',
