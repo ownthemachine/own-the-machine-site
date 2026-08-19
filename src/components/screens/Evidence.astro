@@ -7,15 +7,17 @@ import { dict } from '../../lib/i18n.mjs';
 interface Props { lang: string }
 const { lang } = Astro.props;
 const t = dict(lang);
+const doc = law.evidence[lang] || law.evidence.en;
+const isLocal = Boolean(law.evidence[lang]);
 ---
 <Base title={t.evidence.title} lang={lang} description={t.evidence.description}>
   <p class="eyebrow">{t.evidence.eyebrow}</p>
   <h1>{t.evidence.title}</h1>
   <p class="intro prose">{t.evidence.intro}</p>
-  <LangBanner lang={lang} kind="enOnly" />
+  <LangBanner lang={lang} doc={law.evidence[lang]} />
   <div class="withtoc">
-    <OnPage toc={law.evidence.toc} />
-    <div class="prose" lang="en" set:html={law.evidence.html} />
+    <OnPage toc={doc.toc} />
+    <div class="prose" lang={isLocal ? lang : "en"} set:html={doc.html} />
   </div>
 </Base>
 
