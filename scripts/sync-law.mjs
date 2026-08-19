@@ -54,6 +54,26 @@ const articles = readdirSync(artDir).filter((f) => f.endsWith('.md')).sort().map
   return { number, title, slug: `article-${number}`, html };
 }).sort((a, b) => a.number - b.number);
 
+// ---- plain-language layers (L0/L1) per locale -----------------------
+// content/{lang}/plain/article-N.md: frontmatter + "L0: ..." line + L1
+// paragraph. Gated by the layer-fidelity gate before deploy.
+const plainFor = (n) => {
+  const out = {};
+  for (const loc of ['en', 'nl', 'fr', 'de', 'es']) {
+    const f = join(process.cwd(), 'content', loc, 'plain', `article-${n}.md`);
+    if (!existsSync(f)) continue;
+    const raw = readFileSync(f, 'utf8');
+    const m = raw.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
+    if (!m) continue;
+    const body = m[2].trim();
+    const l0m = body.match(/^L0:\s*(.+)$/m);
+    const l1 = body.replace(/^L0:.*$/m, '').trim();
+    out[loc] = { l0: l0m ? l0m[1].trim() : '', l1: marked.parse(l1) };
+  }
+  return out;
+};
+for (const a of articles) a.plain = plainFor(a.number);
+
 // ---- recitals -------------------------------------------------------
 const recBody = stripNotes(read('regulation/recitals.md'))
   .replace(/^# Recitals$/m, '').replace(/^Whereas:$/m, '').trim();
