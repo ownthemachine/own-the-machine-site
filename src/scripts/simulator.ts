@@ -1,52 +1,54 @@
 // The simulator island: the only interactive JavaScript on the site.
-// Implements Annex II arithmetic (real-capital retention, three-year
-// smoothing average, 125 % collar, no leverage) in constant euros.
+// Implements Annex II arithmetic as amended 19 August 2026: real-capital
+// retention, three-year smoothing collar floored at 2 % of capital, no
+// leverage, everything in constant euros. Designated value crystallises
+// as a continuing flow: the first wave over ten years from the median
+// event lag, later cohorts growing at the chosen rate.
 
 const ADULTS = 350e6;
 const VALUE_MULTIPLE = 10; // firm value as a multiple of covered revenue
 const YEARS = 30;
 
-interface Inputs { revBn: number; lag: number; ret: number }
+interface Inputs { revBn: number; lag: number; ret: number; growth: number }
 
-function run({ revBn, lag, ret }: Inputs): number[] {
+function run({ revBn, lag, ret, growth }: Inputs): number[] {
   const r = ret / 100;
-  const totalValueBn = revBn * VALUE_MULTIPLE;
+  const g = growth / 100;
+  const flowAtFull = (revBn * VALUE_MULTIPLE) / 10; // EUR bn of firm value crystallising per year
   let capital = 0; // EUR bn, real
   const dist: number[] = [];
   const history: number[] = [];
   for (let y = 0; y < YEARS; y++) {
-    // adoption: warrants crystallise linearly over ten years from the lag
-    const ramp = Math.min(1, Math.max(0, (y - lag) / 10));
-    const prevRamp = Math.min(1, Math.max(0, (y - 1 - lag) / 10));
-    capital += 0.03 * totalValueBn * (ramp - prevRamp);
-    // real return realised on capital; retention has already preserved
-    // real value because everything here is in constant euros
-    let distributable = Math.max(0, capital * r);
-    // Annex II point 3: collar at 125 % of the three-year average
+    const growthYears = Math.max(0, y - (lag + 10));
+    const flow = y >= lag ? flowAtFull * Math.pow(1 + g, growthYears) : 0;
+    // Annex II: distributable capped by realised income (point 2) and by
+    // the collar, itself floored at 2 % of capital (point 3 as amended)
     const last3 = history.slice(-3);
     const avg = last3.length ? last3.reduce((a, b) => a + b, 0) / last3.length : 0;
-    if (avg > 0) distributable = Math.min(distributable, 1.25 * avg);
-    capital += Math.max(0, capital * r - distributable); // undistributed income compounds
-    history.push(distributable);
-    dist.push((distributable * 1e9) / ADULTS); // EUR per citizen per year
+    const d = Math.min(capital * r, Math.max(1.25 * avg, 0.02 * capital));
+    capital += capital * r - d + 0.03 * flow;
+    history.push(d);
+    dist.push((d * 1e9) / ADULTS); // EUR per citizen per year
   }
   return dist;
 }
 
 const $ = (id: string) => document.getElementById(id) as HTMLInputElement;
 const I18N = JSON.parse(document.getElementById('sim-i18n')!.textContent || '{}');
-const nf = new Intl.NumberFormat(I18N.lang || 'en');
-const fmt = (v: number) => nf.format(Math.round(v));
+const nfInt = new Intl.NumberFormat(I18N.lang || 'en', { maximumFractionDigits: 0 });
+const nfDec = new Intl.NumberFormat(I18N.lang || 'en', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+const fmt = (v: number) => (v >= 10 ? nfInt.format(v) : nfDec.format(Math.max(v, 0.1)));
 
 function draw() {
-  const inputs: Inputs = { revBn: +$('rev').value, lag: +$('lag').value, ret: +$('ret').value };
+  const inputs: Inputs = { revBn: +$('rev').value, lag: +$('lag').value, ret: +$('ret').value, growth: +$('growth').value };
   $('rev-out').textContent = String(inputs.revBn);
   $('lag-out').textContent = String(inputs.lag);
   $('ret-out').textContent = String(inputs.ret);
+  $('growth-out').textContent = String(inputs.growth);
 
   const central = run(inputs);
-  const low = run({ revBn: inputs.revBn * 0.5, lag: Math.min(15, inputs.lag + 3), ret: Math.max(2, inputs.ret - 1) });
-  const high = run({ revBn: inputs.revBn * 1.6, lag: Math.max(3, inputs.lag - 2), ret: Math.min(6, inputs.ret + 1) });
+  const low = run({ revBn: inputs.revBn * 0.5, lag: Math.min(15, inputs.lag + 3), ret: Math.max(2, inputs.ret - 1), growth: Math.max(0, inputs.growth - 2) });
+  const high = run({ revBn: inputs.revBn * 1.6, lag: Math.max(3, inputs.lag - 2), ret: Math.min(6, inputs.ret + 1), growth: Math.min(12, inputs.growth + 3) });
 
   const W = 720, H = 300, PL = 52, PB = 30, PT = 12;
   const maxY = Math.max(...high, 10) * 1.08;
@@ -73,11 +75,11 @@ function draw() {
     .split('%YEAR%').join(String(year0 + 19));
 }
 
-for (const id of ['rev', 'lag', 'ret']) $(id).addEventListener('input', draw);
+for (const id of ['rev', 'lag', 'ret', 'growth']) $(id).addEventListener('input', draw);
 document.getElementById('sceptic')!.addEventListener('click', () => {
-  $('rev').value = '50'; $('lag').value = '15'; $('ret').value = '2'; draw();
+  $('rev').value = '50'; $('lag').value = '15'; $('ret').value = '2'; $('growth').value = '0'; draw();
 });
 document.getElementById('reset')!.addEventListener('click', () => {
-  $('rev').value = '150'; $('lag').value = '7'; $('ret').value = '4'; draw();
+  $('rev').value = '150'; $('lag').value = '7'; $('ret').value = '4'; $('growth').value = '5'; draw();
 });
 draw();
