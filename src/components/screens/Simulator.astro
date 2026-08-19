@@ -30,8 +30,10 @@ const simI18n = JSON.stringify({ lang, sentence: t.simulator.sentence, axisLabel
       <output for="ret" id="ret-out">4</output>
       <p class="note">{t.simulator.retNote}</p>
     </div>
-    <button type="button" id="sceptic" class="btn">{t.simulator.sceptic}</button>
-    <button type="button" id="reset" class="btn">{t.simulator.reset}</button>
+    <div class="actions">
+      <button type="button" id="sceptic" class="btn">{t.simulator.sceptic}</button>
+      <button type="button" id="reset" class="btn">{t.simulator.reset}</button>
+    </div>
   </form>
 
   <figure class="chart">
@@ -58,7 +60,7 @@ const simI18n = JSON.stringify({ lang, sentence: t.simulator.sentence, axisLabel
   .field input[type="range"] { width: calc(100% - 3.4rem); accent-color: var(--seal-gold); }
   .field output { font-family: var(--mono); font-size: 0.9rem; margin-left: 0.5rem; }
   .note { font-size: 0.78rem; color: var(--ink-soft); margin-top: 0.3rem; }
-  .controls .btn { align-self: center; }
+  .actions { grid-column: 1 / -1; display: flex; gap: 0.8rem; flex-wrap: wrap; }
   .chart { border: 1px solid var(--guilloche); background: var(--card); padding: 1rem; margin-bottom: 1.4rem; }
   .chart svg { width: 100%; height: auto; display: block; }
   .sentence { font-family: var(--read); font-size: 1.02rem; padding: 0.8rem 0.2rem 0.2rem; }

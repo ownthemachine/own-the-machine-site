@@ -135,7 +135,7 @@ const ledger = readdirSync(revDir).filter((f) => f.endsWith('.md')).sort().rever
 
 // ---- evidence -------------------------------------------------------
 let evidence = { html: '', toc: [] };
-try { evidence = withToc(linkRepoPaths(marked.parse(read('evidence/EVIDENCE.md')))); }
+try { evidence = withToc(linkRepoPaths(marked.parse(read('evidence/EVIDENCE.md').replace(/^# .+\n/, '')))); }
 catch (e) { console.error('sync-law: WARNING, evidence source missing, page will be empty:', e.message); }
 
 // ---- structure ------------------------------------------------------
