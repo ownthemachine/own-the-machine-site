@@ -36,14 +36,25 @@ generational compounding tangible and the early years honestly small.
 | Effective warrant capture | 3 % of designated value at first liquidity event | fixed | "Fixed by Article 5(2). What varies is when liquidity events happen, not the percentage." |
 | Liquidity-event lag | 7 years median | 3 to 15 | "Warrants crystallise only when a designated firm lists or is sold (Article 5). Private firms can stay private a long time; the instrument waits." |
 | Portfolio real return | 4 %/yr | 2 to 6 | "The Norway fund's long-run real return is the reference. Annex II retains enough to preserve real capital before anything is distributed." |
+| Growth of covered activity after the first wave | 5 %/yr | 0 to 12 | "New firms keep crossing the Article 3 thresholds and covered firms keep growing; zero would mean no firm ever qualifies again." |
 | Eligible adults | 350 m | fixed (Eurostat) | "Union citizens aged 18 or over, Article 10. Sourced, not assumed." |
 
 ## Model (pure function, unit-tested)
 
-Year by year: designated value crystallising -> 3 % into Reserve at
-event lag -> portfolio compounds at real return -> Annex II retention
-(real-capital preservation, five-year smoothing, 125 % collar,
-carry-forward) -> distributable amount / eligible adults.
+Year by year: designated value crystallises as a continuing flow (the
+first wave over ten years from the median lag, later cohorts growing at
+the chosen rate) -> 3 % of each crystallisation into the Reserve ->
+portfolio compounds at real return -> Annex II retention as amended
+19 August 2026 (real-capital preservation, three-year smoothing collar
+floored at 2 % of capital, realised-income ceiling) -> distributable
+amount / eligible adults.
+
+History note: the first version of this model implemented the original
+Annex II collar exactly and thereby exposed its crumb-trap (a collar
+measured only against a near-zero trailing average suppressed
+distributions for over a decade). That finding amended the law; the
+ledger records it. The simulator is not decoration; it is part of the
+review machinery.
 
 The Annex II arithmetic is implemented exactly as drafted, not
 approximated: the smoothing and the collar are what keep early numbers

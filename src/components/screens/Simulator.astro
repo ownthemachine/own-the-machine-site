@@ -30,6 +30,12 @@ const simI18n = JSON.stringify({ lang, sentence: t.simulator.sentence, axisLabel
       <output for="ret" id="ret-out">4</output>
       <p class="note">{t.simulator.retNote}</p>
     </div>
+    <div class="field">
+      <label for="growth">{t.simulator.growthLabel}</label>
+      <input type="range" id="growth" min="0" max="12" step="1" value="5" />
+      <output for="growth" id="growth-out">5</output>
+      <p class="note">{t.simulator.growthNote}</p>
+    </div>
     <div class="actions">
       <button type="button" id="sceptic" class="btn">{t.simulator.sceptic}</button>
       <button type="button" id="reset" class="btn">{t.simulator.reset}</button>
