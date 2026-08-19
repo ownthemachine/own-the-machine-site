@@ -1,0 +1,9 @@
+---
+import LawIndex from '../../../components/screens/LawIndex.astro';
+
+export function getStaticPaths() {
+  return ['nl', 'fr', 'de', 'es'].map((lang) => ({ params: { lang } }));
+}
+const { lang } = Astro.params;
+---
+<LawIndex lang={lang} />

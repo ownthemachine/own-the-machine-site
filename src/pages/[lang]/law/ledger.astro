@@ -1,0 +1,9 @@
+---
+import Ledger from '../../../components/screens/Ledger.astro';
+
+export function getStaticPaths() {
+  return ['nl', 'fr', 'de', 'es'].map((lang) => ({ params: { lang } }));
+}
+const { lang } = Astro.params;
+---
+<Ledger lang={lang} />

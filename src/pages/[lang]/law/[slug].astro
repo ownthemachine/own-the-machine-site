@@ -1,0 +1,16 @@
+---
+import law from '../../../generated/law.json';
+import LawDoc from '../../../components/screens/LawDoc.astro';
+
+export function getStaticPaths() {
+  const docs = [
+    ...law.articles.map((a) => ({ slug: a.slug, kind: 'article', item: a })),
+    ...law.annexes.map((a) => ({ slug: a.slug, kind: 'annex', item: a })),
+  ];
+  return ['nl', 'fr', 'de', 'es'].flatMap((lang) =>
+    docs.map((d) => ({ params: { lang, slug: d.slug }, props: { kind: d.kind, item: d.item } })));
+}
+const { lang } = Astro.params;
+const { kind, item } = Astro.props;
+---
+<LawDoc lang={lang} kind={kind} item={item} />
