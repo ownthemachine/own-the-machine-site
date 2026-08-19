@@ -1,0 +1,9 @@
+---
+import Evidence from '../../components/screens/Evidence.astro';
+
+export function getStaticPaths() {
+  return ['nl', 'fr', 'de', 'es'].map((lang) => ({ params: { lang } }));
+}
+const { lang } = Astro.params;
+---
+<Evidence lang={lang} />

@@ -1,24 +1,4 @@
 ---
-import Base from '../../layouts/Base.astro';
-import law from '../../generated/law.json';
+import Recitals from '../../components/screens/Recitals.astro';
 ---
-<Base title="Recitals" description="The 30 recitals of the draft Citizens' Capital Regulation.">
-  <p class="eyebrow">The draft Regulation</p>
-  <h1>Recitals</h1>
-  <p class="whereas">Whereas:</p>
-  <div class="prose law-text" set:html={law.recitals} />
-  <nav class="pager no-print" aria-label="Articles">
-    <a href="/law">Contents</a>
-    <a href="/law/article-1">Article 1 &rarr;</a>
-  </nav>
-</Base>
-
-<style>
-  h1 { font-size: 1.7rem; margin: 0.4rem 0 1rem; }
-  .whereas { font-family: var(--read); margin-bottom: 1rem; }
-  .law-text :global(p) { padding-left: 1.7rem; text-indent: -1.7rem; }
-  @media (max-width: 600px) {
-    .law-text :global(p) { padding-left: 1.1rem; text-indent: -1.1rem; }
-  }
-  .pager { display: flex; justify-content: space-between; border-top: 1px solid var(--guilloche); margin-top: 1.6rem; padding-top: 0.9rem; font-size: 0.85rem; }
-</style>
+<Recitals lang="en" />

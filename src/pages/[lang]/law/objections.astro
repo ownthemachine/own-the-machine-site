@@ -1,0 +1,9 @@
+---
+import Objections from '../../../components/screens/Objections.astro';
+
+export function getStaticPaths() {
+  return ['nl', 'fr', 'de', 'es'].map((lang) => ({ params: { lang } }));
+}
+const { lang } = Astro.params;
+---
+<Objections lang={lang} />
