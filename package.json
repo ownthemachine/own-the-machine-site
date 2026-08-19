@@ -7,14 +7,17 @@
   "scripts": {
     "sync": "node scripts/sync-law.mjs",
     "dev": "npm run sync && astro dev",
-    "build": "npm run sync && astro build",
-    "preview": "astro preview"
+    "build": "npm run sync && npm run artefacts && astro build",
+    "preview": "astro preview",
+    "artefacts": "node scripts/make-artefacts.mjs"
   },
   "dependencies": {
     "@fontsource/inter": "^5.1.0",
     "@fontsource/literata": "^5.1.0",
     "@fontsource/playfair-display": "^5.1.0",
     "astro": "^5.1.0",
-    "marked": "^15.0.0"
+    "jszip": "^3.10.1",
+    "marked": "^15.0.0",
+    "puppeteer": "^25.8.0"
   }
 }
