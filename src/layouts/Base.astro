@@ -103,4 +103,10 @@ const path = Astro.url.pathname;
   .foot-q { font-family: var(--read); }
   .foot-meta { font-size: 0.78rem; color: var(--ink-soft); }
   .foot-meta a { color: var(--ink-soft); }
+  @media (max-width: 600px) {
+    nav { padding: 0.8rem 1rem; row-gap: 0.4rem; }
+    .links { gap: 0.65rem 0.9rem; }
+    .links a { font-size: 0.72rem; letter-spacing: 0.05em; }
+    .brand { font-size: 0.9rem; }
+  }
 </style>
