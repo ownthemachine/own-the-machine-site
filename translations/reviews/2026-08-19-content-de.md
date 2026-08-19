@@ -29,7 +29,7 @@ fix-agent reports archived with the session.
 # Review
 
 > Reviewer: OpenRouter `google/gemini-3.7-flash` · 2026-08-19T09:50:24+00:00 · tokens in=16740 out=5002
-> Prompt: [path removed] · Verbatim model output below — do not edit.
+> Prompt: translations/REVIEW-PROMPT.md · Verbatim model output below — do not edit.
 
 ### Findings
 
@@ -86,7 +86,7 @@ VERDICT: REVISE
 # Review
 
 > Reviewer: OpenRouter `google/gemini-3.7-flash` · 2026-08-19T09:50:14+00:00 · tokens in=13172 out=3369
-> Prompt: [path removed] · Verbatim model output below — do not edit.
+> Prompt: translations/REVIEW-PROMPT.md · Verbatim model output below — do not edit.
 
 ### Findings
 
@@ -138,7 +138,7 @@ VERDICT: REVISE
 # Review
 
 > Reviewer: OpenRouter `google/gemini-3.7-flash` · 2026-08-19T09:57:13+00:00 · tokens in=12799 out=7034
-> Prompt: [path removed] · Verbatim model output below — do not edit.
+> Prompt: translations/NATIVE-EAR-PROMPT.md · Verbatim model output below — do not edit.
 
 ### Exact Findings
 

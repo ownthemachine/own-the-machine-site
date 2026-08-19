@@ -9,7 +9,7 @@ date: 2026-08-19
 # Review
 
 > Reviewer: OpenRouter `google/gemini-3.7-flash` · 2026-08-19T04:49:01+00:00 · tokens in=3275 out=2871
-> Prompt: [path removed] · Verbatim model output below — do not edit.
+> Prompt: translations/NATIVE-EAR-PROMPT.md · Verbatim model output below — do not edit.
 
 * **„mit den Einwänden in voller Stärke vor den Artikeln veröffentlicht“**
   * *Warum es stört:* Lehnübersetzung des englischen Idioms *in full force* / *at full strength*. Im Deutschen kollokiert „Stärke“ nicht mit juristischen oder sachlichen Einwänden.
