@@ -16,7 +16,7 @@ const isLocal = Boolean(law.evidence[lang]);
   <p class="intro prose">{t.evidence.intro}</p>
   <LangBanner lang={lang} doc={law.evidence[lang]} />
   <div class="withtoc">
-    <OnPage toc={doc.toc} />
+    <OnPage lang={lang} toc={doc.toc} />
     <div class="prose" lang={isLocal ? lang : "en"} set:html={doc.html} />
   </div>
 </Base>

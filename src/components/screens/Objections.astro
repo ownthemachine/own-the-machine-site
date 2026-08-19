@@ -16,7 +16,7 @@ const isLocal = Boolean(law.objections[lang]);
   <p class="intro prose" set:html={fmt(t.objections.intro, { LAW: href(lang, '/law') })} />
   <LangBanner lang={lang} doc={law.objections[lang]} />
   <div class="withtoc">
-    <OnPage toc={doc.toc} />
+    <OnPage lang={lang} toc={doc.toc} />
     <div class="prose objections" lang={isLocal ? lang : "en"} set:html={doc.html} />
   </div>
 </Base>
