@@ -1,0 +1,65 @@
+---
+import Base from '../../layouts/Base.astro';
+import law from '../../generated/law.json';
+const chapters = [
+  ['I', 'Subject matter, scope, definitions', [1, 2]],
+  ['II', 'Designation of covered undertakings', [3, 4]],
+  ['III', 'The citizens’ capital warrant', [5, 6, 7]],
+  ['IV', 'The European Citizens’ Capital Reserve', [8, 9]],
+  ['V', 'The citizens’ entitlement', [10, 11]],
+  ['VI', 'Protection of the Reserve and of entitlements', [12]],
+  ['VII', 'Penalties, monitoring, delegation, committee', [13, 14, 15, 16]],
+  ['VIII', 'Transitional and final provisions', [17, 18]],
+];
+const byNumber = Object.fromEntries(law.articles.map(a => [a.number, a]));
+---
+<Base title="The draft Regulation" description="The complete draft: recitals, 18 articles, 2 annexes, article-numbered and citable.">
+  <h1>The draft Regulation</h1>
+  <p class="intro prose">
+    Harmonised rules for citizen participation in automated productivity
+    gains (the Citizens’ Capital Regulation). The complete working draft:
+    <a href="/law/recitals">30 recitals</a>, 18 articles and two annexes,
+    each paragraph anchored and citable. The English text is the draft.
+    Current at commit <span class="serial">{law.lawCommit}</span>;
+    every change is on the <a href="/law/ledger">ledger</a>.
+  </p>
+
+  {chapters.map(([numeral, title, nums]) => (
+    <section class="chapter">
+      <p class="eyebrow">Chapter {numeral}</p>
+      <h2>{title}</h2>
+      <ul>
+        {nums.map((n) => (
+          <li>
+            <a href={`/law/${byNumber[n].slug}`}>Article {n}: {byNumber[n].title}</a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+
+  <section class="chapter">
+    <p class="eyebrow">Annexes</p>
+    <ul>
+      {law.annexes.map((a) => (
+        <li><a href={`/law/${a.slug}`}>{a.title}</a></li>
+      ))}
+    </ul>
+  </section>
+
+  <section class="chapter">
+    <p class="eyebrow">Memorandum</p>
+    <ul>
+      <li><a href="/law/objections">The objections, at full strength</a></li>
+      <li><a href="/law/memorandum">Severability: what survives trimming</a></li>
+    </ul>
+  </section>
+</Base>
+
+<style>
+  .intro { margin: 0.8rem 0 2.2rem; }
+  .chapter { border-top: 1px solid var(--guilloche); padding: 1.2rem 0; }
+  .chapter h2 { font-size: 1.25rem; margin: 0.2rem 0 0.6rem; }
+  .chapter ul { list-style: none; }
+  .chapter li { padding: 0.22rem 0; font-family: var(--read); }
+</style>
