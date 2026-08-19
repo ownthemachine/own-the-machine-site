@@ -62,6 +62,7 @@ export default {
     eyebrowArticle: 'Le projet de règlement · Article %N%',
     eyebrowAnnex: 'Le projet de règlement · Annexe %N%',
     eyebrowRecitals: 'Le projet de règlement',
+    plainLabel: 'En langage clair · ce n’est pas le texte juridique',
     whereas: 'Considérant ce qui suit :',
     provenance: 'Mot pour mot depuis le dépôt de la loi au commit %COMMIT%',
     prevRecitals: '&larr; Considérants', nextAnnex: 'Annexe I &rarr;',

@@ -62,6 +62,7 @@ export default {
     eyebrowArticle: 'De ontwerpverordening · Artikel %N%',
     eyebrowAnnex: 'De ontwerpverordening · Bijlage %N%',
     eyebrowRecitals: 'De ontwerpverordening',
+    plainLabel: 'Klare taal · niet de wettekst',
     whereas: 'Overwegende hetgeen volgt:',
     provenance: 'Woordelijk uit de wetrepository op commit %COMMIT%',
     prevRecitals: '&larr; Overwegingen', nextAnnex: 'Bijlage I &rarr;',

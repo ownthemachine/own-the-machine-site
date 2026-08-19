@@ -63,6 +63,7 @@ export default {
     eyebrowArticle: 'Der Verordnungsentwurf · Artikel %N%',
     eyebrowAnnex: 'Der Verordnungsentwurf · Anhang %N%',
     eyebrowRecitals: 'Der Verordnungsentwurf',
+    plainLabel: 'In einfacher Sprache · nicht der Gesetzestext',
     whereas: 'In Erwägung nachstehender Gründe:',
     provenance: 'Wortgetreu aus dem Gesetzes-Repository bei Commit %COMMIT%',
     prevRecitals: '&larr; Erwägungsgründe', nextAnnex: 'Anhang I &rarr;',
