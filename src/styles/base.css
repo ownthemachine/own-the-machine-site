@@ -63,10 +63,10 @@ a { color: var(--ink); text-decoration-color: var(--guilloche); text-underline-o
 a:hover { color: var(--seal-gold); text-decoration-color: var(--seal-gold); }
 :focus-visible { outline: 2px solid var(--seal-gold); outline-offset: 2px; }
 
-h1, h2, h3 { font-family: var(--display); font-weight: 600; line-height: 1.2; }
+h1, h2, h3 { font-family: var(--display); font-weight: 600; line-height: 1.2; text-wrap: balance; }
 
 .prose { font-family: var(--read); max-width: var(--measure); }
-.prose p, .prose li { font-size: 1.03rem; line-height: 1.7; margin-bottom: 0.9rem; }
+.prose p, .prose li { font-size: 1.03rem; line-height: 1.7; margin-bottom: 0.9rem; text-wrap: pretty; }
 .prose h2 { font-size: 1.5rem; margin: 2.2rem 0 0.8rem; }
 .prose h3 { font-size: 1.15rem; margin: 1.8rem 0 0.6rem; }
 .prose ul, .prose ol { padding-left: 1.4rem; margin-bottom: 0.9rem; }
@@ -101,6 +101,13 @@ h1, h2, h3 { font-family: var(--display); font-weight: 600; line-height: 1.2; }
   border: 1px solid var(--serial-red); color: var(--serial-red);
 }
 .verdict.publish { border-color: var(--ink-soft); color: var(--ink-soft); }
+
+@media (max-width: 600px) {
+  .prose p, .prose li { font-size: 0.98rem; line-height: 1.62; margin-bottom: 1rem;
+    -webkit-hyphens: auto; hyphens: auto; }
+  .prose h2 { font-size: 1.3rem; }
+  .eyebrow { letter-spacing: 0.2em; }
+}
 
 @media print {
   nav, footer, .no-print { display: none !important; }
