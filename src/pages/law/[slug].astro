@@ -43,6 +43,9 @@ const title = kind === 'article' ? `Article ${item.number}: ${item.title}` : ite
 <style>
   .lawpage h1 { font-size: 1.7rem; margin: 0.4rem 0 1.2rem; }
   .law-text :global(p) { padding-left: 1.5rem; text-indent: -1.5rem; }
+  @media (max-width: 600px) {
+    .law-text :global(p) { padding-left: 1rem; text-indent: -1rem; }
+  }
   .provenance { margin-top: 2rem; font-size: 0.78rem; color: var(--ink-soft); }
   .pager { display: flex; justify-content: space-between; gap: 1rem; border-top: 1px solid var(--guilloche); margin-top: 1.4rem; padding-top: 0.9rem; font-size: 0.85rem; }
 </style>
