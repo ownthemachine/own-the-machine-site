@@ -179,10 +179,16 @@ linkable:
 
 - **L0, one line.** What the article does, in one plain sentence.
   Renders as the article's subtitle everywhere the article is listed.
-- **L1, plain language.** A short citizens'-summary paragraph in the
-  register of the Commission's citizens' summaries: no legal terms
-  without inline explanation, active voice, the reader addressed as
-  "you" where honest.
+- **L1, plain language.** A short citizens'-summary paragraph. At
+  chapter level, L1 follows the Commission's six citizens'-summary
+  questions verbatim as a template (what is proposed, what is the
+  issue, who benefits, why EU action, what exactly changes, from
+  when): a proven citizen-perspective frame. At article level: no
+  legal terms without inline explanation, active voice, the reader
+  addressed as "you" where honest. The structural model is
+  gdpr-info.eu (article pages with inlined recitals plus parallel
+  plain-language topic essays); the binding model is EUR-Lex's
+  LSU/TXT pattern, two views of one stable identifier.
 - **L2, the law.** The enacting text verbatim from the law repo,
   Literata, hanging indents, paragraph anchors.
 
@@ -202,42 +208,79 @@ does.
 EN is the source of truth for the law; the site's job is to make every
 citizen able to read it anyway.
 
-- **Architecture**: path prefix per locale (/nl/, /fr/), EN at the
-  root. hreflang pairs on every page. The language switcher preserves
-  the current anchor. Untranslated pages fall back to EN with a plain
-  banner in the target language, never a silent switch.
-- **Launch languages**: EN, NL, FR, DE, human-quality via the
-  translate-then-gate pipeline (machine-first draft, adversarial review
-  with the legal-register prompt, native read before publish).
-- **Scale order**: by ECI threshold weight: ES, IT, PL, then the
-  remainder of the 24. Machine-translated pages are labelled as such at
-  the top of the page until they pass the gate; being honest about
-  translation quality is cheaper than being caught pretending.
-- **The legal text** carries in every non-EN language: "The English text
-  is the draft; translations are for understanding."
-- **Localisation is more than language**: dates, number formatting
-  (EUR 1 234,56 vs EUR 1,234.56) and the simulator's locale follow the
-  page locale. The footer question renders in the page language.
+Grounded in the multilingual research of 19 August 2026
+(docs/ux-research.md); the headline finding is that campaigns have won
+with 3 to 5 site languages because the Commission itself provides the
+24-language signing step, and that the Commission's own fallback
+pattern is the honest one to copy.
 
-Findings from the multilingual research (running under
-`docs/ux-research.md` when it lands) adjust the mechanics here, not the
-commitments.
+- **Architecture**: path prefix per locale (/nl/, /fr/), EN at the
+  root (the Parliament's segment style, cleaner than the Commission's
+  `_nl` suffix). hreflang pairs on every page; an explicit switcher,
+  never Accept-Language redirects (no EU institution negotiates, and
+  silent switching breaks shared links). The switcher preserves the
+  current anchor.
+- **Fallback, copied from the Commission's own pattern**: an
+  untranslated page serves the English content with a banner in the
+  reader's language ("Deze pagina is niet beschikbaar in het
+  Nederlands") and a clearly labelled machine-translation option.
+  Never a silent switch, never unlabelled MT.
+- **Launch languages**: EN, NL, FR, DE, human-quality via the
+  translate-then-gate pipeline (machine-first draft, adversarial
+  review with the legal-register prompt, native read before publish).
+  English is the authoritative version of every legal or normative
+  page, declared on the page (the Stop Killing Games model, 1,29
+  million signatures with three site languages).
+- **The other 20 languages** ship machine-translated behind the
+  explicit banner, via the Commission's own eTranslation service:
+  free, official-grade, API-accessible to EU SMEs and NGOs. Action,
+  human-gated: register for eTranslation via EU Login as the legal
+  vehicle (Exad CommV now; the initiative's own vehicle later).
+  Languages promote from MT to human-verified one at a time as
+  volunteers arrive; verification status is tracked per page in the
+  repo so a language can be partially human with per-page banners,
+  exactly the Commission's model.
+- **The draft Regulation itself is not hand-translated into 24
+  languages.** On registration the Commission translates the title,
+  objectives and annex into all 24 for free (Regulation 2019/788,
+  Article 4(4)), and the central collection system signs citizens in
+  all 24 regardless. The campaign's translation budget goes to
+  persuasion, not parallel legal drafting. The legal text carries in
+  every non-EN language: "The English text is the draft; translations
+  are for understanding."
+- **Localisation is more than language**: dates, number formatting
+  (EUR 1 234,56 vs EUR 1,234.56) and the simulator's locale follow
+  the page locale. The footer question renders in the page language.
 
 ## 7. Accessibility
 
-WCAG 2.2 AA as the floor, verified per release, not per launch.
-Keyboard-complete including the simulator; visible focus in seal-gold;
-`prefers-reduced-motion` respected (the Seal renders static); contrast
-tokens checked in CI against the palette table; the reader's L2 legal
-text zoomable to 200 percent without loss. The European Accessibility
-Act applies from June 2025 and this site intends to clear it as a
-matter of course, and to say so on /about.
+No law obliges a campaign site to be accessible (the Web Accessibility
+Directive binds public bodies; the European Accessibility Act's scope
+does not reach advocacy content, and microenterprises are exempt
+regardless). The obligation here is credibility: a democracy campaign
+must not be less accessible than the institutions it addresses.
+Therefore: **WCAG 2.1 AA declared as the baseline** (the harmonised
+standard, EN 301 549, and what the Commission and Parliament
+themselves declare), plus the cheap WCAG 2.2 additions now (focus
+appearance, target size, accessible authentication), since 2.2 becomes
+the harmonised bar in 2026. An accessibility statement in the
+institutional format on /about. Verified per release, not per launch:
+keyboard-complete including the simulator, visible focus in seal-gold,
+`prefers-reduced-motion` respected (the Seal renders static), contrast
+tokens checked in CI, the legal text zoomable to 200 percent.
 
 ## 8. Technical requirements
 
 - **Static-first.** Astro; no server state in Phase 1. The law pages
   build FROM the law repo at deploy time (git submodule or build-time
   clone): the site is a rendering of the repo, never a second copy.
+- **Component base**: GOV.UK Frontend (MIT), fully rebranded to the
+  certificate identity: the best-documented accessible component set
+  in civic tech, no licence friction. The Europa Component Library is
+  a pattern reference only (language switcher behaviour, fallback
+  furniture), never a code dependency: EUPL copyleft aside, an
+  EU-topic campaign must not look like an official EU site, and no EU
+  emblem appears anywhere (identity section 3.5).
 - **Hosting**: Cloudflare Pages on ownthemachine.eu;
   whoownsthemachine.eu 301s to it. AGPL-3.0 per LICENSING.md.
 - **Fonts self-hosted**, subset per locale at build; no external font
