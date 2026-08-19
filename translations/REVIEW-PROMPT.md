@@ -19,7 +19,13 @@ Review the target against the source for:
    everywhere (especially: warrant, Reserve, entitlement, ledger,
    liquidity event, designation).
 4. **Naturalness.** It must read as written in the target language, not
-   translated. Flag calques and anglicisms.
+   translated. Flag calques and anglicisms. Hunt idiom calques
+   aggressively: the English source is idiom-rich ("drew blood", "shows
+   its work", "at full strength", "hug zero", "the honesty surface").
+   A literal rendering of an English idiom is a defect even when it is
+   grammatical; replace it with the natural target-language idiom or a
+   plain statement of the same meaning. Walk EVERY string asking "would
+   a native writer have produced this phrase unprompted?".
 5. **Mechanics.** Placeholders (%COMMIT%, %LOW%, %HIGH%, %YEAR%,
    %LEDGER%, %LAW%, %RECITALS%, %ANNEX2%) preserved exactly. Inline
    HTML tags preserved. No em-dashes. Decimal and number conventions of

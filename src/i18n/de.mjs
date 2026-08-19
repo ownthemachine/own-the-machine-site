@@ -79,15 +79,15 @@ export default {
     description: 'Wie das Instrument zerfällt, wenn Institutionen zu schneiden beginnen, und was jeder Schnitt kostet.',
   },
   ledger: {
-    title: 'Das Hauptbuch', eyebrow: 'Das Gesetz zeigt seine Arbeit',
-    intro1: 'Bevor irgendein Text dieser Verordnung zusammengeführt wird, durchläuft er sechs kontradiktorische Prüfstufen: Rechtsform, Einhaltung der Entwurfsbeschränkungen, Rechtsgrundlage, feindlicher Anwalt, Kohärenz mit bestehendem EU-Recht und Treue zwischen der Klartext- und der Rechtsschicht.',
-    intro2: 'Jedes Urteil wird ins Repository eingetragen, auch die, die Blut gezogen haben. Ein REVISE-Urteil wird nur mit einer schriftlichen Entscheidung des Herausgebers zusammengeführt. Die Prüfungen werden kontradiktorisch von KI unter der Verantwortung des Herausgebers geführt; die Entscheidungen unten sind die des Herausgebers, aktenkundig.',
+    title: 'Das Hauptbuch', eyebrow: 'Das Gesetz legt seine Arbeit offen',
+    intro1: 'Bevor irgendein Text dieser Verordnung zusammengeführt wird, durchläuft er sechs kontradiktorische Prüfstufen: Rechtsform, Einhaltung der Entwurfsbeschränkungen, Rechtsgrundlage, gegnerischer Anwalt, Kohärenz mit bestehendem EU-Recht und Konsistenz zwischen der Klartext- und der Rechtsebene.',
+    intro2: 'Jedes Urteil wird ins Repository eingetragen, auch die, die wehgetan haben. Ein REVISE-Urteil wird nur mit einer schriftlichen Entscheidung des Herausgebers zusammengeführt. Die Prüfungen werden kontradiktorisch von KI unter der Verantwortung des Herausgebers geführt; die Entscheidungen unten sind die des Herausgebers, aktenkundig.',
     intro3: 'Jeder Eintrag trägt ein Siegel, das aus seinem Commit-Hash abgeleitet ist: Keine zwei Änderungen tragen dieselbe Marke.',
     description: 'Die öffentliche Änderungsgeschichte des Entwurfs: jede kontradiktorische Prüfung, jedes Urteil, jede Herausgeberentscheidung.',
     gates: {
       'legal-form': 'Rechtsform', 'dc-compliance': 'Entwurfsbeschränkungen',
       'legal-basis': 'Rechtsgrundlage', 'hostile-counsel': 'Gegnerischer Anwalt',
-      'acquis-coherence': 'Acquis-Kohärenz', 'layer-fidelity': 'Schichttreue',
+      'acquis-coherence': 'Acquis-Kohärenz', 'layer-fidelity': 'Ebenenkonsistenz',
     },
   },
   simulator: {
@@ -103,7 +103,7 @@ export default {
     sceptic: 'Wenig annehmen', reset: 'Zurücksetzen',
     chartLabel: 'Prognostizierte Ausschüttung pro Person und Jahr, Horizont 30 Jahre, mit Unsicherheitsband',
     axisLabel: 'EUR pro Person und Jahr, in konstanten Euro von 2026',
-    sentence: 'Unter diesen Annahmen erhält eine Bürgerin oder ein Bürger bis %YEAR% grob %LOW% bis %HIGH% EUR pro Jahr, steigend, während die Reserve sich verzinst. Die ersten Jahre schmiegen sich mit Absicht an die Null: Die Reserve erhält Kapital, bevor sie ausschüttet, per Gesetz.',
+    sentence: 'Unter diesen Annahmen erhält eine Bürgerin oder ein Bürger bis %YEAR% grob %LOW% bis %HIGH% EUR pro Jahr, steigend, während die Reserve sich verzinst. Die ersten Jahre liegen mit Absicht nahe null: Die Reserve erhält Kapital, bevor sie ausschüttet, per Gesetz.',
     assumptionsHead: 'Jede Annahme dieses Modells',
     assumptions: [
       '3 % des Werts eines benannten Unternehmens fließen beim ersten Liquiditätsereignis dieses Unternehmens in die Reserve (festgelegt in Artikel 5 Absatz 2); der Unternehmenswert ist mit dem Zehnfachen des erfassten Umsatzes angesetzt, eine bewusst runde Zahl.',
@@ -119,11 +119,11 @@ export default {
   },
   contribute: {
     title: 'Mitwirken', eyebrow: 'Das Gesetz ist ein Repository',
-    description: 'Wie Sie das Gesetz verbessern: eine Pull-Request öffnen, einen Einwand angreifen, eine Seite übersetzen.',
+    description: 'Wie Sie das Gesetz verbessern: einen Pull-Request öffnen, einen Einwand ausformulieren, eine Seite übersetzen.',
   },
   about: {
     title: 'Über das Projekt', eyebrow: 'Wer, warum und nach welchen Regeln',
-    description: 'Wer dahintersteht, das erklärte Interesse, die Tore, und wie diese Kampagne mit Ihren Daten umgeht.',
+    description: 'Wer dahintersteht, das erklärte Interesse, die Prüfstufen, und wie diese Kampagne mit Ihren Daten umgeht.',
   },
   notFound: {
     title: 'Nicht gefunden', heading: 'Unter dieser Adresse ist nichts beurkundet',
