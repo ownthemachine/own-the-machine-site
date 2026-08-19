@@ -91,20 +91,23 @@ const linkRepoPaths = (html) => html.replace(
 // h2 headings (the EUR-Lex / ECL in-page navigation pattern).
 const slug = (t) => t.toLowerCase().replace(/<[^>]+>/g, '').replace(/&[a-z]+;/g, ' ')
   .replace(/[^a-z0-9\s-]/g, '').trim().replace(/\s+/g, '-').slice(0, 60);
-const withToc = (html) => {
+const withToc = (html, depth = 2) => {
   const toc = [];
-  const out = html.replace(/<h2>([\s\S]*?)<\/h2>/g, (m, inner) => {
+  const seen = new Set();
+  const out = html.replace(/<h([23])>([\s\S]*?)<\/h\2?[23]>/g, (m, lvl, inner) => {
     const text = inner.replace(/<[^>]+>/g, '').trim();
     let id = slug(text) || 'section';
-    while (toc.some((t) => t.id === id)) id += '-b';
-    toc.push({ id, text });
-    return `<h2 id="${id}">${inner}</h2>`;
+    while (seen.has(id)) id += '-b';
+    seen.add(id);
+    if (lvl === '2') toc.push({ id, text, children: [] });
+    else if (depth >= 3 && toc.length) toc[toc.length - 1].children.push({ id, text });
+    return `<h${lvl} id="${id}">${inner}</h${lvl}>`;
   });
   return { html: out, toc };
 };
 
 // ---- memorandum: objections + severability --------------------------
-const objections = withToc(linkRepoPaths(marked.parse(read('regulation/memorandum/counter-arguments.md'))));
+const objections = withToc(linkRepoPaths(marked.parse(read('regulation/memorandum/counter-arguments.md'))), 3);
 const severability = withToc(linkRepoPaths(marked.parse(read('regulation/memorandum/severability.md'))));
 
 // ---- ledger: review files with front matter -------------------------
