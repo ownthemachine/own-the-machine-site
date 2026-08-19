@@ -1,6 +1,6 @@
 ---
 source: evidence/EVIDENCE.md
-source-commit: 97206ad
+source-commit: 11757cc
 status: gate-reviewed
 ---
 
@@ -10,7 +10,8 @@ Ein Gesetzentwurf schuldet seinen Lesern dreierlei: die Belege für seine
 Prämisse, die Belege dagegen und die Zahlen, deren Verwendung er
 verweigert. Diese Seite enthält alle drei. Jede Zahl wurde an der Quelle
 geprüft, nicht aus Kommentaren übernommen; zusammengestellt am 18. August
-2026, Korrekturen per Pull Request willkommen.
+2026, erweitert am 19. August 2026, Korrekturen per Pull Request
+willkommen.
 
 Die Prämisse der Verordnung steht in ihren eigenen Erwägungsgründen und
 wird von ihrem eigenen Artikel 14 getestet: Hyperautomatisierte Produktion
@@ -222,6 +223,54 @@ darunter einige, die uns geholfen hätten.
 - **Die IKT-Vakanzdaten von Eurostat enden mit 2025-Q4,** während Preis-
   und Beschäftigungsreihen bis in das Jahr 2026 laufen; die Reihen sind
   zeitlich nicht bündig.
+
+## 7. Der lange Horizont
+
+Die Reserve ist als Instrument für einen Horizont gebaut, den die
+Politik selten belohnt; deshalb sagt diese Seite unumwunden, was fünfzig Jahre
+leisten und was nicht.
+
+- **Alaska zahlt jeder Einwohnerin und jedem Einwohner seit 44 Jahren
+  in Folge eine Dividende.** Der Permanent Fund hält über 86 Mrd. USD
+  für rund 740 000 Einwohner, etwa 116 000 USD Fondskapital je
+  Einwohner; wer jede Dividende von 1982 bis 2016 bezog, erhielt
+  insgesamt 37 027 USD. *Alaska Permanent Fund Corporation; Alaska
+  Department of Revenue, Dividendentabelle.* Kein Gesetzgeber hat in
+  einem halben Jahrhundert den Vermögensstamm angetastet, weil jede
+  Bürgerin und jeder Bürger einen Grund hatte, ihn zu verteidigen.
+- **Alaska zeigt auch den Fehlermodus.** Seit 2016 wird die Dividende
+  in jährlichen politischen Aushandlungen festgesetzt; die gesetzliche Formel
+  steht weiter im Gesetz und wird schlicht nicht befolgt, und die
+  Dividende von 1 000 USD im Jahr 2025 ist, inflationsbereinigt, die
+  kleinste der Programmgeschichte. Eine Ausschüttungsregel in einem
+  einfachen Gesetz lässt sich in Haushaltskämpfen leicht vereinnahmen. Deshalb
+  steht die Regel hier in Anhang II der Verordnung selbst, deshalb ist
+  der Anspruch im verfügenden Teil verankert, und deshalb berichtet die
+  Kommission über die Formel, statt sie festzusetzen.
+- **Die KI-Wertprognosen bleiben außerhalb der Prämisse.** PwC
+  beziffert künstliche Intelligenz auf 15,7 Billionen USD Weltprodukt
+  bis 2030; Goldman Sachs auf rund 7 Billionen USD über ein Jahrzehnt;
+  McKinsey auf 2,6 bis 4,4 Billionen USD pro Jahr. Es sind Prognosen
+  eines Mechanismus, mit Fehlermargen, die in Billionen gemessen
+  werden, und die Disziplin von Abschnitt 5 gilt: diese Verordnung
+  ruht nicht auf ihnen. Sie erscheinen an genau einer Stelle, als
+  ausgewiesene Szenario-Eingaben des öffentlichen Simulators, neben einer
+  Skeptiker-Einstellung, die fast nichts annimmt.
+- **Was die Arithmetik des Anhangs II aus fünfzig Jahren macht.**
+  Vorsichtig eingestellt (150 Mrd. EUR erfasster Umsatz
+  benannter Unternehmen, reale
+  Renditen norwegischer Klasse) erreicht die zentrale Kurve des
+  Simulators im fünfzigsten Jahr einen Anteil von rund 1 200 EUR
+  Reservekapital je Bürgerin und eine Dividende von rund 47 EUR im
+  Jahr; eingestellt auf die obigen Prognosen rund 10 000 EUR und
+  370 EUR, in konstanten Euro von 2026: ein Fonds von der
+  Größenordnung, die die norwegische Regel aufgebaut hat. Beide Kurven
+  sind in ihrem ersten Jahrzehnt von null nicht zu unterscheiden. Das
+  ist das Prinzip: Anhang II erhält Kapital, bevor er ausschüttet, und
+  der Anteil verzinst sich, während die Auszahlung wartet. Bleiben
+  beide Kurven aus, verpflichtet Artikel 14 Absatz 3 die Kommission,
+  über das Scheitern der Prämisse zu berichten und Änderung oder
+  Aufhebung vorzuschlagen.
 
 ---
 

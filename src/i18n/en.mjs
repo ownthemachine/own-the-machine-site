@@ -93,7 +93,7 @@ export default {
   },
   simulator: {
     title: 'The dividend, honestly', eyebrow: 'The simulator · ranges, not promises',
-    description: 'What the Reserve would plausibly mean per citizen, over thirty years, with every uncertainty labelled.',
+    description: 'What the Reserve would plausibly mean per citizen, over fifty years, with every uncertainty labelled.',
     intro: 'The answer is a curve, never a number. Distributions begin small, because the Reserve preserves its capital before it distributes, by law (<a href="%ANNEX2%">Annex II</a>), and grow as warrants crystallise and returns compound. Every input below carries its uncertainty; the band shows the pessimistic-to-optimistic range, and the sceptic button sets every input against us.',
     revLabel: 'Automated revenue reaching the thresholds (EUR bn/yr, by year 5)',
     revNote: 'Nobody knows this number. It depends on how fast hyper-automated firms cross the Article 3 thresholds; the range spans scepticism to boom.',
@@ -104,10 +104,13 @@ export default {
     growthLabel: 'Growth of covered activity after the first wave (%/yr)',
     growthNote: 'New firms keep crossing the Article 3 thresholds and covered firms keep growing. Zero would mean no firm ever qualifies again.',
     sceptic: 'Assume little', reset: 'Reset',
-    chartLabel: 'Projected distribution per citizen per year, 30-year horizon, with uncertainty band',
+    chartLabel: 'Projected distribution per citizen per year, 50-year horizon, with uncertainty band',
     axisLabel: 'EUR per citizen per year, constant 2026 euros',
     sentence: 'Under these assumptions, a citizen receives roughly EUR %LOW% to %HIGH% per year by %YEAR%, rising as the Reserve compounds. The early years hug zero on purpose: the Reserve preserves capital before it distributes, by law.',
     stakeSentence: 'Behind that payout stands the stake: roughly EUR %SLOW% to %SHIGH% of Reserve capital per citizen by %YEAR%, compounding.',
+    forecast: 'If the AI forecasts are right',
+    generationSentence: 'A citizen born at entry into force turns fifty in %YEAR% holding a stake of EUR %SLOW% to %SHIGH% in the Reserve and receiving EUR %DLOW% to %DHIGH% that year, in constant 2026 euros.',
+    disclaimer: 'Ranges, not promises. The forecast button applies published projections of AI value (PwC, Goldman Sachs, McKinsey) whose error bars are measured in trillions; they are scenario inputs here, never the law\'s premise, and the sceptic button stays one click away. If the phenomenon stays small, the dividend stays small, and Article 14(3) obliges the Commission to report exactly that and propose amendment or repeal.',
     assumptionsHead: 'Every assumption in this model',
     assumptions: [
       '3 % of designated firm value enters the Reserve at each firm’s first liquidity event (fixed by Article 5(2)); firm value is taken as ten times covered revenue, a deliberate round number.',

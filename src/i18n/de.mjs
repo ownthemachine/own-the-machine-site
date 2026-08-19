@@ -94,7 +94,7 @@ export default {
   },
   simulator: {
     title: 'Die Dividende, ehrlich gerechnet', eyebrow: 'Der Simulator · Spannen, keine Versprechen',
-    description: 'Was die Reserve pro Bürgerin und Bürger plausibel bedeuten würde, über dreißig Jahre, jede Unsicherheit benannt.',
+    description: 'Was die Reserve pro Bürgerin und Bürger plausibel bedeuten würde, über fünfzig Jahre, jede Unsicherheit benannt.',
     intro: 'Die Antwort ist eine Kurve, nie eine Zahl. Ausschüttungen beginnen klein, weil die Reserve ihr Kapital erhält, bevor sie ausschüttet, per Gesetz (<a href="%ANNEX2%">Anhang II</a>), und wachsen, während Warrants sich realisieren und Erträge sich verzinsen. Jede Eingabe unten ist mit Unsicherheit behaftet; das Band zeigt die Spanne von pessimistisch bis optimistisch, und die Skeptiker-Einstellung wählt für jede Eingabe das ungünstigste Szenario.',
     revLabel: 'Automatisierter Umsatz, der die Schwellen erreicht (Mrd. EUR/Jahr, bis Jahr 5)',
     revNote: 'Niemand kennt diese Zahl. Sie hängt davon ab, wie schnell hyperautomatisierte Unternehmen die Schwellen des Artikels 3 überschreiten; die Spanne reicht von Skepsis bis Boom.',
@@ -105,10 +105,13 @@ export default {
     growthLabel: 'Wachstum der erfassten Aktivität nach der ersten Welle (%/Jahr)',
     growthNote: 'Neue Unternehmen überschreiten weiterhin die Schwellen des Artikels 3, und erfasste Unternehmen wachsen weiter. Null hieße, dass nie wieder ein Unternehmen die Kriterien erfüllt.',
     sceptic: 'Konservative Annahmen', reset: 'Zurücksetzen',
-    chartLabel: 'Prognostizierte Ausschüttung pro Person und Jahr, Horizont 30 Jahre, mit Unsicherheitsband',
+    chartLabel: 'Prognostizierte Ausschüttung pro Person und Jahr, Horizont 50 Jahre, mit Unsicherheitsband',
     axisLabel: 'EUR pro Person und Jahr, in konstanten Euro von 2026',
     sentence: 'Unter diesen Annahmen erhält eine Bürgerin oder ein Bürger bis %YEAR% grob %LOW% bis %HIGH% EUR pro Jahr, steigend, während die Reserve sich verzinst. Die ersten Jahre liegen mit Absicht nahe null: Die Reserve erhält Kapital, bevor sie ausschüttet, per Gesetz.',
     stakeSentence: 'Hinter der Auszahlung steht der Anteil: bis %YEAR% rund %SLOW% bis %SHIGH% EUR Reservekapital je Bürgerin und Bürger, mit Zinseszins.',
+    forecast: 'Wenn die KI-Prognosen stimmen',
+    generationSentence: 'Wer bei Inkrafttreten geboren wird, wird %YEAR% fünfzig, mit einem Anteil von %SLOW% bis %SHIGH% EUR an der Reserve und einer Ausschüttung von %DLOW% bis %DHIGH% EUR in jenem Jahr, in konstanten Euro von 2026.',
+    disclaimer: 'Spannen, keine Versprechen. Die Prognose-Schaltfläche wendet veröffentlichte Projektionen des KI-Werts an (PwC, Goldman Sachs, McKinsey), deren Fehlermargen in Billionen gemessen werden; sie sind hier Szenario-Eingaben, nie die Prämisse des Gesetzes, und die Skeptiker-Schaltfläche bleibt einen Klick entfernt. Bleibt das Phänomen klein, bleibt die Dividende klein, und Artikel 14 Absatz 3 verpflichtet die Kommission, genau darüber zu berichten und Änderung oder Aufhebung vorzuschlagen.',
     assumptionsHead: 'Jede Annahme dieses Modells',
     assumptions: [
       '3 % des Werts eines benannten Unternehmens fließen beim ersten Liquiditätsereignis dieses Unternehmens in die Reserve (festgelegt in Artikel 5 Absatz 2); der Unternehmenswert ist mit dem Zehnfachen des erfassten Umsatzes angesetzt, eine bewusst runde Zahl.',

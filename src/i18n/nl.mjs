@@ -93,7 +93,7 @@ export default {
   },
   simulator: {
     title: 'Eerlijk over het dividend', eyebrow: 'De simulator · marges, geen beloften',
-    description: 'Wat de Reserve per burger aannemelijk zou betekenen, over dertig jaar, met elke onzekerheid benoemd.',
+    description: 'Wat de Reserve per burger aannemelijk zou betekenen, over vijftig jaar, met elke onzekerheid benoemd.',
     intro: 'Het antwoord is een curve, nooit een getal. Uitkeringen beginnen klein, omdat de Reserve haar kapitaal beschermt voordat zij uitkeert, bij wet (<a href="%ANNEX2%">bijlage II</a>), en groeien naarmate warrants worden verzilverd en rendementen aangroeien. Elke invoerwaarde hieronder kent haar onzekerheidsmarge; de band toont de marge van pessimistisch tot optimistisch, en de knop ‘Behoudend scenario’ zet elke invoerwaarde op de voor ons ongunstigste stand.',
     revLabel: 'Geautomatiseerde omzet die de drempels bereikt (EUR mld/jaar, tegen jaar 5)',
     revNote: 'Niemand kent dit getal. Het hangt af van hoe snel hypergeautomatiseerde bedrijven de drempels van artikel 3 passeren; de marge loopt van scepsis tot hoogconjunctuur.',
@@ -104,10 +104,13 @@ export default {
     growthLabel: 'Groei van de gedekte activiteit na de eerste golf (%/jaar)',
     growthNote: 'Nieuwe bedrijven blijven de drempels van artikel 3 passeren en gedekte bedrijven blijven groeien. Nul zou betekenen dat nooit nog een bedrijf in aanmerking komt.',
     sceptic: 'Behoudend scenario', reset: 'Opnieuw instellen',
-    chartLabel: 'Verwachte uitkering per burger per jaar, horizon 30 jaar, met onzekerheidsband',
+    chartLabel: 'Verwachte uitkering per burger per jaar, horizon 50 jaar, met onzekerheidsband',
     axisLabel: 'EUR per burger per jaar, constante euro’s van 2026',
     sentence: 'Onder deze aannames ontvangt een burger tegen %YEAR% ruwweg EUR %LOW% tot %HIGH% per jaar, oplopend naarmate de Reserve aangroeit. De eerste jaren schuren bewust langs de nul: de Reserve beschermt kapitaal voordat zij uitkeert, bij wet.',
     stakeSentence: 'Achter die uitkering staat het belang: tegen %YEAR% ruwweg EUR %SLOW% tot %SHIGH% aan Reservekapitaal per burger, en het groeit aan.',
+    forecast: 'Als de AI-prognoses kloppen',
+    generationSentence: 'Een burger geboren bij inwerkingtreding wordt vijftig in %YEAR%, heeft dan een belang van EUR %SLOW% tot %SHIGH% in de Reserve en ontvangt dat jaar EUR %DLOW% tot %DHIGH%, in constante euro\'s van 2026.',
+    disclaimer: 'Bandbreedtes, geen beloften. De prognoseknop past gepubliceerde ramingen van AI-waarde toe (PwC, Goldman Sachs, McKinsey), met foutmarges die in biljoenen worden gemeten; zij zijn hier scenario-invoer, nooit de premisse van de wet, en de scepticusknop blijft één klik verwijderd. Blijft het verschijnsel klein, dan blijft het dividend klein, en verplicht artikel 14, lid 3, de Commissie precies dat te rapporteren en wijziging of intrekking voor te stellen.',
     assumptionsHead: 'Elke aanname in dit model',
     assumptions: [
       '3 % van de waarde van een aangewezen bedrijf komt in de Reserve bij de eerste liquiditeitsgebeurtenis van dat bedrijf (vastgelegd in artikel 5, lid 2); de bedrijfswaarde is gesteld op tien keer de gedekte omzet, een bewust rond getal.',

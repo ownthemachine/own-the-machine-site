@@ -1,6 +1,6 @@
 ---
 source: regulation/memorandum/counter-arguments.md
-source-commit: 97206ad
+source-commit: 11757cc
 status: gate-reviewed
 ---
 

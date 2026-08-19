@@ -4,7 +4,7 @@ import { dict, fmt, href } from '../../lib/i18n.mjs';
 interface Props { lang: string }
 const { lang } = Astro.props;
 const t = dict(lang);
-const simI18n = JSON.stringify({ lang, sentence: t.simulator.sentence, stakeSentence: t.simulator.stakeSentence, axisLabel: t.simulator.axisLabel });
+const simI18n = JSON.stringify({ lang, sentence: t.simulator.sentence, stakeSentence: t.simulator.stakeSentence, generationSentence: t.simulator.generationSentence, axisLabel: t.simulator.axisLabel });
 ---
 <Base title={t.simulator.title} lang={lang} description={t.simulator.description}>
   <p class="eyebrow">{t.simulator.eyebrow}</p>
@@ -14,7 +14,7 @@ const simI18n = JSON.stringify({ lang, sentence: t.simulator.sentence, stakeSent
   <form id="sim" class="controls no-print">
     <div class="field">
       <label for="rev">{t.simulator.revLabel}</label>
-      <input type="range" id="rev" min="50" max="400" step="10" value="150" />
+      <input type="range" id="rev" min="50" max="600" step="10" value="150" />
       <output for="rev" id="rev-out">150</output>
       <p class="note">{t.simulator.revNote}</p>
     </div>
@@ -38,14 +38,19 @@ const simI18n = JSON.stringify({ lang, sentence: t.simulator.sentence, stakeSent
     </div>
     <div class="actions">
       <button type="button" id="sceptic" class="btn">{t.simulator.sceptic}</button>
+      <button type="button" id="forecast" class="btn">{t.simulator.forecast}</button>
       <button type="button" id="reset" class="btn">{t.simulator.reset}</button>
     </div>
   </form>
 
   <figure class="chart">
     <svg id="curve" viewBox="0 0 720 300" role="img" aria-label={t.simulator.chartLabel}></svg>
-    <figcaption id="sentence" class="sentence" aria-live="polite"></figcaption>
+    <figcaption class="sentence" aria-live="polite">
+      <span id="sentence"></span>
+      <span id="generation" class="generation"></span>
+    </figcaption>
   </figure>
+  <p class="disclaimer">{t.simulator.disclaimer}</p>
 
   <details class="prose">
     <summary>{t.simulator.assumptionsHead}</summary>
@@ -70,6 +75,8 @@ const simI18n = JSON.stringify({ lang, sentence: t.simulator.sentence, stakeSent
   .chart { border: 1px solid var(--guilloche); background: var(--card); padding: 1rem; margin-bottom: 1.4rem; }
   .chart svg { width: 100%; height: auto; display: block; }
   .sentence { font-family: var(--read); font-size: 1.02rem; padding: 0.8rem 0.2rem 0.2rem; }
+  .generation { display: block; margin-top: 0.5rem; color: var(--seal-gold); }
+  .disclaimer { font-size: 0.82rem; color: var(--ink-soft); border-left: 2px solid var(--guilloche); padding-left: 0.8rem; margin: 0 0 1.4rem; }
   details { margin-top: 1rem; }
   summary { cursor: pointer; }
 </style>

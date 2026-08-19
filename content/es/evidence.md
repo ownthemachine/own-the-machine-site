@@ -1,6 +1,6 @@
 ---
 source: evidence/EVIDENCE.md
-source-commit: 97206ad
+source-commit: 11757cc
 status: gate-reviewed
 ---
 
@@ -9,8 +9,8 @@ status: gate-reviewed
 Un proyecto legislativo debe a sus lectores tres cosas: la evidencia a favor de
 su premisa, la evidencia en contra y las cifras que se niega a usar. Esta
 página contiene las tres. Cada cifra fue verificada en la fuente, no tomada
-de comentarios ajenos; el conjunto se reunió el 18 de agosto de 2026, y las
-correcciones son bienvenidas mediante pull request.
+de comentarios ajenos; el conjunto se reunió el 18 de agosto de 2026 y se amplió el 19 de
+agosto de 2026; las correcciones son bienvenidas mediante pull request.
 
 La premisa del Reglamento se enuncia en sus propios considerandos y se
 somete a prueba en su propio artículo 14: la producción hiperautomatizada
@@ -220,6 +220,53 @@ algunas que nos habrían ayudado.
 - **Los datos de vacantes TIC de Eurostat se detienen en 2025-T4** mientras
   las series de precios y empleo llegan a 2026; los periodos no están
   alineados en el tiempo.
+
+## 7. El horizonte largo
+
+La Reserva es un instrumento construido para un horizonte que la
+política rara vez premia; por eso esta página dice sin rodeos lo que
+hacen cincuenta años, y lo que no.
+
+- **Alaska paga un dividendo a cada residente desde hace 44 años
+  consecutivos.** El Permanent Fund posee más de 86 000 millones de
+  USD para unos 740 000 residentes, cerca de 116 000 USD de capital
+  del fondo por residente; quien cobró cada dividendo de 1982 a 2016
+  recibió 37 027 USD en total. *Alaska Permanent Fund Corporation;
+  Alaska Department of Revenue, tabla de dividendos.* Ningún
+  legislador ha tocado el principal en medio siglo, porque cada
+  ciudadano tenía una razón para defenderlo.
+- **Alaska muestra también el modo de fallo.** Desde 2016 el dividendo
+  se fija en el regateo político anual; la fórmula legal sigue en la
+  ley y sencillamente no se aplica, y el dividendo de 1 000 USD de
+  2025 es, corregido por inflación, el más pequeño de la historia del
+  programa. Una regla de reparto en una ley ordinaria puede verse capturada
+  en una batalla presupuestaria. Por eso la regla está aquí en el anexo
+  II del propio Reglamento, por eso el derecho figura en la
+  parte dispositiva, y por eso la Comisión informa sobre la fórmula en lugar
+  de fijarla.
+- **Las previsiones del valor de la IA quedan fuera de la premisa.**
+  PwC cifra la inteligencia artificial en 15,7 billones de USD de
+  producto mundial para 2030; Goldman Sachs en unos 7 billones de USD
+  en una década; McKinsey en 2,6 a 4,4 billones de USD al año. Son
+  previsiones de un mecanismo, con márgenes de error que se miden en
+  billones, y rige la disciplina de la sección 5: este Reglamento no
+  descansa sobre ellas. Aparecen en un solo lugar, como entradas de
+  escenario rotuladas del simulador público, junto a un ajuste
+  escéptico que no supone casi nada.
+- **Lo que la aritmética del anexo II hace con cincuenta años.**
+  Ajustada con prudencia (150 000 millones de EUR de facturación
+  designada, rendimientos reales comparables a los de Noruega), la curva central
+  del simulador alcanza hacia el año cincuenta una participación de
+  unos 1 200 EUR de capital de la Reserva por ciudadano y un dividendo
+  de unos 47 EUR al año; ajustada a las previsiones anteriores, unos
+  10 000 EUR y 370 EUR, en euros constantes de 2026: un fondo de la
+  escala que construyó la regla noruega. Ambas curvas pasan su primera
+  década indistinguibles de cero. Ese es el diseño: el anexo II
+  preserva el capital antes de repartir, y la participación se
+  capitaliza mientras el reparto espera. Si ninguna curva se
+  materializa, el artículo 14, apartado 3, obliga a la Comisión a
+  constatar que la premisa no se cumplió y a proponer su modificación
+  o derogación.
 
 ---
 
