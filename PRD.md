@@ -231,15 +231,17 @@ pattern is the honest one to copy.
   English is the authoritative version of every legal or normative
   page, declared on the page (the Stop Killing Games model, 1,29
   million signatures with three site languages).
-- **The other 20 languages** ship machine-translated behind the
-  explicit banner, via the Commission's own eTranslation service:
-  free, official-grade, API-accessible to EU SMEs and NGOs. Action,
-  human-gated: register for eTranslation via EU Login as the legal
-  vehicle (Exad CommV now; the initiative's own vehicle later).
-  Languages promote from MT to human-verified one at a time as
-  volunteers arrive; verification status is tracked per page in the
-  repo so a language can be partially human with per-page banners,
-  exactly the Commission's model.
+- **The other 20 languages** ship machine-drafted behind the explicit
+  banner, produced by the SAME translate-then-gate pipeline as the
+  launch languages, minus the native read. One pipeline for
+  everything: the project openly drafts with AI under an editor's
+  responsibility, and its translations follow the same method with
+  the same committed review verdicts, rather than borrowing the
+  Commission's eTranslation service for optics. eTranslation (free
+  for EU SMEs and NGOs) is an optional cross-check inside the gate
+  for official EU terminology, nothing more. Languages promote from
+  machine-drafted to gate-reviewed to native-verified per page, with
+  status tracked in the repo and shown in the page banner.
 - **The draft Regulation itself is not hand-translated into 24
   languages.** On registration the Commission translates the title,
   objectives and annex into all 24 for free (Regulation 2019/788,
