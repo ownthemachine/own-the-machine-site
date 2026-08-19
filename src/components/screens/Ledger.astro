@@ -18,10 +18,10 @@ const gateNames = t.ledger.gates;
     <p>{t.ledger.intro2}</p>
     <p>{t.ledger.intro3}</p>
   </div>
-  <LangBanner lang={lang} kind="enOnly" />
+  <LangBanner lang={lang} kind="recordsEnglish" />
 
   <div class="withtoc">
-  <OnPage toc={law.ledger.map((e) => ({
+  <OnPage lang={lang} toc={law.ledger.map((e) => ({
     id: e.file.replace('.md', ''),
     text: `${gateNames[e.gate] || e.gate} · ${e.date}`,
   }))} />

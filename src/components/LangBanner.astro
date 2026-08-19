@@ -2,7 +2,7 @@
 // The honesty banner: says exactly what the reader is looking at when a
 // page is not (or not fully, or not freshly) in their language.
 import { dict } from '../lib/i18n.mjs';
-interface Props { lang: string; doc?: any; kind?: 'lawEnglish' | 'pageMachine' | 'enOnly' }
+interface Props { lang: string; doc?: any; kind?: 'lawEnglish' | 'pageMachine' | 'enOnly' | 'recordsEnglish' }
 const { lang, doc, kind } = Astro.props;
 const t = dict(lang).banner;
 // Explicit kind wins; otherwise derive from the localised doc's state.

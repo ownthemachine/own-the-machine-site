@@ -22,6 +22,7 @@ export default {
     lawEnglish: 'El texto inglés es el proyecto. Esta página muestra el texto inglés auténtico; las traducciones del texto jurídico sirven solo para su comprensión.',
     pageMachine: 'Esta página fue traducida y revisada por la cadena abierta del proyecto; una persona nativa aún no la ha verificado. ¿Ha encontrado un error? Abra una incidencia.',
     enOnly: 'Esta página aún no está disponible en español; a continuación figura el original en inglés.',
+    recordsEnglish: 'Las revisiones se realizan en inglés y las siguientes entradas citan los registros en su idioma original; el resto de esta página está traducido.',
     stale: 'El original inglés ha cambiado desde que se hizo esta traducción; puede haber diferencias hasta que se actualice.',
     pageVerified: 'Esta traducción ha sido verificada por una persona nativa.',
   },

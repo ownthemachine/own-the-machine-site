@@ -2,23 +2,25 @@
 // "On this page" navigation for long texts: the EUR-Lex / ECL pattern.
 // Sticky sidebar on wide screens, a collapsed list on small ones. Pure
 // HTML and CSS; the page decides where the two renderings sit.
-interface Props { toc: { id: string; text: string; children?: { id: string; text: string }[] }[] }
-const { toc } = Astro.props;
+import { dict } from '../lib/i18n.mjs';
+interface Props { lang: string; toc: { id: string; text: string; children?: { id: string; text: string }[] }[] }
+const { lang, toc } = Astro.props;
+const t = dict(lang).chrome;
 ---
 {toc.length > 2 && (
   <>
     <details class="onpage-mobile no-print">
-      <summary>On this page</summary>
+      <summary>{t.onThisPage}</summary>
       <ol>{toc.map((t) => <li><a href={`#${t.id}`}>{t.text}</a>
         {t.children && t.children.length > 0 && <ol>{t.children.map((c) => <li><a href={`#${c.id}`}>{c.text}</a></li>)}</ol>}
       </li>)}</ol>
     </details>
-    <nav class="onpage-side no-print" aria-label="On this page">
-      <p class="eyebrow">On this page</p>
+    <nav class="onpage-side no-print" aria-label={t.onThisPage}>
+      <p class="eyebrow">{t.onThisPage}</p>
       <ol>{toc.map((t) => <li><a href={`#${t.id}`}>{t.text}</a>
         {t.children && t.children.length > 0 && <ol>{t.children.map((c) => <li><a href={`#${c.id}`}>{c.text}</a></li>)}</ol>}
       </li>)}</ol>
-      <p class="top"><a href="#main">Back to top</a></p>
+      <p class="top"><a href="#main">{t.backToTop}</a></p>
     </nav>
   </>
 )}
