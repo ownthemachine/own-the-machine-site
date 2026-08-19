@@ -29,7 +29,7 @@ fix-agent reports archived with the session.
 # Review
 
 > Reviewer: OpenRouter `google/gemini-3.7-flash` · 2026-08-19T09:50:38+00:00 · tokens in=16987 out=8019
-> Prompt: /Users/dave/.claude/jobs/44518f3c/tmp/site/translations/REVIEW-PROMPT.md · Verbatim model output below — do not edit.
+> Prompt: translations/REVIEW-PROMPT.md · Verbatim model output below — do not edit.
 
 ### 1. `E.12 / The answer`
 - **Severity**: SHOULD-FIX
@@ -92,7 +92,7 @@ VERDICT: REVISE
 # Review
 
 > Reviewer: OpenRouter `google/gemini-3.7-flash` · 2026-08-19T09:50:14+00:00 · tokens in=13372 out=4038
-> Prompt: /Users/dave/.claude/jobs/44518f3c/tmp/site/translations/REVIEW-PROMPT.md · Verbatim model output below — do not edit.
+> Prompt: translations/REVIEW-PROMPT.md · Verbatim model output below — do not edit.
 
 ### severability
 
@@ -160,7 +160,7 @@ VERDICT: REVISE
 # Review
 
 > Reviewer: OpenRouter `google/gemini-3.7-flash` · 2026-08-19T09:56:52+00:00 · tokens in=13116 out=3122
-> Prompt: /Users/dave/.claude/jobs/44518f3c/tmp/site/translations/NATIVE-EAR-PROMPT.md · Verbatim model output below — do not edit.
+> Prompt: translations/NATIVE-EAR-PROMPT.md · Verbatim model output below — do not edit.
 
 ### Findings
 
