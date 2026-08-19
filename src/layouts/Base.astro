@@ -31,6 +31,11 @@ const path = Astro.url.pathname;
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta name="color-scheme" content="light dark" />
+    <script is:inline>
+      try { var t = localStorage.getItem('theme');
+        if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t;
+      } catch (e) {}
+    </script>
   </head>
   <body>
     <a class="skip" href="#main">Skip to content</a>
@@ -40,9 +45,24 @@ const path = Astro.url.pathname;
         {nav.map(([href, label]) => (
           <a href={href} aria-current={path === href || (href !== '/law' && path.startsWith(href + '/')) || (href === '/law' && (path === '/law' || (path.startsWith('/law/') && !['/law/objections','/law/ledger'].some(p => path.startsWith(p))))) ? 'page' : undefined}>{label}</a>
         ))}
+        <button id="theme-toggle" type="button" aria-label="Switch between paper and plate (light and dark)" title="Paper / plate">◐</button>
       </div>
     </nav>
     <main id="main"><slot /></main>
+    <script is:inline>
+      (function () {
+        var b = document.getElementById('theme-toggle');
+        if (!b) return;
+        b.addEventListener('click', function () {
+          var cur = document.documentElement.dataset.theme || '';
+          var sysDark = matchMedia('(prefers-color-scheme: dark)').matches;
+          var next = cur === 'dark' ? 'light' : cur === 'light' ? 'dark'
+                   : (sysDark ? 'light' : 'dark');
+          document.documentElement.dataset.theme = next;
+          try { localStorage.setItem('theme', next); } catch (e) {}
+        });
+      })();
+    </script>
     <footer>
       <hr class="rule-fine" />
       <div class="foot-inner">
@@ -71,6 +91,12 @@ const path = Astro.url.pathname;
   .links { display: flex; gap: clamp(0.7rem, 2vw, 1.4rem); flex-wrap: wrap; }
   .links a { font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; text-decoration: none; }
   .links a[aria-current="page"] { color: var(--seal-gold); }
+  #theme-toggle {
+    background: none; border: 1px solid var(--guilloche); color: var(--ink);
+    font-size: 0.85rem; line-height: 1; padding: 0.25rem 0.45rem; cursor: pointer;
+    border-radius: 50%;
+  }
+  #theme-toggle:hover { border-color: var(--seal-gold); color: var(--seal-gold); }
   main { padding: clamp(1.5rem, 4vw, 3rem); max-width: 72rem; margin: 0 auto; }
   footer { padding: 1.5rem clamp(1rem, 4vw, 3rem) 2.5rem; }
   .foot-inner { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; padding-top: 0.9rem; }
