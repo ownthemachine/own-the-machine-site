@@ -75,9 +75,21 @@ const annexes = readdirSync(annexDir).filter((f) => f.endsWith('.md')).sort().ma
   };
 });
 
+// Mentions of repo files in prose become links to the repository, so a
+// site reader lands on the real file instead of a dead relative path.
+const REPO = 'https://github.com/ownthemachine/own-the-machine/blob/main';
+const KNOWN = { 'EUROPE.md': 'campaign/EUROPE.md', 'GATES.md': 'campaign/GATES.md',
+  'GOVERNANCE.md': 'GOVERNANCE.md', 'CONTRIBUTING.md': 'CONTRIBUTING.md' };
+const linkRepoPaths = (html) => html.replace(
+  new RegExp('(^|[\\s(])((?:[a-z][a-z0-9-]*/)*[A-Za-z0-9_.-]+[.]md)(?=[\\s,.)<]|$)', 'g'),
+  (m, pre, path) => {
+    const target = path.includes('/') ? path : (KNOWN[path] || null);
+    return target ? pre + '<a href="' + REPO + '/' + target + '">' + path + '</a>' : m;
+  });
+
 // ---- memorandum: objections + severability --------------------------
-const objections = marked.parse(read('regulation/memorandum/counter-arguments.md'));
-const severability = marked.parse(read('regulation/memorandum/severability.md'));
+const objections = linkRepoPaths(marked.parse(read('regulation/memorandum/counter-arguments.md')));
+const severability = linkRepoPaths(marked.parse(read('regulation/memorandum/severability.md')));
 
 // ---- ledger: review files with front matter -------------------------
 const revDir = join(LAW, 'pipeline', 'reviews');
@@ -104,7 +116,7 @@ const ledger = readdirSync(revDir).filter((f) => f.endsWith('.md')).sort().rever
 
 // ---- evidence -------------------------------------------------------
 let evidence = '';
-try { evidence = marked.parse(read('campaign/EUROPE.md')); } catch { /* optional */ }
+try { evidence = linkRepoPaths(marked.parse(read('campaign/EUROPE.md'))); } catch { /* optional */ }
 
 // ---- structure ------------------------------------------------------
 const structure = marked.parse(stripNotes(read('regulation/STRUCTURE.md')).replace(/^# .+$/m, '').trim());
