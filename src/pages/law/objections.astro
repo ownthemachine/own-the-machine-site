@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import law from '../../generated/law.json';
+import OnPage from '../../components/OnPage.astro';
 ---
 <Base title="The objections" description="Fourteen objections to the draft, published at full strength, each with its design consequences.">
   <p class="eyebrow">Memorandum · the honesty surface</p>
@@ -14,7 +15,10 @@ import law from '../../generated/law.json';
     campaign's credibility strategy, not its confession: read it first,
     then read <a href="/law">the law it produced</a>.
   </p>
-  <div class="prose objections" set:html={law.objections} />
+  <div class="withtoc">
+    <OnPage toc={law.objections.toc} />
+    <div class="prose objections" set:html={law.objections.html} />
+  </div>
 </Base>
 
 <style>
