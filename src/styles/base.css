@@ -105,7 +105,9 @@ h1, h2, h3 { font-family: var(--display); font-weight: 600; line-height: 1.2; te
 .withtoc { display: block; }
 @media (min-width: 1100px) {
   .withtoc { display: grid; grid-template-columns: minmax(0, 1fr) 15rem; gap: 2.5rem; }
-  .withtoc > .prose { order: -1; }
+  /* content left, contents list right, whatever the content element is */
+  .withtoc > * { grid-column: 1; }
+  .withtoc > .onpage-side { grid-column: 2; grid-row: 1 / span 9; }
 }
 
 @media (max-width: 600px) {
