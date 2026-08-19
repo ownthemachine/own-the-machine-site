@@ -97,3 +97,17 @@ publishes, not hides.
 No revenue projections for named companies. No comparison with welfare
 or tax systems. No national breakdowns (the entitlement is equal across
 the Union). No blockchain anything.
+
+## The long horizon (19 August 2026)
+
+The horizon is fifty years, because a capital-preserving fund is
+misdescribed by its first three decades: at the defaults, the year-20
+dividend range is EUR 1.2 to 7.4 while the year-50 range reaches
+EUR 47 a year with a stake of roughly EUR 1,200 per citizen (central).
+Three presets: the sceptic (assume little), the defaults, and the
+forecast button, which maps PwC / Goldman Sachs / McKinsey-class AI
+value projections to EUR 600 bn of designated revenue with 8 % growth;
+the disclaimer beside the chart names the sources and their error bars
+and restates Article 14(3). The generation line renders the fifty-year
+stake and payout together, per DC-31; evidence/EVIDENCE.md section 7
+carries the Alaska and Norway precedents behind the presentation.

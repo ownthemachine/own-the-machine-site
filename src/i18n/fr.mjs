@@ -93,7 +93,7 @@ export default {
   },
   simulator: {
     title: 'Le dividende, honnêtement', eyebrow: 'Le simulateur · des fourchettes, pas des promesses',
-    description: 'Ce que la Réserve signifierait vraisemblablement par citoyen, sur trente ans, chaque incertitude étiquetée.',
+    description: 'Ce que la Réserve signifierait vraisemblablement par citoyen, sur cinquante ans, chaque incertitude étiquetée.',
     intro: 'La réponse est une courbe, jamais un chiffre. Les distributions commencent modestement, parce que la Réserve préserve son capital avant de distribuer, par la loi (<a href="%ANNEX2%">annexe II</a>), et croissent à mesure que les warrants se cristallisent et que les rendements se capitalisent. Chaque paramètre ci-dessous porte son incertitude ; la bande montre la fourchette du pessimiste à l’optimiste, et le bouton sceptique règle chaque paramètre contre nous.',
     revLabel: 'Chiffre d’affaires automatisé atteignant les seuils (Mrd EUR/an, à l’an 5)',
     revNote: 'Personne ne connaît ce chiffre. Il dépend de la vitesse à laquelle les entreprises hyperautomatisées franchissent les seuils de l’article 3 ; la fourchette va du scepticisme à l’essor.',
@@ -104,10 +104,13 @@ export default {
     growthLabel: "Croissance de l'activité couverte après la première vague (%/an)",
     growthNote: "De nouvelles entreprises continuent de franchir les seuils de l'article 3 et les entreprises couvertes continuent de croître. Zéro signifierait que plus aucune entreprise ne se qualifie jamais.",
     sceptic: 'Scénario prudent', reset: 'Réinitialiser',
-    chartLabel: 'Distribution projetée par citoyen et par an, horizon de 30 ans, avec bande d’incertitude',
+    chartLabel: 'Distribution projetée par citoyen et par an, horizon de 50 ans, avec bande d’incertitude',
     axisLabel: 'EUR par citoyen et par an, en euros constants de 2026',
     sentence: 'Sous ces hypothèses, un citoyen reçoit environ %LOW% à %HIGH% EUR par an d’ici %YEAR%, en hausse à mesure que la Réserve capitalise. Les premières années frôlent zéro à dessein : la Réserve préserve le capital avant de distribuer, par la loi.',
     stakeSentence: 'Derrière ce versement se trouve la part : vers %YEAR%, environ %SLOW% à %SHIGH% EUR de capital de la Réserve par citoyen, en capitalisation.',
+    forecast: 'Si les prévisions sur l\'IA sont justes',
+    generationSentence: 'Un citoyen né à l\'entrée en vigueur a cinquante ans en %YEAR%, avec une part de %SLOW% à %SHIGH% EUR dans la Réserve et un versement de %DLOW% à %DHIGH% EUR cette année-là, en euros constants de 2026.',
+    disclaimer: 'Des fourchettes, pas des promesses. Le bouton de prévision applique des projections publiées de la valeur de l\'IA (PwC, Goldman Sachs, McKinsey), dont les marges d\'erreur se mesurent en milliers de milliards ; elles servent ici d\'entrées de scénario, jamais de prémisse à la loi, et le bouton sceptique reste à un clic. Si le phénomène reste modeste, le dividende reste modeste, et l\'article 14, paragraphe 3, oblige la Commission à établir un rapport en ce sens et à proposer modification ou abrogation.',
     assumptionsHead: 'Chaque hypothèse de ce modèle',
     assumptions: [
       '3 % de la valeur d’une entreprise désignée entrent dans la Réserve au premier événement de liquidité de cette entreprise (fixé par l’article 5, paragraphe 2) ; la valeur de l’entreprise est prise à dix fois le chiffre d’affaires couvert, un chiffre rond assumé.',

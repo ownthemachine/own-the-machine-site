@@ -1,6 +1,6 @@
 ---
 source: evidence/EVIDENCE.md
-source-commit: 97206ad
+source-commit: 11757cc
 status: gate-reviewed
 ---
 
@@ -10,7 +10,8 @@ Een wetsontwerp is zijn lezers drie dingen verschuldigd: het bewijs voor
 zijn premisse, het bewijs ertegen, en de cijfers die het weigert te
 gebruiken. Deze pagina bevat alle drie. Elk cijfer is aan de bron
 geverifieerd, niet overgenomen uit commentaar; samengesteld op 18
-augustus 2026, correcties welkom per pull request.
+augustus 2026, uitgebreid op 19 augustus 2026, correcties welkom per
+pull request.
 
 De premisse van de verordening staat in haar eigen overwegingen en wordt
 getoetst door haar eigen artikel 14: hypergeautomatiseerde productie
@@ -225,6 +226,54 @@ waaronder enkele die ons zouden hebben geholpen.
 - **De ICT-vacaturedata van Eurostat stoppen bij 2025-Q4**, terwijl de
   prijs- en werkgelegenheidsreeksen doorlopen tot in 2026; de reeksen
   zijn in de tijd niet op elkaar uitgelijnd.
+
+## 7. De lange horizon
+
+De Reserve is een instrument gebouwd voor een horizon die de politiek
+zelden beloont; daarom zegt deze pagina onomwonden wat vijftig jaar
+doen, en wat niet.
+
+- **Alaska keert elke inwoner al 44 jaar op rij een dividend uit.** Het
+  Permanent Fund bezit ruim USD 86 mrd voor zo'n 740 000 inwoners,
+  ruwweg USD 116 000 aan fondskapitaal per inwoner; wie elk dividend
+  van 1982 tot 2016 ontving, kreeg in totaal USD 37 027. *Alaska
+  Permanent Fund Corporation; Alaska Department of Revenue,
+  dividendtabel.* Geen wetgever heeft in een halve eeuw aan de
+  hoofdsom gezeten, omdat elke burger een reden had haar te
+  verdedigen.
+- **Alaska toont ook de faalwijze.** Sinds 2016 wordt het dividend
+  bepaald in de jaarlijkse politieke onderhandeling; de wettelijke
+  formule staat nog in de wet en wordt eenvoudigweg niet gevolgd, en
+  het dividend van USD 1 000 in 2025 is, gecorrigeerd voor inflatie,
+  het kleinste uit de geschiedenis van het programma. Een
+  uitkeringsregel in een gewone wet is te kapen in een
+  begrotingsstrijd. Daarom staat de regel hier in bijlage II van de
+  verordening zelf, is de aanspraak een operationeel artikel, en
+  rapporteert de Commissie over de formule in plaats van haar vast te
+  stellen.
+- **De AI-waardeprognoses blijven buiten de premisse.** PwC raamt
+  kunstmatige intelligentie op USD 15,7 biljoen aan mondiaal product
+  tegen 2030; Goldman Sachs op circa USD 7 biljoen over een decennium;
+  McKinsey op USD 2,6 tot 4,4 biljoen per jaar. Het zijn prognoses van
+  een mechanisme, met foutmarges die in biljoenen worden gemeten, en
+  de discipline van sectie 5 geldt: deze verordening rust er niet op.
+  Zij verschijnen op slechts één plek, als benoemde scenario-invoer voor de
+  publieke simulator, naast een scepticusstand die vrijwel niets
+  aanneemt.
+- **Wat de rekenkunde van bijlage II met vijftig jaar doet.**
+  Bij een voorzichtige doorrekening (EUR 150 mrd omzet van aangewezen
+  ondernemingen, reële
+  rendementen van Noorse klasse) bereikt de centrale curve van de
+  simulator tegen jaar vijftig een belang van ruwweg EUR 1 200 aan
+  Reservekapitaal per burger en een dividend van ruwweg EUR 47 per
+  jaar; doorgerekend met de prognoses hierboven ruwweg EUR 10 000 en
+  EUR 370, in constante euro's van 2026: een fonds van de schaal die
+  de Noorse regel opbouwde. Beide curven zijn hun eerste decennium
+  niet van nul te onderscheiden. Dat is het ontwerp: bijlage II
+  beschermt kapitaal voordat zij uitkeert, en het belang groeit aan
+  terwijl de uitkering wacht. Blijven beide curven uit, dan verplicht
+  artikel 14, lid 3, de Commissie te rapporteren dat de premisse niet
+  is uitgekomen en wijziging of intrekking voor te stellen.
 
 ---
 

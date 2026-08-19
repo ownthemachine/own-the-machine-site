@@ -1,6 +1,6 @@
 ---
 source: evidence/EVIDENCE.md
-source-commit: 97206ad
+source-commit: 11757cc
 status: gate-reviewed
 ---
 
@@ -10,7 +10,7 @@ Un projet de loi doit trois choses à ses lecteurs : les preuves de sa
 prémisse, les preuves contre elle, et les chiffres qu'il refuse
 d'utiliser. Cette page porte les trois. Chaque chiffre a été vérifié à la
 source, non relayé depuis des commentaires ; assemblage au 18 août 2026,
-corrections bienvenues par pull request.
+étendu le 19 août 2026, corrections bienvenues par pull request.
 
 La prémisse du règlement est énoncée dans ses propres considérants et mise
 à l'épreuve par son propre article 14 : la production hyper-automatisée
@@ -231,6 +231,55 @@ certains qui nous auraient servi.
   s'arrêtent au T4 2025** alors que les séries de prix et d'emploi
   courent jusque dans 2026 ; les deux jambes ne sont pas alignées dans le
   temps.
+
+## 7. Le long horizon
+
+La Réserve est un instrument construit pour un horizon que la politique
+récompense rarement ; cette page dit donc sans détour ce que font
+cinquante ans, et ce qu'ils ne font pas.
+
+- **L'Alaska verse un dividende à chaque résident depuis 44 années
+  consécutives.** Le Permanent Fund détient plus de 86 milliards USD
+  pour environ 740 000 résidents, soit près de 116 000 USD de capital
+  du fonds par résident ; un résident ayant perçu chaque dividende de
+  1982 à 2016 a reçu 37 027 USD au total. *Alaska Permanent Fund
+  Corporation ; Alaska Department of Revenue, tableau des dividendes.*
+  Aucun législateur n'a touché au principal en un demi-siècle, parce
+  que chaque citoyen avait une raison de le défendre.
+- **L'Alaska montre aussi le mode de défaillance.** Depuis 2016, le
+  dividende est fixé par marchandage politique annuel ; la formule
+  légale demeure dans la loi et n'est simplement pas suivie, et le
+  dividende de 1 000 USD de 2025 est, corrigé de l'inflation, le plus
+  petit de l'histoire du programme. Une règle de distribution inscrite
+  dans une loi ordinaire peut être prise en otage lors d'un arbitrage
+  budgétaire. C'est
+  pourquoi la règle se trouve ici dans l'annexe II du règlement
+  lui-même, pourquoi le droit au dividende est inscrit dans le dispositif, et pourquoi
+  la Commission fait rapport sur la formule au lieu de la fixer.
+- **Les prévisions de valeur de l'IA restent hors de la prémisse.**
+  PwC évalue l'intelligence artificielle à 15 700 milliards USD de
+  produit mondial d'ici 2030 ; Goldman Sachs à environ 7 000 milliards USD
+  sur une décennie ; McKinsey à 2 600 à 4 400 milliards USD par an. Ce sont
+  des prévisions d'un mécanisme, avec des marges d'erreur qui se
+  mesurent en milliers de milliards, et la discipline de la section 5 s'applique :
+  le présent règlement ne repose pas sur elles. Elles n'apparaissent
+  qu'à un seul endroit, comme entrées de scénario étiquetées du
+  simulateur public, à côté d'un réglage sceptique qui ne suppose
+  presque rien.
+- **Ce que l'arithmétique de l'annexe II fait de cinquante ans.**
+  Réglée avec prudence (150 milliards EUR de chiffre
+  d'affaires des entreprises désignées, rendements réels de classe norvégienne), la courbe centrale
+  du simulateur atteint vers l'an cinquante une part d'environ
+  1 200 EUR de capital de la Réserve par citoyen et un dividende
+  d'environ 47 EUR par an ; réglée sur les prévisions ci-dessus,
+  environ 10 000 EUR et 370 EUR, en euros constants de 2026 : un fonds
+  à l'échelle de celui que la règle norvégienne a bâti. Les deux
+  courbes passent leur première décennie indiscernables de zéro. C'est
+  le dessein : l'annexe II préserve le capital avant de distribuer, et
+  la part fructifie pendant que le versement se fait attendre. Si aucune
+  courbe ne se matérialise, l'article 14, paragraphe 3, oblige la
+  Commission à constater l'échec de la prémisse et à proposer
+  modification ou abrogation.
 
 ---
 

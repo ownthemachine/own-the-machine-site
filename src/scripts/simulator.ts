@@ -3,11 +3,13 @@
 // retention, three-year smoothing collar floored at 2 % of capital, no
 // leverage, everything in constant euros. Designated value crystallises
 // as a continuing flow: the first wave over ten years from the median
-// event lag, later cohorts growing at the chosen rate.
+// event lag, later cohorts growing at the chosen rate. Horizon: fifty
+// years, because a capital-preserving fund is misdescribed by its first
+// three decades.
 
 const ADULTS = 350e6;
 const VALUE_MULTIPLE = 10; // firm value as a multiple of covered revenue
-const YEARS = 30;
+const YEARS = 50;
 
 interface Inputs { revBn: number; lag: number; ret: number; growth: number }
 interface Series { dist: number[]; stake: number[] }
@@ -67,7 +69,7 @@ function draw() {
   svg.innerHTML =
     ticksY.map((t) => `<line x1="${PL}" y1="${Y(t)}" x2="${W - 10}" y2="${Y(t)}" stroke="var(--guilloche)" stroke-width="0.6"/>` +
       `<text x="${PL - 8}" y="${Y(t) + 4}" text-anchor="end" font-size="11" fill="var(--ink-soft)" font-family="var(--ui)">${t}</text>`).join('') +
-    [0, 10, 20, 29].map((y) => `<text x="${X(y)}" y="${H - 8}" text-anchor="middle" font-size="11" fill="var(--ink-soft)" font-family="var(--ui)">${year0 + y}</text>`).join('') +
+    [0, 10, 20, 30, 40, 49].map((y) => `<text x="${X(y)}" y="${H - 8}" text-anchor="${y === 49 ? 'end' : 'middle'}" font-size="11" fill="var(--ink-soft)" font-family="var(--ui)">${year0 + y}</text>`).join('') +
     `<path d="${band}" fill="var(--seal-gold)" opacity="0.13"/>` +
     `<path d="${line(central)}" fill="none" stroke="var(--seal-gold)" stroke-width="2"/>` +
     `<text x="${PL}" y="${PT + 2}" font-size="11" fill="var(--ink-soft)" font-family="var(--ui)">${I18N.axisLabel}</text>`;
@@ -82,6 +84,14 @@ function draw() {
     .split('%SHIGH%').join(nfInt.format(Math.round(highS.stake[19])))
     .split('%YEAR%').join(String(year0 + 19));
   document.getElementById('sentence')!.textContent = payoutLine + ' ' + stakeLine;
+  // DC-31 at the fifty-year mark: the generation line carries stake and payout together
+  const genLine = (I18N.generationSentence || '')
+    .split('%SLOW%').join(nfInt.format(Math.round(lowS.stake[49])))
+    .split('%SHIGH%').join(nfInt.format(Math.round(highS.stake[49])))
+    .split('%DLOW%').join(fmt(low[49]))
+    .split('%DHIGH%').join(fmt(high[49]))
+    .split('%YEAR%').join(String(year0 + 49));
+  document.getElementById('generation')!.textContent = genLine;
 }
 
 for (const id of ['rev', 'lag', 'ret', 'growth']) $(id).addEventListener('input', draw);
@@ -90,5 +100,10 @@ document.getElementById('sceptic')!.addEventListener('click', () => {
 });
 document.getElementById('reset')!.addEventListener('click', () => {
   $('rev').value = '150'; $('lag').value = '7'; $('ret').value = '4'; $('growth').value = '5'; draw();
+});
+// Scenario input only, never premise: PwC/Goldman Sachs/McKinsey-class AI value
+// mapped to EU designated revenue; the disclaimer beside the chart names them.
+document.getElementById('forecast')!.addEventListener('click', () => {
+  $('rev').value = '600'; $('lag').value = '5'; $('ret').value = '4'; $('growth').value = '8'; draw();
 });
 draw();
