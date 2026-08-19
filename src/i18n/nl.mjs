@@ -26,7 +26,7 @@ export default {
   home: {
     eyebrow: 'Een ontwerpverordening van de burgers van Europa',
     tagline: 'Kapitaal voor iedereen, zodat het dividend volgt.',
-    ask: 'Wanneer productie geen arbeid op schaal meer nodig heeft, hoort elke burger van de Unie een aandeel te bezitten in wat de machines voortbrengen. Dit is de wet die dat regelt: een volledige ontwerpverordening van de EU, openbaar geschreven, met de bezwaren op volle sterkte gepubliceerd vóór de artikelen.',
+    ask: 'Wanneer productie geen arbeid op schaal meer nodig heeft, hoort elke burger van de Unie een aandeel te bezitten in wat de machines voortbrengen. Dit is de wet die dat regelt: een volledige ontwerpverordening van de EU, openbaar geschreven, met de bezwaren in hun sterkste vorm gepubliceerd vóór de artikelen.',
     ctaRead: 'Lees de wet', ctaObjections: 'Begin bij de bezwaren',
     col1Head: 'Het mechanisme',
     col1: 'Eén stemrechtloze warrant per hypergeautomatiseerd bedrijf: 3 % van het kapitaal, pas opgeëist op het moment dat de eigenaren zelf verzilveren. Niets is betaalbaar in geld en niets vloeit naar enige overheidsbegroting.',
@@ -34,7 +34,7 @@ export default {
     col2: 'Elke volwassen burger van de Unie houdt een gelijke, persoonlijke, onaantastbare aanspraak in een gemeenschappelijke Reserve. Geen middelentoets, geen aanvraag, geen voorwaarden. Uitkeringen beginnen klein en groeien over een generatie aan.',
     col3Head: 'De methode',
     col3: 'Openbaar opgesteld, vijandig gereviewd, elk oordeel en elke correctie op schrift. Het <a href="%LEDGER%">grootboek</a> toont hoe de wet met zichzelf in discussie gaat, en argumenten verliest die ze verdiende te verliezen.',
-    declared: 'Gemeld belang: het ontwerp is voortgekomen uit een boek van de initiatiefnemer; de campagne staat op haar eigen wettekst, en elk argument hier is te controleren zonder iets te kopen. Ontwerp op commit %COMMIT%.',
+    declared: 'Gemeld belang: het ontwerp is voortgekomen uit een boek van de initiatiefnemer; de campagne steunt op haar eigen wettekst, en elk argument hier is te controleren zonder iets te kopen. Ontwerp op commit %COMMIT%.',
     title: 'Een ontwerpverordening van de burgers van Europa',
   },
   lawIndex: {
@@ -42,7 +42,7 @@ export default {
     intro: 'Geharmoniseerde regels voor burgerdeelname in geautomatiseerde productiviteitswinsten (de Burgerkapitaalverordening). Het volledige werkontwerp: <a href="%RECITALS%">30 overwegingen</a>, 18 artikelen en twee bijlagen, elke alinea verankerd en citeerbaar. De Engelse tekst is het ontwerp. Actueel op commit %COMMIT%; elke wijziging staat in het <a href="%LEDGER%">grootboek</a>.',
     chapter: 'Hoofdstuk', annexes: 'Bijlagen', memorandum: 'Memorandum',
     article: 'Artikel', recitals: 'Overwegingen',
-    objectionsLink: 'De bezwaren, op volle sterkte',
+    objectionsLink: 'De bezwaren, in hun sterkste vorm',
     severabilityLink: 'Deelbaarheid: wat het snoeien overleeft',
     downloadsHead: 'Neem het hele ontwerp mee',
     downloadsNote: 'Het volledige instrument en memorandum in één document, gestempeld met commit %COMMIT%.',
@@ -66,10 +66,10 @@ export default {
     prevRecitals: '&larr; Overwegingen', nextAnnex: 'Bijlage I &rarr;',
   },
   objections: {
-    title: 'De bezwaren, op volle sterkte',
-    eyebrow: 'Memorandum · het eerlijkheidsfront',
+    title: 'De bezwaren, in hun sterkste vorm',
+    eyebrow: 'Memorandum · eerlijkheid eerst',
     intro: 'Elk serieus argument tegen deze verordening, zo sterk verwoord als haar tegenstanders het zouden doen, nog voordat één artikel was opgesteld. Elk bezwaar eindigt in ontwerpgevolgen, en de tabel met ontwerpbeperkingen hieronder is een samenvoegcriterium: tekst die haar schendt, wordt niet samengevoegd. Waar een bezwaar wordt toegegeven, staat dat er. Deze pagina is de geloofwaardigheidsstrategie van de campagne, niet haar biecht: lees haar eerst, en lees dan <a href="%LAW%">de wet die eruit voortkwam</a>.',
-    description: 'Veertien bezwaren tegen het ontwerp, op volle sterkte gepubliceerd, elk met zijn ontwerpgevolgen.',
+    description: 'Veertien bezwaren tegen het ontwerp, in hun sterkste vorm gepubliceerd, elk met zijn ontwerpgevolgen.',
   },
   memorandum: {
     title: 'Deelbaarheid: wat het snoeien overleeft',
@@ -78,15 +78,15 @@ export default {
     description: 'Hoe het instrument uiteenvalt wanneer instellingen beginnen te snijden, en wat elke snede kost.',
   },
   ledger: {
-    title: 'Het grootboek', eyebrow: 'De wet toont haar werk',
-    intro1: 'Voordat enige tekst van deze verordening wordt samengevoegd, passeert zij zes vijandige poorten: wettelijke vorm, naleving van ontwerpbeperkingen, rechtsgrond, vijandige raadsman, samenhang met bestaand EU-recht, en trouw tussen de klare-taallaag en de juridische laag.',
-    intro2: 'Elk oordeel wordt aan de repository toevertrouwd, ook de oordelen die bloed trokken. Een REVISE-oordeel wordt alleen samengevoegd met een schriftelijke beslissing van de redacteur. Reviews worden vijandig uitgevoerd door AI onder verantwoordelijkheid van de redacteur; de beslissingen hieronder zijn die van de redacteur, op schrift.',
+    title: 'Het grootboek', eyebrow: 'De wet legt verantwoording af',
+    intro1: 'Voordat enige tekst van deze verordening wordt samengevoegd, passeert zij zes vijandige toetsingspoorten: wettelijke vorm, naleving van ontwerpbeperkingen, rechtsgrond, advocaat van de tegenpartij, samenhang met bestaand EU-recht, en consistentie tussen de klare-taallaag en de juridische laag.',
+    intro2: 'Elk oordeel wordt aan de repository toevertrouwd, ook de oordelen die pijn deden. Een REVISE-oordeel wordt alleen samengevoegd met een schriftelijke beslissing van de redacteur. Reviews worden vijandig uitgevoerd door AI onder verantwoordelijkheid van de redacteur; de beslissingen hieronder zijn die van de redacteur, op schrift.',
     intro3: 'Elke vermelding draagt een zegel afgeleid van haar commit-hash: geen twee wijzigingen dragen hetzelfde merk.',
     description: 'De openbare wijzigingsgeschiedenis van het ontwerp: elke vijandige review, elk oordeel, elke redactionele beslissing.',
     gates: {
       'legal-form': 'Wettelijke vorm', 'dc-compliance': 'Ontwerpbeperkingen',
-      'legal-basis': 'Rechtsgrond', 'hostile-counsel': 'Vijandige raadsman',
-      'acquis-coherence': 'Acquis-samenhang', 'layer-fidelity': 'Laagtrouw',
+      'legal-basis': 'Rechtsgrond', 'hostile-counsel': 'Advocaat van de tegenpartij',
+      'acquis-coherence': 'Acquis-samenhang', 'layer-fidelity': 'Laagconsistentie',
     },
   },
   simulator: {
@@ -107,7 +107,7 @@ export default {
     assumptions: [
       '3 % van de waarde van een aangewezen bedrijf komt in de Reserve bij de eerste liquiditeitsgebeurtenis van dat bedrijf (vastgelegd in artikel 5, lid 2); de bedrijfswaarde is gesteld op tien keer de gedekte omzet, een bewust rond getal.',
       'De adoptie loopt lineair op over tien jaar vanaf de mediane gebeurtenisvertraging; gerechtigde volwassenen: 350 miljoen (Eurostat, Unieburgers 18+).',
-      'Uitkeringen volgen bijlage II exact: eerst reëel kapitaalbehoud, een driejarig glijdend gemiddelde met een kraag van 125 %, geen hefboom, alles in constante euro’s van 2026.',
+      'Uitkeringen volgen bijlage II exact: eerst reëel kapitaalbehoud, een driejarig glijdend gemiddelde met een bandbreedte van 125 %, geen hefboom, alles in constante euro’s van 2026.',
       'De band draait dezelfde rekensom op de pessimistische en optimistische uiteinden van je invoer. Niets hier is een belofte; het model is <a href="https://github.com/ownthemachine/own-the-machine-site">open source</a>.',
     ],
   },
