@@ -71,7 +71,7 @@ export default {
     title: 'The objections, at full strength',
     eyebrow: 'Memorandum · the honesty surface',
     intro: 'Every serious argument against this Regulation, stated as well as its opponents would state it, before a single article was drafted. Each objection ends in design consequences, and the design-constraints table below is a merge criterion: text that violates it does not merge. Where an objection is conceded, it says so. This page is the campaign’s credibility strategy, not its confession: read it first, then read <a href="%LAW%">the law it produced</a>.',
-    description: 'Fourteen objections to the draft, published at full strength, each with its design consequences.',
+    description: 'Fifteen objections to the draft, published at full strength, each with its design consequences.',
   },
   memorandum: {
     title: 'Severability: what survives trimming',
@@ -107,6 +107,7 @@ export default {
     chartLabel: 'Projected distribution per citizen per year, 30-year horizon, with uncertainty band',
     axisLabel: 'EUR per citizen per year, constant 2026 euros',
     sentence: 'Under these assumptions, a citizen receives roughly EUR %LOW% to %HIGH% per year by %YEAR%, rising as the Reserve compounds. The early years hug zero on purpose: the Reserve preserves capital before it distributes, by law.',
+    stakeSentence: 'Behind that payout stands the stake: roughly EUR %SLOW% to %SHIGH% of Reserve capital per citizen by %YEAR%, compounding.',
     assumptionsHead: 'Every assumption in this model',
     assumptions: [
       '3 % of designated firm value enters the Reserve at each firm’s first liquidity event (fixed by Article 5(2)); firm value is taken as ten times covered revenue, a deliberate round number.',

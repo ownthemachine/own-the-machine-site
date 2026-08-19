@@ -71,7 +71,7 @@ export default {
     title: 'De bezwaren, in hun sterkste vorm',
     eyebrow: 'Memorandum · eerlijkheid eerst',
     intro: 'Elk serieus argument tegen deze verordening, zo sterk verwoord als haar tegenstanders het zouden doen, nog voordat één artikel was opgesteld. Elk bezwaar eindigt in ontwerpgevolgen, en de tabel met ontwerpbeperkingen hieronder is een opnamecriterium: tekst die haar schendt, wordt niet opgenomen. Waar een bezwaar wordt toegegeven, staat dat er. Deze pagina is de geloofwaardigheidsstrategie van de campagne, niet haar biecht: lees haar eerst, en lees dan <a href="%LAW%">de wet die eruit voortkwam</a>.',
-    description: 'Veertien bezwaren tegen het ontwerp, in hun sterkste vorm gepubliceerd, elk met zijn ontwerpgevolgen.',
+    description: 'Vijftien bezwaren tegen het ontwerp, in hun sterkste vorm gepubliceerd, elk met zijn ontwerpgevolgen.',
   },
   memorandum: {
     title: 'Deelbaarheid: wat het snoeien overleeft',
@@ -107,6 +107,7 @@ export default {
     chartLabel: 'Verwachte uitkering per burger per jaar, horizon 30 jaar, met onzekerheidsband',
     axisLabel: 'EUR per burger per jaar, constante euro’s van 2026',
     sentence: 'Onder deze aannames ontvangt een burger tegen %YEAR% ruwweg EUR %LOW% tot %HIGH% per jaar, oplopend naarmate de Reserve aangroeit. De eerste jaren schuren bewust langs de nul: de Reserve beschermt kapitaal voordat zij uitkeert, bij wet.',
+    stakeSentence: 'Achter die uitkering staat het belang: tegen %YEAR% ruwweg EUR %SLOW% tot %SHIGH% aan Reservekapitaal per burger, en het groeit aan.',
     assumptionsHead: 'Elke aanname in dit model',
     assumptions: [
       '3 % van de waarde van een aangewezen bedrijf komt in de Reserve bij de eerste liquiditeitsgebeurtenis van dat bedrijf (vastgelegd in artikel 5, lid 2); de bedrijfswaarde is gesteld op tien keer de gedekte omzet, een bewust rond getal.',

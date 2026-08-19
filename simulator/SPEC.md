@@ -68,7 +68,11 @@ honest, and the simulator demonstrating that IS the argument.
    apologise for that, it annotates it: "the Reserve preserves capital
    before it distributes, by law".
 2. **The pool**: Reserve capital over time, same treatment.
-3. **The sentence**: a generated plain sentence, locale-aware (EN/NL/FR),
+3. **The stake beside the payout (DC-31)**: wherever a per-citizen
+   payout figure appears, the per-citizen stake in the Reserve appears
+   beside it; the sentence carries both, and no surface may show the
+   flow without the stock.
+4. **The sentence**: a generated plain sentence, locale-aware (EN/NL/FR),
    of the form "Under these assumptions, a citizen receives roughly
    EUR X to Y per year by 2045, rising as the Reserve compounds." Never
    a year-1 sentence.

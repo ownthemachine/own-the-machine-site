@@ -1,6 +1,6 @@
 ---
 source: regulation/memorandum/counter-arguments.md
-source-commit: c484663
+source-commit: 97206ad
 status: gate-reviewed
 ---
 
@@ -562,6 +562,16 @@ fuente de financiación, donde es necesaria.
 
 ---
 
+### 15. Un euro al año es un insulto, no una política
+
+**La objeción, en su formulación más sólida.** Haga funcionar el propio simulador del instrumento con supuestos prudentes y pagará a un ciudadano uno o dos euros al año durante su primera década. Ninguna persona razonable valora eso; ningún votante hace campaña por ello; ningún periodista resiste el titular. El aparato es grotescamente desproporcionado respecto de lo que entrega: un nuevo organismo de la Unión, un régimen de designación, maquinaria de valoración, comitología, multas de hasta el 10 % de la facturación mundial, todo para entregar menos que el precio de un café. Peor aún: la doctrina de honestidad del proyecto prohíbe prometer más. Una iniciativa que, por sus propias reglas, debe decir a cada firmante "no notará nada durante veinte años" ha elegido un mensaje con el que ninguna campaña de masas ha ganado jamás. Una renta básica promete al menos el alquiler.
+
+**Lo que acierta.** El flujo inicial es realmente pequeño, y la campaña tiene estructuralmente prohibido inflarlo. El riesgo de recogida es real: las recompensas diferidas pierden ante las inmediatas en cada puerta.
+
+**La respuesta que el instrumento debe dar.** En tres partes. Primero, la pequeñez es calibración, no fracaso: el tamaño del instrumento sigue por construcción el tamaño del fenómeno. El tres por ciento de poco es poco, detraído de casi nadie, y en ese mundo el artículo 14, apartado 3, obliga a la Comisión a constatar que la premisa no se cumplió y a proponer su modificación o derogación; un dividendo permanentemente pequeño es la activación de la condición de falsación, no una política renqueante. El dividendo solo es pequeño en el mundo en que el problema también lo es. Segundo, el derecho solo puede comprarse pronto. La paga danesa congelada de 4 368 DKK de 1978, dinero irrisorio entonces, vale hoy 119 506 DKK; dos tercios del fondo noruego son rendimiento compuesto, no petróleo. El otro calendario, reclamar la parte cuando las ganancias son visibles y los propietarios están atrincherados, es expropiación y políticamente imposible. El euro compra el certificado, y el certificado es la cuestión. Tercero, el patrimonio acumulado supera al flujo: con los mismos supuestos prudentes, hacia el año treinta la Reserva sostiene unos 400 EUR de capital propio detrás de cada ciudadano, antes de que ningún reparto anual impresione. Una campaña que muestra el reparto sin la participación describe mal su propio instrumento.
+
+**Consecuencia de diseño.** Esta objeción es la razón de ser de DC-14 (nunca abrir con una cifra de los primeros años), de que el artículo 14, apartado 3, lleve explícita la condición de falsación y de que el anexo II reparta rentas y nunca principal. Añade una regla mecánica propia: allí donde se muestre un importe de reparto por ciudadano, figura al lado la participación por ciudadano en la Reserva (DC-31).
+
 ## La tabla de restricciones
 
 Los artículos se redactan contra esta tabla. Un borrador que viole una DC
@@ -599,6 +609,7 @@ suspende la revisión con independencia de su prosa.
 | DC-28 | Novedad solo en la fuente de financiación; cauces existentes para la entrega | 14 |
 | DC-29 | Salvaguardia de no empeoramiento coherente con el mercado, valoración independiente e impugnable por separado, control judicial | 1 |
 | DC-30 | Los elementos esenciales (hecho generador, propiedad de la reserva, derecho, injerencia) en los artículos, nunca delegados | 1 |
+| DC-31 | Allí donde se muestre un importe de reparto por ciudadano, figura al lado la participación por ciudadano en la Reserva | 15 |
 
 ## Estado
 
