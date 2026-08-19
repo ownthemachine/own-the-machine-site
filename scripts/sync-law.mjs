@@ -78,7 +78,7 @@ const annexes = readdirSync(annexDir).filter((f) => f.endsWith('.md')).sort().ma
 // Mentions of repo files in prose become links to the repository, so a
 // site reader lands on the real file instead of a dead relative path.
 const REPO = 'https://github.com/ownthemachine/own-the-machine/blob/main';
-const KNOWN = { 'EUROPE.md': 'campaign/EUROPE.md', 'GATES.md': 'campaign/GATES.md',
+const KNOWN = { 'EUROPE.md': 'evidence/EUROPE.md', 'GATES.md': 'campaign/GATES.md',
   'GOVERNANCE.md': 'GOVERNANCE.md', 'CONTRIBUTING.md': 'CONTRIBUTING.md' };
 const linkRepoPaths = (html) => html.replace(
   new RegExp('(^|[\\s(])((?:[a-z][a-z0-9-]*/)*[A-Za-z0-9_.-]+[.]md)(?=[\\s,.)<]|$)', 'g'),
@@ -135,7 +135,7 @@ const ledger = readdirSync(revDir).filter((f) => f.endsWith('.md')).sort().rever
 
 // ---- evidence -------------------------------------------------------
 let evidence = { html: '', toc: [] };
-try { evidence = withToc(linkRepoPaths(marked.parse(read('campaign/EUROPE.md')))); } catch { /* optional */ }
+try { evidence = withToc(linkRepoPaths(marked.parse(read('evidence/EUROPE.md')))); } catch { /* optional */ }
 
 // ---- structure ------------------------------------------------------
 const structure = marked.parse(stripNotes(read('regulation/STRUCTURE.md')).replace(/^# .+$/m, '').trim());
