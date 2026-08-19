@@ -94,7 +94,7 @@ export default {
   },
   simulator: {
     title: 'El dividendo, con honestidad', eyebrow: 'El simulador · horquillas, no promesas',
-    description: 'Lo que la Reserva significaría plausiblemente por ciudadano, a treinta años, con cada incertidumbre etiquetada.',
+    description: 'Lo que la Reserva significaría plausiblemente por ciudadano, a cincuenta años, con cada incertidumbre etiquetada.',
     intro: 'La respuesta es una curva, nunca una cifra. Los repartos empiezan pequeños, porque la Reserva preserva su capital antes de repartir, por ley (<a href="%ANNEX2%">anexo II</a>), y crecen a medida que los warrants cristalizan y los rendimientos se capitalizan. Cada parámetro lleva su incertidumbre; la banda muestra la horquilla de pesimista a optimista, y el botón escéptico aplica a cada parámetro el supuesto más desfavorable.',
     revLabel: 'Ingresos automatizados que alcanzan los umbrales (miles de millones EUR/año, hacia el año 5)',
     revNote: 'Nadie conoce esta cifra. Depende de la velocidad con que las empresas hiperautomatizadas crucen los umbrales del artículo 3; la horquilla va del escepticismo al auge.',
@@ -105,10 +105,13 @@ export default {
     growthLabel: 'Crecimiento de la actividad cubierta tras la primera ola (%/año)',
     growthNote: 'Nuevas empresas siguen cruzando los umbrales del artículo 3 y las empresas cubiertas siguen creciendo. Cero significaría que ninguna empresa vuelve a calificar jamás.',
     sceptic: 'Escenario conservador', reset: 'Restablecer',
-    chartLabel: 'Reparto proyectado por ciudadano y año, horizonte de 30 años, con banda de incertidumbre',
+    chartLabel: 'Reparto proyectado por ciudadano y año, horizonte de 50 años, con banda de incertidumbre',
     axisLabel: 'EUR por ciudadano y año, en euros constantes de 2026',
     sentence: 'Bajo estos supuestos, un ciudadano recibe aproximadamente entre %LOW% y %HIGH% EUR al año hacia %YEAR%, en aumento a medida que la Reserva se capitaliza. Los primeros años rozan el cero a propósito: la Reserva preserva el capital antes de repartir, por ley.',
     stakeSentence: 'Detrás de ese reparto está la participación: hacia %YEAR%, unos %SLOW% a %SHIGH% EUR de capital de la Reserva por ciudadano, capitalizándose.',
+    forecast: 'Si las previsiones sobre la IA aciertan',
+    generationSentence: 'Un ciudadano nacido a la entrada en vigor cumple cincuenta años en %YEAR%, con una participación de %SLOW% a %SHIGH% EUR en la Reserva y un dividendo de %DLOW% a %DHIGH% EUR ese año, en euros constantes de 2026.',
+    disclaimer: 'Horquillas, no promesas. El botón de previsión aplica proyecciones publicadas del valor de la IA (PwC, Goldman Sachs, McKinsey), cuyos márgenes de error se miden en billones; aquí son entradas de escenario, nunca la premisa de la ley, y el botón escéptico queda a un clic. Si el fenómeno sigue siendo pequeño, el dividendo sigue siendo pequeño, y el artículo 14, apartado 3, obliga a la Comisión a constatarlo y a proponer su modificación o derogación.',
     assumptionsHead: 'Cada supuesto de este modelo',
     assumptions: [
       'El 3 % del valor de una empresa designada entra en la Reserva en el primer evento de liquidez de esa empresa (fijado por el artículo 5, apartado 2); el valor de la empresa se toma como diez veces los ingresos cubiertos, una cifra redonda deliberada.',
