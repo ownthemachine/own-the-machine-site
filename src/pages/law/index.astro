@@ -54,6 +54,16 @@ const byNumber = Object.fromEntries(law.articles.map(a => [a.number, a]));
       <li><a href="/law/memorandum">Severability: what survives trimming</a></li>
     </ul>
   </section>
+
+  <section class="chapter downloads">
+    <p class="eyebrow">Take the whole draft with you</p>
+    <p class="dl-note">The complete instrument and memorandum in one
+    document, stamped with commit <span class="serial">{law.lawCommit}</span>.</p>
+    <p class="dl-actions no-print">
+      <a class="btn btn-gold" href="/downloads/own-the-machine-draft.pdf" download>PDF</a>
+      <a class="btn" href="/downloads/own-the-machine-draft.epub" download>EPUB</a>
+    </p>
+  </section>
 </Base>
 
 <style>
@@ -62,4 +72,6 @@ const byNumber = Object.fromEntries(law.articles.map(a => [a.number, a]));
   .chapter h2 { font-size: 1.25rem; margin: 0.2rem 0 0.6rem; }
   .chapter ul { list-style: none; }
   .chapter li { padding: 0.22rem 0; font-family: var(--read); }
+  .dl-note { font-size: 0.9rem; margin: 0.4rem 0 0.9rem; }
+  .dl-actions { display: flex; gap: 0.8rem; }
 </style>
