@@ -16,7 +16,7 @@ const isLocal = Boolean(law.severability[lang]);
   <p class="intro prose">{t.memorandum.intro}</p>
   <LangBanner lang={lang} doc={law.severability[lang]} />
   <div class="withtoc">
-    <OnPage toc={doc.toc} />
+    <OnPage lang={lang} toc={doc.toc} />
     <div class="prose" lang={isLocal ? lang : "en"} set:html={doc.html} />
   </div>
 </Base>

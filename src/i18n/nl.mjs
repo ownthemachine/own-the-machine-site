@@ -21,6 +21,7 @@ export default {
     lawEnglish: 'De Engelse tekst geldt als het ontwerp. Deze pagina toont de gezaghebbende Engelse tekst; vertalingen van de wettekst dienen alleen ter begrip.',
     pageMachine: 'Deze pagina is vertaald en beoordeeld door de open pijplijn van het project; een moedertaallezer heeft haar nog niet geverifieerd. Fout gevonden? Open een issue.',
     enOnly: 'Deze pagina is nog niet beschikbaar in het Nederlands; hieronder volgt het Engelse origineel.',
+    recordsEnglish: 'De beoordelingen zelf vinden plaats in het Engels en de vermeldingen hieronder nemen hun verslagen over in de oorspronkelijke taal; de rest van deze pagina is vertaald.',
     stale: 'Het Engelse origineel is gewijzigd sinds deze vertaling werd gemaakt; details kunnen afwijken tot ze is bijgewerkt.',
     pageVerified: 'Deze vertaling is geverifieerd door een moedertaallezer.',
   },

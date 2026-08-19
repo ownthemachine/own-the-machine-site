@@ -22,6 +22,7 @@ export default {
     lawEnglish: 'Der englische Text ist der Entwurf. Diese Seite zeigt den verbindlichen englischen Text; Übersetzungen des Rechtstexts dienen nur dem Verständnis.',
     pageMachine: 'Diese Seite wurde durch die offene Pipeline des Projekts übersetzt und geprüft; eine muttersprachliche Person hat sie noch nicht verifiziert. Fehler gefunden? Melden Sie ihn auf GitHub.',
     enOnly: 'Diese Seite ist auf Deutsch noch nicht verfügbar; es folgt das englische Original.',
+    recordsEnglish: 'Die Prüfungen selbst finden auf Englisch statt und die nachstehenden Einträge zitieren die Protokolle im Original; der Rest dieser Seite ist übersetzt.',
     stale: 'Das englische Original hat sich seit dieser Übersetzung geändert; bis zur Auffrischung können Details abweichen.',
     pageVerified: 'Diese Übersetzung wurde von einer muttersprachlichen Person verifiziert.',
   },
