@@ -1,0 +1,49 @@
+---
+import Base from '../../layouts/Base.astro';
+import lawData from '../../generated/law.json';
+import LangBanner from '../LangBanner.astro';
+import { dict, fmt, href } from '../../lib/i18n.mjs';
+interface Props { lang: string; kind: 'article' | 'annex'; item: any }
+const { lang, kind, item } = Astro.props;
+const t = dict(lang);
+const arts = lawData.articles;
+const idx = kind === 'article' ? arts.findIndex((a) => a.number === item.number) : -1;
+const prev = idx > 0 ? arts[idx - 1] : null;
+const next = idx >= 0 && idx < arts.length - 1 ? arts[idx + 1] : null;
+const title = kind === 'article' ? `${t.lawIndex.article} ${item.number}: ${item.title}` : item.title;
+const eyebrow = kind === 'article'
+  ? fmt(t.lawDoc.eyebrowArticle, { N: String(item.number) })
+  : fmt(t.lawDoc.eyebrowAnnex, { N: item.numeral });
+---
+<Base title={title} lang={lang}>
+  <article class="lawpage">
+    <p class="eyebrow">{eyebrow}</p>
+    <h1>{kind === 'article' ? item.title : item.title.replace(/^Annex [IVX]+: /, '')}</h1>
+    <LangBanner lang={lang} kind="lawEnglish" />
+    <div class="prose law-text" lang="en" set:html={item.html} />
+    <p class="provenance" set:html={
+      fmt(t.lawDoc.provenance, { COMMIT: `<span class="serial">${lawData.lawCommit}</span>` }) +
+      ` · <a href="https://github.com/ownthemachine/own-the-machine/commits/main">${t.chrome.historyLink}</a>` +
+      ` · <a href="${href(lang, '/law/ledger')}">${t.chrome.reviewLink}</a>`
+    } />
+    <nav class="pager no-print" aria-label="Articles">
+      {prev
+        ? <a href={href(lang, `/law/${prev.slug}`)}>&larr; {t.lawIndex.article} {prev.number}</a>
+        : <a href={href(lang, '/law/recitals')} set:html={t.lawDoc.prevRecitals} />}
+      <a href={href(lang, '/law')}>{t.chrome.contentsLink}</a>
+      {next
+        ? <a href={href(lang, `/law/${next.slug}`)}>{t.lawIndex.article} {next.number} &rarr;</a>
+        : <a href={href(lang, `/law/${lawData.annexes[0].slug}`)} set:html={t.lawDoc.nextAnnex} />}
+    </nav>
+  </article>
+</Base>
+
+<style>
+  .lawpage h1 { font-size: 1.7rem; margin: 0.4rem 0 1.2rem; }
+  .law-text :global(p) { padding-left: 1.5rem; text-indent: -1.5rem; }
+  @media (max-width: 600px) {
+    .law-text :global(p) { padding-left: 1rem; text-indent: -1rem; }
+  }
+  .provenance { margin-top: 2rem; font-size: 0.78rem; color: var(--ink-soft); }
+  .pager { display: flex; justify-content: space-between; gap: 1rem; border-top: 1px solid var(--guilloche); margin-top: 1.4rem; padding-top: 0.9rem; font-size: 0.85rem; }
+</style>

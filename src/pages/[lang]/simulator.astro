@@ -1,0 +1,9 @@
+---
+import Simulator from '../../components/screens/Simulator.astro';
+
+export function getStaticPaths() {
+  return ['nl', 'fr', 'de', 'es'].map((lang) => ({ params: { lang } }));
+}
+const { lang } = Astro.params;
+---
+<Simulator lang={lang} />

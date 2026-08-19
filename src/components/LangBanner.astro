@@ -1,0 +1,24 @@
+---
+// The honesty banner: says exactly what the reader is looking at when a
+// page is not (or not fully) in their language. Never a silent switch.
+import { dict } from '../lib/i18n.mjs';
+interface Props { lang: string; kind: 'lawEnglish' | 'pageMachine' | 'enOnly' }
+const { lang, kind } = Astro.props;
+const text = dict(lang).banner[kind];
+---
+{lang !== 'en' && (
+  <p class="lang-banner" lang={lang}>{text}
+    {kind === 'pageMachine' && (
+      <> <a href="https://github.com/ownthemachine/own-the-machine-site/issues">GitHub</a></>
+    )}
+  </p>
+)}
+
+<style>
+  .lang-banner {
+    border: 1px solid var(--guilloche); border-left: 3px solid var(--seal-gold);
+    background: var(--card); padding: 0.7rem 1rem; margin-bottom: 1.6rem;
+    font-size: 0.88rem; color: var(--ink-soft); max-width: var(--measure);
+  }
+  .lang-banner a { color: var(--ink-soft); }
+</style>

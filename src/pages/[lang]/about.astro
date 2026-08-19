@@ -1,0 +1,9 @@
+---
+import About from '../../components/screens/About.astro';
+
+export function getStaticPaths() {
+  return ['nl', 'fr', 'de', 'es'].map((lang) => ({ params: { lang } }));
+}
+const { lang } = Astro.params;
+---
+<About lang={lang} />

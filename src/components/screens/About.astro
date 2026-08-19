@@ -1,0 +1,64 @@
+---
+import Base from '../../layouts/Base.astro';
+import LangBanner from '../LangBanner.astro';
+import { dict } from '../../lib/i18n.mjs';
+interface Props { lang: string }
+const { lang } = Astro.props;
+const t = dict(lang);
+---
+<Base title={t.about.title} lang={lang} description={t.about.description}>
+  <p class="eyebrow">{t.about.eyebrow}</p>
+  <h1>{t.about.title}</h1>
+  <LangBanner lang={lang} kind="enOnly" />
+  <div lang="en">
+  <div class="prose">
+    <h2>What this is</h2>
+    <p>An open-source draft EU Regulation ensuring that citizens of the
+    Union participate in the capital value created by hyper-automated
+    production, prepared as the basis for a possible European Citizens'
+    Initiative. The legal text, its memorandum, its objections and every
+    review verdict live in a public repository; this site renders them.</p>
+
+    <h2>Who</h2>
+    <p>Initiated by David Vanheeswijck (Belgium). The drafting method
+    uses adversarial AI review under the editor's responsibility; every
+    verdict and disposition is on the <a href="/law/ledger">ledger</a>.
+    An organisers' group of at least seven citizens from seven Member
+    States will be constituted if the project passes its own gates.</p>
+
+    <h2>Declared interest</h2>
+    <p>The draft grew out of a book by its initiator. The campaign never
+    links to the book, takes nothing from its sales, and stands on its
+    own legal text: every argument here can be checked without buying
+    anything.</p>
+
+    <h2>The gates</h2>
+    <p>The campaign proceeds only through published gates with kill
+    criteria: registrability soundings before constitution, constitution
+    before filing, filing before collection. If a gate fails, this page
+    will say so and the repository stays up as a public good.</p>
+
+    <h2>Funding</h2>
+    <p>None. When any exists, it will be published here to the cent, as
+    Regulation (EU) 2019/788 requires of initiatives and we require of
+    ourselves early.</p>
+
+    <h2>Your data</h2>
+    <p>This site sets no cookies, runs no analytics scripts, loads
+    nothing from third parties and collects nothing. There is no consent
+    banner because there is nothing to consent to. When signing opens, it
+    happens on the European Commission's own collection system, not
+    here.</p>
+
+    <h2>Accessibility</h2>
+    <p>Target: WCAG 2.1 AA, with the WCAG 2.2 focus-appearance and
+    target-size criteria adopted early. The site is keyboard-complete
+    and respects reduced-motion preferences. Found a barrier?
+    <a href="https://github.com/ownthemachine/own-the-machine-site/issues">Open an issue</a>.</p>
+  </div>
+  </div>
+</Base>
+
+<style>
+  h1 { font-size: 1.7rem; margin: 0.4rem 0 1.2rem; }
+</style>

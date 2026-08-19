@@ -1,0 +1,68 @@
+---
+import Base from '../../layouts/Base.astro';
+import law from '../../generated/law.json';
+import { dict, fmt, href } from '../../lib/i18n.mjs';
+interface Props { lang: string }
+const { lang } = Astro.props;
+const t = dict(lang);
+const numerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII'];
+const chapterArticles = [[1, 2], [3, 4], [5, 6, 7], [8, 9], [10, 11], [12], [13, 14, 15, 16], [17, 18]];
+const byNumber = Object.fromEntries(law.articles.map((a) => [a.number, a]));
+const commit = `<span class="serial">${law.lawCommit}</span>`;
+---
+<Base title={t.lawIndex.title} lang={lang} description={dict(lang).chrome.metaDescription}>
+  <h1>{t.lawIndex.title}</h1>
+  <p class="intro prose" set:html={fmt(t.lawIndex.intro, {
+    RECITALS: href(lang, '/law/recitals'), LEDGER: href(lang, '/law/ledger'), COMMIT: commit,
+  })} />
+
+  {numerals.map((numeral, i) => (
+    <section class="chapter">
+      <p class="eyebrow">{t.lawIndex.chapter} {numeral}</p>
+      <h2>{t.lawIndex.chapters[i]}</h2>
+      <ul>
+        {chapterArticles[i].map((n) => (
+          <li>
+            <a href={href(lang, `/law/${byNumber[n].slug}`)}>{t.lawIndex.article} {n}: {byNumber[n].title}</a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+
+  <section class="chapter">
+    <p class="eyebrow">{t.lawIndex.annexes}</p>
+    <ul>
+      {law.annexes.map((a) => (
+        <li><a href={href(lang, `/law/${a.slug}`)}>{a.title}</a></li>
+      ))}
+    </ul>
+  </section>
+
+  <section class="chapter">
+    <p class="eyebrow">{t.lawIndex.memorandum}</p>
+    <ul>
+      <li><a href={href(lang, '/law/objections')}>{t.lawIndex.objectionsLink}</a></li>
+      <li><a href={href(lang, '/law/memorandum')}>{t.lawIndex.severabilityLink}</a></li>
+    </ul>
+  </section>
+
+  <section class="chapter downloads">
+    <p class="eyebrow">{t.lawIndex.downloadsHead}</p>
+    <p class="dl-note" set:html={fmt(t.lawIndex.downloadsNote, { COMMIT: commit })} />
+    <p class="dl-actions no-print">
+      <a class="btn btn-gold" href="/downloads/own-the-machine-draft.pdf" download>PDF</a>
+      <a class="btn" href="/downloads/own-the-machine-draft.epub" download>EPUB</a>
+    </p>
+  </section>
+</Base>
+
+<style>
+  .intro { margin: 0.8rem 0 2.2rem; }
+  .chapter { border-top: 1px solid var(--guilloche); padding: 1.2rem 0; }
+  .chapter h2 { font-size: 1.25rem; margin: 0.2rem 0 0.6rem; }
+  .chapter ul { list-style: none; }
+  .chapter li { padding: 0.22rem 0; font-family: var(--read); }
+  .dl-note { font-size: 0.9rem; margin: 0.4rem 0 0.9rem; }
+  .dl-actions { display: flex; gap: 0.8rem; }
+</style>

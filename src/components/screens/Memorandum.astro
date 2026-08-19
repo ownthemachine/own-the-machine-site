@@ -1,0 +1,25 @@
+---
+import Base from '../../layouts/Base.astro';
+import law from '../../generated/law.json';
+import OnPage from '../OnPage.astro';
+import LangBanner from '../LangBanner.astro';
+import { dict } from '../../lib/i18n.mjs';
+interface Props { lang: string }
+const { lang } = Astro.props;
+const t = dict(lang);
+---
+<Base title={t.memorandum.title} lang={lang} description={t.memorandum.description}>
+  <p class="eyebrow">{t.memorandum.eyebrow}</p>
+  <h1>{t.memorandum.title}</h1>
+  <p class="intro prose">{t.memorandum.intro}</p>
+  <LangBanner lang={lang} kind="enOnly" />
+  <div class="withtoc">
+    <OnPage toc={law.severability.toc} />
+    <div class="prose" lang="en" set:html={law.severability.html} />
+  </div>
+</Base>
+
+<style>
+  h1 { font-size: 1.7rem; margin: 0.4rem 0 1rem; }
+  .intro { margin-bottom: 2rem; }
+</style>

@@ -1,0 +1,67 @@
+---
+import Base from '../../layouts/Base.astro';
+import { dict, fmt, href } from '../../lib/i18n.mjs';
+interface Props { lang: string }
+const { lang } = Astro.props;
+const t = dict(lang);
+const simI18n = JSON.stringify({ lang, sentence: t.simulator.sentence, axisLabel: t.simulator.axisLabel });
+---
+<Base title={t.simulator.title} lang={lang} description={t.simulator.description}>
+  <p class="eyebrow">{t.simulator.eyebrow}</p>
+  <h1>{t.simulator.title}</h1>
+  <p class="intro prose" set:html={fmt(t.simulator.intro, { ANNEX2: href(lang, '/law/annex-2-retention') })} />
+
+  <form id="sim" class="controls no-print">
+    <div class="field">
+      <label for="rev">{t.simulator.revLabel}</label>
+      <input type="range" id="rev" min="50" max="400" step="10" value="150" />
+      <output for="rev" id="rev-out">150</output>
+      <p class="note">{t.simulator.revNote}</p>
+    </div>
+    <div class="field">
+      <label for="lag">{t.simulator.lagLabel}</label>
+      <input type="range" id="lag" min="3" max="15" step="1" value="7" />
+      <output for="lag" id="lag-out">7</output>
+      <p class="note">{t.simulator.lagNote}</p>
+    </div>
+    <div class="field">
+      <label for="ret">{t.simulator.retLabel}</label>
+      <input type="range" id="ret" min="2" max="6" step="0.5" value="4" />
+      <output for="ret" id="ret-out">4</output>
+      <p class="note">{t.simulator.retNote}</p>
+    </div>
+    <button type="button" id="sceptic" class="btn">{t.simulator.sceptic}</button>
+    <button type="button" id="reset" class="btn">{t.simulator.reset}</button>
+  </form>
+
+  <figure class="chart">
+    <svg id="curve" viewBox="0 0 720 300" role="img" aria-label={t.simulator.chartLabel}></svg>
+    <figcaption id="sentence" class="sentence" aria-live="polite"></figcaption>
+  </figure>
+
+  <details class="prose">
+    <summary>{t.simulator.assumptionsHead}</summary>
+    <ul>
+      {t.simulator.assumptions.map((a) => <li set:html={a} />)}
+    </ul>
+  </details>
+
+  <script type="application/json" id="sim-i18n" set:html={simI18n} />
+  <script src="../../scripts/simulator.ts"></script>
+</Base>
+
+<style>
+  h1 { font-size: 1.7rem; margin: 0.4rem 0 1rem; }
+  .intro { margin-bottom: 1.6rem; }
+  .controls { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1.4rem; align-items: start; margin-bottom: 1.6rem; }
+  .field label { display: block; font-size: 0.85rem; font-weight: 500; margin-bottom: 0.4rem; }
+  .field input[type="range"] { width: calc(100% - 3.4rem); accent-color: var(--seal-gold); }
+  .field output { font-family: var(--mono); font-size: 0.9rem; margin-left: 0.5rem; }
+  .note { font-size: 0.78rem; color: var(--ink-soft); margin-top: 0.3rem; }
+  .controls .btn { align-self: center; }
+  .chart { border: 1px solid var(--guilloche); background: var(--card); padding: 1rem; margin-bottom: 1.4rem; }
+  .chart svg { width: 100%; height: auto; display: block; }
+  .sentence { font-family: var(--read); font-size: 1.02rem; padding: 0.8rem 0.2rem 0.2rem; }
+  details { margin-top: 1rem; }
+  summary { cursor: pointer; }
+</style>
