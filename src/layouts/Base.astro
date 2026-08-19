@@ -9,6 +9,7 @@ import '@fontsource/playfair-display/500.css';
 import '@fontsource/playfair-display/600.css';
 import '../styles/base.css';
 import { dict, href, LOCALES, DICTS } from '../lib/i18n.mjs';
+import { ogSlugForPath, ogFilename } from '../lib/og-slug.mjs';
 
 interface Props { title: string; description?: string; lang?: string }
 const { title, lang = 'en' } = Astro.props;
@@ -32,6 +33,9 @@ const isCurrent = (navHref: string) => {
   if (navHref === '/law') return p === '/law' || (p.startsWith('/law/') && !p.startsWith('/law/objections') && !p.startsWith('/law/ledger'));
   return p === navHref || p.startsWith(navHref + '/');
 };
+// Certificate og-image for this page; falls back to the locale's cover
+// when the page has no certificate of its own (per-article pages, 404).
+const ogImage = new URL(`/og/${ogFilename(lang, ogSlugForPath(basePath))}`, Astro.site).href;
 ---
 <!doctype html>
 <html lang={lang}>
@@ -42,6 +46,11 @@ const isCurrent = (navHref: string) => {
     <meta name="description" content={description} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content={ogImage} />
     <meta name="color-scheme" content="light dark" />
     {LOCALES.map((l) => (
       <link rel="alternate" hreflang={l} href={new URL(href(l, basePath), Astro.site).href} />
@@ -119,7 +128,11 @@ const isCurrent = (navHref: string) => {
   .links a { font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; text-decoration: none; }
   .links a[aria-current="page"] { color: var(--seal-gold); }
   .langs { display: inline-flex; gap: 0.45rem; padding-left: 0.6rem; border-left: 1px solid var(--guilloche); }
-  .lang { font-size: 0.68rem !important; color: var(--ink-soft); letter-spacing: 0.06em !important; }
+  .lang {
+    font-size: 0.68rem !important; color: var(--ink-soft); letter-spacing: 0.06em !important;
+    display: inline-flex; align-items: center; justify-content: center;
+    min-width: 24px; min-height: 24px;
+  }
   .lang[aria-current="true"] { color: var(--seal-gold); border-bottom: 1px solid var(--seal-gold); }
   #theme-toggle {
     background: none; border: 1px solid var(--guilloche); color: var(--ink);

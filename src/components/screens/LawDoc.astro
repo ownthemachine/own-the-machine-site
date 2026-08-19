@@ -14,11 +14,20 @@ const title = kind === 'article' ? `${t.lawIndex.article} ${item.number}: ${item
 const eyebrow = kind === 'article'
   ? fmt(t.lawDoc.eyebrowArticle, { N: String(item.number) })
   : fmt(t.lawDoc.eyebrowAnnex, { N: item.numeral });
+const plain = kind === 'article' && item.plain
+  ? (item.plain[lang] || item.plain.en) : null;
 ---
 <Base title={title} lang={lang}>
   <article class="lawpage">
     <p class="eyebrow">{eyebrow}</p>
     <h1>{kind === 'article' ? item.title : item.title.replace(/^Annex [IVX]+: /, '')}</h1>
+    {plain && <p class="plain-l0">{plain.l0}</p>}
+    {plain && (
+      <aside class="plain-l1" lang={item.plain[lang] ? lang : 'en'}>
+        <p class="plain-label">{t.lawDoc.plainLabel}</p>
+        <div class="prose" set:html={plain.l1} />
+      </aside>
+    )}
     <LangBanner lang={lang} kind="lawEnglish" />
     <div class="prose law-text" lang="en" set:html={item.html} />
     <p class="provenance" set:html={
@@ -40,6 +49,10 @@ const eyebrow = kind === 'article'
 
 <style>
   .lawpage h1 { font-size: 1.7rem; margin: 0.4rem 0 1.2rem; }
+  .plain-l0 { font-family: var(--read); font-style: italic; font-size: 1.05rem; color: var(--ink-soft); margin: -0.6rem 0 1rem; max-width: var(--measure); }
+  .plain-l1 { border: 1px solid var(--guilloche); border-left: 3px solid var(--ink-soft); background: var(--card); padding: 0.9rem 1.1rem; margin-bottom: 1.4rem; max-width: var(--measure); }
+  .plain-label { font-size: 0.68rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--ink-soft); margin-bottom: 0.5rem; font-family: var(--ui); }
+  .plain-l1 .prose p { margin-bottom: 0; font-size: 0.98rem; }
   .law-text :global(p) { padding-left: 1.5rem; text-indent: -1.5rem; }
   @media (max-width: 600px) {
     .law-text :global(p) { padding-left: 1rem; text-indent: -1rem; }
