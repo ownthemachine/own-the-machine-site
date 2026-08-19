@@ -1,0 +1,18 @@
+---
+import Base from '../layouts/Base.astro';
+import { heroSeal } from '../lib/seal.mjs';
+---
+<Base title="Not found">
+  <div class="nf">
+    <div set:html={heroSeal({ size: 120, animate: false })} />
+    <h1>Nothing is certified at this address</h1>
+    <p>The page you asked for does not exist. The law is at
+    <a href="/law">/law</a>; everything else starts at
+    <a href="/">the cover</a>.</p>
+  </div>
+</Base>
+
+<style>
+  .nf { text-align: center; padding: 3rem 0; }
+  h1 { font-size: 1.5rem; margin: 1.2rem 0 0.6rem; }
+</style>
