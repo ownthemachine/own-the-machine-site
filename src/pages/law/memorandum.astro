@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import law from '../../generated/law.json';
+import OnPage from '../../components/OnPage.astro';
 ---
 <Base title="Severability" description="How the instrument decomposes when institutions start cutting, and what each cut costs.">
   <p class="eyebrow">Memorandum · strategy in public</p>
@@ -13,7 +14,10 @@ import law from '../../generated/law.json';
     is a deliberate choice: hostile readers will quote it as lack of
     confidence, and the alternative is worse.
   </p>
-  <div class="prose" set:html={law.severability} />
+  <div class="withtoc">
+    <OnPage toc={law.severability.toc} />
+    <div class="prose" set:html={law.severability.html} />
+  </div>
 </Base>
 
 <style>

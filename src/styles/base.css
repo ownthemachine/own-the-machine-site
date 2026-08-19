@@ -102,6 +102,12 @@ h1, h2, h3 { font-family: var(--display); font-weight: 600; line-height: 1.2; te
 }
 .verdict.publish { border-color: var(--ink-soft); color: var(--ink-soft); }
 
+.withtoc { display: block; }
+@media (min-width: 1100px) {
+  .withtoc { display: grid; grid-template-columns: minmax(0, 1fr) 15rem; gap: 2.5rem; }
+  .withtoc > .prose { order: -1; }
+}
+
 @media (max-width: 600px) {
   .prose p, .prose li { font-size: 0.98rem; line-height: 1.62; margin-bottom: 1rem;
     -webkit-hyphens: auto; hyphens: auto; }
