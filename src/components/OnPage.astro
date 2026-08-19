@@ -25,6 +25,13 @@ const { toc } = Astro.props;
 
 <style>
   .onpage-mobile { border: 1px solid var(--guilloche); background: var(--card); padding: 0.7rem 0.9rem; margin-bottom: 1.6rem; }
+  @media (max-width: 1099px) {
+    .onpage-mobile {
+      position: sticky; top: 0; z-index: 20;
+      box-shadow: 0 1px 0 var(--guilloche);
+    }
+    .onpage-mobile[open] > ol { max-height: 55vh; overflow-y: auto; overscroll-behavior: contain; }
+  }
   .onpage-mobile summary { cursor: pointer; font-size: 0.8rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
   .onpage-mobile ol { margin: 0.7rem 0 0.2rem 1.2rem; }
   .onpage-mobile li { padding: 0.18rem 0; font-size: 0.9rem; }
