@@ -14,17 +14,19 @@ const gateNames = {
 <Base title="The ledger" description="The public change history of the draft: every adversarial review, every verdict, every editor disposition.">
   <p class="eyebrow">The law shows its work</p>
   <h1>The ledger</h1>
-  <p class="intro prose">
-    Before any text of this Regulation merges, it passes six adversarial
-    gates: legal form, design-constraint compliance, legal basis, hostile
-    counsel, coherence with existing EU law, and fidelity between the
-    plain-language and legal layers. Every verdict is committed to the
-    repository, including the ones that drew blood, and a REVISE verdict
-    merges only with a written editor disposition. Reviews are run
-    adversarially by AI under the editor's responsibility; the dispositions
-    below are the editor's, on the record. Each entry wears a seal derived
-    from its commit hash: no two amendments carry the same mark.
-  </p>
+  <div class="intro prose">
+    <p>Before any text of this Regulation merges, it passes six
+    adversarial gates: legal form, design-constraint compliance, legal
+    basis, hostile counsel, coherence with existing EU law, and fidelity
+    between the plain-language and legal layers.</p>
+    <p>Every verdict is committed to the repository, including the ones
+    that drew blood. A REVISE verdict merges only with a written editor
+    disposition. Reviews are run adversarially by AI under the editor's
+    responsibility; the dispositions below are the editor's, on the
+    record.</p>
+    <p>Each entry wears a seal derived from its commit hash: no two
+    amendments carry the same mark.</p>
+  </div>
 
   {law.ledger.map((e) => (
     <article class="entry" id={e.file.replace('.md', '')}>
