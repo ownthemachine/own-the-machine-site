@@ -72,7 +72,7 @@ export default {
     title: 'Die Einwände, in aller Schärfe',
     eyebrow: 'Memorandum · Ehrlichkeit zuerst',
     intro: 'Jedes ernsthafte Argument gegen diese Verordnung, so stark formuliert, wie ihre Gegner es formulieren würden, bevor ein einziger Artikel entworfen war. Jeder Einwand endet in Konsequenzen für den Entwurf, und die Tabelle der Entwurfsbeschränkungen unten ist ein Merge-Kriterium: Text, der sie verletzt, wird nicht zusammengeführt. Wo ein Einwand eingeräumt wird, steht es dabei. Diese Seite ist die Glaubwürdigkeitsstrategie der Kampagne, nicht ihre Beichte: Lesen Sie sie zuerst, und dann <a href="%LAW%">das Gesetz, das daraus entstand</a>.',
-    description: 'Vierzehn Einwände gegen den Entwurf, in aller Schärfe veröffentlicht, jeder mit seinen Entwurfskonsequenzen.',
+    description: 'Fünfzehn Einwände gegen den Entwurf, in aller Schärfe veröffentlicht, jeder mit seinen Entwurfskonsequenzen.',
   },
   memorandum: {
     title: 'Teilbarkeit: was bei Streichungen Bestand hat',
@@ -108,6 +108,7 @@ export default {
     chartLabel: 'Prognostizierte Ausschüttung pro Person und Jahr, Horizont 30 Jahre, mit Unsicherheitsband',
     axisLabel: 'EUR pro Person und Jahr, in konstanten Euro von 2026',
     sentence: 'Unter diesen Annahmen erhält eine Bürgerin oder ein Bürger bis %YEAR% grob %LOW% bis %HIGH% EUR pro Jahr, steigend, während die Reserve sich verzinst. Die ersten Jahre liegen mit Absicht nahe null: Die Reserve erhält Kapital, bevor sie ausschüttet, per Gesetz.',
+    stakeSentence: 'Hinter der Auszahlung steht der Anteil: bis %YEAR% rund %SLOW% bis %SHIGH% EUR Reservekapital je Bürgerin und Bürger, mit Zinseszins.',
     assumptionsHead: 'Jede Annahme dieses Modells',
     assumptions: [
       '3 % des Werts eines benannten Unternehmens fließen beim ersten Liquiditätsereignis dieses Unternehmens in die Reserve (festgelegt in Artikel 5 Absatz 2); der Unternehmenswert ist mit dem Zehnfachen des erfassten Umsatzes angesetzt, eine bewusst runde Zahl.',

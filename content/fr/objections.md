@@ -1,6 +1,6 @@
 ---
 source: regulation/memorandum/counter-arguments.md
-source-commit: c484663
+source-commit: 97206ad
 status: gate-reviewed
 ---
 
@@ -586,6 +586,16 @@ source de financement, là où elle est nécessaire.
 
 ---
 
+### 15. Un euro par an est une insulte, pas une politique
+
+**L'objection, sous sa forme la plus forte.** Faites tourner le simulateur de l'instrument sur des hypothèses prudentes : il verse à un citoyen un ou deux euros par an pendant sa première décennie. Personne de sensé n'y attache de valeur ; aucun électeur ne fait campagne pour cela ; aucun journaliste ne résiste au titre. L'appareil est d'une disproportion grotesque par rapport à ce qu'il produit : un nouvel organe de l'Union, un régime de désignation, une machinerie d'évaluation, de la comitologie, des amendes jusqu'à 10 % du chiffre d'affaires mondial, le tout pour livrer moins que le prix d'un café. Pire : la doctrine d'honnêteté du projet interdit de promettre davantage. Une initiative qui doit, selon ses propres règles, dire à chaque signataire « vous n'en ressentirez rien pendant vingt ans » a choisi un message avec lequel aucune campagne de masse n'a jamais gagné. Le revenu de base promet au moins le loyer.
+
+**Là où elle voit juste.** Le flux initial est réellement modeste, et la structure même de la campagne lui interdit de le gonfler. Le risque de collecte est réel : les récompenses différées perdent contre les immédiates à chaque porte.
+
+**La réponse que l'instrument doit apporter.** En trois temps. D'abord, la petitesse est un calibrage, pas un échec : la taille de l'instrument suit par construction la taille du phénomène. Trois pour cent de peu, c'est peu, prélevé sur presque personne, et dans ce monde l'article 14, paragraphe 3, oblige la Commission à constater que la prémisse ne s'est pas vérifiée et à proposer modification ou abrogation ; un dividende durablement minuscule, c'est la condition de falsification qui joue, pas une politique qui boite. Le dividende n'est petit que dans le monde où le problème l'est aussi. Ensuite, le droit ne peut s'acquérir que tôt. L'acompte danois gelé de 4 368 DKK de 1978, somme dérisoire à l'époque, vaut 119 506 DKK aujourd'hui ; les deux tiers du fonds norvégien sont du rendement composé, pas du pétrole. L'autre calendrier, réclamer la part une fois les gains visibles et les propriétaires installés, c'est l'expropriation, politiquement impossible. L'euro achète le certificat, et c'est le certificat qui importe. Enfin, le stock devance le flux : sur les mêmes hypothèses prudentes, la Réserve détient vers l'an trente environ 400 EUR de capital derrière chaque citoyen, avant qu'un seul versement annuel n'impressionne. Une campagne qui montre le versement sans la part décrit mal son propre instrument.
+
+**Conséquence de conception.** Cette objection est la raison d'être de DC-14 (ne jamais ouvrir sur un chiffre des premières années), de la condition de falsification portée par l'article 14, paragraphe 3, et du fait que l'annexe II distribue des revenus, jamais du principal. Elle ajoute une règle mécanique qui lui est propre : partout où figure un montant versé par citoyen, la part par citoyen dans la Réserve figure à côté (DC-31).
+
 ## Le tableau des contraintes
 
 Les articles sont rédigés à l'aune de ce tableau. Un projet qui viole une DC
@@ -623,6 +633,7 @@ Les articles sont rédigés à l'aune de ce tableau. Un projet qui viole une DC
 | DC-28 | Nouveauté limitée à la source de financement ; circuits existants pour la distribution | 14 |
 | DC-29 | Garantie de non-dégradation alignée sur le marché, valorisation indépendante et contestable séparément, contrôle juridictionnel | 1 |
 | DC-30 | Les éléments essentiels (déclencheur, propriété de la réserve, droit individuel, ingérence) dans les articles, jamais délégués | 1 |
+| DC-31 | Partout où figure un montant versé par citoyen, la part par citoyen dans la Réserve figure à côté | 15 |
 
 ## Statut
 

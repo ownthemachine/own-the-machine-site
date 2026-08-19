@@ -71,7 +71,7 @@ export default {
     title: 'Les objections, sous leur forme la plus forte',
     eyebrow: 'Mémorandum · l’honnêteté d’abord',
     intro: 'Chaque argument sérieux contre ce règlement, énoncé aussi bien que ses opposants l’énonceraient, avant qu’un seul article ne soit rédigé. Chaque objection se conclut par ses incidences sur la conception, et le tableau des contraintes ci-dessous est un critère de fusion : un texte qui le viole n’est pas fusionné. Quand une objection est admise, c’est écrit. Cette page est la stratégie de crédibilité de la campagne, pas sa confession : lisez-la d’abord, puis lisez <a href="%LAW%">la loi qui en est sortie</a>.',
-    description: 'Quatorze objections au projet, publiées sous leur forme la plus forte, chacune avec ses incidences sur la conception.',
+    description: 'Quinze objections au projet, publiées sous leur forme la plus forte, chacune avec ses incidences sur la conception.',
   },
   memorandum: {
     title: 'Divisibilité : ce qui survit à l’élagage',
@@ -107,6 +107,7 @@ export default {
     chartLabel: 'Distribution projetée par citoyen et par an, horizon de 30 ans, avec bande d’incertitude',
     axisLabel: 'EUR par citoyen et par an, en euros constants de 2026',
     sentence: 'Sous ces hypothèses, un citoyen reçoit environ %LOW% à %HIGH% EUR par an d’ici %YEAR%, en hausse à mesure que la Réserve capitalise. Les premières années frôlent zéro à dessein : la Réserve préserve le capital avant de distribuer, par la loi.',
+    stakeSentence: 'Derrière ce versement se trouve la part : vers %YEAR%, environ %SLOW% à %SHIGH% EUR de capital de la Réserve par citoyen, en capitalisation.',
     assumptionsHead: 'Chaque hypothèse de ce modèle',
     assumptions: [
       '3 % de la valeur d’une entreprise désignée entrent dans la Réserve au premier événement de liquidité de cette entreprise (fixé par l’article 5, paragraphe 2) ; la valeur de l’entreprise est prise à dix fois le chiffre d’affaires couvert, un chiffre rond assumé.',
