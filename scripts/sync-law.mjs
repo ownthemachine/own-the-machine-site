@@ -87,9 +87,25 @@ const linkRepoPaths = (html) => html.replace(
     return target ? pre + '<a href="' + REPO + '/' + target + '">' + path + '</a>' : m;
   });
 
+// Long texts get an "On this page" contents list generated from their
+// h2 headings (the EUR-Lex / ECL in-page navigation pattern).
+const slug = (t) => t.toLowerCase().replace(/<[^>]+>/g, '').replace(/&[a-z]+;/g, ' ')
+  .replace(/[^a-z0-9\s-]/g, '').trim().replace(/\s+/g, '-').slice(0, 60);
+const withToc = (html) => {
+  const toc = [];
+  const out = html.replace(/<h2>([\s\S]*?)<\/h2>/g, (m, inner) => {
+    const text = inner.replace(/<[^>]+>/g, '').trim();
+    let id = slug(text) || 'section';
+    while (toc.some((t) => t.id === id)) id += '-b';
+    toc.push({ id, text });
+    return `<h2 id="${id}">${inner}</h2>`;
+  });
+  return { html: out, toc };
+};
+
 // ---- memorandum: objections + severability --------------------------
-const objections = linkRepoPaths(marked.parse(read('regulation/memorandum/counter-arguments.md')));
-const severability = linkRepoPaths(marked.parse(read('regulation/memorandum/severability.md')));
+const objections = withToc(linkRepoPaths(marked.parse(read('regulation/memorandum/counter-arguments.md'))));
+const severability = withToc(linkRepoPaths(marked.parse(read('regulation/memorandum/severability.md'))));
 
 // ---- ledger: review files with front matter -------------------------
 const revDir = join(LAW, 'pipeline', 'reviews');
@@ -115,8 +131,8 @@ const ledger = readdirSync(revDir).filter((f) => f.endsWith('.md')).sort().rever
 });
 
 // ---- evidence -------------------------------------------------------
-let evidence = '';
-try { evidence = linkRepoPaths(marked.parse(read('campaign/EUROPE.md'))); } catch { /* optional */ }
+let evidence = { html: '', toc: [] };
+try { evidence = withToc(linkRepoPaths(marked.parse(read('campaign/EUROPE.md')))); } catch { /* optional */ }
 
 // ---- structure ------------------------------------------------------
 const structure = marked.parse(stripNotes(read('regulation/STRUCTURE.md')).replace(/^# .+$/m, '').trim());

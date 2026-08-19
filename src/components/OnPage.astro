@@ -1,0 +1,38 @@
+---
+// "On this page" navigation for long texts: the EUR-Lex / ECL pattern.
+// Sticky sidebar on wide screens, a collapsed list on small ones. Pure
+// HTML and CSS; the page decides where the two renderings sit.
+interface Props { toc: { id: string; text: string }[] }
+const { toc } = Astro.props;
+---
+{toc.length > 2 && (
+  <>
+    <details class="onpage-mobile no-print">
+      <summary>On this page</summary>
+      <ol>{toc.map((t) => <li><a href={`#${t.id}`}>{t.text}</a></li>)}</ol>
+    </details>
+    <nav class="onpage-side no-print" aria-label="On this page">
+      <p class="eyebrow">On this page</p>
+      <ol>{toc.map((t) => <li><a href={`#${t.id}`}>{t.text}</a></li>)}</ol>
+      <p class="top"><a href="#main">Back to top</a></p>
+    </nav>
+  </>
+)}
+
+<style>
+  .onpage-mobile { border: 1px solid var(--guilloche); background: var(--card); padding: 0.7rem 0.9rem; margin-bottom: 1.6rem; }
+  .onpage-mobile summary { cursor: pointer; font-size: 0.8rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
+  .onpage-mobile ol { margin: 0.7rem 0 0.2rem 1.2rem; }
+  .onpage-mobile li { padding: 0.18rem 0; font-size: 0.9rem; }
+  .onpage-side { display: none; }
+  @media (min-width: 1100px) {
+    .onpage-mobile { display: none; }
+    .onpage-side { display: block; position: sticky; top: 1.5rem; align-self: start; }
+    .onpage-side ol { list-style: none; margin-top: 0.7rem; border-left: 1px solid var(--guilloche); }
+    .onpage-side li { padding: 0.22rem 0 0.22rem 0.9rem; font-size: 0.83rem; line-height: 1.4; }
+    .onpage-side a { text-decoration: none; color: var(--ink-soft); }
+    .onpage-side a:hover { color: var(--seal-gold); }
+    .onpage-side .top { margin-top: 1rem; font-size: 0.75rem; }
+    .onpage-side .top a { color: var(--ink-soft); }
+  }
+</style>

@@ -21,8 +21,8 @@ const sections = [
   { id: 'recitals', title: 'Recitals', html: `<p class="whereas">Whereas:</p>${law.recitals}` },
   ...law.articles.map((a) => ({ id: a.slug, title: `Article ${a.number}: ${a.title}`, html: a.html })),
   ...law.annexes.map((a) => ({ id: a.slug, title: a.title, html: a.html })),
-  { id: 'objections', title: 'Memorandum: the objections, at full strength', html: law.objections },
-  { id: 'severability', title: 'Memorandum: severability', html: law.severability },
+  { id: 'objections', title: 'Memorandum: the objections, at full strength', html: law.objections.html },
+  { id: 'severability', title: 'Memorandum: severability', html: law.severability.html },
 ];
 
 // ---------------------------------------------------------------- PDF
