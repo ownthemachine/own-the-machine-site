@@ -1,0 +1,64 @@
+---
+import Base from '../../layouts/Base.astro';
+import law from '../../generated/law.json';
+import { commitSeal } from '../../lib/seal.mjs';
+import OnPage from '../OnPage.astro';
+import LangBanner from '../LangBanner.astro';
+import { dict } from '../../lib/i18n.mjs';
+interface Props { lang: string }
+const { lang } = Astro.props;
+const t = dict(lang);
+const gateNames = t.ledger.gates;
+---
+<Base title={t.ledger.title} lang={lang} description={t.ledger.description}>
+  <p class="eyebrow">{t.ledger.eyebrow}</p>
+  <h1>{t.ledger.title}</h1>
+  <div class="intro prose">
+    <p>{t.ledger.intro1}</p>
+    <p>{t.ledger.intro2}</p>
+    <p>{t.ledger.intro3}</p>
+  </div>
+  <LangBanner lang={lang} kind="enOnly" />
+
+  <div class="withtoc">
+  <OnPage toc={law.ledger.map((e) => ({
+    id: e.file.replace('.md', ''),
+    text: `${gateNames[e.gate] || e.gate} · ${e.date}`,
+  }))} />
+  <div>
+  {law.ledger.map((e) => (
+    <article class="entry" id={e.file.replace('.md', '')}>
+      <div class="seal" set:html={commitSeal(e.commit || e.file)} />
+      <div class="body">
+        <p class="serial">Nº {e.commit || '·'} · {e.date}</p>
+        <h2>{gateNames[e.gate] || e.gate} <span class:list={['verdict', { publish: e.verdict === 'PUBLISH' }]}>{e.verdict}{e.disposition ? ` · ${e.disposition.replace(/-/g, ' ')}` : ''}</span></h2>
+        <p class="target">{e.target}</p>
+        {e.dispositionHtml && (
+          <details>
+            <summary>{t.chrome.editorDisposition}</summary>
+            <div class="prose dispo" lang="en" set:html={e.dispositionHtml} />
+          </details>
+        )}
+        <p class="links">
+          <a href={`https://github.com/ownthemachine/own-the-machine/blob/main/pipeline/reviews/${e.file}`}>{t.chrome.fullReview}</a>
+          {e.commit && <> · <a href={`https://github.com/ownthemachine/own-the-machine/commit/${e.commit}`}>{t.chrome.diff}</a></>}
+        </p>
+      </div>
+    </article>
+  ))}
+  </div>
+  </div>
+</Base>
+
+<style>
+  h1 { font-size: 1.7rem; margin: 0.4rem 0 1rem; }
+  .intro { margin-bottom: 2rem; }
+  .entry { display: flex; gap: 1.1rem; border: 1px solid var(--guilloche); background: var(--card); padding: 1rem 1.2rem; margin-bottom: 0.8rem; }
+  .entry .seal { flex: 0 0 auto; }
+  .entry h2 { font-family: var(--ui); font-weight: 600; font-size: 0.98rem; margin: 0.15rem 0 0.3rem; display: flex; gap: 0.6rem; align-items: center; flex-wrap: wrap; }
+  .target { font-size: 0.85rem; color: var(--ink-soft); margin-bottom: 0.4rem; }
+  details { margin: 0.4rem 0; }
+  summary { cursor: pointer; font-size: 0.85rem; }
+  .dispo { font-size: 0.9rem; margin-top: 0.6rem; }
+  .links { font-size: 0.8rem; }
+</style>

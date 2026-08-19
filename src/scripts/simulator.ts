@@ -34,7 +34,9 @@ function run({ revBn, lag, ret }: Inputs): number[] {
 }
 
 const $ = (id: string) => document.getElementById(id) as HTMLInputElement;
-const fmt = (v: number) => v >= 100 ? Math.round(v).toString() : v.toFixed(0);
+const I18N = JSON.parse(document.getElementById('sim-i18n')!.textContent || '{}');
+const nf = new Intl.NumberFormat(I18N.lang || 'en');
+const fmt = (v: number) => nf.format(Math.round(v));
 
 function draw() {
   const inputs: Inputs = { revBn: +$('rev').value, lag: +$('lag').value, ret: +$('ret').value };
@@ -62,12 +64,13 @@ function draw() {
     [0, 10, 20, 29].map((y) => `<text x="${X(y)}" y="${H - 8}" text-anchor="middle" font-size="11" fill="var(--ink-soft)" font-family="var(--ui)">${year0 + y}</text>`).join('') +
     `<path d="${band}" fill="var(--seal-gold)" opacity="0.13"/>` +
     `<path d="${line(central)}" fill="none" stroke="var(--seal-gold)" stroke-width="2"/>` +
-    `<text x="${PL}" y="${PT + 2}" font-size="11" fill="var(--ink-soft)" font-family="var(--ui)">EUR per citizen per year, constant 2026 euros</text>`;
+    `<text x="${PL}" y="${PT + 2}" font-size="11" fill="var(--ink-soft)" font-family="var(--ui)">${I18N.axisLabel}</text>`;
 
   const y20l = low[19], y20h = high[19];
-  document.getElementById('sentence')!.textContent =
-    `Under these assumptions, a citizen receives roughly EUR ${fmt(y20l)} to ${fmt(y20h)} per year by ${year0 + 19}, ` +
-    `rising as the Reserve compounds. The early years hug zero on purpose: the Reserve preserves capital before it distributes, by law.`;
+  document.getElementById('sentence')!.textContent = (I18N.sentence || '')
+    .split('%LOW%').join(fmt(y20l))
+    .split('%HIGH%').join(fmt(y20h))
+    .split('%YEAR%').join(String(year0 + 19));
 }
 
 for (const id of ['rev', 'lag', 'ret']) $(id).addEventListener('input', draw);
