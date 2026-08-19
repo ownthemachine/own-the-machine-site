@@ -19,8 +19,10 @@
 
   --measure: 42rem;
 }
+/* The plate: dark mode. Follows the system by default; an explicit
+   choice via the toggle sets data-theme and wins in both directions. */
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --paper: #0D1712;
     --ink: #DCE5DC;
     --ink-soft: #9FB4A6;
@@ -29,8 +31,21 @@
     --seal-gold: #C79A3B;
     --serial-red: #C05B3F;
     --card: #101E17;
+    color-scheme: dark;
   }
 }
+:root[data-theme="dark"] {
+  --paper: #0D1712;
+  --ink: #DCE5DC;
+  --ink-soft: #9FB4A6;
+  --guilloche: #22382E;
+  --guilloche-faint: #16241D;
+  --seal-gold: #C79A3B;
+  --serial-red: #C05B3F;
+  --card: #101E17;
+  color-scheme: dark;
+}
+:root[data-theme="light"] { color-scheme: light; }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
 html { scroll-behavior: smooth; }
