@@ -1,0 +1,94 @@
+/* The citizen's certificate: design tokens and base typography.
+   Rules: gold is a seal, never a typeface; red is a serial number;
+   dark mode is the engraving plate, the same drawing inverted. */
+
+:root {
+  --paper: #F4F3EE;
+  --ink: #14352A;
+  --ink-soft: #3E5A4E;
+  --guilloche: #C9D6CC;
+  --guilloche-faint: #E3E9E2;
+  --seal-gold: #A87F24;
+  --serial-red: #983D26;
+  --card: #F8F7F2;
+
+  --display: 'Playfair Display', Georgia, 'Noto Serif Display', serif;
+  --read: 'Literata', Georgia, serif;
+  --ui: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+  --mono: ui-monospace, 'SFMono-Regular', Menlo, monospace;
+
+  --measure: 42rem;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #0D1712;
+    --ink: #DCE5DC;
+    --ink-soft: #9FB4A6;
+    --guilloche: #22382E;
+    --guilloche-faint: #16241D;
+    --seal-gold: #C79A3B;
+    --serial-red: #C05B3F;
+    --card: #101E17;
+  }
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--ui);
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+a { color: var(--ink); text-decoration-color: var(--guilloche); text-underline-offset: 3px; }
+a:hover { color: var(--seal-gold); text-decoration-color: var(--seal-gold); }
+:focus-visible { outline: 2px solid var(--seal-gold); outline-offset: 2px; }
+
+h1, h2, h3 { font-family: var(--display); font-weight: 600; line-height: 1.2; }
+
+.prose { font-family: var(--read); max-width: var(--measure); }
+.prose p, .prose li { font-size: 1.03rem; line-height: 1.7; margin-bottom: 0.9rem; }
+.prose h2 { font-size: 1.5rem; margin: 2.2rem 0 0.8rem; }
+.prose h3 { font-size: 1.15rem; margin: 1.8rem 0 0.6rem; }
+.prose ul, .prose ol { padding-left: 1.4rem; margin-bottom: 0.9rem; }
+.prose blockquote { border-left: 2px solid var(--guilloche); padding-left: 1rem; color: var(--ink-soft); margin-bottom: 0.9rem; }
+.prose table { border-collapse: collapse; font-family: var(--ui); font-size: 0.85rem; margin: 1.2rem 0; display: block; overflow-x: auto; }
+.prose th, .prose td { border: 1px solid var(--guilloche); padding: 0.45rem 0.65rem; text-align: left; vertical-align: top; }
+.prose code { font-family: var(--mono); font-size: 0.9em; }
+
+.para-num { font-weight: 600; margin-right: 0.35rem; }
+
+.eyebrow {
+  font-size: 0.7rem; letter-spacing: 0.28em; text-transform: uppercase;
+  color: var(--ink-soft); font-family: var(--ui);
+}
+.serial { font-family: var(--mono); font-size: 0.78rem; color: var(--serial-red); letter-spacing: 0.06em; }
+
+.btn {
+  display: inline-block; font-family: var(--ui); font-size: 0.8rem;
+  letter-spacing: 0.14em; text-transform: uppercase; text-decoration: none;
+  padding: 0.75rem 1.6rem; border: 1px solid var(--ink); color: var(--ink);
+}
+.btn:hover { color: var(--ink); border-color: var(--seal-gold); }
+.btn-gold { background: var(--seal-gold); border-color: var(--seal-gold); color: var(--paper); }
+.btn-gold:hover { color: var(--paper); filter: brightness(1.05); }
+
+.rule-double { border: 0; border-top: 2px solid var(--ink); margin-bottom: 3px; }
+.rule-fine { border: 0; border-top: 1px solid var(--ink); }
+
+.verdict {
+  display: inline-block; font-size: 0.62rem; letter-spacing: 0.16em;
+  text-transform: uppercase; padding: 0.2rem 0.55rem; font-family: var(--ui);
+  border: 1px solid var(--serial-red); color: var(--serial-red);
+}
+.verdict.publish { border-color: var(--ink-soft); color: var(--ink-soft); }
+
+@media print {
+  nav, footer, .no-print { display: none !important; }
+  body { background: #fff; color: #000; }
+  .prose { max-width: none; }
+}

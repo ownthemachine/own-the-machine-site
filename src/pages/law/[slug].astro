@@ -1,0 +1,48 @@
+---
+import Base from '../../layouts/Base.astro';
+import law from '../../generated/law.json';
+
+export function getStaticPaths() {
+  const arts = law.articles.map((a) => ({
+    params: { slug: a.slug },
+    props: { kind: 'article', item: a },
+  }));
+  const annexes = law.annexes.map((a) => ({
+    params: { slug: a.slug },
+    props: { kind: 'annex', item: a },
+  }));
+  return [...arts, ...annexes];
+}
+import lawData from '../../generated/law.json';
+const { kind, item } = Astro.props;
+const arts = lawData.articles;
+const idx = kind === 'article' ? arts.findIndex((a) => a.number === item.number) : -1;
+const prev = idx > 0 ? arts[idx - 1] : null;
+const next = idx >= 0 && idx < arts.length - 1 ? arts[idx + 1] : null;
+const title = kind === 'article' ? `Article ${item.number}: ${item.title}` : item.title;
+---
+<Base title={title}>
+  <article class="lawpage">
+    <p class="eyebrow">{kind === 'article' ? `The draft Regulation · Article ${item.number}` : `The draft Regulation · Annex ${item.numeral}`}</p>
+    <h1>{kind === 'article' ? item.title : item.title.replace(/^Annex [IVX]+: /, '')}</h1>
+    <div class="prose law-text" set:html={item.html} />
+    <p class="provenance">
+      Verbatim from the law repo at commit
+      <span class="serial">{lawData.lawCommit}</span> ·
+      <a href={`https://github.com/ownthemachine/own-the-machine/commits/main`}>history</a> ·
+      <a href="/law/ledger">what review found</a>
+    </p>
+    <nav class="pager no-print" aria-label="Articles">
+      {prev ? <a href={`/law/${prev.slug}`}>&larr; Article {prev.number}</a> : <a href="/law/recitals">&larr; Recitals</a>}
+      <a href="/law">Contents</a>
+      {next ? <a href={`/law/${next.slug}`}>Article {next.number} &rarr;</a> : <a href={`/law/${lawData.annexes[0].slug}`}>Annex I &rarr;</a>}
+    </nav>
+  </article>
+</Base>
+
+<style>
+  .lawpage h1 { font-size: 1.7rem; margin: 0.4rem 0 1.2rem; }
+  .law-text :global(p) { padding-left: 1.5rem; text-indent: -1.5rem; }
+  .provenance { margin-top: 2rem; font-size: 0.78rem; color: var(--ink-soft); }
+  .pager { display: flex; justify-content: space-between; gap: 1rem; border-top: 1px solid var(--guilloche); margin-top: 1.4rem; padding-top: 0.9rem; font-size: 0.85rem; }
+</style>

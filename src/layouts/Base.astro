@@ -1,0 +1,80 @@
+---
+import '@fontsource/inter/400.css';
+import '@fontsource/inter/500.css';
+import '@fontsource/inter/600.css';
+import '@fontsource/literata/400.css';
+import '@fontsource/literata/400-italic.css';
+import '@fontsource/literata/600.css';
+import '@fontsource/playfair-display/500.css';
+import '@fontsource/playfair-display/600.css';
+import '../styles/base.css';
+
+interface Props { title: string; description?: string }
+const { title, description = 'An open-source draft EU Regulation: capital for all, so the dividend follows.' } = Astro.props;
+const nav = [
+  ['/law', 'The law'],
+  ['/law/objections', 'Objections'],
+  ['/law/ledger', 'Ledger'],
+  ['/simulator', 'Simulator'],
+  ['/evidence', 'Evidence'],
+  ['/about', 'About'],
+];
+const path = Astro.url.pathname;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title} · Own the Machine</title>
+    <meta name="description" content={description} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta name="color-scheme" content="light dark" />
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <nav aria-label="Primary">
+      <a class="brand" href="/">OWN&nbsp;THE&nbsp;MACHINE</a>
+      <div class="links">
+        {nav.map(([href, label]) => (
+          <a href={href} aria-current={path === href || (href !== '/law' && path.startsWith(href + '/')) || (href === '/law' && (path === '/law' || (path.startsWith('/law/') && !['/law/objections','/law/ledger'].some(p => path.startsWith(p))))) ? 'page' : undefined}>{label}</a>
+        ))}
+      </div>
+    </nav>
+    <main id="main"><slot /></main>
+    <footer>
+      <hr class="rule-fine" />
+      <div class="foot-inner">
+        <span class="foot-q"><em>Who owns the machine?</em></span>
+        <span class="foot-meta">
+          Drafted in the open · <a href="https://github.com/ownthemachine">GitHub</a> ·
+          text CC BY-SA 4.0, code AGPL-3.0 · no cookies, no tracking
+        </span>
+      </div>
+    </footer>
+  </body>
+</html>
+
+<style>
+  .skip { position: absolute; left: -999px; top: 0; background: var(--seal-gold); color: var(--paper); padding: 0.5rem 1rem; z-index: 10; }
+  .skip:focus { left: 0; }
+  nav {
+    display: flex; align-items: baseline; justify-content: space-between; gap: 1rem;
+    flex-wrap: wrap; padding: 1.1rem clamp(1rem, 4vw, 3rem);
+    border-bottom: 1px solid var(--guilloche);
+  }
+  .brand {
+    font-family: var(--display); font-weight: 600; letter-spacing: 0.14em;
+    font-size: 1rem; text-decoration: none;
+  }
+  .links { display: flex; gap: clamp(0.7rem, 2vw, 1.4rem); flex-wrap: wrap; }
+  .links a { font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; text-decoration: none; }
+  .links a[aria-current="page"] { color: var(--seal-gold); }
+  main { padding: clamp(1.5rem, 4vw, 3rem); max-width: 72rem; margin: 0 auto; }
+  footer { padding: 1.5rem clamp(1rem, 4vw, 3rem) 2.5rem; }
+  .foot-inner { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; padding-top: 0.9rem; }
+  .foot-q { font-family: var(--read); }
+  .foot-meta { font-size: 0.78rem; color: var(--ink-soft); }
+  .foot-meta a { color: var(--ink-soft); }
+</style>

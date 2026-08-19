@@ -1,0 +1,20 @@
+{
+  "name": "own-the-machine-site",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "license": "AGPL-3.0-only",
+  "scripts": {
+    "sync": "node scripts/sync-law.mjs",
+    "dev": "npm run sync && astro dev",
+    "build": "npm run sync && astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.1.0",
+    "@fontsource/literata": "^5.1.0",
+    "@fontsource/playfair-display": "^5.1.0",
+    "astro": "^5.1.0",
+    "marked": "^15.0.0"
+  }
+}
