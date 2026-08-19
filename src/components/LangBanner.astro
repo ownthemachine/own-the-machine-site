@@ -1,16 +1,26 @@
 ---
 // The honesty banner: says exactly what the reader is looking at when a
-// page is not (or not fully) in their language. Never a silent switch.
+// page is not (or not fully, or not freshly) in their language.
 import { dict } from '../lib/i18n.mjs';
-interface Props { lang: string; kind: 'lawEnglish' | 'pageMachine' | 'enOnly' }
-const { lang, kind } = Astro.props;
-const text = dict(lang).banner[kind];
+interface Props { lang: string; doc?: any; kind?: 'lawEnglish' | 'pageMachine' | 'enOnly' }
+const { lang, doc, kind } = Astro.props;
+const t = dict(lang).banner;
+// Explicit kind wins; otherwise derive from the localised doc's state.
+let resolved = kind || null;
+let stale = false;
+if (!kind && lang !== 'en') {
+  if (!doc || !doc.status) resolved = 'enOnly';
+  else if (doc.status === 'native-verified') resolved = null;
+  else { resolved = 'pageMachine'; stale = Boolean(doc.stale); }
+}
+if (kind && doc && doc.stale) stale = true;
 ---
-{lang !== 'en' && (
-  <p class="lang-banner" lang={lang}>{text}
-    {kind === 'pageMachine' && (
-      <> <a href="https://github.com/ownthemachine/own-the-machine-site/issues">GitHub</a></>
+{lang !== 'en' && resolved && (
+  <p class="lang-banner" lang={lang}>{t[resolved]}
+    {resolved === 'pageMachine' && (
+      <> <a href="https://github.com/ownthemachine/own-the-machine-site/issues">GitHub</a>.</>
     )}
+    {stale && <> {t.stale}</>}
   </p>
 )}
 

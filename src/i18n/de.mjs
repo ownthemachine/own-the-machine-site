@@ -22,6 +22,7 @@ export default {
     lawEnglish: 'Der englische Text ist der Entwurf. Diese Seite zeigt den verbindlichen englischen Text; Übersetzungen des Rechtstexts dienen nur dem Verständnis.',
     pageMachine: 'Diese Seite wurde durch die offene Pipeline des Projekts übersetzt und geprüft; eine muttersprachliche Person hat sie noch nicht verifiziert. Fehler gefunden? Melden Sie ihn auf GitHub.',
     enOnly: 'Diese Seite ist auf Deutsch noch nicht verfügbar; es folgt das englische Original.',
+    stale: 'Das englische Original hat sich seit dieser Übersetzung geändert; bis zur Auffrischung können Details abweichen.',
     pageVerified: 'Diese Übersetzung wurde von einer muttersprachlichen Person verifiziert.',
   },
   home: {
@@ -30,12 +31,12 @@ export default {
     ask: 'Wenn Produktion keine Arbeit im großen Maßstab mehr braucht, sollte jede Bürgerin und jeder Bürger der Union einen Anteil an dem halten, was die Maschinen erzeugen. Dies ist das Gesetz, das genau das tut: ein vollständiger Entwurf einer EU-Verordnung, öffentlich geschrieben, mit den Einwänden in aller Schärfe vor den Artikeln veröffentlicht.',
     ctaRead: 'Das Gesetz lesen', ctaObjections: 'Mit den Einwänden beginnen',
     col1Head: 'Der Mechanismus',
-    col1: 'Ein stimmrechtsloser Warrant je hyperautomatisiertem Unternehmen: 3 % des Kapitals, eingefordert erst in dem Moment, in dem die Eigentümer selbst Kasse machen. Nichts ist in Geld zahlbar, und nichts fließt in einen öffentlichen Haushalt.',
+    col1: 'Ein stimmrechtsloser Warrant je hyperautomatisiertem Unternehmen: 3 % des Kapitals, eingefordert erst in dem Moment, in dem die Eigentümer selbst Kasse machen. Nichts ist als Geldleistung zu erbringen, und nichts fließt in einen öffentlichen Haushalt.',
     col2Head: 'Der Anspruch',
     col2: 'Jede erwachsene Bürgerin und jeder erwachsene Bürger der Union hat einen gleichen, persönlichen, unantastbaren Anspruch auf eine gemeinsame Reserve. Keine Bedürftigkeitsprüfung, kein Antrag, keine Bedingungen. Ausschüttungen fallen anfangs gering aus und wachsen über eine Generation an.',
     col3Head: 'Die Methode',
     col3: 'Öffentlich entworfen, kontradiktorisch geprüft, jedes Urteil und jede Korrektur aktenkundig. Das <a href="%LEDGER%">Hauptbuch</a> zeigt, wie das Gesetz mit sich selbst ringt und unhaltbare Argumente verwirft.',
-    declared: 'Erklärtes Interesse: Der Entwurf ist aus einem Buch seines Initiators hervorgegangen; die Kampagne stützt sich ganz auf ihren eigenen Rechtstext, und jedes Argument hier lässt sich prüfen, ohne etwas zu kaufen. Entwurf bei Commit %COMMIT%.',
+    declared: 'Transparenzhinweis: Der Entwurf ist aus einem Buch seines Initiators hervorgegangen; die Kampagne stützt sich ganz auf ihren eigenen Rechtstext, und jedes Argument hier lässt sich prüfen, ohne etwas zu kaufen. Entwurf bei Commit %COMMIT%.',
     title: 'Ein Verordnungsentwurf der Bürgerinnen und Bürger Europas',
   },
   lawIndex: {
@@ -46,7 +47,7 @@ export default {
     objectionsLink: 'Die Einwände, in aller Schärfe',
     severabilityLink: 'Teilbarkeit: was bei Streichungen Bestand hat',
     downloadsHead: 'Den vollständigen Entwurf herunterladen',
-    downloadsNote: 'Das vollständige Instrument samt Memorandum in einem Dokument, gestempelt mit Commit %COMMIT%.',
+    downloadsNote: 'Das vollständige Instrument samt Memorandum in einem Dokument, auf Stand von Commit %COMMIT%.',
     chapters: [
       'Gegenstand, Anwendungsbereich, Begriffsbestimmungen',
       'Benennung der erfassten Unternehmen',
@@ -81,7 +82,7 @@ export default {
   ledger: {
     title: 'Das Hauptbuch', eyebrow: 'Das Gesetz legt seine Arbeit offen',
     intro1: 'Bevor irgendein Text dieser Verordnung zusammengeführt wird, durchläuft er sechs kontradiktorische Prüfstufen: Rechtsform, Einhaltung der Entwurfsbeschränkungen, Rechtsgrundlage, Advocatus Diaboli, Kohärenz mit bestehendem EU-Recht und Konsistenz zwischen der Klartext- und der Rechtsebene.',
-    intro2: 'Jedes Urteil wird ins Repository eingetragen, auch die, die wehgetan haben. Ein REVISE-Urteil wird nur mit einer schriftlichen Entscheidung des Herausgebers zusammengeführt. Die Prüfungen werden kontradiktorisch von KI unter der Verantwortung des Herausgebers geführt; die Entscheidungen unten sind die des Herausgebers, aktenkundig.',
+    intro2: 'Alle Urteile werden ins Repository eingetragen, auch die, die wehgetan haben. Text mit einem REVISE-Urteil wird nur mit einer schriftlichen Entscheidung des Herausgebers zusammengeführt. Die Prüfungen werden kontradiktorisch von KI unter der Verantwortung des Herausgebers geführt; die Entscheidungen unten sind die des Herausgebers, aktenkundig.',
     intro3: 'Jeder Eintrag trägt ein Siegel, das aus seinem Commit-Hash abgeleitet ist: Keine zwei Änderungen tragen dieselbe Marke.',
     description: 'Die öffentliche Änderungsgeschichte des Entwurfs: jede kontradiktorische Prüfung, jedes Urteil, jede Herausgeberentscheidung.',
     gates: {
@@ -93,11 +94,11 @@ export default {
   simulator: {
     title: 'Die Dividende, ehrlich gerechnet', eyebrow: 'Der Simulator · Spannen, keine Versprechen',
     description: 'Was die Reserve pro Bürgerin und Bürger plausibel bedeuten würde, über dreißig Jahre, jede Unsicherheit benannt.',
-    intro: 'Die Antwort ist eine Kurve, nie eine Zahl. Ausschüttungen beginnen klein, weil die Reserve ihr Kapital erhält, bevor sie ausschüttet, per Gesetz (<a href="%ANNEX2%">Anhang II</a>), und wachsen, während Warrants sich realisieren und Erträge sich verzinsen. Jede Eingabe unten trägt ihre Unsicherheit; das Band zeigt die Spanne von pessimistisch bis optimistisch, und die Skeptiker-Einstellung wählt für jede Eingabe das ungünstigste Szenario.',
+    intro: 'Die Antwort ist eine Kurve, nie eine Zahl. Ausschüttungen beginnen klein, weil die Reserve ihr Kapital erhält, bevor sie ausschüttet, per Gesetz (<a href="%ANNEX2%">Anhang II</a>), und wachsen, während Warrants sich realisieren und Erträge sich verzinsen. Jede Eingabe unten ist mit Unsicherheit behaftet; das Band zeigt die Spanne von pessimistisch bis optimistisch, und die Skeptiker-Einstellung wählt für jede Eingabe das ungünstigste Szenario.',
     revLabel: 'Automatisierter Umsatz, der die Schwellen erreicht (Mrd. EUR/Jahr, bis Jahr 5)',
     revNote: 'Niemand kennt diese Zahl. Sie hängt davon ab, wie schnell hyperautomatisierte Unternehmen die Schwellen des Artikels 3 überschreiten; die Spanne reicht von Skepsis bis Boom.',
     lagLabel: 'Jahre bis zum Liquiditätsereignis (Median)',
-    lagNote: 'Warrants realisieren sich erst, wenn ein benanntes Unternehmen an die Börse geht oder verkauft wird (Artikel 5). Private Unternehmen können lange privat bleiben; das Instrument wartet.',
+    lagNote: 'Warrants realisieren sich erst, wenn ein benanntes Unternehmen an die Börse geht oder verkauft wird (Artikel 5). Nicht börsennotierte Unternehmen können lange in privater Hand bleiben; das Instrument wartet.',
     retLabel: 'Reale Portfoliorendite (%/Jahr)',
     retNote: 'Die langfristige Realrendite des norwegischen Fonds ist die Referenz; Anhang II behält genug ein, um das reale Kapital zu erhalten, bevor etwas ausgeschüttet wird.',
     sceptic: 'Konservative Annahmen', reset: 'Zurücksetzen',
@@ -109,7 +110,7 @@ export default {
       '3 % des Werts eines benannten Unternehmens fließen beim ersten Liquiditätsereignis dieses Unternehmens in die Reserve (festgelegt in Artikel 5 Absatz 2); der Unternehmenswert ist mit dem Zehnfachen des erfassten Umsatzes angesetzt, eine bewusst runde Zahl.',
       'Die Verbreitung steigt linear über zehn Jahre ab der medianen Wartezeit; anspruchsberechtigte Erwachsene: 350 Millionen (Eurostat, Unionsbürger ab 18).',
       'Ausschüttungen folgen Anhang II exakt: zuerst realer Kapitalerhalt, ein dreijähriger Glättungsdurchschnitt mit einem Korridor von 125 %, kein Hebel, alles in konstanten Euro von 2026.',
-      'Das Band rechnet dieselbe Arithmetik an den Ober- und Untergrenzen Ihrer Eingaben. Nichts hier ist ein Versprechen; das Modell ist <a href="https://github.com/ownthemachine/own-the-machine-site">quelloffen</a>.',
+      'Das Band wendet dieselbe Berechnung auf die Ober- und Untergrenzen Ihrer Eingaben an. Nichts hier ist ein Versprechen; das Modell ist <a href="https://github.com/ownthemachine/own-the-machine-site">quelloffen</a>.',
     ],
   },
   evidence: {

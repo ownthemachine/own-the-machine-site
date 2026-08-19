@@ -1,54 +1,22 @@
 ---
 import Base from '../../layouts/Base.astro';
 import LangBanner from '../LangBanner.astro';
+import law from '../../generated/law.json';
 import { dict } from '../../lib/i18n.mjs';
 interface Props { lang: string }
 const { lang } = Astro.props;
 const t = dict(lang);
+const doc = law.contribute[lang] || law.contribute.en;
+const isLocal = Boolean(law.contribute[lang]);
 ---
 <Base title={t.contribute.title} lang={lang} description={t.contribute.description}>
   <p class="eyebrow">{t.contribute.eyebrow}</p>
   <h1>{t.contribute.title}</h1>
-  <LangBanner lang={lang} kind="enOnly" />
-  <div lang="en">
-  <div class="prose">
-    <p>The draft improves the way open source improves: in public, by
-    pull request, against stated criteria. Three repositories:</p>
-    <ul>
-      <li><a href="https://github.com/ownthemachine/own-the-machine">own-the-machine</a>:
-      the law, its memorandum, the review ledger (CC BY-SA 4.0).</li>
-      <li><a href="https://github.com/ownthemachine/own-the-machine-tools">own-the-machine-tools</a>:
-      the review gates and linter (MIT).</li>
-      <li><a href="https://github.com/ownthemachine/own-the-machine-site">own-the-machine-site</a>:
-      this site (AGPL-3.0).</li>
-    </ul>
-
-    <h2>The merge criteria</h2>
-    <p>Every change to the legal text must survive four tests: it claims
-    assets, not flows; it reaches every citizen equally; it is
-    raid-proof; and it claims the stake in time, at the moment gains
-    crystallise. Mechanical constraints (the DC table in the
-    <a href="/law/objections">objections</a>) and six adversarial review
-    gates apply before merge. A pull request that weakens a protection
-    needs to say so in plain language.</p>
-
-    <h2>Ways in</h2>
-    <ul>
-      <li><strong>Argue.</strong> Take on an objection, or raise a new
-      one at full strength. The strongest contribution is the attack we
-      have not answered.</li>
-      <li><strong>Draft.</strong> Improve an article against the Joint
-      Practical Guide conventions; the linter and gates will meet you.</li>
-      <li><strong>Translate.</strong> Languages are promoted from
-      machine-translated to human-verified one page at a time; native
-      readers are the bottleneck.</li>
-      <li><strong>Build.</strong> The site and tools are ordinary open
-      source with issues waiting.</li>
-    </ul>
-  </div>
-  </div>
+  <LangBanner lang={lang} doc={law.contribute[lang]} />
+    <div class="prose" lang={isLocal ? lang : "en"} set:html={doc.html} />
 </Base>
 
 <style>
   h1 { font-size: 1.7rem; margin: 0.4rem 0 1.2rem; }
+  .prose :global(h2) { font-size: 1.25rem; }
 </style>

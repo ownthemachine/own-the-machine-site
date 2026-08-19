@@ -21,6 +21,7 @@ export default {
     lawEnglish: 'Le texte anglais fait foi. Cette page présente le texte anglais authentique ; les traductions du texte juridique ne servent qu’à la compréhension.',
     pageMachine: 'Cette page a été traduite et relue par la chaîne ouverte du projet ; un lecteur natif ne l’a pas encore vérifiée. Une erreur ? Ouvrez un ticket.',
     enOnly: 'Cette page n’est pas encore disponible en français ; l’original anglais suit.',
+    stale: 'L’original anglais a évolué depuis cette traduction ; certains détails peuvent différer jusqu’à sa mise à jour.',
     pageVerified: 'Cette traduction a été vérifiée par un lecteur natif.',
   },
   home: {
@@ -39,7 +40,7 @@ export default {
   },
   lawIndex: {
     title: 'Le projet de règlement',
-    intro: 'Règles harmonisées pour la participation des citoyens aux gains de productivité automatisés (le règlement sur le capital citoyen). La version de travail complète : <a href="%RECITALS%">30 considérants</a>, 18 articles et deux annexes, chaque paragraphe ancré et citable. Le texte anglais fait foi. À jour au commit %COMMIT% ; chaque modification figure au <a href="%LEDGER%">grand livre</a>.',
+    intro: 'Règles harmonisées pour la participation des citoyens aux gains de productivité issus de l’automatisation (le règlement sur le capital citoyen). La version de travail complète : <a href="%RECITALS%">30 considérants</a>, 18 articles et deux annexes, chaque paragraphe ancré et citable. Le texte anglais fait foi. À jour au commit %COMMIT% ; chaque modification figure au <a href="%LEDGER%">grand livre</a>.',
     chapter: 'Chapitre', annexes: 'Annexes', memorandum: 'Mémorandum',
     article: 'Article', recitals: 'Considérants',
     objectionsLink: 'Les objections, sous leur forme la plus forte',
@@ -102,7 +103,7 @@ export default {
     sceptic: 'Scénario prudent', reset: 'Réinitialiser',
     chartLabel: 'Distribution projetée par citoyen et par an, horizon de 30 ans, avec bande d’incertitude',
     axisLabel: 'EUR par citoyen et par an, en euros constants de 2026',
-    sentence: 'Sous ces hypothèses, un citoyen reçoit environ %LOW% à %HIGH% EUR par an d’ici %YEAR%, en hausse à mesure que la Réserve se compose. Les premières années frôlent zéro à dessein : la Réserve préserve le capital avant de distribuer, par la loi.',
+    sentence: 'Sous ces hypothèses, un citoyen reçoit environ %LOW% à %HIGH% EUR par an d’ici %YEAR%, en hausse à mesure que la Réserve capitalise. Les premières années frôlent zéro à dessein : la Réserve préserve le capital avant de distribuer, par la loi.',
     assumptionsHead: 'Chaque hypothèse de ce modèle',
     assumptions: [
       '3 % de la valeur d’une entreprise désignée entrent dans la Réserve au premier événement de liquidité de cette entreprise (fixé par l’article 5, paragraphe 2) ; la valeur de l’entreprise est prise à dix fois le chiffre d’affaires couvert, un chiffre rond assumé.',
