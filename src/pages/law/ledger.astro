@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import law from '../../generated/law.json';
 import { commitSeal } from '../../lib/seal.mjs';
+import OnPage from '../../components/OnPage.astro';
 const gateNames = {
   'legal-form': 'Legal form',
   'dc-compliance': 'Design constraints',
@@ -28,6 +29,13 @@ const gateNames = {
     amendments carry the same mark.</p>
   </div>
 
+  <div class="withtoc">
+  <OnPage toc={law.ledger.map((e) => ({
+    id: e.file.replace('.md', ''),
+    text: `${gateNames[e.gate] || e.gate} · ${e.date}`,
+  }))} />
+  <div>
+
   {law.ledger.map((e) => (
     <article class="entry" id={e.file.replace('.md', '')}>
       <div class="seal" set:html={commitSeal(e.commit || e.file)} />
@@ -48,6 +56,8 @@ const gateNames = {
       </div>
     </article>
   ))}
+  </div>
+  </div>
 </Base>
 
 <style>
