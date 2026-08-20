@@ -5,13 +5,33 @@
 # Usage: scripts/deploy-eu.sh   (after a local `vercel build --prod` or
 #        `npm run build`; syncs the static output to the bucket)
 #
-# Go-live steps (documented, not automated, run once at Gate 1):
-#   1. scw edge-services: create a pipeline on the bucket, attach the
-#      custom domain ownthemachine.eu, let Scaleway issue the cert.
-#   2. Point the Cloudflare A/CNAME records at the Edge Services
-#      endpoint (DNS-only), remove the Vercel records.
-#   3. Remove middleware.ts and the PREVIEW_PASSWORD env (the password
-#      gate exists only on the Vercel preview).
+# State (20 Aug 2026): the bucket IS a working website. Website
+# configuration is set (index.html, 404.html), objects are public-read,
+# and every page type, language, download and OG image serves 200 on
+#   https://own-the-machine-site.s3-website.fr-par.scw.cloud
+# The site is still SERVED from Vercel; this is a warm standby.
+#
+# Two known differences from Vercel, both for the CDN layer to close:
+#   - /law/article-1 302s to /law/article-1/ (S3 index-document
+#     behaviour). Links still work; it costs one redirect per hop.
+#   - a missing path returns 403, not the 404 page: S3 returns 403 for
+#     an absent key unless the caller may list the bucket. A bucket
+#     policy granting anonymous ListBucket would fix it, but Scaleway
+#     policies REPLACE owner rights: setting one without the owner
+#     principal locked this key out of its own bucket (recovered by
+#     deleting the policy). Do it from the console, or let the CDN
+#     serve the error page.
+#   - response security headers (vercel.json) cannot come from a
+#     bucket at all; they must be set at the CDN.
+#
+# Go-live steps (need a browser session, run once when flipping):
+#   1. Scaleway console: Edge Services pipeline on the bucket, attach
+#      ownthemachine.eu, let Scaleway issue the certificate; set the
+#      404 page and the security headers there.
+#   2. Cloudflare: point the records at the Edge Services endpoint
+#      (apex via CNAME flattening), remove the Vercel records.
+#   3. Verify with scripts/verify-eu.py against the live domain before
+#      and after, then keep Vercel one deploy behind as a rollback.
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
