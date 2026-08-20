@@ -1,7 +1,7 @@
 ---
 // The honesty banner: says exactly what the reader is looking at when a
 // page is not (or not fully, or not freshly) in their language.
-import { dict } from '../lib/i18n.mjs';
+import { dict, fmt } from '../lib/i18n.mjs';
 interface Props { lang: string; doc?: any; kind?: 'lawEnglish' | 'pageMachine' | 'enOnly' | 'recordsEnglish' }
 const { lang, doc, kind } = Astro.props;
 const t = dict(lang).banner;
@@ -16,10 +16,10 @@ if (!kind && lang !== 'en') {
 if (kind && doc && doc.stale) stale = true;
 ---
 {lang !== 'en' && resolved && (
-  <p class="lang-banner" lang={lang}>{t[resolved]}
-    {resolved === 'pageMachine' && (
-      <> <a href="https://github.com/ownthemachine/own-the-machine-site/issues">GitHub</a>.</>
-    )}
+  <p class="lang-banner" lang={lang}>
+    <span set:html={fmt(t[resolved], {
+      GITHUB: '<a href="https://github.com/ownthemachine/own-the-machine-site/issues">GitHub</a>',
+    })} />
     {stale && <> {t.stale}</>}
   </p>
 )}
