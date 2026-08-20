@@ -1,6 +1,6 @@
 # Accessibility audit report
 
-Generated: 2026-08-19T14:57:15.407Z
+Generated: 2026-08-20T10:17:09.592Z
 Audited output: `.vercel/output/static`
 axe-core version: 4.13.0
 Tags checked: wcag2a, wcag21aa, wcag22aa, best-practice

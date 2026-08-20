@@ -18,7 +18,7 @@ export default {
     metaDescription: 'Un projet de règlement de l’UE en source ouverte : du capital pour tous, pour que le dividende suive.',
   },
   banner: {
-    lawEnglish: 'Le texte anglais fait foi. Cette page présente le texte anglais authentique ; les traductions du texte juridique ne servent qu’à la compréhension.',
+    lawEnglish: 'Ce qui suit en anglais est le projet lui-même. Cette page présente le texte anglais faisant foi ; les traductions du texte juridique ne servent qu\'à la compréhension.',
     pageMachine: 'Cette page a été traduite et relue par la chaîne ouverte du projet ; un lecteur natif ne l’a pas encore vérifiée. Une erreur ? Ouvrez un ticket.',
     enOnly: 'Cette page n’est pas encore disponible en français ; l’original anglais suit.',
     recordsEnglish: 'Les évaluations elles-mêmes sont menées en anglais et les entrées ci-dessous citent leurs comptes rendus en version originale ; le reste de cette page est traduit.',

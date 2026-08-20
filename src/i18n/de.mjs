@@ -19,7 +19,7 @@ export default {
     metaDescription: 'Ein quelloffener Entwurf einer EU-Verordnung: Kapital für alle, damit die Dividende folgt.',
   },
   banner: {
-    lawEnglish: 'Der englische Text ist der Entwurf. Diese Seite zeigt den verbindlichen englischen Text; Übersetzungen des Rechtstexts dienen nur dem Verständnis.',
+    lawEnglish: 'Was nachstehend auf Englisch folgt, ist der Entwurf selbst. Diese Seite zeigt den maßgeblichen englischen Text; Übersetzungen des Rechtstextes dienen allein dem Verständnis.',
     pageMachine: 'Diese Seite wurde durch die offene Pipeline des Projekts übersetzt und geprüft; eine muttersprachliche Person hat sie noch nicht verifiziert. Fehler gefunden? Melden Sie ihn auf GitHub.',
     enOnly: 'Diese Seite ist auf Deutsch noch nicht verfügbar; es folgt das englische Original.',
     recordsEnglish: 'Die Prüfungen selbst finden auf Englisch statt und die nachstehenden Einträge zitieren die Protokolle im Original; der Rest dieser Seite ist übersetzt.',
