@@ -26,6 +26,12 @@ Organisatorengruppe von mindestens sieben Bürgerinnen und Bürgern aus
 sieben Mitgliedstaaten wird gebildet, wenn das Projekt seine eigenen
 Prüfstufen besteht.
 
+## Wer dies herausgibt
+
+Verantwortlich für diese Seite und für den Entwurf, den sie wiedergibt: David Vanheeswijck, Belgien. Schreiben Sie an [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu); diese Adresse erreicht den Herausgeber, und alles Inhaltliche zum Text gehört in die Öffentlichkeit, als [Issue oder Pull Request](https://github.com/ownthemachine/own-the-machine) im Repository, wo die Antwort für alle lesbar ist, die der Entwurf angeht.
+
+Dieselbe Person ist Verantwortlicher für die wenigen Daten, die diese Seite mit sich bringt und die unten beschrieben sind.
+
 ## Transparenzhinweis
 
 Der Entwurf ist aus einem Buch seines Initiators hervorgegangen. Die

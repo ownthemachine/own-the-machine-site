@@ -24,6 +24,12 @@ oordeel en elke afdoening staat in het [grootboek](/law/ledger). Een
 organisatorengroep van ten minste zeven burgers uit zeven lidstaten wordt
 gevormd als het project zijn eigen toetsingspoorten doorstaat.
 
+## Wie dit uitgeeft
+
+Verantwoordelijk voor deze site en voor het ontwerp dat zij weergeeft: David Vanheeswijck, België. Schrijf naar [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu); dat adres bereikt de redacteur, en alles van inhoudelijk belang over de tekst hoort in de openbaarheid thuis, als [issue of pull request](https://github.com/ownthemachine/own-the-machine) op de repository, waar het antwoord te lezen is voor iedereen die het ontwerp aangaat.
+
+Dezelfde persoon is de verwerkingsverantwoordelijke voor de weinige gegevens die deze site meebrengt, hieronder beschreven.
+
 ## Belangenverklaring
 
 Het ontwerp is voortgekomen uit een boek van de initiatiefnemer. De

@@ -26,6 +26,12 @@ l'éditeur ; chaque verdict et chaque suite donnée figurent au
 citoyens de sept États membres sera constitué si le projet franchit ses
 propres portes de contrôle.
 
+## Qui publie ce site
+
+Responsable de ce site et du projet qu'il présente : David Vanheeswijck, Belgique. Écrivez à [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu) ; cette adresse permet de joindre l'éditeur, et tout ce qui touche au fond du texte a vocation à être public, sous forme d'[issue ou de pull request](https://github.com/ownthemachine/own-the-machine) sur le dépôt, où la réponse est lisible par tous ceux que le projet concerne.
+
+La même personne est responsable du traitement des rares données que ce site occasionne, décrites ci-dessous.
+
 ## Déclaration d'intérêts
 
 Le projet est né d'un livre de son initiateur. La campagne ne renvoie

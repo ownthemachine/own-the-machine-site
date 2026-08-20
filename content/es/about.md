@@ -25,6 +25,12 @@ veredicto y su resolución constan en el [libro mayor](/law/ledger). Se
 constituirá un grupo de organizadores de al menos siete ciudadanos de siete
 Estados miembros si el proyecto supera sus propios controles.
 
+## Quién publica esto
+
+Responsable de este sitio y del proyecto que presenta: David Vanheeswijck, Bélgica. Escriba a [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu); esa dirección llega al editor, y todo lo que toque el fondo del texto corresponde al ámbito público, como [incidencia o pull request](https://github.com/ownthemachine/own-the-machine) en el repositorio, donde la respuesta puede leerla todo aquel a quien concierne el proyecto.
+
+La misma persona es responsable del tratamiento de los pocos datos que este sitio ocasiona, descritos más abajo.
+
 ## Declaración de intereses
 
 El borrador nació de un libro de su iniciador. La campaña nunca enlaza con

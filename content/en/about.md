@@ -26,6 +26,20 @@ and disposition is on the [ledger](/law/ledger). An organisers' group
 of at least seven citizens from seven Member States will be constituted
 if the project passes its own gates.
 
+## Who publishes this
+
+Responsible for this site and for the draft it renders: David
+Vanheeswijck, Belgium. Write to
+[hello@ownthemachine.eu](mailto:hello@ownthemachine.eu); that address
+reaches the editor, and everything substantive about the text belongs
+in the open, as an [issue or pull
+request](https://github.com/ownthemachine/own-the-machine) on the
+repository, where the answer can be read by everyone the draft
+concerns.
+
+The same person is the controller for the little data this site
+occasions, described below.
+
 ## Declared interest
 
 The draft grew out of a book by its initiator. The campaign never links
