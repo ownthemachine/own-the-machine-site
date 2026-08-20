@@ -15,6 +15,7 @@ export default {
     contentsLink: 'Inhoud', historyLink: 'geschiedenis',
     reviewLink: 'wat de review vond', fullReview: 'volledige review', diff: 'diff',
     editorDisposition: 'Beslissing van de redacteur',
+    ogImageAlt: 'Een burgercertificaat met het zegel van Own the Machine',
     metaDescription: 'Een openbare ontwerpverordening van de EU: kapitaal voor iedereen, zodat het dividend volgt.',
   },
   banner: {
@@ -42,7 +43,7 @@ export default {
   lawIndex: {
     title: 'De ontwerpverordening',
     intro: 'Geharmoniseerde regels voor deelname van burgers aan geautomatiseerde productiviteitswinsten (de Burgerkapitaalverordening). Het volledige werkontwerp: <a href="%RECITALS%">30 overwegingen</a>, 18 artikelen en twee bijlagen, elke alinea verankerd en citeerbaar. De Engelse tekst geldt als het ontwerp. Actueel op commit %COMMIT%; elke wijziging staat in het <a href="%LEDGER%">grootboek</a>.',
-    chapter: 'Hoofdstuk', annexes: 'Bijlagen', memorandum: 'Memorandum',
+    chapter: 'Hoofdstuk', annex: 'Bijlage', annexes: 'Bijlagen', memorandum: 'Memorandum',
     article: 'Artikel', recitals: 'Overwegingen',
     objectionsLink: 'De bezwaren, in hun sterkste vorm',
     severabilityLink: 'Deelbaarheid: wat het snoeien overleeft',

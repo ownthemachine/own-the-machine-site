@@ -15,6 +15,7 @@ export default {
     contentsLink: 'Contents', historyLink: 'history',
     reviewLink: 'what review found', fullReview: 'full review', diff: 'diff',
     editorDisposition: 'Editor disposition',
+    ogImageAlt: 'A citizen’s certificate bearing the seal of Own the Machine',
     metaDescription: 'An open-source draft EU Regulation: capital for all, so the dividend follows.',
   },
   banner: {
@@ -42,7 +43,7 @@ export default {
   lawIndex: {
     title: 'The draft Regulation',
     intro: 'Harmonised rules for citizen participation in automated productivity gains (the Citizens’ Capital Regulation). The complete working draft: <a href="%RECITALS%">30 recitals</a>, 18 articles and two annexes, each paragraph anchored and citable. The English text is the draft. Current at commit %COMMIT%; every change is on the <a href="%LEDGER%">ledger</a>.',
-    chapter: 'Chapter', annexes: 'Annexes', memorandum: 'Memorandum',
+    chapter: 'Chapter', annex: 'Annex', annexes: 'Annexes', memorandum: 'Memorandum',
     article: 'Article', recitals: 'Recitals',
     objectionsLink: 'The objections, at full strength',
     severabilityLink: 'Severability: what survives trimming',

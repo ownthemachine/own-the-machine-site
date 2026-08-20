@@ -11,8 +11,8 @@ import '../styles/base.css';
 import { dict, href, LOCALES, DICTS } from '../lib/i18n.mjs';
 import { ogSlugForPath, ogFilename } from '../lib/og-slug.mjs';
 
-interface Props { title: string; description?: string; lang?: string }
-const { title, lang = 'en' } = Astro.props;
+interface Props { title: string; description?: string; lang?: string; noindex?: boolean }
+const { title, lang = 'en', noindex = false } = Astro.props;
 const t = dict(lang);
 const description = Astro.props.description || t.chrome.metaDescription;
 
@@ -36,26 +36,93 @@ const isCurrent = (navHref: string) => {
 // Certificate og-image for this page; falls back to the locale's cover
 // when the page has no certificate of its own (per-article pages, 404).
 const ogImage = new URL(`/og/${ogFilename(lang, ogSlugForPath(basePath))}`, Astro.site).href;
+// One canonical URL per page, in this page's own language: the alternates
+// below carry the other five. Without it the trailing-slash form a static
+// host redirects to would read as a second copy of the same page.
+const abs = (l, p) => {
+  const path = href(l, p);
+  return new URL(path.length > 1 ? path.replace(/\/$/, '') : path, Astro.site).href;
+};
+const canonical = abs(lang, basePath);
+const OG_LOCALE = { en: 'en_GB', nl: 'nl_NL', fr: 'fr_FR', de: 'de_DE', es: 'es_ES' };
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'WebSite',
+      '@id': `${Astro.site}#website`,
+      url: String(Astro.site),
+      name: 'Own the Machine',
+      inLanguage: lang,
+      description,
+      publisher: { '@id': `${Astro.site}#org` },
+    },
+    {
+      '@type': 'Organization',
+      '@id': `${Astro.site}#org`,
+      name: 'Own the Machine',
+      url: String(Astro.site),
+      logo: new URL('/og/index.png', Astro.site).href,
+    },
+    {
+      '@type': 'Legislation',
+      '@id': `${Astro.site}#regulation`,
+      name: 'Regulation on the participation of citizens of the Union in the capital value created by hyper-automated undertakings',
+      legislationType: 'Draft Regulation',
+      legislationJurisdiction: 'European Union',
+      inLanguage: 'en',
+      isBasedOn: 'https://github.com/ownthemachine/own-the-machine',
+      license: 'https://creativecommons.org/licenses/by-sa/4.0/',
+      author: { '@type': 'Person', name: 'David Vanheeswijck' },
+      creativeWorkStatus: 'Draft',
+    },
+    {
+      '@type': 'WebPage',
+      '@id': `${canonical}#page`,
+      url: canonical,
+      name: title,
+      description,
+      inLanguage: lang,
+      isPartOf: { '@id': `${Astro.site}#website` },
+      about: { '@id': `${Astro.site}#regulation` },
+      primaryImageOfPage: ogImage,
+    },
+  ],
+};
 ---
 <!doctype html>
 <html lang={lang}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{title} · Own the Machine</title>
+    <title>{title.length > 48 ? title : `${title} · Own the Machine`}</title>
     <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Own the Machine" />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:locale" content={OG_LOCALE[lang] || 'en_GB'} />
+    {LOCALES.filter((l) => l !== lang).map((l) => (
+      <meta property="og:locale:alternate" content={OG_LOCALE[l]} />
+    ))}
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={ogImage} />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={t.chrome.ogImageAlt} />
     <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImage} />
+    <meta name="twitter:image:alt" content={t.chrome.ogImageAlt} />
     <meta name="color-scheme" content="light dark" />
+    <script type="application/ld+json" is:inline set:html={JSON.stringify(jsonLd)} />
     {LOCALES.map((l) => (
-      <link rel="alternate" hreflang={l} href={new URL(href(l, basePath), Astro.site).href} />
+      <link rel="alternate" hreflang={l} href={abs(l, basePath)} />
     ))}
-    <link rel="alternate" hreflang="x-default" href={new URL(basePath, Astro.site).href} />
+    <link rel="alternate" hreflang="x-default" href={abs('en', basePath)} />
     <script is:inline>
       try { var t = localStorage.getItem('theme');
         if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t;

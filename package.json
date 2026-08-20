@@ -7,11 +7,12 @@
   "scripts": {
     "sync": "node scripts/sync-law.mjs",
     "dev": "npm run sync && astro dev",
-    "build": "npm run sync && npm run artefacts && npm run og && astro build",
+    "build": "npm run sync && npm run artefacts && npm run og && astro build && npm run sitemap",
     "preview": "astro preview",
     "artefacts": "node scripts/make-artefacts.mjs",
     "og": "node scripts/make-og.mjs",
-    "audit": "node scripts/a11y.mjs"
+    "audit": "node scripts/a11y.mjs",
+    "sitemap": "node scripts/make-sitemap.mjs"
   },
   "dependencies": {
     "@fontsource/inter": "^5.1.0",
