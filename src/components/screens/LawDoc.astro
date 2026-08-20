@@ -10,7 +10,9 @@ const arts = lawData.articles;
 const idx = kind === 'article' ? arts.findIndex((a) => a.number === item.number) : -1;
 const prev = idx > 0 ? arts[idx - 1] : null;
 const next = idx >= 0 && idx < arts.length - 1 ? arts[idx + 1] : null;
-const title = kind === 'article' ? `${t.lawIndex.article} ${item.number}: ${item.title}` : item.title;
+const title = kind === 'article'
+  ? `${t.lawIndex.article} ${item.number}: ${item.title}`
+  : item.title.replace(/^Annex ([IVX]+): /, `${t.lawIndex.annex} $1: `);
 // The eyebrow labels the authentic text, so it stays in the language of that
 // text: the law block reads English end to end, whatever the page language.
 const en = dict('en');
@@ -20,7 +22,7 @@ const eyebrow = kind === 'article'
 const plain = kind === 'article' && item.plain
   ? (item.plain[lang] || item.plain.en) : null;
 ---
-<Base title={title} lang={lang}>
+<Base title={title} lang={lang} description={plain ? plain.l0 : undefined}>
   <article class="lawpage">
     <LangBanner lang={lang} kind="lawEnglish" />
     {plain && (
