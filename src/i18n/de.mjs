@@ -21,7 +21,7 @@ export default {
   },
   banner: {
     lawEnglish: 'Was nachstehend auf Englisch folgt, ist der Entwurf selbst. Diese Seite zeigt den maßgeblichen englischen Text; Übersetzungen des Rechtstextes dienen allein dem Verständnis.',
-    pageMachine: 'Diese Seite wurde durch die offene Pipeline des Projekts übersetzt und geprüft; eine muttersprachliche Person hat sie noch nicht verifiziert. Fehler gefunden? Melden Sie ihn auf GitHub.',
+    pageMachine: 'Diese Seite wurde im Rahmen des offenen Prüfprozesses des Projekts übersetzt und überprüft; ein muttersprachliches Lektorat steht noch aus. Fehler entdeckt? Melden Sie ihn auf %GITHUB%.',
     enOnly: 'Diese Seite ist auf Deutsch noch nicht verfügbar; es folgt das englische Original.',
     recordsEnglish: 'Die Prüfungen selbst finden auf Englisch statt und die nachstehenden Einträge zitieren die Protokolle im Original; der Rest dieser Seite ist übersetzt.',
     stale: 'Das englische Original hat sich seit dieser Übersetzung geändert; bis zur Auffrischung können Details abweichen.',

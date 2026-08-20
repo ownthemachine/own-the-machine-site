@@ -20,7 +20,7 @@ export default {
   },
   banner: {
     lawEnglish: 'Wat hierna in het Engels volgt, is het ontwerp zelf. Deze pagina toont de gezaghebbende Engelse tekst; vertalingen van de wettekst dienen alleen ter begrip.',
-    pageMachine: 'Deze pagina is vertaald en beoordeeld door de open pijplijn van het project; een moedertaallezer heeft haar nog niet geverifieerd. Fout gevonden? Open een issue.',
+    pageMachine: 'Deze pagina is vertaald en gecontroleerd via het openbare reviewproces van het project, maar nog niet nagelezen door een moedertaalspreker. Fout gezien? Meld het op %GITHUB%.',
     enOnly: 'Deze pagina is nog niet beschikbaar in het Nederlands; hieronder volgt het Engelse origineel.',
     recordsEnglish: 'De beoordelingen zelf vinden plaats in het Engels en de vermeldingen hieronder nemen hun verslagen over in de oorspronkelijke taal; de rest van deze pagina is vertaald.',
     stale: 'Het Engelse origineel is gewijzigd sinds deze vertaling werd gemaakt; details kunnen afwijken tot ze is bijgewerkt.',
