@@ -122,6 +122,15 @@ const jsonLd = {
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/site.webmanifest" />
     <meta name="theme-color" content="#14352A" />
+    <!-- Carried by the document, so they survive a move to any host: a bucket
+         and a CDN that cannot set response headers still serve these. The
+         policy is deliberately narrow — this site fetches nothing, posts
+         nothing and embeds nothing from anywhere else. 'unsafe-inline' is
+         the honest cost of Astro's scoped <style> blocks and the pre-paint
+         theme script; it still forbids loading script from another origin,
+         which is the injection route that matters for a static site. -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self' data:; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'" />
+    <meta name="referrer" content="no-referrer" />
     <meta name="color-scheme" content="light dark" />
     <script type="application/ld+json" is:inline set:html={JSON.stringify(jsonLd)} />
     {LOCALES.map((l) => (

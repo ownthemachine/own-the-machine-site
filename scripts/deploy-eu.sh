@@ -73,6 +73,28 @@ aws s3 sync "$OUT" "$BUCKET" --endpoint-url "$ENDPOINT" --delete \
 aws s3 cp "$OUT" "$BUCKET" --endpoint-url "$ENDPOINT" --recursive \
   --acl public-read --cache-control "public, max-age=300" \
   --metadata-directive REPLACE --only-show-errors
+
+# Pass 3: HTML with an explicit charset. S3 serves exactly the content-type it
+# was given, and `cp` guesses "text/html" with none, leaving the encoding to
+# whatever the reader's browser defaults to. The pages declare utf-8 in a meta
+# tag, but the header should not contradict them by omission.
+aws s3 cp "$OUT" "$BUCKET" --endpoint-url "$ENDPOINT" --recursive \
+  --exclude "*" --include "*.html" \
+  --content-type "text/html; charset=utf-8" --metadata-directive REPLACE \
+  --acl public-read --cache-control "public, max-age=300" --only-show-errors
+
+# Pass 4: extensionless twins. The site links to /law/article-1; a bucket holds
+# law/article-1/index.html and answers that link with a 302 to the trailing
+# slash. One redirect per deep link is a permanent tax on a site made of deep
+# links, so each page is also written to the key the link actually names.
+# These twins are not in the build output, so pass 1's --delete removes them
+# first and this pass restores them; that is churn, not drift.
+( cd "$OUT" && find . -mindepth 2 -name index.html -print ) | while read -r page; do
+  key="${page#./}"; key="${key%/index.html}"
+  aws s3 cp "$OUT/${page#./}" "$BUCKET/$key" --endpoint-url "$ENDPOINT" \
+    --content-type "text/html; charset=utf-8" \
+    --acl public-read --cache-control "public, max-age=300" --only-show-errors
+done
 # long-cache immutable assets
 aws s3 cp "$OUT/_astro" "$BUCKET/_astro" --endpoint-url "$ENDPOINT" \
   --recursive --acl public-read \
