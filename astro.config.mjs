@@ -7,5 +7,8 @@ export default defineConfig({
   site: 'https://ownthemachine.eu',
   output: 'static',
   trailingSlash: 'never',
-  build: { format: 'file' },
+  // Directory output so any static host serves the pages: the EU mirror
+  // resolves /law/article-1/ to its index document without rewrite rules,
+  // and Vercel's cleanUrls keeps the extensionless URLs identical.
+  build: { format: 'directory' },
 });
