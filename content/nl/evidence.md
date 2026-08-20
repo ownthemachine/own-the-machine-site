@@ -1,6 +1,6 @@
 ---
 source: evidence/EVIDENCE.md
-source-commit: a331620
+source-commit: cb3da17
 status: gate-reviewed
 ---
 
@@ -274,6 +274,16 @@ doen, en wat niet.
   terwijl de uitkering wacht. Blijven beide curven uit, dan verplicht
   artikel 14, lid 3, de Commissie te rapporteren dat de premisse niet
   is uitgekomen en wijziging of intrekking voor te stellen.
+
+## 8. De fragmentatie is niet hypothetisch
+
+Artikel 114 VWEU biedt alleen een rechtsgrondslag voor deze verordening als uiteenlopende nationale regels de interne markt belemmeren of de mededinging merkbaar verstoren, en *Tobacco Advertising* (C-376/98) brengt mee dat dit moet worden aangetoond in plaats van louter beweerd. Dat kan worden aangetoond, want de Unie heeft dit in hetzelfde economische domein al één keer zien gebeuren.
+
+- **Acht lidstaten belasten digitale activiteit eenzijdig, tegen tarieven van 1,5 % tot 7,5 %, op grondslagen die niet overeenkomen.** Oostenrijk 5 % op uitsluitend onlinereclame; Denemarken 2 % met een toeslag van 3 % op streaming; Frankrijk 3 % op digitale interfaces, gerichte reclame en de doorgifte van gebruikersgegevens, met een verlaagde schijf van 1,2 %; Hongarije 7,5 %, momenteel tot en met juni 2026 op nul gezet; Italië 3 %, na afschaffing van zijn wereldwijde omzetdrempel; Polen 1,5 % en 3 % op audiovisuele media en reclame; Portugal 4 % en 1 % op video- en on-demandplatforms; Spanje 3 % op reclame en de verkoop van gebruikersgegevens. *Tax Foundation Europe, digitaledienstenbelastingen in Europa, 2026.*
+- **De toegangsdrempels verschillen een factor tienduizend,** van HUF 100 miljoen in Hongarije en EUR 3 miljoen in Spanje tot EUR 25 miljoen in Frankrijk en Oostenrijk en EUR 1 miljard groepsomzet in Polen. Dezelfde onderneming valt bij gelijke omzet binnen het ene nationale stelsel en buiten dat van het buurland.
+- **Zes andere lidstaten hebben zulke belastingen voorgesteld of aangekondigd zonder ze aan te nemen:** België, Tsjechië, Duitsland, Letland, Slowakije en Slovenië. Ongeveer de helft van de Europese OESO-leden heeft er een aangekondigd, voorgesteld of ingevoerd. *Zelfde bron.*
+- **Het gaat om de volgorde.** Een maatregel op Unieniveau werd geprobeerd en haalde het niet; daarna stelden lidstaten ieder voor zich wetgeving vast, en het versnipperde landschap dat de Commissie had willen vermijden is wat de interne markt nu heeft. Aan de volgende ronde is niets anders: het Europees Parlement verwierp in februari 2017 een robotbelasting (het verslag-Delvaux), het voorstel is teruggekeerd in het huidige debat over grootschalige AI-invoering, en geen enkel Unie-instrument bestrijkt deze materie.
+- **Wat de vergelijking wel en niet aantoont.** Zij toont niet aan dat automatiseringsheffingen eraan komen; zij toont wat lidstaten doen wanneer een nieuwe vorm van waarde in de interne markt verschijnt en de Unie niet handelt, en dat zij dat doen tegen onverenigbare tarieven, op onverenigbare grondslagen en met onverenigbare drempels. Dat is de belemmering die deze verordening uitsluit door de trigger, het instrument en het vehikel te harmoniseren voordat er zevenentwintig antwoorden bestaan in plaats van erna.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 source: evidence/EVIDENCE.md
-source-commit: a331620
+source-commit: cb3da17
 status: gate-reviewed
 ---
 
@@ -280,6 +280,16 @@ cinquante ans, et ce qu'ils ne font pas.
   courbe ne se matérialise, l'article 14, paragraphe 3, oblige la
   Commission à constater l'échec de la prémisse et à proposer
   modification ou abrogation.
+
+## 8. La fragmentation n'est pas hypothétique
+
+L'article 114 TFUE ne peut fonder le présent règlement que si des règles nationales divergentes entravent le marché intérieur ou faussent sensiblement la concurrence, et *Tobacco Advertising* (C-376/98) impose de le démontrer plutôt que de l'affirmer. La démonstration est possible, car l'Union a déjà vu ce scénario se produire une fois dans le même domaine économique.
+
+- **Huit États membres taxent unilatéralement l'activité numérique, à des taux allant de 1,5 % à 7,5 %, sur des assiettes qui ne coïncident pas.** Autriche 5 % sur la seule publicité en ligne ; Danemark 2 % assorti d'une surtaxe de 3 % sur le streaming ; France 3 % sur les interfaces numériques, la publicité ciblée et la transmission de données d'utilisateurs, avec une tranche réduite à 1,2 % ; Hongrie 7,5 %, actuellement ramenée à zéro jusqu'en juin 2026 ; Italie 3 %, après suppression de son seuil de chiffre d'affaires mondial ; Pologne 1,5 % et 3 % sur les médias audiovisuels et la publicité ; Portugal 4 % et 1 % sur les plateformes vidéo et de vidéo à la demande ; Espagne 3 % sur la publicité et la vente de données d'utilisateurs. *Tax Foundation Europe, taxes sur les services numériques en Europe, 2026.*
+- **Les seuils d'entrée varient d'un facteur dix mille,** de 100 millions HUF en Hongrie et 3 millions EUR en Espagne à 25 millions EUR en France et en Autriche et 1 milliard EUR de chiffre d'affaires de groupe en Pologne. À chiffre d'affaires identique, la même entreprise relève d'un régime national et échappe à celui du voisin.
+- **Six autres États membres ont proposé ou annoncé de telles taxes sans les adopter :** Belgique, Tchéquie, Allemagne, Lettonie, Slovaquie et Slovénie. Environ la moitié des membres européens de l'OCDE en ont annoncé, proposé ou mis en œuvre une. *Même source.*
+- **C'est l'enchaînement qui compte.** Une mesure au niveau de l'Union a été tentée et n'est pas passée ; les États membres ont alors légiféré seuls, et le paysage fragmenté que la Commission espérait éviter est désormais la réalité du marché intérieur. Rien ne distingue le tour suivant : le Parlement européen a rejeté une taxe sur les robots en février 2017 (le rapport Delvaux), la proposition est revenue dans le débat actuel sur l'adoption à grande échelle de l'IA, et aucun instrument de l'Union n'occupe le terrain.
+- **Ce que la comparaison établit et n'établit pas.** Elle n'établit pas que des prélèvements sur l'automatisation sont à prévoir ; elle établit ce que font les États membres lorsqu'une nouvelle forme de valeur apparaît dans le marché intérieur et que l'Union n'agit pas, et qu'ils le font à des taux inconciliables, sur des assiettes inconciliables, avec des seuils inconciliables. C'est l'obstacle que le présent règlement écarte en harmonisant le déclencheur, l'instrument et le véhicule avant que vingt-sept réponses n'existent, plutôt qu'après.
 
 ---
 

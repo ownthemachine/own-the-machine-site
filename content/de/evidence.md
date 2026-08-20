@@ -1,6 +1,6 @@
 ---
 source: evidence/EVIDENCE.md
-source-commit: a331620
+source-commit: cb3da17
 status: gate-reviewed
 ---
 
@@ -271,6 +271,16 @@ leisten und was nicht.
   beide Kurven aus, verpflichtet Artikel 14 Absatz 3 die Kommission,
   über das Scheitern der Prämisse zu berichten und Änderung oder
   Aufhebung vorzuschlagen.
+
+## 8. Die Zersplitterung ist nicht hypothetisch
+
+Artikel 114 AEUV trägt diese Verordnung nur, wenn unterschiedliche nationale Vorschriften den Binnenmarkt behindern oder den Wettbewerb spürbar verzerren, und *Tobacco Advertising* (C-376/98) verlangt dafür einen Nachweis statt einer Behauptung. Der Nachweis ist möglich, denn die Union hat dies im selben wirtschaftlichen Feld bereits einmal erlebt.
+
+- **Acht Mitgliedstaaten besteuern digitale Tätigkeit einseitig, mit Sätzen von 1,5 % bis 7,5 %, auf Bemessungsgrundlagen, die nicht übereinstimmen.** Österreich 5 % allein auf Online-Werbung; Dänemark 2 % zuzüglich eines Aufschlags von 3 % auf Streaming; Frankreich 3 % auf digitale Schnittstellen, zielgerichtete Werbung und die Übermittlung von Nutzerdaten, mit einer ermäßigten Stufe von 1,2 %; Ungarn 7,5 %, derzeit bis Juni 2026 auf null gesetzt; Italien 3 %, nach Wegfall seiner weltweiten Umsatzschwelle; Polen 1,5 % und 3 % auf audiovisuelle Medien und Werbung; Portugal 4 % und 1 % auf Video- und Abrufplattformen; Spanien 3 % auf Werbung und den Verkauf von Nutzerdaten. *Tax Foundation Europe, Digital Services Taxes in Europa, 2026.*
+- **Die Eintrittsschwellen unterscheiden sich um den Faktor zehntausend,** von 100 Millionen HUF in Ungarn und 3 Millionen EUR in Spanien bis 25 Millionen EUR in Frankreich und Österreich und 1 Milliarde EUR Konzernumsatz in Polen. Bei gleichem Umsatz fällt dasselbe Unternehmen unter die eine nationale Regelung und aus der des Nachbarn heraus.
+- **Sechs weitere Mitgliedstaaten haben solche Steuern vorgeschlagen oder angekündigt, ohne sie zu erlassen:** Belgien, Tschechien, Deutschland, Lettland, die Slowakei und Slowenien. Etwa die Hälfte der europäischen OECD-Mitglieder hat eine angekündigt, vorgeschlagen oder eingeführt. *Dieselbe Quelle.*
+- **Es kommt auf die Reihenfolge an.** Eine Maßnahme auf Unionsebene wurde versucht und kam nicht zustande; danach haben die Mitgliedstaaten allein gesetzgeberisch gehandelt, und die zersplitterte Landschaft, die die Kommission vermeiden wollte, ist die, die der Binnenmarkt nun hat. An der nächsten Runde ist nichts anders: Das Europäische Parlament lehnte im Februar 2017 eine Robotersteuer ab (den Bericht Delvaux), der Vorschlag ist in der laufenden Debatte über die breite Einführung von KI zurückgekehrt, und kein Unionsinstrument besetzt das Feld.
+- **Was der Vergleich zeigt und was nicht.** Er zeigt nicht, dass Automatisierungsabgaben kommen; er zeigt, was Mitgliedstaaten tun, wenn im Binnenmarkt eine neue Form von Wert auftritt und die Union nicht handelt, und dass sie es zu unvereinbaren Sätzen, auf unvereinbaren Grundlagen und mit unvereinbaren Schwellen tun. Das ist das Hindernis, das diese Verordnung ausschließt, indem sie Auslöser, Instrument und Vehikel harmonisiert, bevor es siebenundzwanzig Antworten gibt, statt danach.
 
 ---
 

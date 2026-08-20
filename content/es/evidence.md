@@ -1,6 +1,6 @@
 ---
 source: evidence/EVIDENCE.md
-source-commit: a331620
+source-commit: cb3da17
 status: gate-reviewed
 ---
 
@@ -267,6 +267,16 @@ hacen cincuenta años, y lo que no.
   materializa, el artículo 14, apartado 3, obliga a la Comisión a
   constatar que la premisa no se cumplió y a proponer su modificación
   o derogación.
+
+## 8. La fragmentación no es hipotética
+
+El artículo 114 TFUE solo sostiene este Reglamento si normas nacionales divergentes obstaculizan el mercado interior o falsean sensiblemente la competencia, y *Tobacco Advertising* (C-376/98) exige demostrarlo en lugar de afirmarlo. Puede demostrarse, porque la Unión ya ha visto ocurrir esto una vez en el mismo ámbito económico.
+
+- **Ocho Estados miembros gravan unilateralmente la actividad digital, con tipos del 1,5 % al 7,5 %, sobre bases que no coinciden.** Austria, 5 % solo sobre publicidad en línea; Dinamarca, 2 % con un recargo del 3 % sobre la emisión en continuo; Francia, 3 % sobre interfaces digitales, publicidad dirigida y transmisión de datos de usuarios, con un tramo reducido del 1,2 %; Hungría, 7,5 %, actualmente reducido a cero hasta junio de 2026; Italia, 3 %, tras suprimir su umbral de facturación mundial; Polonia, 1,5 % y 3 % sobre medios audiovisuales y publicidad; Portugal, 4 % y 1 % sobre plataformas de vídeo y bajo demanda; España, 3 % sobre publicidad y venta de datos de usuarios. *Tax Foundation Europe, impuestos sobre servicios digitales en Europa, 2026.*
+- **Los umbrales de entrada difieren en un factor de diez mil,** desde 100 millones de HUF en Hungría y 3 millones de EUR en España hasta 25 millones de EUR en Francia y Austria y 1 000 millones de EUR de facturación de grupo en Polonia. Con la misma facturación, una misma empresa queda dentro de un régimen nacional y fuera del de su vecino.
+- **Otros seis Estados miembros han propuesto o anunciado tales impuestos sin adoptarlos:** Bélgica, Chequia, Alemania, Letonia, Eslovaquia y Eslovenia. Cerca de la mitad de los miembros europeos de la OCDE ha anunciado, propuesto o implantado uno. *Misma fuente.*
+- **Lo decisivo es la secuencia.** Se intentó una medida a escala de la Unión y no salió adelante; después los Estados miembros legislaron por su cuenta, y el paisaje fragmentado que la Comisión esperaba evitar es el que hoy tiene el mercado interior. Nada distingue la próxima ronda: el Parlamento Europeo rechazó un impuesto sobre los robots en febrero de 2017 (el informe Delvaux), la propuesta ha regresado en el debate actual sobre la adopción masiva de la IA, y ningún instrumento de la Unión ocupa el terreno.
+- **Lo que la comparación demuestra y lo que no.** No demuestra que vayan a llegar gravámenes sobre la automatización; demuestra qué hacen los Estados miembros cuando aparece una nueva forma de valor en el mercado interior y la Unión no actúa, y que lo hacen con tipos incompatibles, sobre bases incompatibles y con umbrales incompatibles. Ese es el obstáculo que este Reglamento excluye al armonizar el desencadenante, el instrumento y el vehículo antes de que existan veintisiete respuestas, en lugar de después.
 
 ---
 
