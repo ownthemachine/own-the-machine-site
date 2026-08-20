@@ -97,6 +97,9 @@ else {
   }
 }
 if (!existsSync(join(DIST, 'robots.txt'))) problems.push('no robots.txt');
+for (const icon of ['favicon.ico', 'icon.svg', 'apple-touch-icon.png', 'site.webmanifest']) {
+  if (!existsSync(join(DIST, icon))) problems.push(`no ${icon}`);
+}
 
 console.log(`pages audited: ${pages.length}`);
 console.log(`unique titles: ${titles.size} · pages sharing a description: ${dupDesc}`);

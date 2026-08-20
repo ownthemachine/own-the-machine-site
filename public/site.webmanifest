@@ -1,0 +1,19 @@
+{
+  "name": "Own the Machine",
+  "short_name": "Own the Machine",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#14352A",
+  "background_color": "#14352A",
+  "display": "browser"
+}
