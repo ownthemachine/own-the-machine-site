@@ -68,13 +68,22 @@ capital par acte législatif (Kotnik C-526/14, Ledra C-8/15 P, Aeris Invest
 C-535/22 P), et l'instrument en adopte les mécanismes : un considérant
 d'ingérence honnête citant l'article 17 de la Charte, un considérant
 complet de proportionnalité au titre de l'article 52, paragraphe 1, de la
-Charte, et une garantie chiffrée qu'aucun actionnaire ne soit plus mal
-traité, assortie d'une valorisation indépendante et contestable
-séparément. Une adaptation s'impose : le contrefactuel de la BRRD est
+Charte, et une garantie d'exécution chiffrée, assortie d'une valorisation
+indépendante et contestable séparément. Une adaptation s'impose : le contrefactuel de la BRRD est
 l'insolvabilité, et un régime permanent ne peut s'appuyer sur un
-raisonnement de crise (Dowling C-41/15) ; notre plancher est donc aligné
-sur le marché : aucun actionnaire ne doit être plus mal traité que dans le
-cadre d'une émission équivalente aux conditions du marché.
+raisonnement de crise (Dowling C-41/15) ; notre plancher tient donc à
+l'exécution, non à un contrefactuel : l'ingérence ne peut jamais excéder
+les 3 % énoncés dans son exécution, son prix est fixé par l'événement de
+liquidité lui-même sur la base d'une évaluation indépendante et contestable
+séparément, et aucune application de l'instrument ne peut prendre plus
+que l'ingérence qu'il nomme. La doctrine sous-jacente est plus ancienne
+que tout cela : dans l'ordre juridique de l'Union, la propriété n'est
+pas une prérogative sans limite mais est protégée dans sa fonction
+sociale, et peut être restreinte dans l'intérêt général lorsque la
+restriction est proportionnée et laisse intacte la substance du droit
+(Hauer 44/79 ; Bosphorus C-84/95). La restriction opérée par cet
+instrument est quantifiée, liée à l'événement et préserve la substance
+par construction, ce que ces arrêts exigent du législateur de démontrer.
 
 **Conséquence de conception.** DC-1 : warrant prospectif sur la création de
 valeur future à des événements définis, jamais de transfert rétroactif
@@ -415,9 +424,11 @@ de vote ou des délais aux législateurs futurs, et prétendre le contraire
 offrirait aux critiques la moquerie la plus facile du dossier. Contre
 l'Irlande : aucune clause d'urgence d'aucune sorte, parce que la ponction
 du NPRF était légale au regard de ses propres dispositions d'urgence.
-Contre l'Estonie : les droits individuels sont bloqués jusqu'à l'âge de la
-retraite, avec déchéance des montants abondés en cas de sortie anticipée,
-les dispositifs danois et irlandais qui ont tenu. Contre la Grèce : la
+Contre l'Estonie : le droit périodique est insusceptible de renonciation
+ou de rachat contre paiement, de sorte qu'il n'existe aucune sortie
+qu'un rachat puisse acheter, précisément l'échec que l'Estonie a
+démontré ; les montants déjà distribués sont la propriété du titulaire,
+transmissibles, le dispositif danois qui a tenu. Contre la Grèce : la
 protection contre les ponctions ne doit jamais être obtenue en supprimant
 le droit du citoyen, ce qui est l'échec déguisé en succès. Et une phrase
 honnête que le mémorandum doit contenir : aucune rédaction ne défait un
@@ -426,9 +437,12 @@ ponction bruyante, lente et électoralement coûteuse, ce qui est le maximum
 qu'une constitution ait jamais obtenu.
 
 **Conséquence de conception.** DC-19 : aucune détention de dette
-souveraine. DC-20 : verrouillage dès le premier jour, supermajorité et
-délai d'une législature complète. DC-21 : aucune clause d'urgence. DC-22 :
-des droits individuels, bloqués, avec déchéance en cas de sortie. DC-23 :
+souveraine. DC-20 : le verrouillage comme friction dès le premier jour :
+modification expresse uniquement, une évaluation indépendante publiée,
+et l'honnêteté sur les limites des traités. DC-21 : aucune clause
+d'urgence. DC-22 : des droits individuels insusceptibles de
+renonciation ; les montants distribués détenus en propriété et
+transmissibles. DC-23 :
 la résistance aux ponctions est présentée comme une friction, jamais comme
 une impossibilité.
 
@@ -596,6 +610,26 @@ source de financement, là où elle est nécessaire.
 
 **Conséquence de conception.** Cette objection est la raison d'être de DC-14 (ne jamais ouvrir sur un chiffre des premières années), de la condition de falsification portée par l'article 14, paragraphe 3, et du fait que l'annexe II distribue des revenus, jamais du principal. Elle ajoute une règle mécanique qui lui est propre : partout où figure un montant versé par citoyen, la part par citoyen dans la Réserve figure à côté (DC-31).
 
+### 16. C'est une golden share, et la Cour annule les golden shares
+
+**L'objection, sous sa forme la plus forte.** Vingt années durant, la Cour a démantelé chaque position publique spéciale au capital dans le marché intérieur. Commission/Allemagne (C-112/05) a censuré la loi Volkswagen parce qu'un plafonnement des droits de vote et une minorité de blocage donnaient aux autorités publiques une influence excédant leur investissement et décourageaient ainsi l'investissement direct ; les golden shares portugaises, françaises, italiennes, britanniques et néerlandaises sont tombées de la même manière sous l'actuel article 63 TFUE. Une Réserve instituée par l'Union détenant de par la loi 3 % de chaque entreprise désignée est une golden share en habit de règlement : un actionnaire permanent, adossé à la puissance publique, qu'aucun investisseur n'a choisi, planté dans la structure de capital de chaque entreprise de pointe, et qui décourage précisément l'investissement transfrontière que l'article 63 protège. La neutralité de l'article 345 à l'égard des régimes de propriété n'a pas sauvé la loi Volkswagen et ne sauvera pas ceci. La dissuasion n'a rien d'hypothétique : chaque tour de table d'une entreprise désignée intègre désormais au prix une dilution future obligatoire.
+
+**Là où elle voit juste.** La dilution est réelle et les investisseurs l'intégreront au prix, et toute position assortie de droits conférant une forme de contrôle tomberait exactement comme Volkswagen est tombée. La jurisprudence des golden shares est la jurisprudence de référence pour toute position publique au capital, et l'instrument doit être rédigé contre elle, non en la contournant.
+
+**La réponse que l'instrument doit apporter.** La ligne des golden shares condamne une seule chose : les droits spéciaux de contrôle excédant l'investissement, plafonds de vote, minorités de blocage, vetos d'approbation, sièges au conseil, l'appareillage par lequel un État dirige une entreprise qu'il ne possède pas. L'instrument construit l'exact inverse, dans les articles et non dans des assurances. La participation de la Réserve ne porte jamais de droit de vote (articles 5, paragraphe 3, point a), et 9, paragraphe 1, point a)) ; aucune présence au conseil (article 9, paragraphe 1, point b)) ; aucune instruction (article 9, paragraphe 1, point c)) ; aucune acquisition au-delà du warrant et d'une diversification indicielle (article 9, paragraphe 1, point d)) ; ni levier ni dérivés qui en feraient un acteur stratégique (article 9, paragraphe 1, points e) à g)). Ce qui demeure est une participation purement économique, la position de tout actionnaire minoritaire passif, celle que le fonds norvégien détient à une échelle comparable dans les sociétés cotées européennes sans qu'aucune affaire au titre de l'article 63 n'ait jamais été portée. Ce que la jurisprudence exige de toute restriction qui survit, l'instrument y répond dans son texte même : la non-discrimination (traitement identique des entreprises de l'Union et des pays tiers au titre de l'article 3), un intérêt général impérieux énoncé dans les considérants, et la proportionnalité portée par les 3 % fixes, l'évaluation indépendante et contestable séparément (articles 5, paragraphe 8, 6 et 7) et la mise en balance de l'article 52, paragraphe 1. Et à la différence de chaque golden share censurée, il ne s'agit pas d'un État membre réservant une influence nationale contre l'intégration : c'est une règle uniforme de l'Union pour tout le marché intérieur, et son uniformité même supprime la divergence que créeraient des régimes nationaux de participation. Le résidu honnête est qu'une dilution future obligatoire est en soi un coût que les investisseurs intégreront au prix ; l'objection 4 le chiffre, et la proportionnalité, non le déni, est la défense.
+
+**Conséquence de conception.** La règle du non-vote permanent de DC-13 et les interdictions de conduite de l'article 9 constituent la réponse en droit à cette objection. Elle ajoute une règle qui lui est propre : aucune modification ne peut jamais attacher un droit de contrôle, un veto ou un privilège de gouvernance aux participations de la Réserve ; la participation économique est le maximum constitutionnel (DC-32).
+
+### 17. Vous saisissez le capital d'entreprises que l'Europe ne régit pas
+
+**L'objection, sous sa forme la plus forte.** L'obligation de warrant atteint des entreprises constituées au Delaware ou à Singapour, dont les actions sont détenues ailleurs et les systèmes construits ailleurs, parce que leurs services sont utilisés dans l'Union. Le droit international public ne permet à l'Union de régir des comportements étrangers que lorsqu'ils produisent des effets immédiats, substantiels et prévisibles dans le marché intérieur (Gencor T-102/96 ; Intel C-413/14 P), et même alors elle régit des comportements, non la propriété : aucune affaire fondée sur la doctrine des effets n'a jamais exigé d'une société mère étrangère qu'elle dilue son propre capital. Les gouvernements de pays tiers traiteront une souscription obligatoire de 3 % dans leurs champions comme une expropriation par règlement, attaquable au titre des traités d'investissement et des engagements commerciaux, et ils riposteront. L'Union revendiquerait un pouvoir qu'elle ne concéderait jamais aux autres : une loi étrangère exigeant 3 % du capital d'un champion européen comme prix de l'accès à ce marché.
+
+**Là où elle voit juste.** Un warrant sur une société mère étrangère dont le seul lien avec l'Union est que son site web répond irait trop loin et mériterait de perdre. Le rattachement doit être la substance économique dans l'Union, non l'accessibilité. La riposte est un coût réel et la réciprocité un argument réel.
+
+**La réponse que l'instrument doit apporter.** Quatre choix structurels, tous déjà dans les articles. Premièrement, le déclencheur est le commerce dans l'Union, non l'accessibilité dans l'Union : la désignation exige la fourniture dans le marché intérieur avec 7,5 milliards EUR de chiffre d'affaires annuel dans l'Union, dans au moins trois États membres (article 3, paragraphe 2, point a)), un critère de présence économique bien au-delà de tout seuil de la doctrine des effets, et les rentes partagées sont, par construction, des rentes tirées des utilisateurs de l'Union. Deuxièmement, l'entreprise est le groupe : « entreprise » consolide les entreprises liées (article 2, point 1), le principe de l'unité économique du droit de la concurrence de l'Union (Akzo Nobel C-97/08 P), de sorte qu'aucune filiale mince dans l'Union ne peut faire écran à la société mère à laquelle la valeur des services automatisés revient réellement. Troisièmement, le mécanisme respecte le droit des sociétés étranger au lieu de prétendre l'écarter : pour les entreprises régies par le droit d'un pays tiers, la souscription est une obligation de résultat (article 5, paragraphe 4), assurée par l'article 13 comme condition du maintien de l'accès au marché intérieur, l'architecture de toute condition d'accès au marché que l'Union impose déjà, et les dérogations de droit des sociétés de l'article 5, paragraphe 6, n'atteignent que le droit des États membres. Quatrièmement, la condition est universelle : les entreprises de l'Union la portent à l'identique, de sorte qu'une réclamation conventionnelle ou un panel commercial ne trouve aucune discrimination à saisir, et la réciprocité joue en faveur de l'instrument : une Union qui pose le principe l'accepte des autres.
+
+**Conséquence de conception.** Le rattachement d'accès au marché de DC-10 et la consolidation de groupe de DC-2 constituent les réponses en droit à cette objection. Elle ajoute une règle qui lui est propre : pour les entreprises relevant du droit d'un pays tiers, le warrant est une obligation de résultat en tant que condition d'accès au marché, jamais une prétendue mise à l'écart du droit des sociétés étranger (DC-33).
+
 ## Le tableau des contraintes
 
 Les articles sont rédigés à l'aune de ce tableau. Un projet qui viole une DC
@@ -604,7 +638,7 @@ Les articles sont rédigés à l'aune de ce tableau. Un projet qui viole une DC
 | DC | Contrainte | Objection d'origine |
 |---|---|---|
 | DC-1 | Warrants prospectifs sur la valeur future ; jamais de transfert rétroactif | 1 |
-| DC-2 | Seuils élevés, objectifs, consolidés au niveau du groupe | 1, 5 |
+| DC-2 | Seuils élevés, objectifs, consolidés au niveau du groupe | 1, 5, 17 |
 | DC-3 | Passivité inscrite dans la loi ; cristallisation aux seuls événements | 1, 6 |
 | DC-4 | Aucun flux monétaire en provenance des entreprises ; instruments uniquement | 2, 4 |
 | DC-5 | Les distributions sont des revenus de propriété de la réserve | 2 |
@@ -612,10 +646,10 @@ Les articles sont rédigés à l'aune de ce tableau. Un projet qui viole une DC
 | DC-7 | Normes de warrant au niveau de l'Union ; conservation par les États membres via les circuits de retraite | 3, 14 |
 | DC-8 | Normes minimales, pas de machinerie uniforme | 3 |
 | DC-9 | Obligation jamais convertible en charge sur les flux | 4 |
-| DC-10 | Critère d'accès au marché, non d'établissement | 5 |
+| DC-10 | Critère d'accès au marché, non d'établissement | 5, 17 |
 | DC-11 | Consolidation des effectifs selon la substance plutôt que la forme | 5 |
 | DC-12 | Cristallisation déclenchée par événement ; pas de valorisation continue | 6 |
-| DC-13 | Intérêts économiques sans droit de vote, à titre permanent | 6 |
+| DC-13 | Intérêts économiques sans droit de vote, à titre permanent | 6, 16 |
 | DC-14 | Dividende présenté comme partant de peu et se composant | 6 |
 | DC-15 | Les considérants plaident la propriété et le mécanisme, jamais le déclin de la part salariale | 7 |
 | DC-16 | La valeur énoncée dans les deux futurs | 7 |
@@ -624,21 +658,28 @@ Les articles sont rédigés à l'aune de ce tableau. Un projet qui viole une DC
 | DC-19 | Aucune détention de dette souveraine | 9 |
 | DC-20 | Verrouillage dès le premier jour : modification expresse uniquement, évaluation indépendante publiée, honnêteté sur les limites des traités | 9 |
 | DC-21 | Aucune clause d'urgence | 9 |
-| DC-22 | Droits individuels, bloqués, transmissibles ; déchéance en cas de sortie anticipée | 9, 13 |
+| DC-22 | Droits individuels insusceptibles de renonciation ou de saisie ; montants distribués détenus en propriété et transmissibles | 9, 13 |
 | DC-23 | Résistance aux ponctions présentée comme friction, jamais comme impossibilité | 9 |
 | DC-24 | Auto-exécutoire de plein droit ; aucune machinerie de programme | 10 |
 | DC-25 | Surplus du consommateur affirmé ; instrument qui s'y ajoute | 11 |
 | DC-26 | Considérant explicite de portée et de limites | 12 |
 | DC-27 | La distinction avec le revenu universel portée par la forme juridique | 13 |
 | DC-28 | Nouveauté limitée à la source de financement ; circuits existants pour la distribution | 14 |
-| DC-29 | Garantie de non-dégradation alignée sur le marché, valorisation indépendante et contestable séparément, contrôle juridictionnel | 1 |
+| DC-29 | Ingérence plafonnée au pourcentage énoncé dans l'exécution ; évaluation indépendante et contestable séparément ; contrôle juridictionnel | 1 |
 | DC-30 | Les éléments essentiels (déclencheur, propriété de la réserve, droit individuel, ingérence) dans les articles, jamais délégués | 1 |
 | DC-31 | Partout où figure un montant versé par citoyen, la part par citoyen dans la Réserve figure à côté | 15 |
+| DC-32 | Aucun droit de contrôle, veto ou privilège de gouvernance ne peut jamais être attaché aux participations de la Réserve | 16 |
+| DC-33 | Pour les entreprises relevant du droit d'un pays tiers, le warrant est une obligation de résultat comme condition d'accès au marché, jamais une mise à l'écart du droit des sociétés étranger | 17 |
 
 ## Statut
 
 Toutes les objections restent OUVERTES tant que les articles n'y ont pas
-répondu ; la 12 est CONCÉDÉE par la portée. L'objection 1 porte le plus
+répondu ; la 12 est CONCÉDÉE par la portée. Les objections 16 et 17 ont été
+ajoutées le 20 août 2026 à la suite d'une contestation externe (la ligne
+des golden shares de l'article 63 ; l'excès de compétence au regard de
+la doctrine des effets) ; leurs réponses figuraient déjà aux articles 3,
+5, paragraphe 4, et 9, ce qui est précisément l'objet de la rédaction contre la table, et
+le résidu qu'elles ajoutent est DC-32 et DC-33. L'objection 1 porte le plus
 grand risque juridique et l'objection 6 le plus grand risque de
 conception. La lettre d'admissibilité de la porte de contrôle 1 s'ouvre
 toujours sur les objections 1 et 2, mais recalibrées par les recherches de

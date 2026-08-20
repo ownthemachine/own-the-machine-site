@@ -142,7 +142,7 @@ site of a law should feel like the law: composed, engraved, certain.
   history link. Language switcher preserves the anchor. Print stylesheet
   worthy of a lawyer's desk.
 - **/law/memorandum** and **/law/objections**: the memorandum and the
-  fifteen counter-arguments verbatim from the repo, with the
+  seventeen counter-arguments verbatim from the repo, with the
   design-consequence table. Objections wear their serial-red markers.
 - **/law/ledger**: the public change history. Each entry: micro-seal
   from the commit hash, serial number in red, what prompted the change,
