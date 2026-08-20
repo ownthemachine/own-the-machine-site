@@ -15,8 +15,8 @@ import { fileURLToPath } from 'node:url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const REPO_ROOT = join(__dirname, '..');
 
-let ROOT = join(REPO_ROOT, '.vercel/output/static');
-let AUDITED_DIR = '.vercel/output/static';
+let ROOT = join(REPO_ROOT, 'dist');
+let AUDITED_DIR = 'dist';
 if (!existsSync(ROOT)) {
   console.log('.vercel/output/static not found — building via sync-law + astro build...');
   execSync('node scripts/sync-law.mjs && npx astro build', { cwd: REPO_ROOT, stdio: 'inherit' });

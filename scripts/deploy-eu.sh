@@ -2,8 +2,7 @@
 # EU deployment target: Scaleway Object Storage (fr-par) behind Scaleway
 # Edge Services. Dark until Gate 1; the go-live flip is a DNS change.
 #
-# Usage: scripts/deploy-eu.sh   (after a local `vercel build --prod` or
-#        `npm run build`; syncs the static output to the bucket)
+# Usage: npm run build && scripts/deploy-eu.sh
 #
 # Project: own-the-machine (da956a45-21c3-4d10-8a0b-e537f451f5a2), separate
 # from [private project]/[private project]/[private project] so billing, IAM and resources for the campaign stand
@@ -27,32 +26,27 @@
 #     1058665d-eb87-4e9a-ac56-ad16347fe7c3 (own-the-machine-deploy).
 #     Omit that statement and the deploy key loses its own bucket;
 #     recovery is `aws s3api delete-bucket-policy`.
-#   - response security headers (vercel.json) cannot come from a bucket,
-#     and Edge Services cannot add them either: its route rules only
-#     match method and path to pick a backend. Flipping to Edge
-#     Services alone therefore DROPS X-Content-Type-Options,
-#     X-Frame-Options, Referrer-Policy and Permissions-Policy. Keeping
-#     them means putting Cloudflare's proxy in front with Transform
-#     Rules, which puts a US company back in the serving path. That
-#     trade-off is the editor's to make.
+#   - response security headers cannot come from a bucket, and Edge
+#     Services cannot add them either: its route rules only match
+#     method and path to pick a backend. The two that HTML can carry
+#     (a Content-Security-Policy and the referrer policy) live in the
+#     document; frame-ancestors and HSTS are the accepted cost of
+#     serving from Europe without a proxy in front.
 #
-# Staging (live since 20 Aug): https://eu.ownthemachine.eu — Cloudflare
-# CNAME (DNS-only) to the pipeline endpoint, FQDN on the dns-stage,
-# Scaleway-managed Let's Encrypt certificate. verify-eu.py: 0 failures.
+# LIVE since 20 August 2026: ownthemachine.eu is served from this bucket
+# through Edge Services pipeline 14a105a7-127d-4eed-aae4-5164e6378a6a,
+# with a Scaleway-managed Let's Encrypt certificate. Cloudflare holds the
+# zone and answers DNS only; no request for site content transits a
+# proxy. www is a 301 to the apex (Edge Services takes one custom domain
+# per pipeline, and a bucket backs one pipeline), which is the single
+# hostname that still passes through Cloudflare, carrying no content.
 #
-# Go-live steps (need a browser session, run once when flipping):
-#   1. Scaleway console: Edge Services pipeline on the bucket, attach
-#      ownthemachine.eu, let Scaleway issue the certificate; set the
-#      404 page and the security headers there.
-#   2. Cloudflare: point the records at the Edge Services endpoint
-#      (apex via CNAME flattening), remove the Vercel records.
-#   3. Verify with scripts/verify-eu.py against the live domain before
-#      and after, then keep Vercel one deploy behind as a rollback.
+# Rollback, if ever needed: the site is a static build from this repo, so
+# any host will serve it. Point the apex elsewhere and deploy dist/.
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
-OUT=".vercel/output/static"
-[[ -d "$OUT" ]] || OUT="dist"
+OUT="dist"
 [[ -d "$OUT" ]] || { echo "no build output; run the build first" >&2; exit 1; }
 
 # The site has its own Scaleway project and its own deploy identity, so a

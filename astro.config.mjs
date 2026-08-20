@@ -7,8 +7,8 @@ export default defineConfig({
   site: 'https://ownthemachine.eu',
   output: 'static',
   trailingSlash: 'never',
-  // Directory output so any static host serves the pages: the EU mirror
+  // Directory output so any static host serves the pages: the bucket
   // resolves /law/article-1/ to its index document without rewrite rules,
-  // and Vercel's cleanUrls keeps the extensionless URLs identical.
+  // and deploy-eu.sh writes the extensionless twin beside it.
   build: { format: 'directory' },
 });
