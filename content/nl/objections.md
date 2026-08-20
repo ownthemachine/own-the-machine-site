@@ -69,13 +69,22 @@ ingrijpen in aandelenkapitaal bij wet (Kotnik C-526/14, Ledra C-8/15 P,
 Aeris Invest C-535/22 P), en het instrument neemt haar machinerie over:
 een eerlijke overweging die de inmenging benoemt met verwijzing naar
 artikel 17 van het Handvest, een volledige evenredigheidsoverweging onder
-artikel 52, lid 1, van het Handvest, en een gekwantificeerde waarborg dat
-niemand slechter af is, met een onafhankelijke, afzonderlijk aanvechtbare
-waardering. Eén aanpassing is verplicht: het contrafeitelijke scenario van
+artikel 52, lid 1, van het Handvest, en een gekwantificeerde uitvoeringswaarborg
+met een onafhankelijke, afzonderlijk aanvechtbare waardering. Eén aanpassing is verplicht: het contrafeitelijke scenario van
 de BRRD is insolventie, en een permanent stelsel kan niet leunen op
-crisisredeneringen (Dowling C-41/15), dus onze ondergrens is marktconform:
-geen aandeelhouder slechter af dan bij een gelijkwaardige uitgifte tegen
-marktvoorwaarden.
+crisisredeneringen (Dowling C-41/15), dus onze ondergrens ligt in de
+uitvoering, niet in een vergelijkingsscenario: de inmenging kan bij de
+uitvoering nooit de genoemde 3 % overschrijden, haar prijs wordt bepaald
+door de liquiditeitsgebeurtenis zelf onder een onafhankelijke en
+afzonderlijk aanvechtbare waardering, en geen toepassing van het
+instrument mag meer nemen dan de inmenging die het benoemt. De doctrine
+daaronder is ouder dan dit alles: eigendom is in de rechtsorde van de
+Unie geen onbegrensd voorrecht maar wordt beschermd in zijn
+maatschappelijke functie, en mag in het algemeen belang worden beperkt
+wanneer de beperking evenredig is en de kern van het recht onaangetast
+laat (Hauer 44/79; Bosphorus C-84/95). De beperking van dit instrument is
+gekwantificeerd, gebonden aan de gebeurtenis en kernsparend door
+constructie, en dat is wat die arresten van de wetgever verlangen.
 
 **Ontwerpconsequentie.** DC-1: een toekomstgerichte warrant op toekomstige
 waardecreatie bij omschreven gebeurtenissen, nooit een retroactieve
@@ -402,10 +411,11 @@ op houders; een verordening kan geen stemdrempels of wachttermijnen
 voorschrijven aan toekomstige wetgevers, en doen alsof dat wel kan, zou
 critici de gemakkelijkste spot in dit document aanreiken. Tegen Ierland:
 geen enkele noodgebruiksclausule, want de plundering van het NPRF was
-rechtmatig onder zijn eigen noodbepalingen. Tegen Estland: individuele
-aanspraken zijn vergrendeld tot de pensioenleeftijd, met verval van
-bijgepaste bedragen bij vervroegde uitstap, de Deense en Ierse
-constructies die standhielden. Tegen Griekenland: bestendigheid tegen
+rechtmatig onder zijn eigen noodbepalingen. Tegen Estland: de periodieke
+aanspraak is niet vatbaar voor afstand of afkoop tegen betaling, zodat
+er geen uitstap is die een uitkoop kan kopen, precies het falen dat
+Estland bewees; reeds uitgekeerde bedragen zijn eigendom van de houder,
+overerfbaar, de Deense constructie die standhield. Tegen Griekenland: bestendigheid tegen
 plunderingen mag nooit worden bereikt door de aanspraak van de burger weg
 te nemen, want dat is de mislukking vermomd als succes. En één eerlijke
 zin die de toelichting moet bevatten: geen redactie verslaat een
@@ -413,10 +423,11 @@ vastberaden toekomstige soeverein; het ontwerpdoel is de plundering luid,
 traag en electoraal duur te maken, en meer heeft geen enkele grondwet ooit
 bereikt.
 
-**Ontwerpconsequentie.** DC-19: geen posities in staatsschuld. DC-20:
-verankering vanaf dag één, gekwalificeerde meerderheid plus vertraging van
-een volledige zittingstermijn. DC-21: geen noodclausule. DC-22:
-individuele aanspraken, vergrendeld, met verval bij uitstap. DC-23: de
+**Ontwerpconsequentie.** DC-19: geen posities in staatsschuld. DC-20: verankering als frictie vanaf dag één: alleen uitdrukkelijke
+wijziging, een gepubliceerde onafhankelijke beoordeling, en eerlijkheid
+over verdragsgrenzen. DC-21: geen noodclausule. DC-22: individuele
+aanspraken niet vatbaar voor afstand; uitgekeerde bedragen in eigendom
+en overerfbaar. DC-23: de
 claim van bestendigheid tegen plunderingen wordt geformuleerd als frictie,
 nooit als onmogelijkheid.
 
@@ -579,6 +590,26 @@ de financieringsbron, waar het nodig is.
 
 **Ontwerpconsequentie.** Dit bezwaar is waarom DC-14 bestaat (nooit openen met een cijfer uit de beginjaren), waarom artikel 14, lid 3, de falsificatievoorwaarde in de tekst zelf draagt, en waarom bijlage II inkomsten uitkeert en nooit hoofdsom. Het voegt daar zelf nog één mechanische regel aan toe: waar een uitkeringsbedrag per burger wordt getoond, staat het belang per burger in de Reserve ernaast (DC-31).
 
+### 16. Dit is een gouden aandeel, en het Hof vernietigt gouden aandelen
+
+**Het bezwaar, in zijn sterkste vorm.** Twintig jaar lang heeft het Hof elke bijzondere publieke aandelenpositie in de interne markt ontmanteld. Commissie/Duitsland (C-112/05) vernietigde de Volkswagenwet omdat stemrechtplafonds en een blokkerende minderheid overheden invloed gaven die hun investering te boven ging en daarmee directe investeringen afschrikten; de Portugese, Franse, Italiaanse, Britse en Nederlandse gouden aandelen sneuvelden op dezelfde wijze onder het huidige artikel 63 VWEU. Een door de Unie opgerichte Reserve die krachtens de wet 3 % van elke aangewezen onderneming houdt, is een gouden aandeel in de gedaante van een verordening: een permanente, aan de staat verwante aandeelhouder die geen enkele belegger heeft gekozen, geplant in de kapitaalstructuur van elke grensverleggende onderneming, en die precies de grensoverschrijdende investeringen afschrikt die artikel 63 beschermt. De neutraliteit van artikel 345 ten aanzien van eigendomsstelsels redde de Volkswagenwet niet en zal dit niet redden. De afschrikking is niet hypothetisch: elke durfkapitaalronde van een aangewezen onderneming prijst voortaan een verplichte toekomstige verwatering in.
+
+**Wat eraan klopt.** De verwatering is reëel en beleggers zullen haar inprijzen, en elke positie met rechten met een zeggenschapskarakter zou sneuvelen zoals Volkswagen sneuvelde. De gouden-aandelenrechtspraak is de maatgevende jurisprudentie voor elke publieke aandelenpositie, en het instrument moet met die rechtspraak als directe maatstaf worden ontworpen, niet eromheen.
+
+**Het antwoord dat het instrument moet geven.** De gouden-aandelenlijn veroordeelt één ding: bijzondere zeggenschapsrechten die onevenredig zijn aan de investering, stemrechtplafonds, blokkerende minderheden, goedkeuringsveto's, bestuurszetels, het instrumentarium waarmee een staat een onderneming stuurt die hij niet bezit. Het instrument bouwt het exacte spiegelbeeld, in de artikelen en niet in geruststellingen. Het belang van de Reserve draagt nooit stemrecht (artikelen 5, lid 3, onder a), en 9, lid 1, onder a)); geen vertegenwoordiging in bestuursorganen (artikel 9, lid 1, onder b)); geen instructies (artikel 9, lid 1, onder c)); geen verwervingen buiten de warrant en indexmatige spreiding (artikel 9, lid 1, onder d)); geen hefboom of derivaten die haar tot strategische speler zouden maken (artikel 9, lid 1, onder e) tot en met g)). Wat overblijft is zuiver economische deelneming, de positie van elke passieve minderheidsaandeelhouder, en dat is de positie die het Noorse fonds op vergelijkbare schaal inneemt bij Europese beursgenoteerde ondernemingen zonder dat ooit een artikel 63-zaak is aangespannen. Wat de rechtspraak eist van elke beperking die standhoudt, beantwoordt het instrument uitdrukkelijk in de tekst zelf: non-discriminatie (identieke behandeling van Unie- en derdelandsondernemingen krachtens artikel 3), een dwingend algemeen belang in de overwegingen, en evenredigheid, gedragen door de vaste 3 %, de onafhankelijke en afzonderlijk aanvechtbare waardering (artikelen 5, lid 8, 6 en 7) en de afweging onder artikel 52, lid 1. En anders dan elk vernietigd gouden aandeel is dit geen lidstaat die zich nationale invloed tegen de integratie voorbehoudt: het is een uniforme Unieregel voor de gehele interne markt, en juist die uniformiteit neemt de divergentie weg die nationale deelnemingsregelingen zouden scheppen. Het eerlijke residu is dat een verplichte toekomstige verwatering zelf een kostenpost is die beleggers zullen inprijzen; bezwaar 4 becijfert haar, en evenredigheid, niet ontkenning, is het verweer.
+
+**Ontwerpconsequentie.** De permanente stemrechtloosheid van DC-13 en de gedragsverboden van artikel 9 zijn het juridische antwoord op dit bezwaar. Het voegt één eigen regel toe: geen wijziging mag ooit een zeggenschapsrecht, veto of bestuursprivilege aan de belangen van de Reserve hechten; economische deelneming is het constitutionele maximum (DC-32).
+
+### 17. U eigent zich aandelen toe in ondernemingen waarover Europa niet gaat
+
+**Het bezwaar, in zijn sterkste vorm.** De warrantverplichting reikt tot ondernemingen die in Delaware of Singapore zijn opgericht, waarvan de aandelen elders liggen en de systemen elders worden gebouwd, omdat hun diensten in de Unie worden gebruikt. Het volkenrecht staat de Unie slechts toe buitenlands handelen te reguleren wanneer dat onmiddellijke, wezenlijke en voorzienbare gevolgen in de interne markt heeft (Gencor T-102/96; Intel C-413/14 P), en zelfs dan reguleert zij gedrag, geen eigendom: geen enkele zaak onder de gevolgenleer heeft ooit een buitenlandse moedermaatschappij verplicht haar eigen kapitaal te verwateren. Regeringen van derde landen zullen een verplichte inschrijving op 3 % in hun kampioenen behandelen als onteigening per verordening, aanvechtbaar onder investeringsverdragen en handelsverplichtingen, en zij zullen tegenmaatregelen nemen. De Unie zou een bevoegdheid claimen die zij anderen nooit zou toestaan: een buitenlandse wet die 3 % van het kapitaal van een Europese kampioen eist als prijs voor het bedienen van die markt.
+
+**Wat eraan klopt.** Een warrant op een buitenlandse moedermaatschappij waarvan de enige band met de Unie is dat haar website bereikbaar is, zou te ver reiken en zou verdienen te verliezen. De aanknoping moet economische substantie in de Unie zijn, niet bereikbaarheid. Vergelding is een reële kostenpost en wederkerigheid een reëel argument.
+
+**Het antwoord dat het instrument moet geven.** Vier structurele keuzes, alle reeds in de artikelen. Ten eerste is de trigger handel in de Unie, niet bereikbaarheid in de Unie: aanwijzing vereist het aanbieden in de interne markt met EUR 7,5 miljard aan jaarlijkse Unieomzet in ten minste drie lidstaten (artikel 3, lid 2, onder a)), een toets van economische aanwezigheid die ver boven elke drempel van de gevolgenleer ligt, en de te delen overwinsten zijn per constructie overwinsten uit Uniegebruikers. Ten tweede is de onderneming de groep: 'onderneming' consolideert verbonden ondernemingen (artikel 2, punt 1), het beginsel van de ene economische eenheid uit het mededingingsrecht van de Unie (Akzo Nobel C-97/08 P), zodat geen dunne Uniedochter de moedermaatschappij kan afschermen waaraan de waarde van de geautomatiseerde diensten werkelijk toevalt. Ten derde eerbiedigt het mechanisme buitenlands vennootschapsrecht in plaats van het opzij te schuiven: voor ondernemingen die door het recht van een derde land worden beheerst is de inschrijving een resultaatsverplichting (artikel 5, lid 4), gehandhaafd via artikel 13 als voorwaarde voor voortgezette toegang tot de interne markt, de architectuur van elke markttoegangsvoorwaarde die de Unie al kent, en de vennootschapsrechtelijke afwijkingen van artikel 5, lid 6, raken uitsluitend het recht van de lidstaten. Ten vierde is de voorwaarde universeel: Unieondernemingen dragen haar identiek, zodat een verdragsclaim of handelspanel geen discriminatie vindt om zich aan vast te grijpen, en de wederkerigheid werkt in het voordeel van het instrument: een Unie die het beginsel stelt, aanvaardt het van anderen.
+
+**Ontwerpconsequentie.** De markttoegangsaanknoping van DC-10 en de groepsconsolidatie van DC-2 zijn de juridische antwoorden op dit bezwaar. Het voegt één eigen regel toe: voor ondernemingen onder derdelandsrecht is de warrant een resultaatsverplichting als markttoegangsvoorwaarde, nooit een vermeende terzijdestelling van buitenlands vennootschapsrecht (DC-33).
+
 ## De beperkingentabel
 
 De artikelen worden aan de hand van deze tabel geredigeerd. Een ontwerp dat een DC
@@ -587,7 +618,7 @@ schendt, zakt voor de review, hoe goed het proza ook is.
 | DC | Beperking | Bronbezwaar |
 |---|---|---|
 | DC-1 | Prospectieve warrants op toekomstige waarde; nooit retroactieve overdracht | 1 |
-| DC-2 | Hoge, objectieve drempels op geconsolideerd groepsniveau | 1, 5 |
+| DC-2 | Hoge, objectieve drempels op geconsolideerd groepsniveau | 1, 5, 17 |
 | DC-3 | Wettelijke passiviteit; verzilvering alleen bij gebeurtenissen | 1, 6 |
 | DC-4 | Geen geldstroom vanuit ondernemingen; alleen instrumenten | 2, 4 |
 | DC-5 | Uitkeringen zijn vermogensinkomsten van de reserve | 2 |
@@ -595,10 +626,10 @@ schendt, zakt voor de review, hoe goed het proza ook is.
 | DC-7 | Warrantnormen op Unieniveau; bewaring door de lidstaten via de pensioeninfrastructuur | 3, 14 |
 | DC-8 | Minimumnormen, geen uniforme machinerie | 3 |
 | DC-9 | Verplichting nooit omzetbaar in een heffing op geldstromen | 4 |
-| DC-10 | Aanknoping bij markttoegang, niet bij vestiging | 5 |
+| DC-10 | Aanknoping bij markttoegang, niet bij vestiging | 5, 17 |
 | DC-11 | Personeelsconsolidatie naar wezen boven vorm | 5 |
 | DC-12 | Verzilvering bij gebeurtenissen; geen doorlopende waardering | 6 |
-| DC-13 | Permanent stemrechtloze economische belangen | 6 |
+| DC-13 | Permanent stemrechtloze economische belangen | 6, 16 |
 | DC-14 | Dividend gecommuniceerd als klein beginnend en samengesteld aangroeiend | 6 |
 | DC-15 | Overwegingen betogen eigendom en mechanisme, nooit een dalend loonaandeel | 7 |
 | DC-16 | Waarde gesteld onder beide toekomsten | 7 |
@@ -607,21 +638,28 @@ schendt, zakt voor de review, hoe goed het proza ook is.
 | DC-19 | Geen posities in staatsschuld | 9 |
 | DC-20 | Verankering vanaf dag één: alleen uitdrukkelijke wijziging, gepubliceerde onafhankelijke beoordeling, eerlijkheid over verdragsgrenzen | 9 |
 | DC-21 | Geen noodclausule | 9 |
-| DC-22 | Individuele, vergrendelde, overerfbare aanspraken; verval bij vervroegde uitstap | 9, 13 |
+| DC-22 | Individuele aanspraken niet vatbaar voor afstand of beslag; uitgekeerde bedragen in eigendom en overerfbaar | 9, 13 |
 | DC-23 | Bestendigheid tegen plunderingen geclaimd als frictie, nooit als onmogelijkheid | 9 |
 | DC-24 | Van rechtswege werkend; geen programmamachinerie | 10 |
 | DC-25 | Consumentensurplus bevestigd; instrument als aanvulling erop | 11 |
 | DC-26 | Uitdrukkelijke overweging over reikwijdte en grenzen | 12 |
 | DC-27 | Onderscheid met het basisinkomen gedragen door juridische vorm | 13 |
 | DC-28 | Alleen de financieringsbron is nieuw; bestaande infrastructuur voor de uitkering | 14 |
-| DC-29 | Marktconforme waarborg dat niemand slechter af is, onafhankelijke en afzonderlijk aanvechtbare waardering, rechterlijke toetsing | 1 |
+| DC-29 | Inmenging in de uitvoering begrensd op het genoemde percentage; onafhankelijke, afzonderlijk aanvechtbare waardering; rechterlijke toetsing | 1 |
 | DC-30 | Essentiële onderdelen (trigger, eigendom van de reserve, aanspraak, inmenging) in de artikelen, nooit gedelegeerd | 1 |
 | DC-31 | Waar een uitkeringsbedrag per burger wordt getoond, staat het belang per burger in de Reserve ernaast | 15 |
+| DC-32 | Geen zeggenschapsrecht, veto of bestuursprivilege mag ooit aan de belangen van de Reserve worden gehecht | 16 |
+| DC-33 | Voor ondernemingen onder derdelandsrecht is de warrant een resultaatsverplichting als markttoegangsvoorwaarde, nooit een terzijdestelling van buitenlands vennootschapsrecht | 17 |
 
 ## Status
 
 Alle bezwaren staan OPEN tot de artikelen ze beantwoorden; bezwaar 12 is
-TOEGEGEVEN via de reikwijdte. Bezwaar 1 draagt het grootste juridische
+TOEGEGEVEN via de reikwijdte. Bezwaren 16 en 17 zijn op 20 augustus
+2026 toegevoegd naar aanleiding van een externe aanval (de
+gouden-aandelenlijn van artikel 63; de reikwijdteoverschrijding van de
+gevolgenleer); hun antwoorden stonden al in de artikelen 3, 5, lid 4,
+en 9, wat precies is waartoe het ontwerpen aan de hand van de tabel dient, en het
+residu dat zij toevoegen is DC-32 en DC-33. Bezwaar 1 draagt het grootste juridische
 risico en bezwaar 6 het grootste ontwerprisico. De ontvankelijkheidsbrief
 van toetsingspoort 1 opent nog steeds met de bezwaren 1 en 2, maar
 herijkt door het redactieonderzoek: registratie is de lagere horde (de

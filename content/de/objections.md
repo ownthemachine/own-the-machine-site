@@ -69,12 +69,23 @@ gesetzlichen Eingriff in Eigenkapital (Kotnik C-526/14, Ledra C-8/15 P, Aeris
 Invest C-535/22 P), und das Instrument übernimmt ihre Mechanik: einen
 ehrlichen Eingriffs-Erwägungsgrund, der Artikel 17 der Charta benennt, einen
 vollständigen Verhältnismäßigkeits-Erwägungsgrund nach Artikel 52 Absatz 1
-der Charta und ein beziffertes Schlechterstellungsverbot mit unabhängiger,
+der Charta und eine bezifferte Ausführungsgarantie mit unabhängiger,
 gesondert anfechtbarer Bewertung. Eine Anpassung ist zwingend: Das
 Vergleichsszenario der BRRD ist die Insolvenz, und ein dauerhaftes Regime
-kann sich nicht auf Krisenlogik stützen (Dowling C-41/15); unsere Untergrenze
-ist deshalb marktkonform: kein Anteilseigner schlechter gestellt als bei
-einer gleichwertigen Emission zu Marktbedingungen.
+kann sich nicht auf Krisenlogik stützen (Dowling C-41/15); unsere Untergrenze liegt
+deshalb in der Ausführung, nicht in einem Vergleichsszenario: der
+Eingriff kann in der Ausführung die genannten 3 % nie überschreiten,
+sein Preis wird vom Liquiditätsereignis selbst unter einer unabhängigen,
+gesondert anfechtbaren Bewertung gesetzt, und keine Anwendung des
+Instruments darf mehr nehmen als den Eingriff, den es benennt. Die
+Doktrin darunter ist älter als all dies: Eigentum ist in der
+Rechtsordnung der Union kein schrankenloses Vorrecht, sondern in seiner
+sozialen Funktion geschützt, und darf im Allgemeininteresse beschränkt
+werden, wenn die Beschränkung verhältnismäßig ist und den Wesensgehalt
+des Rechts unangetastet lässt (Hauer 44/79; Bosphorus C-84/95). Der
+Eingriff dieses Instruments ist quantifiziert, ereignisgebunden und
+wahrt den Wesensgehalt durch Konstruktion, und genau das verlangen jene
+Urteile vom Gesetzgeber.
 
 **Konsequenz für den Entwurf.** DC-1: zukunftsgerichteter Warrant auf
 künftige Wertschöpfung bei definierten Ereignissen, niemals rückwirkende
@@ -401,10 +412,12 @@ die Inhaber; eine Verordnung kann künftigen Gesetzgebern keine
 Abstimmungsschwellen oder Fristen vorschreiben, und das Gegenteil zu
 behaupten würde den Kritikern den leichtesten Spott der Datei liefern. Gegen
 Irland: keinerlei Notfallklausel, denn die Plünderung des NPRF war nach
-dessen eigenen Notstandsbestimmungen rechtmäßig. Gegen Estland: Individuelle
-Ansprüche sind bis zum Rentenalter gebunden, mit Verfall der Zulagen bei
-vorzeitigem Ausstieg, die dänischen und irischen Vorkehrungen, die gehalten
-haben. Gegen Griechenland: Plünderungsschutz darf nie dadurch erreicht
+dessen eigenen Notstandsbestimmungen rechtmäßig. Gegen Estland: Der laufende
+Anspruch ist weder verzichtbar noch gegen Zahlung ablösbar, sodass es
+keinen Ausstieg gibt, den ein Aufkauf kaufen könnte, genau das
+Scheitern, das Estland bewiesen hat; bereits ausgeschüttete Beträge sind
+Eigentum der Inhaberin, vererbbar, die dänische Vorkehrung, die gehalten
+hat. Gegen Griechenland: Plünderungsschutz darf nie dadurch erreicht
 werden, dass man den Anspruch der Bürgerin beseitigt, denn das ist das
 Scheitern im Kostüm des Erfolgs. Und ein ehrlicher Satz, den das Memorandum
 enthalten muss: Keine Formulierung besiegt einen entschlossenen künftigen
@@ -412,10 +425,11 @@ Souverän; das Entwurfsziel ist, die Plünderung laut, langsam und an der
 Wahlurne teuer zu machen, was das Meiste ist, was je eine Verfassung erreicht
 hat.
 
-**Konsequenz für den Entwurf.** DC-19: keine Staatsanleihebestände. DC-20:
-Verankerung vom ersten Tag an, qualifizierte Mehrheit plus Verzögerung um
-eine volle Wahlperiode. DC-21: keine Notfallklausel. DC-22: individuelle
-Ansprüche, gebunden, mit Verfall bei Ausstieg. DC-23: Die
+**Konsequenz für den Entwurf.** DC-19: keine Staatsanleihebestände. DC-20: Verankerung als Reibung vom ersten Tag an: nur ausdrückliche
+Änderung, eine veröffentlichte unabhängige Bewertung und Ehrlichkeit
+über die Grenzen der Verträge. DC-21: keine Notfallklausel. DC-22:
+individuelle Ansprüche, unverzichtbar; ausgeschüttete Beträge im
+Eigentum und vererbbar. DC-23: Die
 Plünderungsresistenz wird als Reibung ausgewiesen, nie als Unmöglichkeit.
 
 ### 10. Die EU kann nicht einmal auszahlen, was sie ankündigt
@@ -574,6 +588,26 @@ Finanzierungsquelle beschränkt, wo sie nötig ist.
 
 **Konsequenz für den Entwurf.** Dieser Einwand ist der Grund für DC-14 (nie mit einer Zahl der Anfangsjahre einsteigen), dafür, dass Artikel 14 Absatz 3 die Falsifikationsbedingung ausdrücklich enthält, und dafür, dass Anhang II Erträge ausschüttet und nie Substanz. Er fügt eine eigene mechanische Regel hinzu: wo ein Auszahlungsbetrag je Bürgerin gezeigt wird, steht der Anteil je Bürgerin an der Reserve daneben (DC-31).
 
+### 16. Das ist eine goldene Aktie, und der Gerichtshof kassiert goldene Aktien
+
+**Der Einwand, in aller Schärfe.** Zwanzig Jahre lang hat der Gerichtshof jede besondere öffentliche Kapitalposition im Binnenmarkt zerlegt. Kommission/Deutschland (C-112/05) kippte das Volkswagen-Gesetz, weil Stimmrechtsdeckel und eine Sperrminorität öffentlichen Stellen Einfluss über ihre Beteiligung hinaus gaben und damit Direktinvestitionen abschreckten; die portugiesischen, französischen, italienischen, britischen und niederländischen goldenen Aktien fielen auf dieselbe Weise unter dem heutigen Artikel 63 AEUV. Eine von der Union errichtete Reserve, die kraft Gesetzes 3 % jedes erfassten Unternehmens hält, ist eine goldene Aktie im Gewand einer Verordnung: ein dauerhafter, staatsnaher Aktionär, den kein Investor gewählt hat, eingepflanzt in die Kapitalstruktur jedes Spitzenunternehmens, und er schreckt genau die grenzüberschreitenden Investitionen ab, die Artikel 63 schützt. Die Neutralität des Artikels 345 gegenüber den Eigentumsordnungen hat das Volkswagen-Gesetz nicht gerettet und wird dies nicht retten. Die Abschreckung ist nicht hypothetisch: jede Finanzierungsrunde eines erfassten Unternehmens preist fortan eine verpflichtende künftige Verwässerung ein.
+
+**Was daran richtig ist.** Die Verwässerung ist real und Investoren werden sie einpreisen, und jede Position mit kontrollartigen Rechten fiele genau so, wie Volkswagen fiel. Die Rechtsprechung zu goldenen Aktien ist die maßgebliche Judikatur für jede öffentliche Kapitalposition, und das Instrument muss gegen sie entworfen werden, nicht um sie herum.
+
+**Die Antwort, die das Instrument geben muss.** Die Linie der goldenen Aktien verurteilt eines: besondere Kontrollrechte über die Beteiligung hinaus, Stimmrechtsdeckel, Sperrminoritäten, Zustimmungsvetos, Organsitze, das Instrumentarium, mit dem ein Staat ein Unternehmen lenkt, das ihm nicht gehört. Das Instrument baut das exakte Gegenteil, in den Artikeln und nicht in Beteuerungen. Der Anteil der Reserve trägt niemals ein Stimmrecht (Artikel 5 Absatz 3 Buchstabe a und Artikel 9 Absatz 1 Buchstabe a); keine Vertretung in Organen (Artikel 9 Absatz 1 Buchstabe b); keine Weisungen (Artikel 9 Absatz 1 Buchstabe c); keine Erwerbe jenseits des Warrants und indexartiger Streuung (Artikel 9 Absatz 1 Buchstabe d); weder Hebel noch Derivate, die sie zu einem strategischen Akteur machen würden (Artikel 9 Absatz 1 Buchstaben e bis g). Was bleibt, ist reine wirtschaftliche Beteiligung, die Position jedes passiven Minderheitsaktionärs, und es ist die Position, die der norwegische Fonds in vergleichbarer Größenordnung bei europäischen börsennotierten Unternehmen hält, ohne dass je ein Verfahren nach Artikel 63 angestrengt worden wäre. Was die Rechtsprechung von jeder Beschränkung verlangt, die bestehen bleibt, beantwortet das Instrument unmittelbar im Text: Diskriminierungsfreiheit (identische Behandlung von Unions- und Drittlandsunternehmen nach Artikel 3), ein zwingendes Allgemeininteresse in den Erwägungsgründen und Verhältnismäßigkeit, getragen von den festen 3 %, der unabhängigen, gesondert anfechtbaren Bewertung (Artikel 5 Absatz 8, 6 und 7) und der Abwägung nach Artikel 52 Absatz 1. Und anders als jede kassierte goldene Aktie ist dies kein Mitgliedstaat, der sich nationalen Einfluss gegen die Integration vorbehält: es ist eine einheitliche Unionsregel für den gesamten Binnenmarkt, und gerade ihre Einheitlichkeit beseitigt die Divergenz, die nationale Beteiligungsregime schaffen würden. Der ehrliche Rest ist, dass eine verpflichtende künftige Verwässerung selbst ein Kostenfaktor ist, den Investoren einpreisen; Einwand 4 beziffert ihn, und Verhältnismäßigkeit, nicht Leugnung, ist die Verteidigung.
+
+**Konsequenz für den Entwurf.** Die dauerhafte Stimmrechtslosigkeit von DC-13 und die Verhaltensverbote des Artikels 9 sind die rechtliche Antwort auf diesen Einwand. Er fügt eine eigene Regel hinzu: keine Änderung darf jemals ein Kontrollrecht, ein Veto oder ein Governance-Privileg an die Beteiligungen der Reserve knüpfen; wirtschaftliche Beteiligung ist das konstitutionelle Maximum (DC-32).
+
+### 17. Ihr greift nach Anteilen an Unternehmen, über die Europa nicht bestimmt
+
+**Der Einwand, in aller Schärfe.** Die Warrant-Pflicht erreicht Unternehmen, die in Delaware oder Singapur gegründet sind, deren Anteile im Ausland liegen und deren Systeme im Ausland gebaut werden, weil ihre Dienste in der Union genutzt werden. Das Völkerrecht erlaubt der Union, auswärtiges Verhalten nur dann zu regeln, wenn es unmittelbare, wesentliche und vorhersehbare Wirkungen im Binnenmarkt hat (Gencor T-102/96; Intel C-413/14 P), und selbst dann regelt sie Verhalten, nicht Eigentum: kein Fall der Wirkungsdoktrin hat je eine ausländische Muttergesellschaft verpflichtet, ihr eigenes Kapital zu verwässern. Drittstaatsregierungen werden eine verpflichtende Zeichnung von 3 % an ihren Champions als Enteignung durch Verordnung behandeln, angreifbar unter Investitionsschutzverträgen und Handelszusagen, und sie werden Gegenmaßnahmen ergreifen. Die Union beanspruchte eine Befugnis, die sie anderen nie zugestünde: ein ausländisches Gesetz, das 3 % des Kapitals eines europäischen Champions als Preis für die Bedienung dieses Marktes verlangt.
+
+**Was daran richtig ist.** Ein Warrant auf eine ausländische Muttergesellschaft, deren einzige Verbindung zur Union darin besteht, dass ihre Website erreichbar ist, griffe zu weit und verdiente zu verlieren. Der Anknüpfungspunkt muss wirtschaftliche Substanz in der Union sein, nicht Erreichbarkeit. Vergeltung ist ein realer Kostenfaktor und Gegenseitigkeit ein reales Argument.
+
+**Die Antwort, die das Instrument geben muss.** Vier strukturelle Entscheidungen, alle bereits in den Artikeln. Erstens ist der Auslöser Handel in der Union, nicht Erreichbarkeit in der Union: die Benennung verlangt die Erbringung im Binnenmarkt mit 7,5 Milliarden EUR jährlichem Unionsumsatz in mindestens drei Mitgliedstaaten (Artikel 3 Absatz 2 Buchstabe a), eine Prüfung wirtschaftlicher Präsenz weit über jeder Schwelle der Wirkungsdoktrin, und die geteilten Renten sind konstruktionsbedingt Renten aus Unionsnutzern. Zweitens ist das Unternehmen die Gruppe: 'Unternehmen' konsolidiert verbundene Unternehmen (Artikel 2 Nummer 1), das Prinzip der wirtschaftlichen Einheit des Wettbewerbsrechts der Union (Akzo Nobel C-97/08 P), sodass keine dünne Unionstochter die Muttergesellschaft abschirmen kann, der der Wert der automatisierten Dienste tatsächlich zufließt. Drittens achtet der Mechanismus ausländisches Gesellschaftsrecht, statt es verdrängen zu wollen: für Unternehmen unter Drittstaatsrecht ist die Zeichnung eine Ergebnispflicht (Artikel 5 Absatz 4), durchgesetzt über Artikel 13 als Bedingung fortgesetzten Zugangs zum Binnenmarkt, die Architektur jeder Marktzugangsbedingung, die die Union bereits kennt, und die gesellschaftsrechtlichen Ausnahmeregelungen des Artikels 5 Absatz 6 erfassen allein das Recht der Mitgliedstaaten. Viertens ist die Bedingung universell: Unionsunternehmen tragen sie identisch, sodass eine Vertragsklage oder ein Handelspanel keine Diskriminierung vorfindet, an der angesetzt werden könnte, und die Gegenseitigkeit arbeitet für das Instrument: eine Union, die dieses Prinzip beansprucht, lässt es auch durch andere gegen sich gelten.
+
+**Konsequenz für den Entwurf.** Der Marktzugangsanknüpfungspunkt von DC-10 und die Gruppenkonsolidierung von DC-2 sind die rechtlichen Antworten auf diesen Einwand. Er fügt eine eigene Regel hinzu: für Unternehmen unter Drittstaatsrecht ist der Warrant eine Ergebnispflicht als Marktzugangsbedingung, niemals eine vermeintliche Verdrängung ausländischen Gesellschaftsrechts (DC-33).
+
 ## Die Tabelle der Vorgaben
 
 Die Artikel werden gegen diese Tabelle entworfen. Ein Entwurf, der eine DC
@@ -582,7 +616,7 @@ verletzt, fällt in der Prüfung durch, ganz gleich, wie seine Prosa lautet.
 | DC | Vorgabe | Ausgangseinwand |
 |---|---|---|
 | DC-1 | Zukunftsgerichtete Warrants auf künftigen Wert; nie rückwirkende Übertragung | 1 |
-| DC-2 | Hohe, objektive, gruppenkonsolidierte Schwellenwerte | 1, 5 |
+| DC-2 | Hohe, objektive, gruppenkonsolidierte Schwellenwerte | 1, 5, 17 |
 | DC-3 | Gesetzliche Passivität; Realisierung nur bei Ereignissen | 1, 6 |
 | DC-4 | Kein Geldfluss von den Unternehmen; nur Instrumente | 2, 4 |
 | DC-5 | Ausschüttungen sind Vermögenseinkommen der Reserve | 2 |
@@ -590,10 +624,10 @@ verletzt, fällt in der Prüfung durch, ganz gleich, wie seine Prosa lautet.
 | DC-7 | Warrant-Standards der Union; Verwahrung durch die Mitgliedstaaten über die Rentenschienen | 3, 14 |
 | DC-8 | Mindeststandards, keine einheitliche Maschinerie | 3 |
 | DC-9 | Pflicht nie in eine laufende Abgabe umwandelbar | 4 |
-| DC-10 | Anknüpfung an den Marktzugang, nicht an die Niederlassung | 5 |
+| DC-10 | Anknüpfung an den Marktzugang, nicht an die Niederlassung | 5, 17 |
 | DC-11 | Personalkonsolidierung nach Substanz vor Form | 5 |
 | DC-12 | Ereignisgebundene Realisierung; keine laufende Bewertung | 6 |
-| DC-13 | Dauerhaft stimmrechtslose wirtschaftliche Beteiligungen | 6 |
+| DC-13 | Dauerhaft stimmrechtslose wirtschaftliche Beteiligungen | 6, 16 |
 | DC-14 | Dividende kommuniziert als klein beginnend und aufzinsend | 6 |
 | DC-15 | Erwägungsgründe argumentieren mit Eigentum und Mechanismus, nie mit sinkender Lohnquote | 7 |
 | DC-16 | Wert unter beiden Zukünften dargestellt | 7 |
@@ -602,21 +636,28 @@ verletzt, fällt in der Prüfung durch, ganz gleich, wie seine Prosa lautet.
 | DC-19 | Keine Staatsanleihebestände | 9 |
 | DC-20 | Verankerung vom ersten Tag an: nur ausdrückliche Änderung, veröffentlichte unabhängige Bewertung, Ehrlichkeit über die Grenzen der Verträge | 9 |
 | DC-21 | Keine Notfallklausel | 9 |
-| DC-22 | Individuelle, gebundene, vererbbare Ansprüche; Verfall bei vorzeitigem Ausstieg | 9, 13 |
+| DC-22 | Individuelle Ansprüche, weder verzichtbar noch pfändbar; ausgeschüttete Beträge im Eigentum und vererbbar | 9, 13 |
 | DC-23 | Plünderungsresistenz als Reibung ausgewiesen, nie als Unmöglichkeit | 9 |
 | DC-24 | Selbstvollziehend kraft Gesetzes; keine Programmmaschinerie | 10 |
 | DC-25 | Konsumentenrente bejaht; Instrument als deren Ergänzung | 11 |
 | DC-26 | Ausdrücklicher Erwägungsgrund zu Zweck und Grenzen | 12 |
 | DC-27 | Abgrenzung zum Grundeinkommen durch die Rechtsform getragen | 13 |
 | DC-28 | Neuheit nur bei der Finanzierungsquelle; bestehende Schienen für die Auszahlung | 14 |
-| DC-29 | Marktkonformes Schlechterstellungsverbot, unabhängige und gesondert anfechtbare Bewertung, gerichtliche Überprüfung | 1 |
+| DC-29 | Eingriff in der Ausführung auf den genannten Prozentsatz begrenzt; unabhängige, gesondert anfechtbare Bewertung; gerichtliche Überprüfung | 1 |
 | DC-30 | Wesentliche Elemente (Auslöser, Eigentum der Reserve, Anspruch, Eingriff) in den Artikeln, nie delegiert | 1 |
 | DC-31 | Wo ein Auszahlungsbetrag je Bürgerin gezeigt wird, steht der Anteil je Bürgerin an der Reserve daneben | 15 |
+| DC-32 | Kein Kontrollrecht, Veto oder Governance-Privileg darf jemals an die Beteiligungen der Reserve geknüpft werden | 16 |
+| DC-33 | Für Unternehmen unter Drittstaatsrecht ist der Warrant eine Ergebnispflicht als Marktzugangsbedingung, niemals eine Verdrängung ausländischen Gesellschaftsrechts | 17 |
 
 ## Status
 
 Alle Einwände OFFEN, bis die Artikel sie beantworten; Einwand 12 ist durch
-die Zweckbestimmung EINGERÄUMT. Einwand 1 trägt das größte Rechtsrisiko und
+die Zweckbestimmung EINGERÄUMT. Die Einwände 16 und 17 wurden am
+20. August 2026 aufgrund einer externen Anfechtung hinzugefügt (die
+Linie der goldenen Aktien des Artikels 63; die Reichweitenüberschreitung
+der Wirkungsdoktrin); ihre Antworten standen bereits in den Artikeln 3,
+5 Absatz 4 und 9, wofür das Entwerfen gegen die Tabelle genau da ist, und der
+Rest, den sie hinzufügen, ist DC-32 und DC-33. Einwand 1 trägt das größte Rechtsrisiko und
 Einwand 6 das größte Entwurfsrisiko. Das Zulässigkeitsschreiben der
 Prüfstufe 1 führt weiterhin mit den Einwänden 1 und 2, aber rekalibriert
 durch die Entwurfsrecherche: Die Registrierung ist die niedrigere Hürde

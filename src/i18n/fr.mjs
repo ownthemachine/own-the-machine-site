@@ -72,7 +72,7 @@ export default {
     title: 'Les objections, sous leur forme la plus forte',
     eyebrow: 'Mémorandum · l’honnêteté d’abord',
     intro: 'Chaque argument sérieux contre ce règlement, énoncé aussi bien que ses opposants l’énonceraient, avant qu’un seul article ne soit rédigé. Chaque objection se conclut par ses incidences sur la conception, et le tableau des contraintes ci-dessous est un critère de fusion : un texte qui le viole n’est pas fusionné. Quand une objection est admise, c’est écrit. Cette page est la stratégie de crédibilité de la campagne, pas sa confession : lisez-la d’abord, puis lisez <a href="%LAW%">la loi qui en est sortie</a>.',
-    description: 'Quinze objections au projet, publiées sous leur forme la plus forte, chacune avec ses incidences sur la conception.',
+    description: 'Dix-sept objections au projet, publiées sous leur forme la plus forte, chacune avec ses incidences sur la conception.',
   },
   memorandum: {
     title: 'Divisibilité : ce qui survit à l’élagage',

@@ -72,7 +72,7 @@ export default {
     title: 'The objections, at full strength',
     eyebrow: 'Memorandum · the honesty surface',
     intro: 'Every serious argument against this Regulation, stated as well as its opponents would state it, before a single article was drafted. Each objection ends in design consequences, and the design-constraints table below is a merge criterion: text that violates it does not merge. Where an objection is conceded, it says so. This page is the campaign’s credibility strategy, not its confession: read it first, then read <a href="%LAW%">the law it produced</a>.',
-    description: 'Fifteen objections to the draft, published at full strength, each with its design consequences.',
+    description: 'Seventeen objections to the draft, published at full strength, each with its design consequences.',
   },
   memorandum: {
     title: 'Severability: what survives trimming',
