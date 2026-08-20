@@ -5,10 +5,16 @@
 # Usage: scripts/deploy-eu.sh   (after a local `vercel build --prod` or
 #        `npm run build`; syncs the static output to the bucket)
 #
+# Project: own-the-machine (da956a45-21c3-4d10-8a0b-e537f451f5a2), separate
+# from [private project]/[private project]/[private project] so billing, IAM and resources for the campaign stand
+# on their own. Bucket: ownthemachine-eu (fr-par). Deploy identity: IAM
+# application own-the-machine-deploy, scoped by policy to this project only,
+# stored as the scw profile "own-the-machine".
+#
 # State (20 Aug 2026): the bucket IS a working website. Website
 # configuration is set (index.html, 404.html), objects are public-read,
 # and every page type, language, download and OG image serves 200 on
-#   https://own-the-machine-site.s3-website.fr-par.scw.cloud
+#   https://ownthemachine-eu.s3-website.fr-par.scw.cloud
 # The site is still SERVED from Vercel; this is a warm standby.
 #
 # Two known differences from Vercel, both for the CDN layer to close:
@@ -39,11 +45,14 @@ OUT=".vercel/output/static"
 [[ -d "$OUT" ]] || OUT="dist"
 [[ -d "$OUT" ]] || { echo "no build output; run the build first" >&2; exit 1; }
 
-export AWS_ACCESS_KEY_ID="$(scw config get access-key)"
-export AWS_SECRET_ACCESS_KEY="$(scw config get secret-key)"
+# The site has its own Scaleway project and its own deploy identity, so a
+# key that leaks can touch this bucket and nothing else in the account.
+SCW_PROFILE_NAME="${SCW_PROFILE_NAME:-own-the-machine}"
+export AWS_ACCESS_KEY_ID="$(scw -p "$SCW_PROFILE_NAME" config get access-key)"
+export AWS_SECRET_ACCESS_KEY="$(scw -p "$SCW_PROFILE_NAME" config get secret-key)"
 export AWS_DEFAULT_REGION=fr-par
 ENDPOINT="https://s3.fr-par.scw.cloud"
-BUCKET="s3://own-the-machine-site"
+BUCKET="s3://ownthemachine-eu"
 
 # Pass 1: mirror the tree and drop what no longer exists.
 aws s3 sync "$OUT" "$BUCKET" --endpoint-url "$ENDPOINT" --delete \
