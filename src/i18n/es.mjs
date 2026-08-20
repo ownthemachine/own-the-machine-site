@@ -73,7 +73,7 @@ export default {
     title: 'Las objeciones, en su formulación más sólida',
     eyebrow: 'Memorando · la honestidad primero',
     intro: 'Cada argumento serio contra este Reglamento, enunciado tan bien como lo enunciarían sus oponentes, antes de redactar un solo artículo. Cada objeción termina en consecuencias de diseño, y la tabla de restricciones de diseño de abajo es un criterio de fusión: el texto que la viole no se fusiona. Cuando se admite una objeción, así se hace constar. Esta página es la estrategia de credibilidad de la campaña, no su confesión: léala primero, y luego lea <a href="%LAW%">la ley que produjo</a>.',
-    description: 'Quince objeciones al proyecto, publicadas en su formulación más sólida, cada una con sus consecuencias de diseño.',
+    description: 'Diecisiete objeciones al proyecto, publicadas en su formulación más sólida, cada una con sus consecuencias de diseño.',
   },
   memorandum: {
     title: 'Divisibilidad: lo que sobrevive a la poda',

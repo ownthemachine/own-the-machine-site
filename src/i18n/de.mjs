@@ -73,7 +73,7 @@ export default {
     title: 'Die Einwände, in aller Schärfe',
     eyebrow: 'Memorandum · Ehrlichkeit zuerst',
     intro: 'Jedes ernsthafte Argument gegen diese Verordnung, so stark formuliert, wie ihre Gegner es formulieren würden, bevor ein einziger Artikel entworfen war. Jeder Einwand endet in Konsequenzen für den Entwurf, und die Tabelle der Entwurfsbeschränkungen unten ist ein Merge-Kriterium: Text, der sie verletzt, wird nicht zusammengeführt. Wo ein Einwand eingeräumt wird, steht es dabei. Diese Seite ist die Glaubwürdigkeitsstrategie der Kampagne, nicht ihre Beichte: Lesen Sie sie zuerst, und dann <a href="%LAW%">das Gesetz, das daraus entstand</a>.',
-    description: 'Fünfzehn Einwände gegen den Entwurf, in aller Schärfe veröffentlicht, jeder mit seinen Entwurfskonsequenzen.',
+    description: 'Siebzehn Einwände gegen den Entwurf, in aller Schärfe veröffentlicht, jeder mit seinen Entwurfskonsequenzen.',
   },
   memorandum: {
     title: 'Teilbarkeit: was bei Streichungen Bestand hat',

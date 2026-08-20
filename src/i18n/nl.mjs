@@ -72,7 +72,7 @@ export default {
     title: 'De bezwaren, in hun sterkste vorm',
     eyebrow: 'Memorandum · eerlijkheid eerst',
     intro: 'Elk serieus argument tegen deze verordening, zo sterk verwoord als haar tegenstanders het zouden doen, nog voordat één artikel was opgesteld. Elk bezwaar eindigt in ontwerpgevolgen, en de tabel met ontwerpbeperkingen hieronder is een opnamecriterium: tekst die haar schendt, wordt niet opgenomen. Waar een bezwaar wordt toegegeven, staat dat er. Deze pagina is de geloofwaardigheidsstrategie van de campagne, niet haar biecht: lees haar eerst, en lees dan <a href="%LAW%">de wet die eruit voortkwam</a>.',
-    description: 'Vijftien bezwaren tegen het ontwerp, in hun sterkste vorm gepubliceerd, elk met zijn ontwerpgevolgen.',
+    description: 'Zeventien bezwaren tegen het ontwerp, in hun sterkste vorm gepubliceerd, elk met zijn ontwerpgevolgen.',
   },
   memorandum: {
     title: 'Deelbaarheid: wat het snoeien overleeft',

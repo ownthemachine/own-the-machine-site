@@ -65,12 +65,23 @@ el capital por acto legislativo (Kotnik C-526/14, Ledra C-8/15 P, Aeris
 Invest C-535/22 P), y el instrumento adopta su maquinaria: un considerando
 honesto sobre la injerencia que cita el artículo 17 de la Carta, un
 considerando completo de proporcionalidad conforme al artículo 52, apartado
-1, de la Carta, y una salvaguardia cuantificada de no empeoramiento con
+1, de la Carta, y una salvaguardia de ejecución cuantificada con
 valoración independiente e impugnable por separado. Una adaptación es
 obligatoria: el contrafactual de la BRRD es la insolvencia, y un régimen
 permanente no puede apoyarse en razonamientos de crisis (Dowling C-41/15),
-de modo que nuestro suelo es coherente con el mercado: ningún accionista
-queda peor que con una emisión equivalente en condiciones de mercado.
+de modo que nuestro suelo está en la ejecución, no en un contrafáctico:
+la injerencia nunca puede exceder en la ejecución el 3 % enunciado, su
+precio lo fija el propio evento de liquidez mediante una valoración
+independiente e impugnable por separado, y ninguna aplicación del
+instrumento puede tomar más que la injerencia que nombra. La doctrina
+subyacente es más antigua que todo esto: en el ordenamiento de la Unión
+la propiedad no es una prerrogativa ilimitada sino que se protege en su
+función social, y puede restringirse en interés general cuando la
+restricción es proporcionada y deja intacta la esencia del derecho
+(Hauer 44/79; Bosphorus C-84/95). La restricción de este instrumento
+está cuantificada, ligada al evento y preserva la esencia por
+construcción, que es lo que esos asuntos exigen demostrar al
+legislador.
 
 **Consecuencia de diseño.** DC-1: warrant prospectivo sobre la creación
 futura de valor en eventos definidos, nunca transferencia retroactiva de
@@ -398,10 +409,11 @@ titulares; un Reglamento no puede prescribir umbrales de votación ni plazos
 a legislaturas futuras, y fingir lo contrario entregaría a los críticos la
 burla más fácil del expediente. Contra Irlanda: ninguna cláusula de uso de
 emergencia de ningún tipo, porque el saqueo del NPRF fue legal conforme a
-sus propias disposiciones de emergencia. Contra Estonia: los derechos
-individuales quedan bloqueados hasta la edad de jubilación, con pérdida de
-las cantidades de contrapartida en caso de salida anticipada, los
-dispositivos danés e irlandés que resistieron. Contra Grecia: el blindaje
+sus propias disposiciones de emergencia. Contra Estonia: el derecho
+periódico no es susceptible de renuncia ni de rescate contra pago, de
+modo que no existe salida que una compra pueda adquirir, precisamente el
+fallo que Estonia demostró; las cantidades ya repartidas son propiedad
+del titular, heredables, el dispositivo danés que resistió. Contra Grecia: el blindaje
 frente a saqueos nunca puede lograrse suprimiendo el derecho del ciudadano,
 que es el fracaso disfrazado de éxito. Y una frase honesta que el memorando
 debe contener: ninguna redacción derrota a un soberano futuro decidido; el
@@ -409,10 +421,11 @@ objetivo del diseño es hacer que el saqueo sea ruidoso, lento y
 electoralmente caro, que es lo máximo que ha logrado jamás constitución
 alguna.
 
-**Consecuencia de diseño.** DC-19: sin tenencias de deuda soberana. DC-20:
-blindaje desde el primer día, supermayoría más demora de una
-legislatura completa. DC-21: sin cláusula de emergencia. DC-22: derechos
-individuales, bloqueados, con pérdida en caso de salida. DC-23: la
+**Consecuencia de diseño.** DC-19: sin tenencias de deuda soberana. DC-20: blindaje como fricción desde el primer día: solo modificación
+expresa, una evaluación independiente publicada y honestidad sobre los
+límites de los Tratados. DC-21: sin cláusula de emergencia. DC-22:
+derechos individuales no susceptibles de renuncia; las cantidades
+repartidas en propiedad y heredables. DC-23: la
 resistencia al saqueo se enuncia como fricción, nunca como imposibilidad.
 
 ### 10. La UE ni siquiera es capaz de desembolsar lo que anuncia
@@ -572,6 +585,26 @@ fuente de financiación, donde es necesaria.
 
 **Consecuencia de diseño.** Esta objeción es la razón de ser de DC-14 (nunca abrir con una cifra de los primeros años), de que el artículo 14, apartado 3, lleve explícita la condición de falsación y de que el anexo II reparta rentas y nunca principal. Añade una regla mecánica propia: allí donde se muestre un importe de reparto por ciudadano, figura al lado la participación por ciudadano en la Reserva (DC-31).
 
+### 16. Esto es una acción de oro, y el Tribunal anula las acciones de oro
+
+**La objeción, en su formulación más sólida.** Durante veinte años el Tribunal ha desmontado toda posición pública especial en el capital dentro del mercado interior. Comisión/Alemania (C-112/05) anuló la Ley Volkswagen porque los topes de voto y una minoría de bloqueo daban a los poderes públicos una influencia que excedía su inversión y disuadían así la inversión directa; las acciones de oro portuguesas, francesas, italianas, británicas y neerlandesas cayeron del mismo modo bajo el actual artículo 63 TFUE. Una Reserva instituida por la Unión que posee por ley el 3 % de cada empresa designada es una acción de oro con ropaje de reglamento: un accionista permanente, adosado al poder público, que ningún inversor eligió, plantado en la estructura de capital de cada empresa de frontera, y que disuade precisamente la inversión transfronteriza que el artículo 63 protege. La neutralidad del artículo 345 respecto de los regímenes de propiedad no salvó la Ley Volkswagen y no salvará esto. La disuasión no es hipotética: cada ronda de financiación de una empresa designada incorpora ya al precio una dilución futura obligatoria.
+
+**Lo que acierta.** La dilución es real y los inversores la incorporarán al precio, y toda posición que confiera facultades de control caería exactamente como cayó Volkswagen. La jurisprudencia de las acciones de oro es la jurisprudencia de referencia para toda posición pública en el capital, y el instrumento debe redactarse contra ella, no esquivándola.
+
+**La respuesta que el instrumento debe dar.** La línea de las acciones de oro condena una sola cosa: los derechos especiales de control desproporcionados respecto de la inversión, topes de voto, minorías de bloqueo, vetos de aprobación, puestos en el consejo, el aparato con el que un Estado dirige una empresa que no posee. El instrumento construye el inverso exacto, en los artículos y no en promesas. La participación de la Reserva no lleva nunca derecho de voto (artículos 5, apartado 3, letra a), y 9, apartado 1, letra a)); ninguna presencia en el consejo (artículo 9, apartado 1, letra b)); ninguna instrucción (artículo 9, apartado 1, letra c)); ninguna adquisición más allá del warrant y de la diversificación indexada (artículo 9, apartado 1, letra d)); ni apalancamiento ni derivados que la conviertan en actor estratégico (artículo 9, apartado 1, letras e) a g)). Lo que queda es participación puramente económica, la posición de cualquier accionista minoritario pasivo, la que el fondo noruego mantiene a escala comparable en las sociedades cotizadas europeas sin que jamás se haya planteado un asunto del artículo 63. A lo que la jurisprudencia exige de toda restricción que pretenda subsistir, el instrumento da respuesta en su propio texto: no discriminación (trato idéntico a empresas de la Unión y de terceros países conforme al artículo 3), un interés general imperioso enunciado en los considerandos, y proporcionalidad sostenida por el 3 % fijo, la valoración independiente e impugnable por separado (artículos 5, apartado 8, 6 y 7) y la ponderación del artículo 52, apartado 1. Y a diferencia de cada acción de oro anulada, esto no es un Estado miembro reservándose influencia nacional contra la integración: es una regla uniforme de la Unión para todo el mercado interior, y su propia uniformidad elimina la divergencia que crearían los regímenes nacionales de participación. Lo que queda en limpio, y hay que reconocerlo con honestidad, es que una dilución futura obligatoria es en sí un coste que los inversores incorporarán al precio; la objeción 4 lo cifra, y la proporcionalidad, no la negación, es la defensa.
+
+**Consecuencia de diseño.** La regla del no voto permanente de DC-13 y las prohibiciones de conducta del artículo 9 son la respuesta de la ley a esta objeción. Añade una regla propia: ninguna modificación podrá jamás vincular un derecho de control, un veto o un privilegio de gobernanza a las participaciones de la Reserva; la participación económica es el máximo constitucional (DC-32).
+
+### 17. Se está confiscando capital de empresas que Europa no gobierna
+
+**La objeción, en su formulación más sólida.** La obligación de warrant alcanza a empresas constituidas en Delaware o Singapur, cuyas acciones radican en el extranjero y cuyos sistemas se construyen en el exterior, porque sus servicios se usan en la Unión. El Derecho internacional público solo permite a la Unión regular conductas extranjeras cuando producen efectos inmediatos, sustanciales y previsibles en el mercado interior (Gencor T-102/96; Intel C-413/14 P), e incluso entonces regula conductas, no la propiedad: ningún asunto de la doctrina de los efectos ha exigido jamás a una matriz extranjera diluir su propio capital. Los gobiernos de terceros países tratarán una suscripción obligatoria del 3 % en sus campeones como una expropiación regulatoria, impugnable al amparo de tratados de inversión y compromisos comerciales, y tomarán represalias. La Unión reclamaría un poder que nunca concedería a otros: una ley extranjera que exige el 3 % del capital de un campeón europeo como precio por servir ese mercado.
+
+**Lo que acierta.** Un warrant sobre una matriz extranjera cuyo único vínculo con la Unión es que su sitio web responde iría demasiado lejos y merecería perder. El nexo debe ser la sustancia económica en la Unión, no la accesibilidad. La represalia es un coste real y la reciprocidad un argumento real.
+
+**La respuesta que el instrumento debe dar.** Cuatro decisiones estructurales, todas ya en los artículos. Primera, el desencadenante es el comercio en la Unión, no la accesibilidad en la Unión: la designación exige la prestación en el mercado interior con 7 500 millones de EUR de facturación anual en la Unión, en al menos tres Estados miembros (artículo 3, apartado 2, letra a)), una prueba de presencia económica muy por encima de cualquier umbral de la doctrina de los efectos, y las rentas compartidas son, por construcción, rentas extraídas de usuarios de la Unión. Segunda, la empresa es el grupo: «empresa» consolida las empresas vinculadas (artículo 2, punto 1), el principio de la unidad económica del Derecho de la competencia de la Unión (Akzo Nobel C-97/08 P), de modo que ninguna filial instrumental en la Unión puede apantallar a la matriz a la que realmente afluye el valor de los servicios automatizados. Tercera, el mecanismo respeta el Derecho de sociedades extranjero en lugar de pretender desplazarlo: para las empresas regidas por el Derecho de un tercer país la suscripción es una obligación de resultado (artículo 5, apartado 4), asegurada mediante el artículo 13 como condición del acceso continuado al mercado interior, la arquitectura de toda condición de acceso al mercado que la Unión ya impone, y las excepciones de Derecho de sociedades del artículo 5, apartado 6, alcanzan solo al Derecho de los Estados miembros. Cuarta, la condición es universal: las empresas de la Unión la soportan de forma idéntica, de modo que una reclamación convencional o un panel comercial no encuentra discriminación a la que agarrarse, y la reciprocidad juega a favor del instrumento: una Unión que sienta el principio lo acepta de otros.
+
+**Consecuencia de diseño.** El nexo de acceso al mercado de DC-10 y la consolidación de grupo de DC-2 son las respuestas de la ley a esta objeción. Añade una regla propia: para las empresas bajo Derecho de un tercer país, el warrant es una obligación de resultado como condición de acceso al mercado, nunca una pretendida exclusión del Derecho de sociedades extranjero (DC-33).
+
 ## La tabla de restricciones
 
 Los artículos se redactan contra esta tabla. Un borrador que viole una DC
@@ -580,7 +613,7 @@ suspende la revisión con independencia de su prosa.
 | DC | Restricción | Objeción de origen |
 |---|---|---|
 | DC-1 | Warrants prospectivos sobre valor futuro; nunca transferencia retroactiva | 1 |
-| DC-2 | Umbrales altos, objetivos y consolidados a nivel de grupo | 1, 5 |
+| DC-2 | Umbrales altos, objetivos y consolidados a nivel de grupo | 1, 5, 17 |
 | DC-3 | Pasividad legal; cristalización solo en eventos | 1, 6 |
 | DC-4 | Ningún flujo monetario de las empresas; solo instrumentos | 2, 4 |
 | DC-5 | Las distribuciones son rentas de la propiedad de la reserva | 2 |
@@ -588,10 +621,10 @@ suspende la revisión con independencia de su prosa.
 | DC-7 | Normas del warrant a escala de la Unión; custodia de los Estados miembros por los cauces de pensiones | 3, 14 |
 | DC-8 | Normas mínimas, no maquinaria uniforme | 3 |
 | DC-9 | Obligación nunca convertible en carga sobre flujos | 4 |
-| DC-10 | Nexo de acceso al mercado, no de establecimiento | 5 |
+| DC-10 | Nexo de acceso al mercado, no de establecimiento | 5, 17 |
 | DC-11 | Consolidación de plantilla con primacía del fondo sobre la forma | 5 |
 | DC-12 | Cristalización activada por eventos; sin valoración continua | 6 |
-| DC-13 | Intereses económicos permanentemente sin derecho de voto | 6 |
+| DC-13 | Intereses económicos permanentemente sin derecho de voto | 6, 16 |
 | DC-14 | El dividendo se comunica como capitalización desde una base pequeña | 6 |
 | DC-15 | Los considerandos argumentan propiedad y mecanismo, nunca declive de la participación salarial | 7 |
 | DC-16 | El valor se enuncia en ambos futuros | 7 |
@@ -600,21 +633,28 @@ suspende la revisión con independencia de su prosa.
 | DC-19 | Sin tenencias de deuda soberana | 9 |
 | DC-20 | Blindaje desde el primer día: solo modificación expresa, evaluación independiente publicada, honestidad sobre los límites de los Tratados | 9 |
 | DC-21 | Sin cláusula de emergencia | 9 |
-| DC-22 | Derechos individuales, bloqueados y heredables; pérdida en caso de salida anticipada | 9, 13 |
+| DC-22 | Derechos individuales no susceptibles de renuncia ni embargo; cantidades repartidas en propiedad y heredables | 9, 13 |
 | DC-23 | Resistencia al saqueo enunciada como fricción, nunca como imposibilidad | 9 |
 | DC-24 | Autoejecutivo por ministerio de la ley; sin maquinaria de programas | 10 |
 | DC-25 | Excedente del consumidor afirmado; instrumento aditivo a él | 11 |
 | DC-26 | Considerando explícito de alcance y límites | 12 |
 | DC-27 | La distinción con la RBU descansa en la forma jurídica | 13 |
 | DC-28 | Novedad solo en la fuente de financiación; cauces existentes para la entrega | 14 |
-| DC-29 | Salvaguardia de no empeoramiento coherente con el mercado, valoración independiente e impugnable por separado, control judicial | 1 |
+| DC-29 | Injerencia limitada en la ejecución al porcentaje enunciado; valoración independiente e impugnable por separado; control judicial | 1 |
 | DC-30 | Los elementos esenciales (hecho generador, propiedad de la reserva, derecho, injerencia) en los artículos, nunca delegados | 1 |
 | DC-31 | Allí donde se muestre un importe de reparto por ciudadano, figura al lado la participación por ciudadano en la Reserva | 15 |
+| DC-32 | Ningún derecho de control, veto o privilegio de gobernanza podrá jamás vincularse a las participaciones de la Reserva | 16 |
+| DC-33 | Para las empresas bajo Derecho de un tercer país, el warrant es una obligación de resultado como condición de acceso al mercado, nunca una exclusión del Derecho de sociedades extranjero | 17 |
 
 ## Estado
 
 Todas las objeciones ABIERTAS hasta que los artículos las respondan; la 12
-está CONCEDIDA por alcance. La objeción 1 concentra el mayor riesgo jurídico
+está CONCEDIDA por alcance. Las objeciones 16 y 17 se añadieron el 20
+de agosto de 2026 a raíz de una impugnación externa (la línea de las
+acciones de oro del artículo 63; el exceso de alcance de la doctrina de
+los efectos); sus respuestas ya estaban en los artículos 3, 5, apartado
+4, y 9, que es exactamente para lo que sirve redactar contra la tabla,
+y el residuo que añaden es DC-32 y DC-33. La objeción 1 concentra el mayor riesgo jurídico
 y la objeción 6 el mayor riesgo de diseño. La carta de admisibilidad del
 control 1 sigue encabezada por las objeciones 1 y 2, pero recalibradas por
 la investigación de redacción: el registro es el obstáculo menor (criterio
