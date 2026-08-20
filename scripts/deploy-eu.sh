@@ -20,15 +20,25 @@
 # Two known differences from Vercel, both for the CDN layer to close:
 #   - /law/article-1 302s to /law/article-1/ (S3 index-document
 #     behaviour). Links still work; it costs one redirect per hop.
-#   - a missing path returns 403, not the 404 page: S3 returns 403 for
-#     an absent key unless the caller may list the bucket. A bucket
-#     policy granting anonymous ListBucket would fix it, but Scaleway
-#     policies REPLACE owner rights: setting one without the owner
-#     principal locked this key out of its own bucket (recovered by
-#     deleting the policy). Do it from the console, or let the CDN
-#     serve the error page.
-#   - response security headers (vercel.json) cannot come from a
-#     bucket at all; they must be set at the CDN.
+#   - FIXED 20 Aug: a bucket policy now grants anonymous GetObject AND
+#     ListBucket, so an absent key returns 404 with 404.html instead of
+#     403. Scaleway policies REPLACE owner rights, so the policy's
+#     first statement grants s3:* to application_id
+#     1058665d-eb87-4e9a-ac56-ad16347fe7c3 (own-the-machine-deploy).
+#     Omit that statement and the deploy key loses its own bucket;
+#     recovery is `aws s3api delete-bucket-policy`.
+#   - response security headers (vercel.json) cannot come from a bucket,
+#     and Edge Services cannot add them either: its route rules only
+#     match method and path to pick a backend. Flipping to Edge
+#     Services alone therefore DROPS X-Content-Type-Options,
+#     X-Frame-Options, Referrer-Policy and Permissions-Policy. Keeping
+#     them means putting Cloudflare's proxy in front with Transform
+#     Rules, which puts a US company back in the serving path. That
+#     trade-off is the editor's to make.
+#
+# Staging (live since 20 Aug): https://eu.ownthemachine.eu — Cloudflare
+# CNAME (DNS-only) to the pipeline endpoint, FQDN on the dns-stage,
+# Scaleway-managed Let's Encrypt certificate. verify-eu.py: 0 failures.
 #
 # Go-live steps (need a browser session, run once when flipping):
 #   1. Scaleway console: Edge Services pipeline on the bucket, attach
