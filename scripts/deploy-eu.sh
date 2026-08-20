@@ -25,10 +25,18 @@ export AWS_DEFAULT_REGION=fr-par
 ENDPOINT="https://s3.fr-par.scw.cloud"
 BUCKET="s3://own-the-machine-site"
 
+# Pass 1: mirror the tree and drop what no longer exists.
 aws s3 sync "$OUT" "$BUCKET" --endpoint-url "$ENDPOINT" --delete \
-  --cache-control "public, max-age=300" --only-show-errors
+  --acl public-read --cache-control "public, max-age=300" --only-show-errors
+# Pass 2: re-state ACL and headers on EVERY object. `sync` only touches files
+# whose content changed, so unchanged objects would keep a stale private ACL
+# and 403 to the public; this pass is what makes the mirror actually servable.
+aws s3 cp "$OUT" "$BUCKET" --endpoint-url "$ENDPOINT" --recursive \
+  --acl public-read --cache-control "public, max-age=300" \
+  --metadata-directive REPLACE --only-show-errors
 # long-cache immutable assets
 aws s3 cp "$OUT/_astro" "$BUCKET/_astro" --endpoint-url "$ENDPOINT" \
-  --recursive --cache-control "public, max-age=31536000, immutable" \
+  --recursive --acl public-read \
+  --cache-control "public, max-age=31536000, immutable" \
   --only-show-errors
 echo "synced $OUT to $BUCKET (fr-par)"
