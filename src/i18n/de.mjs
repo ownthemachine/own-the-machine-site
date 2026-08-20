@@ -16,6 +16,7 @@ export default {
     contentsLink: 'Inhalt', historyLink: 'Verlauf',
     reviewLink: 'was die Prüfung fand', fullReview: 'vollständige Prüfung', diff: 'Diff',
     editorDisposition: 'Entscheidung des Herausgebers',
+    ogImageAlt: 'Eine Bürgerurkunde mit dem Siegel von Own the Machine',
     metaDescription: 'Ein quelloffener Entwurf einer EU-Verordnung: Kapital für alle, damit die Dividende folgt.',
   },
   banner: {
@@ -43,7 +44,7 @@ export default {
   lawIndex: {
     title: 'Der Verordnungsentwurf',
     intro: 'Harmonisierte Regeln für die Beteiligung der Bürgerinnen und Bürger an automatisierten Produktivitätsgewinnen (die Bürgerkapital-Verordnung). Der vollständige Arbeitsentwurf: <a href="%RECITALS%">30 Erwägungsgründe</a>, 18 Artikel und zwei Anhänge, jeder Absatz verankert und zitierfähig. Der englische Text ist der Entwurf. Stand: Commit %COMMIT%; jede Änderung steht im <a href="%LEDGER%">Hauptbuch</a>.',
-    chapter: 'Kapitel', annexes: 'Anhänge', memorandum: 'Memorandum',
+    chapter: 'Kapitel', annex: 'Anhang', annexes: 'Anhänge', memorandum: 'Memorandum',
     article: 'Artikel', recitals: 'Erwägungsgründe',
     objectionsLink: 'Die Einwände, in aller Schärfe',
     severabilityLink: 'Teilbarkeit: was bei Streichungen Bestand hat',

@@ -1,0 +1,7 @@
+# Own the Machine — an open draft EU Regulation.
+# Everything here is meant to be read, quoted and argued with.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://ownthemachine.eu/sitemap.xml

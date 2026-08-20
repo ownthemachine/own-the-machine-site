@@ -15,6 +15,7 @@ export default {
     contentsLink: 'Sommaire', historyLink: 'historique',
     reviewLink: 'ce que la revue a trouvé', fullReview: 'revue complète', diff: 'diff',
     editorDisposition: 'Décision de l’éditeur',
+    ogImageAlt: 'Un certificat de citoyen portant le sceau d’Own the Machine',
     metaDescription: 'Un projet de règlement de l’UE en source ouverte : du capital pour tous, pour que le dividende suive.',
   },
   banner: {
@@ -42,7 +43,7 @@ export default {
   lawIndex: {
     title: 'Le projet de règlement',
     intro: 'Règles harmonisées pour la participation des citoyens aux gains de productivité issus de l’automatisation (le règlement sur le capital citoyen). La version de travail complète : <a href="%RECITALS%">30 considérants</a>, 18 articles et deux annexes, chaque paragraphe ancré et citable. Le texte anglais fait foi. À jour au commit %COMMIT% ; chaque modification figure au <a href="%LEDGER%">grand livre</a>.',
-    chapter: 'Chapitre', annexes: 'Annexes', memorandum: 'Mémorandum',
+    chapter: 'Chapitre', annex: 'Annexe', annexes: 'Annexes', memorandum: 'Mémorandum',
     article: 'Article', recitals: 'Considérants',
     objectionsLink: 'Les objections, sous leur forme la plus forte',
     severabilityLink: 'Divisibilité : ce qui survit à l’élagage',

@@ -16,6 +16,7 @@ export default {
     contentsLink: 'Índice', historyLink: 'historial',
     reviewLink: 'lo que halló la revisión', fullReview: 'revisión completa', diff: 'diff',
     editorDisposition: 'Decisión del editor',
+    ogImageAlt: 'Un certificado de ciudadano con el sello de Own the Machine',
     metaDescription: 'Un proyecto de Reglamento de la UE en código abierto: capital para todos; el dividendo viene después.',
   },
   banner: {
@@ -43,7 +44,7 @@ export default {
   lawIndex: {
     title: 'El proyecto de Reglamento',
     intro: 'Normas armonizadas para la participación ciudadana en las ganancias de productividad automatizadas (el Reglamento de Capital Ciudadano). El proyecto de trabajo completo: <a href="%RECITALS%">30 considerandos</a>, 18 artículos y dos anexos, cada párrafo anclado y citable. El texto inglés es el proyecto. Actualizado al commit %COMMIT%; cada cambio figura en el <a href="%LEDGER%">libro mayor</a>.',
-    chapter: 'Capítulo', annexes: 'Anexos', memorandum: 'Memorando',
+    chapter: 'Capítulo', annex: 'Anexo', annexes: 'Anexos', memorandum: 'Memorando',
     article: 'Artículo', recitals: 'Considerandos',
     objectionsLink: 'Las objeciones, en su formulación más sólida',
     severabilityLink: 'Divisibilidad: lo que sobrevive a la poda',
