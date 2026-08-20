@@ -1,6 +1,6 @@
 # Accessibility audit report
 
-Generated: 2026-08-20T16:56:17.023Z
+Generated: 2026-08-20T17:13:16.744Z
 Audited output: `dist`
 axe-core version: 4.13.0
 Tags checked: wcag2a, wcag21aa, wcag22aa, best-practice

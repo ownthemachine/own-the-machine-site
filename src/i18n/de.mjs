@@ -11,6 +11,7 @@ export default {
     footerQuestion: 'Wem gehört die Maschine?',
     footerDrafted: 'Öffentlich entworfen',
     footerLicence: 'Text CC BY-SA 4.0, Code AGPL-3.0',
+    footerHosting: 'in der EU gehostet',
     footerPrivacy: 'keine Cookies, kein Tracking',
     onThisPage: 'Auf dieser Seite', backToTop: 'Nach oben',
     contentsLink: 'Inhalt', historyLink: 'Verlauf',

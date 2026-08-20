@@ -10,6 +10,7 @@ export default {
     footerQuestion: 'Qui possède la machine ?',
     footerDrafted: 'Rédigé au grand jour',
     footerLicence: 'texte CC BY-SA 4.0, code AGPL-3.0',
+    footerHosting: 'hébergé dans l’UE',
     footerPrivacy: 'ni cookies, ni pistage',
     onThisPage: 'Sur cette page', backToTop: 'Haut de page',
     contentsLink: 'Sommaire', historyLink: 'historique',

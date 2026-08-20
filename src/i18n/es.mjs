@@ -11,6 +11,7 @@ export default {
     footerQuestion: '¿Quién posee la máquina?',
     footerDrafted: 'Redactado a la vista de todos',
     footerLicence: 'texto CC BY-SA 4.0, código AGPL-3.0',
+    footerHosting: 'alojado en la UE',
     footerPrivacy: 'sin cookies, sin rastreo',
     onThisPage: 'En esta página', backToTop: 'Volver arriba',
     contentsLink: 'Índice', historyLink: 'historial',

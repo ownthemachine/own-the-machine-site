@@ -13,6 +13,10 @@ citoyenne européenne. Le texte juridique, son mémorandum, ses objections
 et chaque verdict d'examen vivent dans un dépôt public ; ce site en est le
 rendu.
 
+## Pas un document de l'UE
+
+Ceci est une proposition de citoyens. Elle n'est ni publiée ni approuvée par l'Union européenne, la Commission européenne, le Parlement européen ou toute autre institution, tout autre organe ou organisme de l'Union, ne leur est pas affiliée et n'a pas été examinée par eux, et elle n'a aucune force juridique. Elle est rédigée selon les conventions de la législation de l'Union parce qu'une proposition destinée à être appréciée par ces institutions doit leur parvenir sous la forme dont elles ont l'usage ; cette forme est un égard pour le lecteur, jamais une prétention à l'autorité. Le site ne porte aucun emblème de l'UE, et le sceau qu'il porte n'appartient qu'à ce projet.
+
 ## Qui
 
 À l'initiative de David Vanheeswijck (Belgique). La méthode de rédaction
@@ -45,12 +49,19 @@ l'exigeons de nous-mêmes par avance.
 
 ## Vos données
 
-Ce site ne dépose aucun cookie, n'exécute aucun script de mesure
-d'audience, ne charge rien depuis des tiers et ne collecte rien. Il n'y a
-pas de bandeau de consentement parce qu'il n'y a aucun consentement à
-recueillir. Quand
-la signature ouvrira, elle se fera sur le système de collecte de la
-Commission européenne, pas ici.
+Ce site ne dépose aucun cookie, n'exécute aucun script de mesure d'audience et ne charge rien depuis des tiers. Il n'y a pas de bandeau de consentement parce qu'il n'y a rien à quoi consentir.
+
+Ce qui est néanmoins traité, dit franchement plutôt qu'écarté : tout serveur qui répond à une requête voit l'adresse d'où elle vient, de sorte que l'hébergeur conserve des journaux techniques éphémères, adresses IP comprises, pour délivrer les pages et se défendre contre les abus. C'est tout ; ces journaux ne sont lus à aucune autre fin, ne sont recoupés avec rien, ne sont ni vendus ni partagés. Si vous faites passer ce site du papier à la plaque, ce choix s'écrit dans le stockage de votre propre navigateur et n'en sort jamais.
+
+Toute personne dans l'Union peut demander ce qui est conservé à son sujet et peut saisir une autorité de contrôle ; en Belgique, c'est l'Autorité de protection des données. Lorsque la collecte de signatures s'ouvrira, elle se fera sur le système de collecte de la Commission européenne au titre du règlement (UE) 2019/788, et non ici.
+
+## Où se trouve ce site
+
+Les pages que vous lisez sont stockées dans Scaleway Object Storage, région de Paris, et servies depuis le réseau propre de Scaleway. Scaleway est une entreprise française ; les fichiers, le cache et le certificat sont européens.
+
+Deux éléments ne le sont pas, et une campagne sur la propriété européenne se doit de dire lesquels : le DNS du domaine est assuré par Cloudflare, entreprise des États-Unis, même si aucun contenu de page n'y transite, et le dépôt du code est hébergé chez GitHub, américain lui aussi. La seule exception dans la chaîne de diffusion est www.ownthemachine.eu, qui redirige vers ce site et ne porte aucun contenu propre.
+
+Rien ici ne dépend du maintien de cet état. Le site est une compilation statique d'un dépôt public : il peut être reconstruit et servi n'importe où, par n'importe qui, en quelques minutes.
 
 ## Accessibilité
 

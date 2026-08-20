@@ -10,6 +10,7 @@ export default {
     footerQuestion: 'Wie bezit de machine?',
     footerDrafted: 'Openbaar opgesteld',
     footerLicence: 'tekst CC BY-SA 4.0, code AGPL-3.0',
+    footerHosting: 'gehost in de EU',
     footerPrivacy: 'geen cookies, geen tracking',
     onThisPage: 'Op deze pagina', backToTop: 'Naar boven',
     contentsLink: 'Inhoud', historyLink: 'geschiedenis',

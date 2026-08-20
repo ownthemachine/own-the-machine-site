@@ -13,6 +13,10 @@ möglichen Europäischen Bürgerinitiative. Der Gesetzestext, sein Memorandum,
 seine Einwände und jedes Prüfurteil liegen in einem öffentlichen
 Repository; diese Website stellt sie dar.
 
+## Kein Dokument der EU
+
+Dies ist ein Vorschlag von Bürgerinnen und Bürgern. Er wird von der Europäischen Union, der Europäischen Kommission, dem Europäischen Parlament oder einem anderen Organ, einer anderen Einrichtung oder sonstigen Stelle der Union weder herausgegeben noch unterstützt, gebilligt oder geprüft, steht in keiner Verbindung zu ihnen und hat keine Rechtswirkung. Er ist in den Konventionen des Unionsrechts abgefasst, weil ein Vorschlag, den diese Organe beurteilen sollen, in der Form eintreffen sollte, die sie lesen; die Form ist eine Höflichkeit gegenüber den Lesenden, nie ein Anspruch auf Autorität. Die Seite führt kein Emblem der EU, und das Siegel, das sie führt, gehört allein diesem Projekt.
+
 ## Wer
 
 Initiiert von David Vanheeswijck (Belgien). Die Entwurfsmethode nutzt
@@ -45,11 +49,19 @@ verlangt und wir es früh von uns selbst verlangen.
 
 ## Ihre Daten
 
-Diese Website setzt keine Cookies, führt keine Analyseskripte aus, lädt
-nichts von Dritten und erhebt nichts. Es gibt kein Einwilligungsbanner,
-weil es nichts gibt, in das einzuwilligen wäre. Wenn die Unterzeichnung
-beginnt, geschieht sie im eigenen Sammelsystem der Europäischen Kommission,
-nicht hier.
+Diese Seite setzt keine Cookies, führt keine Analyseskripte aus und lädt nichts von Dritten. Es gibt kein Einwilligungsbanner, weil es nichts gibt, in das einzuwilligen wäre.
+
+Was dennoch verarbeitet wird, offen gesagt statt weggeredet: Jeder Server, der eine Anfrage beantwortet, sieht die Adresse, von der sie kam; der Hoster führt daher kurzlebige technische Protokolle einschließlich IP-Adressen, um die Seiten auszuliefern und Missbrauch abzuwehren. Mehr ist es nicht; diese Protokolle werden zu keinem anderen Zweck gelesen, mit nichts zusammengeführt, nicht verkauft und nicht weitergegeben. Schalten Sie diese Seite von Papier auf Platte um, wird diese Wahl in den Speicher Ihres eigenen Browsers geschrieben und verlässt ihn nie.
+
+Jede Person in der Union darf fragen, was über sie gespeichert ist, und sich bei einer Aufsichtsbehörde beschweren; in Belgien ist das die Datenschutzbehörde. Wenn die Unterzeichnung beginnt, geschieht sie im Sammelsystem der Europäischen Kommission nach Verordnung (EU) 2019/788, nicht hier.
+
+## Wo diese Seite liegt
+
+Die Seiten, die Sie lesen, liegen in Scaleway Object Storage in der Region Paris und werden über Scaleways eigenes Netz ausgeliefert. Scaleway ist ein französisches Unternehmen; die Dateien, der Cache und das Zertifikat sind europäisch.
+
+Zwei Teile sind es nicht, und eine Kampagne über europäisches Eigentum sollte sagen, welche: das DNS der Domain beantwortet Cloudflare, ein Unternehmen der Vereinigten Staaten, auch wenn keinerlei Seiteninhalt darüber läuft, und das Quellarchiv liegt bei GitHub, ebenfalls amerikanisch. Die einzige Ausnahme im Auslieferungsweg ist www.ownthemachine.eu, das auf diese Seite weiterleitet und selbst keinen Inhalt trägt.
+
+Nichts hier hängt davon ab, dass das so bleibt. Die Seite ist ein statischer Build eines öffentlichen Archivs: sie lässt sich überall, von allen, in Minuten neu bauen und ausliefern.
 
 ## Barrierefreiheit
 

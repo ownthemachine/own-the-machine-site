@@ -13,6 +13,10 @@ Ciudadana Europea. El texto legal, su memorando, sus objeciones y cada
 veredicto de revisión viven en un repositorio público; este sitio los
 presenta.
 
+## No es un documento de la UE
+
+Esta es una propuesta de la ciudadanía. No está publicada por la Unión Europea, la Comisión Europea, el Parlamento Europeo ni ninguna otra institución, órgano u organismo de la Unión, ni cuenta con su respaldo, vinculación o revisión, y carece de fuerza jurídica. Está redactada conforme a las convenciones de la legislación de la Unión porque una propuesta destinada a ser valorada por esas instituciones debe llegarles en la forma en que leen; la forma es una deferencia hacia quien lee, nunca una pretensión de autoridad. El sitio no lleva emblema alguno de la UE, y el sello que sí lleva pertenece únicamente a este proyecto.
+
 ## Quién
 
 Iniciado por David Vanheeswijck (Bélgica). El método de redacción emplea
@@ -43,10 +47,19 @@ exigimos desde el principio.
 
 ## Sus datos
 
-Este sitio no instala cookies, no ejecuta scripts de analítica, no carga
-nada de terceros y no recoge nada. No hay banner de consentimiento porque no
-hay nada que consentir. Cuando se abra la firma, tendrá lugar en el propio
-sistema de recogida de la Comisión Europea, no aquí.
+Este sitio no instala cookies, no ejecuta scripts de analítica y no carga nada de terceros. No hay banner de consentimiento porque no hay nada que consentir.
+
+Lo que sí se trata, dicho con franqueza en lugar de eludirlo: todo servidor que responde a una solicitud ve la dirección de la que procede, de modo que el proveedor de alojamiento conserva registros técnicos de corta duración, direcciones IP incluidas, para entregar las páginas y defenderse de abusos. Eso es todo; esos registros no se leen con ningún otro fin, no se combinan con nada, no se venden ni se comparten. Si cambia este sitio de papel a placa, esa elección se escribe en el almacenamiento de su propio navegador y nunca sale de él.
+
+Cualquier persona en la Unión puede preguntar qué se conserva sobre ella y puede reclamar ante una autoridad de control; en Bélgica es la Autoridad de Protección de Datos. Cuando se abra la recogida de firmas, será en el sistema de recogida de la propia Comisión Europea conforme al Reglamento (UE) 2019/788, no aquí.
+
+## Dónde vive este sitio
+
+Las páginas que está leyendo se guardan en Scaleway Object Storage, en la región de París, y se sirven desde la propia red de Scaleway. Scaleway es una empresa francesa; los archivos, la caché y el certificado son europeos.
+
+Dos partes no lo son, y una campaña sobre propiedad europea debe decir cuáles: el DNS del dominio lo responde Cloudflare, empresa de los Estados Unidos, aunque por ahí no pasa contenido alguno de las páginas, y el repositorio de origen está alojado en GitHub, también estadounidense. La única excepción en la cadena de entrega es www.ownthemachine.eu, que redirige a este sitio y no lleva contenido propio.
+
+Nada de esto depende de que siga siendo así. El sitio es una compilación estática de un repositorio público: puede reconstruirse y servirse en cualquier lugar, por cualquiera, en minutos.
 
 ## Accesibilidad
 
