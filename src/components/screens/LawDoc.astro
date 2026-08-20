@@ -11,25 +11,30 @@ const idx = kind === 'article' ? arts.findIndex((a) => a.number === item.number)
 const prev = idx > 0 ? arts[idx - 1] : null;
 const next = idx >= 0 && idx < arts.length - 1 ? arts[idx + 1] : null;
 const title = kind === 'article' ? `${t.lawIndex.article} ${item.number}: ${item.title}` : item.title;
+// The eyebrow labels the authentic text, so it stays in the language of that
+// text: the law block reads English end to end, whatever the page language.
+const en = dict('en');
 const eyebrow = kind === 'article'
-  ? fmt(t.lawDoc.eyebrowArticle, { N: String(item.number) })
-  : fmt(t.lawDoc.eyebrowAnnex, { N: item.numeral });
+  ? fmt(en.lawDoc.eyebrowArticle, { N: String(item.number) })
+  : fmt(en.lawDoc.eyebrowAnnex, { N: item.numeral });
 const plain = kind === 'article' && item.plain
   ? (item.plain[lang] || item.plain.en) : null;
 ---
 <Base title={title} lang={lang}>
   <article class="lawpage">
-    <p class="eyebrow">{eyebrow}</p>
-    <h1>{kind === 'article' ? item.title : item.title.replace(/^Annex [IVX]+: /, '')}</h1>
-    {plain && <p class="plain-l0">{plain.l0}</p>}
+    <LangBanner lang={lang} kind="lawEnglish" />
     {plain && (
       <aside class="plain-l1" lang={item.plain[lang] ? lang : 'en'}>
         <p class="plain-label">{t.lawDoc.plainLabel}</p>
+        <p class="plain-l0">{plain.l0}</p>
         <div class="prose" set:html={plain.l1} />
       </aside>
     )}
-    <LangBanner lang={lang} kind="lawEnglish" />
-    <div class="prose law-text" lang="en" set:html={item.html} />
+    <div class="lawblock" lang="en">
+      <p class="eyebrow">{eyebrow}</p>
+      <h1>{kind === 'article' ? item.title : item.title.replace(/^Annex [IVX]+: /, '')}</h1>
+      <div class="prose law-text" set:html={item.html} />
+    </div>
     <p class="provenance" set:html={
       fmt(t.lawDoc.provenance, { COMMIT: `<span class="serial">${lawData.lawCommit}</span>` }) +
       ` · <a href="https://github.com/ownthemachine/own-the-machine/commits/main">${t.chrome.historyLink}</a>` +
@@ -49,7 +54,10 @@ const plain = kind === 'article' && item.plain
 
 <style>
   .lawpage h1 { font-size: 1.7rem; margin: 0.4rem 0 1.2rem; }
-  .plain-l0 { font-family: var(--read); font-style: italic; font-size: 1.05rem; color: var(--ink-soft); margin: -0.6rem 0 1rem; max-width: var(--measure); }
+  /* The law block: one uninterrupted stretch of authentic English text,
+     marked by the seal rule so the eye can tell law from commentary. */
+  .lawblock { border-top: 2px solid var(--seal-gold); padding-top: 1rem; margin-top: 2rem; }
+  .plain-l0 { font-family: var(--read); font-style: italic; font-size: 1.05rem; color: var(--ink-soft); margin: 0 0 0.7rem; max-width: var(--measure); }
   .plain-l1 { border: 1px solid var(--guilloche); border-left: 3px solid var(--ink-soft); background: var(--card); padding: 0.9rem 1.1rem; margin-bottom: 1.4rem; max-width: var(--measure); }
   .plain-label { font-size: 0.68rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--ink-soft); margin-bottom: 0.5rem; font-family: var(--ui); }
   .plain-l1 .prose p { margin-bottom: 0; font-size: 0.98rem; }
