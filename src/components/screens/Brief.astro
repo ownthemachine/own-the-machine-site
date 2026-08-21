@@ -1,0 +1,79 @@
+---
+import Base from '../../layouts/Base.astro';
+import LangBanner from '../LangBanner.astro';
+import law from '../../generated/law.json';
+import { dict, href } from '../../lib/i18n.mjs';
+interface Props { lang: string }
+const { lang } = Astro.props;
+const t = dict(lang);
+const doc = law.brief[lang] || law.brief.en;
+const isLocal = Boolean(law.brief[lang]);
+---
+<Base title={t.brief.title} lang={lang} description={t.brief.description}>
+  <header class="head">
+    <p class="eyebrow">{t.brief.eyebrow}</p>
+    <h1>{t.brief.title}</h1>
+    <p class="src">
+      ownthemachine.eu · {t.brief.draftAt} <span class="serial">{law.lawCommit}</span>
+    </p>
+  </header>
+  <LangBanner lang={lang} doc={law.brief[lang]} />
+
+  <div class="prose brief" lang={isLocal ? lang : 'en'} set:html={doc.html} />
+
+  <p class="more no-print">
+    <a href={href(lang, '/law')}>{t.brief.readLaw}</a> ·
+    <a href={href(lang, '/law/objections')}>{t.brief.readObjections}</a> ·
+    <a href={href(lang, '/join')}>{t.brief.readJoin}</a>
+  </p>
+  <p class="printhint no-print">{t.brief.printHint}</p>
+</Base>
+
+<style>
+  .head { border-bottom: 1px solid var(--guilloche); padding-bottom: 0.6rem; margin-bottom: 1rem; }
+  h1 { font-size: 1.5rem; margin: 0.3rem 0 0.4rem; }
+  .src { margin: 0; font-size: 0.78rem; color: var(--ink-soft); }
+  .more { margin-top: 1.6rem; font-size: 0.9rem; }
+  .printhint { font-size: 0.8rem; color: var(--ink-soft); }
+
+  /* One page is the whole point of this page: a brief that runs to two is a
+     document a staffer puts down. The sizes below are what fit A4 with the
+     English text, which is the longest of the five. check-brief.mjs measures
+     it rather than trusting this comment. */
+  .brief :global(h2) {
+    font-size: 0.95rem; margin: 0.85rem 0 0.25rem;
+    text-transform: uppercase; letter-spacing: 0.06em;
+    font-family: var(--ui); color: var(--ink-soft);
+  }
+  .brief :global(p) { margin: 0 0 0.5rem; }
+  .brief :global(ul) { margin: 0 0 0.5rem; padding-left: 1.1rem; }
+  .brief :global(li) { margin-bottom: 0.25rem; }
+
+  @media print {
+    @page { size: A4; margin: 13mm 15mm; }
+    /* @page supplies the margin; the layout's own padding is a second one,
+       and 54px of it is the difference between one sheet and two. */
+    :global(main) { padding: 0 !important; }
+    .head { margin-bottom: 0.45rem; padding-bottom: 0.3rem; }
+    h1 { font-size: 14pt; margin: 0.15rem 0 0.2rem; }
+    .src { font-size: 7.5pt; }
+    /* base.css sets font-size and line-height on `.prose p, .prose li`, not
+       on the container, so sizing the container alone changes nothing. That
+       is why the first three attempts at this moved the page by 12px. */
+    .brief { font-size: 10.5pt; line-height: 1.45; }
+    .brief :global(h2) { font-size: 9pt; margin: 0.85em 0 0.25em; }
+    .brief :global(p), .brief :global(li) {
+      font-size: 10.5pt; line-height: 1.45; margin-bottom: 0.4em;
+    }
+    .brief :global(ul) { padding-left: 1.1rem; margin-bottom: 0.5em; }
+    /* The translation banner is an honesty notice, not furniture, so it
+       prints. It does not get to cost 95px of a one-page brief to do it. */
+    :global(.lang-banner) {
+      font-size: 8pt !important; line-height: 1.3 !important;
+      padding: 0.25rem 0.5rem !important; margin-bottom: 0.7rem !important;
+      border-left-width: 2px !important;
+    }
+    .brief :global(h2) { break-after: avoid; page-break-after: avoid; }
+    .brief :global(ul), .brief :global(p) { break-inside: avoid; page-break-inside: avoid; }
+  }
+</style>

@@ -64,6 +64,7 @@ export default {
       'Sanktionen, Überwachung, Befugnisübertragung, Ausschuss',
       'Übergangs- und Schlussbestimmungen',
     ],
+    briefLink: 'Neu hier? Lesen Sie den Vorschlag auf einer Seite.',
     versionsHead: 'Stand des Textes',
     versionsLink: 'Fassungen: was feststeht und was sich noch bewegt',
   },
@@ -140,6 +141,12 @@ export default {
   about: {
     title: 'Über das Projekt', eyebrow: 'Wer, warum und nach welchen Regeln',
     description: 'Wer dahintersteht, das erklärte Interesse, die Prüfstufen, und wie diese Kampagne mit Ihren Daten umgeht.',
+  },
+  brief: {
+    title: 'Der Vorschlag auf einer Seite', eyebrow: 'Kurzfassung',
+    description: 'Was der Entwurf verlangt, wie er wirkt, seine Rechtsgrundlage, der schwerste Einwand und sein tatsächlicher Stand.',
+    draftAt: 'Entwurf bei Commit', readLaw: 'Der vollständige Text', readObjections: 'Alle neunzehn Einwände',
+    readJoin: 'Was hilft', printHint: 'Diese Seite ist so gebaut, dass sie auf ein einzelnes A4-Blatt passt.',
   },
   join: {
     title: 'Mitmachen', eyebrow: 'Was wirklich hilft, und wozu es Sie verpflichtet',

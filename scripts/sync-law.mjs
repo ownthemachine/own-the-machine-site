@@ -264,6 +264,7 @@ const about = siteDoc('about');
 const contribute = siteDoc('contribute');
 const versions = siteDoc('versions');
 const joinDoc = siteDoc('join');
+const brief = siteDoc('brief');
 
 // ---- registered version state ---------------------------------------
 // Whether a version of this draft has been filed and registered is a fact
@@ -288,7 +289,7 @@ writeFileSync(join(OUT, 'law.json'), JSON.stringify({
   lawCommit,
   builtAt: new Date().toISOString(),
   articles, recitals, annexes, objections, severability, ledger, evidence, about, contribute, structure,
-  versions, join: joinDoc, registered,
+  versions, join: joinDoc, brief, registered,
 }, null, 1));
 console.log(`sync-law: ${articles.length} articles, ${annexes.length} annexes, ${ledger.length} ledger entries @ ${lawCommit}`);
 console.log(`sync-law: registered version: ${registered ? registered.number : 'none'}`);

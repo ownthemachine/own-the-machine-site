@@ -64,6 +64,7 @@ export default {
       'Sanciones, seguimiento, delegación, comité',
       'Disposiciones transitorias y finales',
     ],
+    briefLink: '¿Es nuevo aquí? Lea la propuesta en una página.',
     versionsHead: 'Estado del texto',
     versionsLink: 'Versiones: lo que queda fijo y lo que aún se mueve',
   },
@@ -140,6 +141,12 @@ export default {
   about: {
     title: 'Acerca de', eyebrow: 'Quién, por qué y bajo qué reglas',
     description: 'Quién está detrás, el interés declarado, las puertas, y cómo trata esta campaña sus datos.',
+  },
+  brief: {
+    title: 'La propuesta en una página', eyebrow: 'Resumen ejecutivo',
+    description: 'Qué pide el borrador, cómo funciona, su base jurídica, la objeción más grave y su situación real.',
+    draftAt: 'borrador en el commit', readLaw: 'El texto completo', readObjections: 'Las diecinueve objeciones',
+    readJoin: 'Qué ayudaría', printHint: 'Esta página está hecha para imprimirse en una sola hoja A4.',
   },
   join: {
     title: 'Participar', eyebrow: 'Qué ayuda de verdad y a qué le compromete',

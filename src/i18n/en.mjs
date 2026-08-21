@@ -63,6 +63,7 @@ export default {
       'Penalties, monitoring, delegation, committee',
       'Transitional and final provisions',
     ],
+    briefLink: 'New here? Read the proposal in one page.',
     versionsHead: 'Status of the text',
     versionsLink: 'Versions: what is fixed, and what still moves',
   },
@@ -139,6 +140,12 @@ export default {
   about: {
     title: 'About', eyebrow: 'Who, why, and under what rules',
     description: 'Who is behind this, the declared interest, the gates, and how this campaign treats your data.',
+  },
+  brief: {
+    title: 'The proposal in one page', eyebrow: 'Executive brief',
+    description: 'What the draft asks for, how it works, its legal basis, the objection that matters most, and its actual status.',
+    draftAt: 'draft at commit', readLaw: 'The full text', readObjections: 'All nineteen objections',
+    readJoin: 'What would help', printHint: 'This page is built to print to a single sheet of A4.',
   },
   join: {
     title: 'Take part', eyebrow: 'What would actually help, and what it commits you to',

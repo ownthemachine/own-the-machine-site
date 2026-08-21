@@ -65,6 +65,11 @@ node scripts/check-translations.mjs
 # Measured against the rendered page instead.
 node scripts/check-toc.mjs
 
+# The brief promises to be one page, and that promise lives in a stylesheet:
+# true until somebody adds a sentence, and then quietly false in one language
+# while it still looks right in the other four. Printed and counted here.
+node scripts/check-brief.mjs
+
 # The site has its own Scaleway project and its own deploy identity, so a
 # key that leaks can touch this bucket and nothing else in the account.
 SCW_PROFILE_NAME="${SCW_PROFILE_NAME:-own-the-machine}"

@@ -63,6 +63,7 @@ export default {
       'Sancties, toezicht, delegatie, comité',
       'Overgangs- en slotbepalingen',
     ],
+    briefLink: 'Nieuw hier? Lees het voorstel op één pagina.',
     versionsHead: 'Status van de tekst',
     versionsLink: 'Versies: wat vastligt en wat nog beweegt',
   },
@@ -139,6 +140,12 @@ export default {
   about: {
     title: 'Over', eyebrow: 'Wie, waarom, en onder welke regels',
     description: 'Wie hierachter zit, het gemelde belang, de poorten, en hoe deze campagne met je gegevens omgaat.',
+  },
+  brief: {
+    title: 'Het voorstel op één pagina', eyebrow: 'Beknopte samenvatting',
+    description: 'Wat het ontwerp vraagt, hoe het werkt, de rechtsgrondslag, het zwaarste bezwaar en de werkelijke stand van zaken.',
+    draftAt: 'ontwerp bij commit', readLaw: 'De volledige tekst', readObjections: 'Alle negentien bezwaren',
+    readJoin: 'Wat helpt', printHint: 'Deze pagina is gemaakt om op één vel A4 af te drukken.',
   },
   join: {
     title: 'Meedoen', eyebrow: 'Wat echt helpt, en waartoe het je verplicht',

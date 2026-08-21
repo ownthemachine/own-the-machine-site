@@ -14,6 +14,9 @@ const commit = `<span class="serial">${law.lawCommit}</span>`;
 <Base title={t.lawIndex.title} lang={lang} description={dict(lang).chrome.metaDescription}>
   <h1>{t.lawIndex.title}</h1>
   <DraftNotice lang={lang} />
+  <p class="brief-link no-print">
+    <a href={href(lang, '/brief')}>{t.lawIndex.briefLink}</a>
+  </p>
   <p class="intro prose" set:html={fmt(t.lawIndex.intro, {
     RECITALS: href(lang, '/law/recitals'), LEDGER: href(lang, '/law/ledger'), COMMIT: commit,
   })} />
@@ -71,6 +74,7 @@ const commit = `<span class="serial">${law.lawCommit}</span>`;
 
 <style>
   .intro { margin: 0.8rem 0 2.2rem; }
+  .brief-link { font-size: 0.92rem; margin: 0.2rem 0 0; }
   .chapter { border-top: 1px solid var(--guilloche); padding: 1.2rem 0; }
   .chapter h2 { font-size: 1.25rem; margin: 0.2rem 0 0.6rem; }
   .chapter ul { list-style: none; }

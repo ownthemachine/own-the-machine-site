@@ -1,0 +1,9 @@
+---
+import Brief from '../../components/screens/Brief.astro';
+
+export function getStaticPaths() {
+  return ['nl', 'fr', 'de', 'es'].map((lang) => ({ params: { lang } }));
+}
+const { lang } = Astro.params;
+---
+<Brief lang={lang} />

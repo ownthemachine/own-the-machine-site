@@ -63,6 +63,7 @@ export default {
       'Sanctions, suivi, délégation, comité',
       'Dispositions transitoires et finales',
     ],
+    briefLink: 'Vous arrivez ? Lisez la proposition en une page.',
     versionsHead: 'État du texte',
     versionsLink: 'Versions : ce qui est figé et ce qui bouge encore',
   },
@@ -139,6 +140,12 @@ export default {
   about: {
     title: 'À propos', eyebrow: 'Qui, pourquoi, et sous quelles règles',
     description: 'Qui est derrière ce projet, l’intérêt déclaré, les portes, et comment cette campagne traite vos données.',
+  },
+  brief: {
+    title: 'La proposition en une page', eyebrow: 'Note de synthèse',
+    description: 'Ce que demande le projet, son fonctionnement, sa base juridique, l’objection la plus lourde et son état réel.',
+    draftAt: 'projet au commit', readLaw: 'Le texte complet', readObjections: 'Les dix-neuf objections',
+    readJoin: 'Ce qui aiderait', printHint: 'Cette page est conçue pour tenir sur une seule feuille A4.',
   },
   join: {
     title: 'Participer', eyebrow: 'Ce qui aide vraiment, et ce que cela vous engage',
