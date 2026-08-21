@@ -1,6 +1,6 @@
 ---
 source: regulation/memorandum/counter-arguments.md
-source-commit: cb3da17
+source-commit: c06c2e8
 status: gate-reviewed
 ---
 
@@ -63,6 +63,10 @@ siebenundzwanzig nationalen Experimenten. Ob diese Gegenleistung ausreicht,
 ist das größte einzelne Rechtsrisiko des Projekts, und Prüfstufe 1 existiert,
 um genau das zu testen.
 
+Zwei Präzedenzfälle gehören in diese Akte, weil ein gegnerischer Leser sie vorbringen wird und weil jeder davon weniger einseitig ist, als er zunächst wirkt. Der erste ist die Straßburger Regel, dass eine Entziehung ohne einen Betrag, der in einem angemessenen Verhältnis zum entzogenen Wert steht, in der Regel unverhältnismäßig ist (James u. a. gegen Vereinigtes Königreich, 1986). Dasselbe Urteil hält im selben Atemzug fest, dass legitime Ziele des öffentlichen Interesses, und ausdrücklich Maßnahmen der Wirtschaftsreform oder Maßnahmen zur Herstellung größerer sozialer Gerechtigkeit, eine Entschädigung unterhalb des vollen Marktwerts rechtfertigen können. Das ist die Rechtsprechungslinie, auf deren Grundlage dieses Instrument zu verteidigen ist, und sie steht zu ihren eigenen Bedingungen zur Verfügung, nicht trotz ihrer: eine Verwässerung von 3 %, die in einem Moment realisierten Gewinns kristallisiert und auf eine Entkopplung von Produktion und Arbeit ausgerichtet ist, ist – wenn überhaupt etwas – eine Maßnahme der Wirtschaftsreform.
+
+Der zweite ist Artikel 345 AEUV. Er bestimmt, dass die Verträge die Eigentumsordnung in den Mitgliedstaaten unberührt lassen, und die gegnerische Lesart lautet, eine verpflichtende Übertragung von 3 % des Wertes privater Unternehmen sei eine teilweise Vergesellschaftung, die die Union nicht verfügen dürfe. Diese Lesart verfehlt den Adressaten. Artikel 345 wahrt gegenüber den Verträgen die Freiheit der Mitgliedstaaten, zwischen öffentlichem und privatem Eigentum zu wählen; er ist kein Freibrief für Eigentum gegenüber Unionsrecht, denn das regelt Artikel 17 der Charta, und darauf antwortet dieses Memorandum nach Artikel 52 Absatz 1. Der Gerichtshof hat Artikel 345 genau in dieser Richtung restriktiv ausgelegt und entschieden, dass eine von einem Mitgliedstaat gewählte Eigentumsordnung den Grundfreiheiten unterworfen bleibt (Essent, C-105/12 bis C-107/12). Das Instrument lässt die Eigentumsordnung jedes Mitgliedstaats genau so, wie es sie vorgefunden hat: die gezeichneten Aktien sind gewöhnliche Aktien nach nationalem Gesellschaftsrecht, gehalten von einer Eigentümerin ohne Sonderrechte, und keine nationale Regel darüber, wer was besitzen darf, wird verdrängt.
+
 Die Entwurfsrecherche (18. August) hat die zu verwendende Architektur
 festgelegt: Die BRRD ist die gerichtlich bestätigte Vorlage für den
 gesetzlichen Eingriff in Eigenkapital (Kotnik C-526/14, Ledra C-8/15 P, Aeris
@@ -73,10 +77,11 @@ der Charta und eine bezifferte Ausführungsgarantie mit unabhängiger,
 gesondert anfechtbarer Bewertung. Eine Anpassung ist zwingend: Das
 Vergleichsszenario der BRRD ist die Insolvenz, und ein dauerhaftes Regime
 kann sich nicht auf Krisenlogik stützen (Dowling C-41/15); unsere Untergrenze liegt
-deshalb in der Ausführung, nicht in einem Vergleichsszenario: der
+Die Unterscheidung muss benannt statt verwischt werden: Bankenabwicklung verwässert Anteilseigner, deren Aktien im kontrafaktischen Insolvenzfall nichts wert wären, während diese Unternehmen gesunde, werbende Unternehmen sind, deren Aktien sehr viel wert sind. Die BRRD ist daher wegen ihrer Mechanik übernommen, nicht wegen ihrer Rechtfertigung, und diese Akte tut nicht so, als wäre es anders; die Rechtfertigung ist die aus James und aus Hauer, und sie steht und fällt mit der Verhältnismäßigkeit statt mit einer Krise, die nicht stattfindet. Unsere Untergrenze liegt daher im Vollzug und
+nicht in einem hypothetischen Vergleichsszenario: der
 Eingriff kann in der Ausführung die genannten 3 % nie überschreiten,
-sein Preis wird vom Liquiditätsereignis selbst unter einer unabhängigen,
-gesondert anfechtbaren Bewertung gesetzt, und keine Anwendung des
+sein Preis wird vom Liquiditätsereignis selbst auf der Grundlage einer
+unabhängigen, gesondert anfechtbaren Bewertung bestimmt, und keine Anwendung des
 Instruments darf mehr nehmen als den Eingriff, den es benennt. Die
 Doktrin darunter ist älter als all dies: Eigentum ist in der
 Rechtsordnung der Union kein schrankenloses Vorrecht, sondern in seiner
@@ -84,7 +89,7 @@ sozialen Funktion geschützt, und darf im Allgemeininteresse beschränkt
 werden, wenn die Beschränkung verhältnismäßig ist und den Wesensgehalt
 des Rechts unangetastet lässt (Hauer 44/79; Bosphorus C-84/95). Der
 Eingriff dieses Instruments ist quantifiziert, ereignisgebunden und
-wahrt den Wesensgehalt durch Konstruktion, und genau das verlangen jene
+wahrt bereits von seiner Anlage her den Wesensgehalt, und genau das verlangen jene
 Urteile vom Gesetzgeber.
 
 **Konsequenz für den Entwurf.** DC-1: zukunftsgerichteter Warrant auf
@@ -282,6 +287,8 @@ sagen, dass die Dividende klein beginnt und sich aufzinst, nach norwegischem
 Muster, und dass, wer anderes verspricht, nicht für uns spricht. Zwei Drittel des
 norwegischen Fonds sind aufgezinste Rendite; das ehrliche Versprechen ist die
 Regel, nicht der erste Scheck.
+
+Eine Verfeinerung wurde erwogen und verworfen. Es wird vorgetragen, Bewertungen schnell wachsender privater Unternehmen seien volatil genug, dass Streitigkeiten über das Verwässerungsverhältnis das Instrument in Prozessen versanden ließen, und dass deshalb ein beschleunigtes verbindliches Schiedsverfahren zwischen den Bewerter und die Gerichte gehöre. Das Instrument beantwortet das Problem, auf das der Vorschlag zielt, bereits, und der Vorschlag würde mehr kosten, als er einspart. Artikel 6 Absatz 5 bestimmt, dass eine Anfechtung weder das Liquiditätsereignis noch die Zeichnung aufschiebt, und Artikel 6 Absatz 4 korrigiert eine fehlerhafte Bewertung im Nachhinein in beide Richtungen, sodass ein Streit niemanden aufhält: das ist das Muster des Abwicklungsrechts, in dem der Rechtsstreit neben der Transaktion läuft und nicht quer durch sie. Wo das Ereignis selbst einen Preis setzt, macht Artikel 6 Absatz 2 die Bewertung zu einer reinen Rechenoperation anhand dieses Preises statt zu einem Werturteil darüber, und genau dort träte Volatilität sonst ein. Und eine Schiedsinstanz, deren Spruch die Parteien bände, stieße auf Artikel 47 der Charta über den Zugang zu einem Gericht und auf die Grenzen der Übertragung von Ermessensbeurteilungen auf Einrichtungen der Union; eine Instanz, deren Spruch sie nicht bände, fügte eine Stufe hinzu, ohne eine zu beseitigen.
 
 **Konsequenz für den Entwurf.** DC-12: ereignisgebundene Realisierung, keine
 laufende Bewertung. DC-13: dauerhaft stimmrechtslose wirtschaftliche

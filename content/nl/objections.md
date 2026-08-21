@@ -1,6 +1,6 @@
 ---
 source: regulation/memorandum/counter-arguments.md
-source-commit: cb3da17
+source-commit: c06c2e8
 status: gate-reviewed
 ---
 
@@ -63,6 +63,10 @@ zevenentwintig nationale experimenten. Of die tegenprestatie volstaat, is
 het grootste juridische risico van het project, en toetsingspoort 1
 bestaat om dat te testen.
 
+Twee gezaghebbende bronnen horen in dit dossier thuis, omdat een vijandige lezer ze zal aanvoeren en omdat elk minder eenzijdig is dan zij op het eerste gezicht lijkt. De eerste is de regel van Straatsburg dat een ontneming zonder een bedrag dat redelijkerwijs verband houdt met de ontnomen waarde, normaal gesproken onevenredig is (James e.a. tegen het Verenigd Koninkrijk, 1986). Hetzelfde arrest oordeelt, in dezelfde adem, dat legitieme doelstellingen van algemeen belang, en uitdrukkelijk maatregelen van economische hervorming of maatregelen die grotere sociale rechtvaardigheid beogen, een vergoeding beneden de volle marktwaarde kunnen rechtvaardigen. Dat is het gezag waaronder dit instrument moet worden bepleit, en het is beschikbaar op zijn eigen voorwaarden en niet ondanks die voorwaarden: een verwatering van 3 % die kristalliseert op een moment van gerealiseerde winst, geijkt op een ontkoppeling van productie en arbeid, is bij uitstek een maatregel van economische hervorming.
+
+De tweede is artikel 345 VWEU. Dat bepaalt dat de Verdragen de regeling van het eigendomsrecht in de lidstaten onverlet laten, en de vijandige lezing luidt dat een verplichte overdracht van 3 % van de waarde van particuliere ondernemingen een gedeeltelijke socialisatie is die de Unie niet mag decreteren. Die lezing vergist zich in de geadresseerde. Artikel 345 beschermt de vrijheid van de lidstaten om te kiezen tussen publiek en particulier eigendom tegen de Verdragen; het is geen vrijbrief voor eigendom tegenover Uniewetgeving, want dat is wat artikel 17 van het Handvest beheerst en waarop dit memorandum onder artikel 52, lid 1, antwoordt. Het Hof heeft artikel 345 juist in die richting restrictief uitgelegd en geoordeeld dat een door een lidstaat gekozen eigendomsregeling onderworpen blijft aan de fundamentele vrijheden (Essent, C-105/12 tot en met C-107/12). Het instrument laat het eigendomsstelsel van elke lidstaat precies zoals het dat aantrof: de ingeschreven aandelen zijn gewone aandelen naar nationaal vennootschapsrecht, gehouden door een eigenaar zonder bijzondere rechten, en geen nationale regel over wie wat mag bezitten wordt opzijgezet.
+
 Het redactieonderzoek (18 augustus) heeft de te gebruiken architectuur
 vastgelegd: de BRRD is het door de rechter gevalideerde sjabloon voor
 ingrijpen in aandelenkapitaal bij wet (Kotnik C-526/14, Ledra C-8/15 P,
@@ -72,7 +76,7 @@ artikel 17 van het Handvest, een volledige evenredigheidsoverweging onder
 artikel 52, lid 1, van het Handvest, en een gekwantificeerde uitvoeringswaarborg
 met een onafhankelijke, afzonderlijk aanvechtbare waardering. Eén aanpassing is verplicht: het contrafeitelijke scenario van
 de BRRD is insolventie, en een permanent stelsel kan niet leunen op
-crisisredeneringen (Dowling C-41/15), dus onze ondergrens ligt in de
+crisisredeneringen (Dowling C-41/15). Het onderscheid moet worden benoemd in plaats van verdoezeld: bankenafwikkeling verwatert aandeelhouders wier aandelen in het contrafeitelijke faillissement niets waard zouden zijn, terwijl deze ondernemingen gezonde, lopende bedrijven zijn waarvan de aandelen veel waard zijn. De BRRD is daarom overgenomen vanwege haar mechaniek, niet vanwege haar rechtvaardiging, en dit dossier doet niet alsof; de rechtvaardiging is die in James en in Hauer, en zij staat of valt met evenredigheid in plaats van met een crisis die zich niet voordoet. Onze ondergrens ligt daarom in de
 uitvoering, niet in een vergelijkingsscenario: de inmenging kan bij de
 uitvoering nooit de genoemde 3 % overschrijden, haar prijs wordt bepaald
 door de liquiditeitsgebeurtenis zelf onder een onafhankelijke en
@@ -84,7 +88,7 @@ maatschappelijke functie, en mag in het algemeen belang worden beperkt
 wanneer de beperking evenredig is en de kern van het recht onaangetast
 laat (Hauer 44/79; Bosphorus C-84/95). De beperking van dit instrument is
 gekwantificeerd, gebonden aan de gebeurtenis en kernsparend door
-constructie, en dat is wat die arresten van de wetgever verlangen.
+constructie, en dat is wat die arresten van de wetgever verlangen aan te tonen.
 
 **Ontwerpconsequentie.** DC-1: een toekomstgerichte warrant op toekomstige
 waardecreatie bij omschreven gebeurtenissen, nooit een retroactieve
@@ -283,10 +287,12 @@ anders belooft, dat in elk geval niet namens ons doet. Twee derde van
 het Noorse fonds is samengesteld rendement; het eerlijke verhaal is de
 regel, niet de eerste cheque.
 
+Eén verfijning is overwogen en verworpen. Er wordt aangevoerd dat waarderingen van snelgroeiende particuliere ondernemingen volatiel genoeg zijn om geschillen over de verwateringsverhouding het instrument in procedures te laten vastlopen, en dat daarom een versnelde bindende arbitrage tussen de waardeerder en de rechter hoort te staan. Het instrument beantwoordt het probleem waarop het voorstel mikt al, en het voorstel zou meer kosten dan het bespaart. Artikel 6, lid 5, bepaalt dat een betwisting noch de liquiditeitsgebeurtenis noch de inschrijving opschort, en artikel 6, lid 4, corrigeert een onjuiste waardering achteraf in beide richtingen, zodat een geschil niemand ophoudt: dat is het patroon van het afwikkelingsrecht, waarin procedures naast de transactie lopen in plaats van er dwars doorheen. Waar de gebeurtenis zelf een prijs vaststelt, maakt artikel 6, lid 2, de waardering tot rekenwerk op die prijs in plaats van tot een mening erover, en juist daar zou volatiliteit anders binnenkomen. En een arbitrale instantie waarvan de uitspraak de partijen zou binden, zou stuiten op artikel 47 van het Handvest over toegang tot de rechter en op de grenzen aan het toekennen van discretionaire beoordeling aan organen van de Unie; een instantie waarvan de uitspraak hen niet zou binden, zou een fase toevoegen zonder er een weg te nemen.
+
 **Ontwerpconsequentie.** DC-12: verzilvering bij gebeurtenissen, geen
 doorlopende waardering. DC-13: permanent stemrechtloze economische
 belangen. DC-14: het dividend wordt gecommuniceerd als klein beginnend en
-samengesteld aangroeiend, nooit als onmiddellijk inkomen.
+samengesteld aangroeiend, nooit als onmiddellijk inkomen. DC-34: geen instantie tussen waardering en rechter; correctie achteraf en de transactie wacht nooit.
 
 ---
 

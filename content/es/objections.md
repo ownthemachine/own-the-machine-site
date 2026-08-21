@@ -1,6 +1,6 @@
 ---
 source: regulation/memorandum/counter-arguments.md
-source-commit: cb3da17
+source-commit: c06c2e8
 status: gate-reviewed
 ---
 
@@ -59,6 +59,10 @@ veintisiete experimentos nacionales. Si esa contraprestación es suficiente
 constituye el mayor riesgo jurídico del proyecto, y el control 1 existe para
 ponerlo a prueba.
 
+Dos autoridades jurisprudenciales tienen su lugar en este expediente, porque un lector hostil las invocará y porque cada una es menos unívoca de lo que parece a primera vista. La primera es la regla de Estrasburgo según la cual una privación sin una suma razonablemente relacionada con el valor del bien objeto de privación es normalmente desproporcionada (James y otros contra el Reino Unido, 1986). La misma sentencia sostiene, a renglón seguido, que los objetivos legítimos de interés público, y expresamente las medidas de reforma económica o las dirigidas a lograr una mayor justicia social, pueden justificar un reembolso inferior al pleno valor de mercado. Esa es la jurisprudencia con arreglo a la cual hay que defender este instrumento, y está disponible en sus propios términos y no a pesar de ellos: una dilución del 3 % que cristaliza en un momento de ganancia realizada, calibrada sobre un desacoplamiento entre la producción y el trabajo, es una medida de reforma económica si alguna lo es.
+
+La segunda es el artículo 345 TFUE. Dispone que los Tratados no prejuzgan en modo alguno el régimen de la propiedad en los Estados miembros, y la lectura hostil sostiene que una transferencia obligatoria del 3 % del valor de las empresas privadas es una socialización parcial que la Unión no puede decretar. Esa lectura se equivoca de destinatario. El artículo 345 preserva frente a los Tratados la libertad de los Estados miembros de elegir entre propiedad pública y privada; no es un salvoconducto de la propiedad frente a la legislación de la Unión, que es lo que rige el artículo 17 de la Carta y a lo que este memorando responde conforme al artículo 52, apartado 1. El Tribunal ha leído el artículo 345 de manera estricta precisamente en ese sentido, al declarar que un régimen de propiedad elegido por un Estado miembro sigue sujeto a las libertades fundamentales (Essent, C-105/12 a C-107/12). El instrumento deja el régimen de propiedad de cada Estado miembro exactamente como lo encontró: las acciones suscritas son acciones ordinarias de Derecho nacional de sociedades, en manos de un propietario sin derechos especiales, y ninguna norma nacional sobre quién puede poseer qué queda desplazada.
+
 La investigación de redacción (18 de agosto) fijó la arquitectura que debía
 emplearse: la BRRD es la plantilla judicialmente validada para interferir en
 el capital por acto legislativo (Kotnik C-526/14, Ledra C-8/15 P, Aeris
@@ -69,7 +73,8 @@ considerando completo de proporcionalidad conforme al artículo 52, apartado
 valoración independiente e impugnable por separado. Una adaptación es
 obligatoria: el contrafactual de la BRRD es la insolvencia, y un régimen
 permanente no puede apoyarse en razonamientos de crisis (Dowling C-41/15),
-de modo que nuestro suelo está en la ejecución, no en un contrafáctico:
+La distinción debe enunciarse en lugar de difuminarse: la resolución bancaria diluye a accionistas cuyas acciones no valdrían nada en la insolvencia contrafáctica, mientras que estas empresas son negocios sanos y en funcionamiento cuyas acciones valen mucho. La BRRD se toma, por tanto, por su maquinaria y no por su justificación, y este expediente no finge lo contrario; la justificación es la de James y la de Hauer, y se sostiene o cae por la proporcionalidad y no por una crisis que no se está produciendo. Nuestro suelo está, por tanto, en la ejecución y
+no en un contrafáctico:
 la injerencia nunca puede exceder en la ejecución el 3 % enunciado, su
 precio lo fija el propio evento de liquidez mediante una valoración
 independiente e impugnable por separado, y ninguna aplicación del
@@ -279,10 +284,12 @@ noruego, y que cualquiera que prometa otra cosa no somos nosotros. Dos
 tercios del fondo de Noruega son rendimiento compuesto; el argumento honesto
 es la regla, no el primer cheque.
 
+Se ha considerado y descartado un refinamiento. Se sostiene que las valoraciones de empresas privadas de rápido crecimiento son lo bastante volátiles como para que las disputas sobre la razón de dilución empantanen el instrumento en litigios, y que por ello debería intercalarse un arbitraje vinculante acelerado entre el valorador y los tribunales. El instrumento ya responde al problema al que apunta la propuesta, y la propuesta costaría más de lo que ahorra. El artículo 6, apartado 5, dispone que una impugnación no suspende ni el evento de liquidez ni la suscripción, y el artículo 6, apartado 4, corrige después una valoración errónea en ambos sentidos, de modo que una disputa no retrasa a nadie: ese es el patrón del Derecho de resolución, donde el litigio avanza junto a la transacción y no a través de ella. Cuando el propio evento fija un precio, el artículo 6, apartado 2, convierte la valoración en aritmética sobre ese precio en lugar de en una opinión sobre él, que es justo por donde entraría la volatilidad. Y una instancia arbitral cuyo laudo vinculara a las partes chocaría con el artículo 47 de la Carta sobre el acceso a un tribunal y con los límites a la atribución de apreciaciones discrecionales a organismos de la Unión; una instancia cuyo laudo no las vinculara añadiría una fase sin suprimir ninguna.
+
 **Consecuencia de diseño.** DC-12: cristalización activada por eventos, sin
 valoración continua. DC-13: intereses económicos permanentemente sin derecho
 de voto. DC-14: el dividendo se comunica como capitalización desde una base
-pequeña, nunca como renta inmediata.
+pequeña, nunca como renta inmediata. DC-34: ninguna instancia entre la valoración y los tribunales; corrección a posteriori y la transacción nunca espera.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 source: regulation/memorandum/counter-arguments.md
-source-commit: cb3da17
+source-commit: c06c2e8
 status: gate-reviewed
 ---
 
@@ -62,6 +62,10 @@ nationales. Savoir si cette contrepartie est suffisante est le plus grand
 risque juridique du projet, et la porte de contrôle 1 existe pour le mettre
 à l'épreuve.
 
+Deux fondements juridiques ont leur place dans ce dossier, parce qu'un lecteur hostile les invoquera et parce que chacun est moins univoque qu'il n'y paraît. Le premier est la règle de Strasbourg selon laquelle une privation sans une somme raisonnablement en rapport avec la valeur du bien est normalement disproportionnée (James et autres c. Royaume-Uni, 1986). Le même arrêt juge, dans le même temps, que des objectifs légitimes d'intérêt public, et expressément des mesures de réforme économique ou des mesures visant à une plus grande justice sociale, peuvent justifier un remboursement inférieur à la pleine valeur marchande. C'est sur ce précédent que cet instrument doit être défendu, et il est disponible à ses propres conditions plutôt qu'en dépit d'elles : une dilution de 3 % cristallisant à un moment de gain réalisé, calibrée sur un découplage entre la production et le travail, est une mesure de réforme économique s'il en est.
+
+Le second est l'article 345 TFUE. Il dispose que les traités ne préjugent en rien le régime de la propriété dans les États membres, et la lecture hostile veut qu'un transfert obligatoire de 3 % de la valeur des entreprises privées soit une socialisation partielle que l'Union ne saurait décréter. Cette lecture se trompe de destinataire. L'article 345 préserve la liberté des États membres de choisir entre propriété publique et privée face aux traités ; il n'est pas une charte d'immunité de la propriété contre la législation de l'Union, ce que régit l'article 17 de la Charte et ce à quoi le présent mémorandum répond au titre de l'article 52, paragraphe 1. La Cour a interprété l'article 345 de manière stricte dans ce sens précis, jugeant qu'un régime de propriété choisi par un État membre demeure soumis aux libertés fondamentales (Essent, C-105/12 à C-107/12). L'instrument laisse le régime de propriété de chaque État membre exactement tel qu'il l'a trouvé : les actions souscrites sont des actions ordinaires de droit national des sociétés, détenues par un propriétaire sans droits particuliers, et aucune règle nationale sur qui peut posséder quoi n'est écartée.
+
 Les recherches de rédaction (18 août) ont arrêté l'architecture à retenir :
 la BRRD est le modèle validé par la jurisprudence pour toute atteinte au
 capital par acte législatif (Kotnik C-526/14, Ledra C-8/15 P, Aeris Invest
@@ -71,8 +75,8 @@ complet de proportionnalité au titre de l'article 52, paragraphe 1, de la
 Charte, et une garantie d'exécution chiffrée, assortie d'une valorisation
 indépendante et contestable séparément. Une adaptation s'impose : le contrefactuel de la BRRD est
 l'insolvabilité, et un régime permanent ne peut s'appuyer sur un
-raisonnement de crise (Dowling C-41/15) ; notre plancher tient donc à
-l'exécution, non à un contrefactuel : l'ingérence ne peut jamais excéder
+raisonnement de crise (Dowling C-41/15). La distinction doit être formulée nettement plutôt qu'estompée : la résolution bancaire dilue des actionnaires dont les actions ne vaudraient rien dans l'hypothèse contrefactuelle d'une insolvabilité, alors que ces entreprises sont des entités saines en exploitation dont les actions ont une grande valeur. La BRRD est donc empruntée pour ses mécanismes, non pour sa justification, et ce dossier ne prétend pas le contraire ; la justification est celle de James et de Hauer, et elle tient ou s'effondre sur la proportionnalité plutôt que sur une crise qui n'a pas lieu. Notre plancher tient donc à l'exécution, non
+à un contrefactuel : l'ingérence ne peut jamais excéder
 les 3 % énoncés dans son exécution, son prix est fixé par l'événement de
 liquidité lui-même sur la base d'une évaluation indépendante et contestable
 séparément, et aucune application de l'instrument ne peut prendre plus
@@ -292,10 +296,12 @@ ne parle pas en notre nom. Les deux tiers du fonds norvégien sont du
 rendement composé ; le discours honnête porte sur la règle, pas sur le
 premier chèque.
 
+Un perfectionnement a été envisagé et écarté. On soutient que les valorisations d'entreprises privées en forte croissance sont assez volatiles pour que des litiges sur le taux de dilution enlisent l'instrument dans le contentieux, et qu'un arbitrage contraignant accéléré devrait donc s'intercaler entre l'évaluateur et le juge. L'instrument répond déjà au problème que la proposition vise, et la proposition coûterait plus qu'elle n'épargne. L'article 6, paragraphe 5, prévoit qu'une contestation ne suspend ni l'événement de liquidité ni la souscription, et l'article 6, paragraphe 4, corrige après coup une valorisation erronée dans les deux sens, de sorte qu'un litige ne retarde personne : c'est le schéma du droit de la résolution, où le contentieux avance à côté de la transaction et non en travers. Lorsque l'événement fixe lui-même un prix, l'article 6, paragraphe 2, fait de la valorisation un calcul sur ce prix plutôt qu'une opinion à son sujet, et c'est précisément là que la volatilité entrerait autrement. Enfin, une instance arbitrale dont la sentence lierait les parties se heurterait à l'article 47 de la Charte sur l'accès au juge et aux limites posées à l'attribution d'appréciations discrétionnaires à des organes de l'Union ; une instance dont la sentence ne les lierait pas ajouterait une étape sans en retrancher aucune.
+
 **Conséquence de conception.** DC-12 : cristallisation déclenchée par
 événement, pas de valorisation continue. DC-13 : des intérêts économiques
 sans droit de vote, à titre permanent. DC-14 : le dividende est présenté
-comme partant de peu et se composant, jamais comme un revenu immédiat.
+comme partant de peu et se composant, jamais comme un revenu immédiat. DC-34 : aucune instance entre la valorisation et le juge ; correction a posteriori et la transaction n'attend jamais.
 
 ---
 
