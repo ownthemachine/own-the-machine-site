@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import lawData from '../../generated/law.json';
 import LangBanner from '../LangBanner.astro';
+import DraftNotice from '../DraftNotice.astro';
 import { dict, fmt, href } from '../../lib/i18n.mjs';
 interface Props { lang: string; kind: 'article' | 'annex'; item: any }
 const { lang, kind, item } = Astro.props;
@@ -36,6 +37,7 @@ const metaDescription = (s: string, limit = 160) => {
 <Base title={title} lang={lang} description={plain ? metaDescription(plain.l0) : undefined}>
   <article class="lawpage">
     <LangBanner lang={lang} kind="lawEnglish" />
+    <DraftNotice lang={lang} />
     {plain && (
       <aside class="plain-l1" lang={item.plain[lang] ? lang : 'en'}>
         <p class="plain-label">{t.lawDoc.plainLabel}</p>

@@ -1,0 +1,32 @@
+---
+// Shown on every page that renders the living draft, but only once a version
+// has actually been registered. Before that there is one text and nothing to
+// distinguish it from, so a notice would be noise; after that the difference
+// between what a reader is looking at and what they were asked to sign is the
+// most important thing on the page, and it cannot be left to the reader to
+// work out. The condition is data, from versions/REGISTERED.json in the law
+// repo, so this appears on the day that file changes and not before.
+import law from '../generated/law.json';
+import { dict, fmt, href } from '../lib/i18n.mjs';
+interface Props { lang: string }
+const { lang } = Astro.props;
+const t = dict(lang).versions;
+const reg = (law as any).registered;
+---
+{reg && (
+  <p class="draft-notice">
+    <span set:html={fmt(t.draftNotice, {
+      LINK: `<a href="${href(lang, '/law/versions')}">${t.registeredLinkText}</a>`,
+      NUMBER: reg.number || '',
+    })} />
+  </p>
+)}
+
+<style>
+  .draft-notice {
+    border: 1px solid var(--guilloche); border-left: 3px solid var(--seal-gold);
+    background: var(--card); padding: 0.7rem 1rem; margin-bottom: 1.6rem;
+    font-size: 0.88rem; color: var(--ink-soft); max-width: var(--measure);
+  }
+  .draft-notice a { color: var(--ink-soft); }
+</style>

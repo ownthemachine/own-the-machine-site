@@ -42,6 +42,17 @@ const PAGES = {
   evidence: 'evidence/EVIDENCE.md',
 };
 
+// The site-native pages keep their English source in this repository rather
+// than in the law repo, and were outside this check entirely. That is how the
+// funding disclosure could be rewritten in English on 21 August 2026 and left
+// saying something materially different in four other languages: the checker
+// was only ever pointed at the law-derived pages, so nothing looked.
+const SITE_PAGES = {
+  about: 'content/en/about.md',
+  contribute: 'content/en/contribute.md',
+  versions: 'content/en/versions.md',
+};
+
 const PARA_TOLERANCE = 0.12; // 12 %, for legitimate paragraphing differences
 
 const stripFrontMatter = (t) =>
@@ -91,10 +102,14 @@ const missingFrom = (want, have) => {
 let problems = 0;
 const rows = [];
 
-for (const [page, source] of Object.entries(PAGES)) {
-  const srcPath = join(LAW, source);
+const SOURCES = [
+  ...Object.entries(PAGES).map(([page, s]) => [page, join(LAW, s)]),
+  ...Object.entries(SITE_PAGES).map(([page, s]) => [page, join(process.cwd(), s)]),
+];
+
+for (const [page, srcPath] of SOURCES) {
   if (!existsSync(srcPath)) {
-    console.error(`check-translations: missing source ${source}`);
+    console.error(`check-translations: missing source ${srcPath}`);
     problems++;
     continue;
   }

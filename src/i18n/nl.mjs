@@ -61,6 +61,8 @@ export default {
       'Sancties, toezicht, delegatie, comité',
       'Overgangs- en slotbepalingen',
     ],
+    versionsHead: 'Status van de tekst',
+    versionsLink: 'Versies: wat vastligt en wat nog beweegt',
   },
   lawDoc: {
     eyebrowArticle: 'De ontwerpverordening · Artikel %N%',
@@ -135,6 +137,16 @@ export default {
   about: {
     title: 'Over', eyebrow: 'Wie, waarom, en onder welke regels',
     description: 'Wie hierachter zit, het gemelde belang, de poorten, en hoe deze campagne met je gegevens omgaat.',
+  },
+  versions: {
+    title: 'Versies', eyebrow: 'Wat vastligt en wat nog beweegt',
+    description: 'Of er een versie van dit ontwerp is ingediend of geregistreerd, en de regel die vanaf dat moment voor de tekst geldt.',
+    stateLabel: 'Status',
+    noneTitle: 'Geen enkele versie is geregistreerd.',
+    noneBody: 'Er is niets ingediend bij de Europese Commissie en nergens worden handtekeningen verzameld. Alles op deze site is een ontwerp.',
+    registeredTitle: 'Geregistreerde versie', filed: 'ingediend', fromCommit: 'uit commit',
+    draftNotice: 'Je leest het levende ontwerp, dat nog verandert. Handtekeningen worden verzameld voor de geregistreerde tekst, %NUMBER%, die vastligt en niet meer gewijzigd kan worden. %LINK%.',
+    registeredLinkText: 'Lees wat dat betekent en waar beide verschillen',
   },
   notFound: {
     title: 'Niet gevonden', heading: 'Niets is gecertificeerd op dit adres',

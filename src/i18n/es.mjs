@@ -62,6 +62,8 @@ export default {
       'Sanciones, seguimiento, delegación, comité',
       'Disposiciones transitorias y finales',
     ],
+    versionsHead: 'Estado del texto',
+    versionsLink: 'Versiones: lo que queda fijo y lo que aún se mueve',
   },
   lawDoc: {
     eyebrowArticle: 'El proyecto de Reglamento · Artículo %N%',
@@ -136,6 +138,16 @@ export default {
   about: {
     title: 'Acerca de', eyebrow: 'Quién, por qué y bajo qué reglas',
     description: 'Quién está detrás, el interés declarado, las puertas, y cómo trata esta campaña sus datos.',
+  },
+  versions: {
+    title: 'Versiones', eyebrow: 'Lo que queda fijo y lo que aún se mueve',
+    description: 'Si alguna versión de este borrador se ha presentado o registrado, y la regla que rige el texto desde ese momento.',
+    stateLabel: 'Estado',
+    noneTitle: 'Ninguna versión está registrada.',
+    noneBody: 'No se ha presentado nada ante la Comisión Europea y no se recogen firmas en ningún sitio. Todo en este sitio es un borrador.',
+    registeredTitle: 'Versión registrada', filed: 'presentada el', fromCommit: 'del commit',
+    draftNotice: 'Está leyendo el borrador vivo, que sigue cambiando. Las firmas se recogen sobre el texto registrado, %NUMBER%, que es fijo y ya no puede modificarse. %LINK%.',
+    registeredLinkText: 'Vea qué significa eso y en qué difieren ambos',
   },
   notFound: {
     title: 'No encontrado', heading: 'Nada está certificado en esta dirección',

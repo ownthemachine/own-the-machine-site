@@ -1,0 +1,9 @@
+---
+import Versions from '../../../components/screens/Versions.astro';
+
+export function getStaticPaths() {
+  return ['nl', 'fr', 'de', 'es'].map((lang) => ({ params: { lang } }));
+}
+const { lang } = Astro.params;
+---
+<Versions lang={lang} />

@@ -59,9 +59,22 @@ so and the repository stays up as a public good.
 
 ## Funding
 
-None. When any exists, it will be published here to the cent, as
-Regulation (EU) 2019/788 requires of initiatives and we require of
-ourselves early.
+No organisation, no bank account, no donations and no third-party money of
+any kind. Nobody has been paid, and nobody has worked on this for payment.
+
+Saying "none" would be the easier answer and it would not be true. This
+site costs something to run and the initiator pays it personally: the
+domain, object storage and edge delivery at Scaleway in France, and the API
+calls the review gates consume. No party, foundation, trade union, company,
+public body or other private person has contributed money, services, staff
+time or software to this campaign.
+
+Regulation (EU) 2019/788 obliges a registered initiative to name every
+source giving more than EUR 500 in a year and to keep that declaration
+current while signatures are collected. The obligation starts at
+registration. The declaration starts now, in campaign/FUNDING.md, which
+also carries the rules adopted in advance about what will never be
+accepted.
 
 ## Your data
 

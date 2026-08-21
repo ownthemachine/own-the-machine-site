@@ -61,6 +61,8 @@ export default {
       'Sanctions, suivi, délégation, comité',
       'Dispositions transitoires et finales',
     ],
+    versionsHead: 'État du texte',
+    versionsLink: 'Versions : ce qui est figé et ce qui bouge encore',
   },
   lawDoc: {
     eyebrowArticle: 'Le projet de règlement · Article %N%',
@@ -135,6 +137,16 @@ export default {
   about: {
     title: 'À propos', eyebrow: 'Qui, pourquoi, et sous quelles règles',
     description: 'Qui est derrière ce projet, l’intérêt déclaré, les portes, et comment cette campagne traite vos données.',
+  },
+  versions: {
+    title: 'Versions', eyebrow: 'Ce qui est figé et ce qui bouge encore',
+    description: 'Si une version de ce projet a été déposée ou enregistrée, et la règle qui s’applique au texte à partir de ce moment.',
+    stateLabel: 'État',
+    noneTitle: 'Aucune version n’est enregistrée.',
+    noneBody: 'Rien n’a été déposé auprès de la Commission européenne et aucune signature n’est recueillie où que ce soit. Tout sur ce site est un projet.',
+    registeredTitle: 'Version enregistrée', filed: 'déposée le', fromCommit: 'depuis le commit',
+    draftNotice: 'Vous lisez le projet vivant, qui continue d’évoluer. Les signatures portent sur le texte enregistré, %NUMBER%, qui est figé et ne peut plus être modifié. %LINK%.',
+    registeredLinkText: 'Voir ce que cela signifie et où les deux diffèrent',
   },
   notFound: {
     title: 'Introuvable', heading: 'Rien n’est certifié à cette adresse',

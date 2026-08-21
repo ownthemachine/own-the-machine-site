@@ -1,0 +1,57 @@
+---
+import Base from '../../layouts/Base.astro';
+import LangBanner from '../LangBanner.astro';
+import law from '../../generated/law.json';
+import { dict } from '../../lib/i18n.mjs';
+interface Props { lang: string }
+const { lang } = Astro.props;
+const t = dict(lang);
+const doc = law.versions[lang] || law.versions.en;
+const isLocal = Boolean(law.versions[lang]);
+// The state block is rendered from the law repo's own record, never written
+// into the page: a page that states its own status is a page that can be
+// wrong about it quietly, and this is exactly the claim a reader has the
+// most reason to distrust.
+const reg = (law as any).registered;
+---
+<Base title={t.versions.title} lang={lang} description={t.versions.description}>
+  <p class="eyebrow">{t.versions.eyebrow}</p>
+  <h1>{t.versions.title}</h1>
+  <LangBanner lang={lang} doc={law.versions[lang]} />
+
+  <div class={reg ? 'state is-registered' : 'state is-draft'}>
+    <p class="state-label">{t.versions.stateLabel}</p>
+    {reg ? (
+      <p class="state-body">
+        <strong>{t.versions.registeredTitle}</strong>{' '}
+        <span class="reg-number">{reg.number}</span>
+        {reg.filed && <span class="reg-meta"> · {t.versions.filed} {reg.filed}</span>}
+        {reg.commit && <span class="reg-meta"> · {t.versions.fromCommit} <code>{reg.commit}</code></span>}
+      </p>
+    ) : (
+      <p class="state-body">
+        <strong>{t.versions.noneTitle}</strong> {t.versions.noneBody}
+      </p>
+    )}
+  </div>
+
+  <div class="prose" lang={isLocal ? lang : 'en'} set:html={doc.html} />
+</Base>
+
+<style>
+  h1 { font-size: 1.7rem; margin: 0.4rem 0 1.2rem; }
+  .prose :global(h2) { font-size: 1.25rem; }
+  .state {
+    border: 1px solid var(--guilloche); background: var(--card);
+    padding: 0.9rem 1.1rem; margin: 0 0 1.8rem; max-width: var(--measure);
+  }
+  .is-draft { border-left: 3px solid var(--guilloche); }
+  .is-registered { border-left: 3px solid var(--seal-gold); }
+  .state-label {
+    margin: 0 0 0.3rem; font-size: 0.72rem; letter-spacing: 0.09em;
+    text-transform: uppercase; color: var(--ink-soft);
+  }
+  .state-body { margin: 0; font-size: 0.95rem; }
+  .reg-number { font-variant-numeric: tabular-nums; }
+  .reg-meta { color: var(--ink-soft); }
+</style>

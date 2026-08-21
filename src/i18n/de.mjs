@@ -62,6 +62,8 @@ export default {
       'Sanktionen, Überwachung, Befugnisübertragung, Ausschuss',
       'Übergangs- und Schlussbestimmungen',
     ],
+    versionsHead: 'Stand des Textes',
+    versionsLink: 'Fassungen: was feststeht und was sich noch bewegt',
   },
   lawDoc: {
     eyebrowArticle: 'Der Verordnungsentwurf · Artikel %N%',
@@ -136,6 +138,16 @@ export default {
   about: {
     title: 'Über das Projekt', eyebrow: 'Wer, warum und nach welchen Regeln',
     description: 'Wer dahintersteht, das erklärte Interesse, die Prüfstufen, und wie diese Kampagne mit Ihren Daten umgeht.',
+  },
+  versions: {
+    title: 'Fassungen', eyebrow: 'Was feststeht und was sich noch bewegt',
+    description: 'Ob eine Fassung dieses Entwurfs eingereicht oder registriert wurde, und welche Regel von diesem Moment an für den Text gilt.',
+    stateLabel: 'Stand',
+    noneTitle: 'Keine Fassung ist registriert.',
+    noneBody: 'Bei der Europäischen Kommission wurde nichts eingereicht, und nirgendwo werden Unterschriften gesammelt. Alles auf dieser Seite ist ein Entwurf.',
+    registeredTitle: 'Registrierte Fassung', filed: 'eingereicht am', fromCommit: 'aus Commit',
+    draftNotice: 'Sie lesen den lebenden Entwurf, der sich weiter ändert. Unterschriften werden zum registrierten Text %NUMBER% gesammelt, der feststeht und nicht mehr geändert werden kann. %LINK%.',
+    registeredLinkText: 'Was das bedeutet und worin sich beide unterscheiden',
   },
   notFound: {
     title: 'Nicht gefunden', heading: 'Unter dieser Adresse ist nichts beurkundet',

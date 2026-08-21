@@ -3,6 +3,7 @@ import Base from '../../layouts/Base.astro';
 import law from '../../generated/law.json';
 import OnPage from '../OnPage.astro';
 import LangBanner from '../LangBanner.astro';
+import DraftNotice from '../DraftNotice.astro';
 import { dict } from '../../lib/i18n.mjs';
 interface Props { lang: string }
 const { lang } = Astro.props;
@@ -15,6 +16,7 @@ const isLocal = Boolean(law.severability[lang]);
   <h1>{t.memorandum.title}</h1>
   <p class="intro prose">{t.memorandum.intro}</p>
   <LangBanner lang={lang} doc={law.severability[lang]} />
+  <DraftNotice lang={lang} />
   <div class="withtoc">
     <OnPage lang={lang} toc={doc.toc} />
     <div class="prose" lang={isLocal ? lang : "en"} set:html={doc.html} />

@@ -247,6 +247,23 @@ const siteDoc = (name) => ({
 });
 const about = siteDoc('about');
 const contribute = siteDoc('contribute');
+const versions = siteDoc('versions');
+
+// ---- registered version state ---------------------------------------
+// Whether a version of this draft has been filed and registered is a fact
+// about the world, not a fact about this build, so it is read from the law
+// repo instead of being asserted in a page. A missing or null entry means
+// nothing is registered, which is both the honest default and the current
+// truth. Everything downstream keys off this: the versions page reports it,
+// and the draft notice on the law pages only appears once it is non-null,
+// because before registration there is no second text to distinguish from.
+let registered = null;
+try {
+  const parsed = JSON.parse(read('versions/REGISTERED.json'));
+  registered = parsed.registered || null;
+} catch (e) {
+  console.error('sync-law: no versions/REGISTERED.json, treating as unregistered');
+}
 
 // ---- structure ------------------------------------------------------
 const structure = marked.parse(stripNotes(read('regulation/STRUCTURE.md')).replace(/^# .+$/m, '').trim());
@@ -255,5 +272,7 @@ writeFileSync(join(OUT, 'law.json'), JSON.stringify({
   lawCommit,
   builtAt: new Date().toISOString(),
   articles, recitals, annexes, objections, severability, ledger, evidence, about, contribute, structure,
+  versions, registered,
 }, null, 1));
 console.log(`sync-law: ${articles.length} articles, ${annexes.length} annexes, ${ledger.length} ledger entries @ ${lawCommit}`);
+console.log(`sync-law: registered version: ${registered ? registered.number : 'none'}`);

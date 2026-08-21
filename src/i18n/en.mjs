@@ -61,6 +61,8 @@ export default {
       'Penalties, monitoring, delegation, committee',
       'Transitional and final provisions',
     ],
+    versionsHead: 'Status of the text',
+    versionsLink: 'Versions: what is fixed, and what still moves',
   },
   lawDoc: {
     eyebrowArticle: 'The draft Regulation · Article %N%',
@@ -135,6 +137,16 @@ export default {
   about: {
     title: 'About', eyebrow: 'Who, why, and under what rules',
     description: 'Who is behind this, the declared interest, the gates, and how this campaign treats your data.',
+  },
+  versions: {
+    title: 'Versions', eyebrow: 'What is fixed, and what still moves',
+    description: 'Whether any version of this draft has been filed or registered, and the rule that governs the text from the moment one is.',
+    stateLabel: 'Status',
+    noneTitle: 'No version is registered.',
+    noneBody: 'Nothing has been filed with the European Commission, and no signature is being collected anywhere. Everything on this site is a draft.',
+    registeredTitle: 'Registered version', filed: 'filed', fromCommit: 'from commit',
+    draftNotice: 'You are reading the living draft, which is still changing. Signatures are collected on the registered text, %NUMBER%, which is fixed and cannot be amended. %LINK%.',
+    registeredLinkText: 'See what that means and where the two differ',
   },
   notFound: {
     title: 'Not found', heading: 'Nothing is certified at this address',
