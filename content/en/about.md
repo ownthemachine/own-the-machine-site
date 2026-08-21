@@ -42,9 +42,13 @@ occasions, described below.
 
 ## Declared interest
 
-The draft grew out of a book by its initiator. The campaign never links
-to the book, takes nothing from its sales, and stands on its own legal
-text: every argument here can be checked without buying anything.
+The draft grew out of a book by its initiator. The campaign takes
+nothing from the book's sales and does not link to it, and every
+argument here can be checked without buying anything. That is not the
+whole of it. Attention paid to this campaign is attention that can
+reach the book, and the author is the same person, so the interest is
+real whether or not a link exists. It is declared here to be weighed,
+not because it has been designed away.
 
 ## The gates
 

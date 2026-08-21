@@ -12,7 +12,8 @@
     "artefacts": "node scripts/make-artefacts.mjs",
     "og": "node scripts/make-og.mjs",
     "audit": "node scripts/a11y.mjs",
-    "sitemap": "node scripts/make-sitemap.mjs"
+    "sitemap": "node scripts/make-sitemap.mjs",
+    "check:translations": "node scripts/check-translations.mjs"
   },
   "dependencies": {
     "@fontsource/inter": "^5.1.0",

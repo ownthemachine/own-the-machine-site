@@ -33,9 +33,14 @@ La misma persona es responsable del tratamiento de los pocos datos que este siti
 
 ## Declaración de intereses
 
-El borrador nació de un libro de su iniciador. La campaña nunca enlaza con
-el libro, no percibe nada de sus ventas y se sostiene sobre su propio texto
-legal: cada argumento aquí expuesto puede comprobarse sin comprar nada.
+
+El texto surgió de un libro de su promotor. La campaña no obtiene nada
+de sus ventas y no enlaza con él, y todo argumento aquí puede
+comprobarse sin comprar nada. Eso no es todo. La atención que recibe
+esta campaña es atención que puede llegar al libro, y el autor es la
+misma persona, de modo que el interés existe haya o no un enlace. Se
+declara aquí para que pueda ponderarse, no porque se haya eliminado por
+diseño.
 
 ## Los controles
 

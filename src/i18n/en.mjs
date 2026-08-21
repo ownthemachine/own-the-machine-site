@@ -26,6 +26,7 @@ export default {
     recordsEnglish: 'The reviews themselves are conducted in English and the entries below quote their records in the original; the rest of this page is translated.',
     stale: 'The English original has changed since this translation was made; details may differ until it is refreshed.',
     pageVerified: 'This translation has been verified by a native reader.',
+    plainStale: 'This plain-language summary was written against an earlier version of the article below; the article itself is current and is what governs.',
   },
   home: {
     eyebrow: 'A draft regulation of the citizens of Europe',

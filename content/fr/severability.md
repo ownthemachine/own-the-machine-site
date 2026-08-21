@@ -42,7 +42,7 @@ campaign/GATES.md s'applique.
 
 Les articles 1er à 4, 14, 16 et 18, avec l'annexe I ; des sanctions
 limitées aux obligations de notification et d'information ; les
-considérants 1 à 7, 24 à 26 et 28 à 30.
+considérants 1 à 8, 30 à 32 et 34 à 36.
 
 Un règlement qui désigne les entreprises hyper-automatisées selon des
 critères harmonisés, rend la désignation publique et fait rapport sur
@@ -61,10 +61,13 @@ construirait.
 
 Les articles 5 à 7, l'article 13 en entier, les articles 15 et 17, avec les
 dérogations au droit des sociétés et le mécanisme de valorisation ; les
-considérants 8 à 15 et 23.
+considérants 9 à 20 et 29.
 
 L'obligation d'émettre le warrant de capital citoyen, se cristallisant au
-premier événement de liquidité, avec les garanties du modèle BRRD.
+premier événement de liquidité, à des prélèvements au profit des
+actionnaires dépassant la part indiquée du chiffre d'affaires de
+l'activité couverte, ou à la date butoir de sept ans, selon la première de
+ces éventualités, avec les garanties du modèle BRRD.
 L'argumentaire au titre de l'article 114 : il supprime l'incitation à des
 prélèvements et régimes de participation nationaux divergents (considérant
 1), harmonise les dérogations au droit des sociétés dont la souscription a
@@ -72,9 +75,13 @@ besoin, et garantit l'égalité des conditions de concurrence entre
 entreprises de l'Union et de pays tiers. L'attaque (porte de contrôle de la
 base juridique, première passe) : le centre de gravité est la
 redistribution, non la construction du marché, et l'article 114, paragraphe
-2, exclut les dispositions fiscales. La défense repose sur la réalité de la
-structure non fiscale (l'isolation prévue à l'article 8, un règlement en
-actions uniquement), pas sur son affirmation.
+2, exclut les dispositions fiscales ; la jurisprudence de référence est
+Tobacco Advertising (C-376/98), qui exige des obstacles réels ou des
+distorsions sensibles, non une politique souhaitable. La défense repose
+sur la réalité de la structure non fiscale (l'isolation prévue à
+l'article 8, un règlement en actions uniquement), pas sur son
+affirmation, ainsi que sur le caractère réel de l'historique de
+divergence du considérant 1.
 
 Si la qualification échoue, cette couche passe à l'article 352 : unanimité
 au Conseil, approbation du Parlement. C'est une montagne politique, et ce
@@ -82,14 +89,22 @@ document le dit plutôt que de faire semblant du contraire.
 
 ### Couche 3 : la Réserve et le droit individuel (article 352 TFUE, honnêtement)
 
-Les articles 8 à 12, avec l'annexe II ; les considérants 16 à 22 et 27.
+Les articles 8 à 12, avec l'annexe II ; les considérants 21 à 28 et 33.
 
 La Réserve comme nouvel organe au niveau de l'Union détenant des actifs
 pour les citoyens, le droit individuel universel naissant de plein droit,
 les véhicules nationaux, la protection contre les ponctions. Créer un
 nouvel organe doté de la personnalité juridique et une relation de
 propriété directe entre l'Union et le citoyen est le point où l'article 114
-est le plus faible et où l'objection de subsidiarité se concentre. La
+est le plus faible et où l'objection de subsidiarité se concentre. Les
+précédents en matière de création d'organismes jouent dans les deux
+sens : l'article 114 a permis de maintenir des organismes de l'Union au
+service de l'harmonisation (l'ENISA, C-217/04 ; les pouvoirs
+d'intervention de l'ESMA, C-270/12), mais une forme juridique nouvelle,
+distincte des droits nationaux, a nécessité ce qui est aujourd'hui
+l'article 352 (la Société coopérative européenne, C-436/03), et une
+Réserve devant aux citoyens une relation de propriété directe ressemble
+davantage à la seconde qu'à la première. La
 position honnête : la couche 3 est rédigée pour être défendable au titre de
 l'article 352, et son exigence d'unanimité est prise en compte dès le départ. La
 réponse de la campagne à « vous n'obtiendrez jamais l'unanimité » est le

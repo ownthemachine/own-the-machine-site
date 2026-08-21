@@ -1,4 +1,10 @@
 import puppeteer from 'puppeteer';
+import { mkdirSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
+import { dirname, join } from 'node:path';
+
+const SHOTS_DIR = process.env.OTM_SHOTS_DIR || join(dirname(fileURLToPath(import.meta.url)), '..', 'tmp');
+mkdirSync(SHOTS_DIR, { recursive: true });
 
 const browser = await puppeteer.launch();
 const page = await browser.newPage();
@@ -10,7 +16,7 @@ console.log('FR banner ::', banner);
 console.log('FR toc    ::', toc);
 await page.evaluate(() => document.querySelector('.lang-banner').scrollIntoView({ block: 'center' }));
 await new Promise((r) => setTimeout(r, 300));
-await page.screenshot({ path: '[path removed]' });
+await page.screenshot({ path: join(SHOTS_DIR, 'ledger-fr-mobile.png') });
 for (const [path, sel] of [['nl/law/ledger', 'NL'], ['de/law/ledger', 'DE'], ['es/law/ledger', 'ES']]) {
   await page.goto(`https://ownthemachine.eu/${path}`, { waitUntil: 'networkidle0' });
   console.log(sel, 'banner ::', await page.$eval('.lang-banner', (el) => el.textContent.trim()));

@@ -34,10 +34,15 @@ Dieselbe Person ist Verantwortlicher für die wenigen Daten, die diese Seite mit
 
 ## Transparenzhinweis
 
+
 Der Entwurf ist aus einem Buch seines Initiators hervorgegangen. Die
-Kampagne verlinkt nie auf das Buch, erhält nichts aus dessen Verkäufen und
-steht auf ihrem eigenen Gesetzestext: Jedes Argument hier lässt sich
-prüfen, ohne etwas zu kaufen.
+Kampagne erhält nichts aus dessen Verkauf und verlinkt es nicht, und
+jedes Argument hier lässt sich prüfen, ohne etwas zu kaufen. Damit ist
+es nicht getan. Aufmerksamkeit für diese Kampagne ist Aufmerksamkeit,
+die das Buch erreichen kann, und der Autor ist dieselbe Person; das
+Interesse besteht also, ob ein Link vorhanden ist oder nicht. Es wird
+hier offengelegt, damit es abgewogen werden kann, und nicht, weil es
+konstruktiv beseitigt worden wäre.
 
 ## Die Prüfstufen
 

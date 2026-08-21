@@ -40,8 +40,8 @@ campaign/GATES.md.
 ### Laag 1: aanwijzing en transparantie (artikel 114 VWEU, comfortabel)
 
 Artikelen 1 tot en met 4, 14, 16 en 18, met bijlage I; sancties beperkt
-tot de meldings- en informatieplichten; overwegingen 1 tot en met 7, 24
-tot en met 26, 28 tot en met 30.
+tot de meldings- en informatieplichten; overwegingen 1 tot en met 8, 30
+tot en met 32, 34 tot en met 36.
 
 Een verordening die hypergeautomatiseerde ondernemingen aanwijst op
 geharmoniseerde criteria, de aanwijzing openbaar maakt en verslag doet
@@ -59,20 +59,26 @@ of nationaal, zou voortbouwen.
 
 Artikelen 5 tot en met 7, 13 volledig, 15 en 17, met de
 vennootschapsrechtelijke afwijkingen en de waarderingsmachinerie;
-overwegingen 8 tot en met 15 en 23.
+overwegingen 9 tot en met 20 en 29.
 
 De verplichting om de burgerkapitaalwarrant uit te geven, te verzilveren
-bij de eerste liquiditeitsgebeurtenis, met de waarborgen naar
-BRRD-patroon. De zaak voor artikel 114: het neemt de prikkel weg voor
-uiteenlopende nationale heffingen en participatieregelingen (overweging
+bij de eerste liquiditeitsgebeurtenis, bij onttrekking aan aandeelhouders
+boven het genoemde aandeel van de omzet uit de gedekte activiteit, of bij
+de termijn van zeven jaar sinds de uitgifte, wat zich het eerst voordoet,
+met de waarborgen naar BRRD-patroon. De zaak voor artikel 114: het neemt
+de prikkel weg voor uiteenlopende nationale heffingen en
+participatieregelingen (overweging
 1), harmoniseert de vennootschapsrechtelijke afwijkingen die de
 inschrijving nodig heeft, en verzekert het gelijke speelveld tussen
 ondernemingen uit de Unie en uit derde landen. De aanval
 (rechtsgrondslagpoort, eerste run): het zwaartepunt is herverdeling, geen
-marktopbouw, en artikel 114, lid 2, sluit fiscale bepalingen uit. De
+marktopbouw, en artikel 114, lid 2, sluit fiscale bepalingen uit; de
+maatgevende zaak is Tobacco Advertising (C-376/98), die daadwerkelijke
+belemmeringen of merkbare verstoringen vereist, geen wenselijk beleid. De
 verdediging rust erop dat de niet-fiscale structuur echt is (de
 afscherming van artikel 8, afwikkeling uitsluitend in aandelen), niet
-slechts beweerd.
+slechts beweerd, en op de echtheid van het divergentiedossier van
+overweging 1.
 
 Faalt de kwalificatie, dan verhuist deze laag naar artikel 352:
 eenparigheid in de Raad, goedkeuring van het Parlement. Dat is een
@@ -81,15 +87,23 @@ alsof.
 
 ### Laag 3: de Reserve en de aanspraak (artikel 352 VWEU, eerlijk)
 
-Artikelen 8 tot en met 12, met bijlage II; overwegingen 16 tot en met 22
-en 27.
+Artikelen 8 tot en met 12, met bijlage II; overwegingen 21 tot en met 28
+en 33.
 
 De Reserve als nieuw orgaan op Unieniveau dat vermogen aanhoudt voor
 burgers, de universele aanspraak die van rechtswege ontstaat, nationale
 vehikels, de bestendigheid tegen plunderingen. Een nieuw orgaan met
 rechtspersoonlijkheid en een rechtstreekse eigendomsrelatie tussen Unie en
 burger scheppen is waar artikel 114 het zwakst is en waar het
-subsidiariteitsbezwaar zich concentreert. De eerlijke positie: laag 3 is
+subsidiariteitsbezwaar zich concentreert. De precedenten voor het
+scheppen van organen wijzen twee kanten op: artikel 114 heeft
+Unieorganen in stand gehouden die de harmonisatie dienen (ENISA,
+C-217/04; de interventiebevoegdheden van ESMA, C-270/12), maar een
+nieuwe rechtsvorm die los staat van de nationale rechtsstelsels vereiste
+wat nu artikel 352 is (de Europese Coöperatieve Vennootschap, C-436/03),
+en een Reserve die burgers een rechtstreekse eigendomsrelatie
+verschuldigd is, lijkt meer op de tweede dan op de eerste. De eerlijke
+positie: laag 3 is
 zo opgesteld dat zij verdedigbaar is onder artikel 352, en het
 eenparigheidsvereiste daarvan is ingecalculeerd. Het antwoord van de
 campagne op "eenparigheid krijgt u nooit" is het precedent van de

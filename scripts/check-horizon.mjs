@@ -1,4 +1,10 @@
 import puppeteer from 'puppeteer';
+import { mkdirSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
+import { dirname, join } from 'node:path';
+
+const SHOTS_DIR = process.env.OTM_SHOTS_DIR || join(dirname(fileURLToPath(import.meta.url)), '..', 'tmp');
+mkdirSync(SHOTS_DIR, { recursive: true });
 
 const browser = await puppeteer.launch();
 const page = await browser.newPage();
@@ -14,6 +20,6 @@ const gen = await page.$eval('#generation', (el) => el.textContent);
 const sen = await page.$eval('#sentence', (el) => el.textContent);
 console.log('FORECAST sentence ::', sen);
 console.log('FORECAST gen ::', gen);
-await page.screenshot({ path: '[path removed]', fullPage: false });
+await page.screenshot({ path: join(SHOTS_DIR, 'sim-horizon.png'), fullPage: false });
 await browser.close();
 console.log('shot saved');

@@ -26,6 +26,7 @@ export default {
     recordsEnglish: 'De beoordelingen zelf vinden plaats in het Engels en de vermeldingen hieronder nemen hun verslagen over in de oorspronkelijke taal; de rest van deze pagina is vertaald.',
     stale: 'Het Engelse origineel is gewijzigd sinds deze vertaling werd gemaakt; details kunnen afwijken tot ze is bijgewerkt.',
     pageVerified: 'Deze vertaling is geverifieerd door een moedertaallezer.',
+    plainStale: 'Deze samenvatting in klare taal is geschreven op basis van een eerdere versie van het artikel hieronder; het artikel zelf is actueel en is bepalend.',
   },
   home: {
     eyebrow: 'Een ontwerpverordening van de burgers van Europa',

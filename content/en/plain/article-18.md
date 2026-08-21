@@ -1,6 +1,7 @@
 ---
 article: 18
 status: gate-reviewed
+source-commit: 5f203af
 ---
 L0: Standard machinery: the rules become law 20 days after publication and apply in full 18 months later.
 

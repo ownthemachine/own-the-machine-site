@@ -2,7 +2,7 @@
 // The honesty banner: says exactly what the reader is looking at when a
 // page is not (or not fully, or not freshly) in their language.
 import { dict, fmt } from '../lib/i18n.mjs';
-interface Props { lang: string; doc?: any; kind?: 'lawEnglish' | 'pageMachine' | 'enOnly' | 'recordsEnglish' }
+interface Props { lang: string; doc?: any; kind?: 'lawEnglish' | 'pageMachine' | 'enOnly' | 'recordsEnglish' | 'plainStale' }
 const { lang, doc, kind } = Astro.props;
 const t = dict(lang).banner;
 // Explicit kind wins; otherwise derive from the localised doc's state.
@@ -14,8 +14,11 @@ if (!kind && lang !== 'en') {
   else { resolved = 'pageMachine'; stale = Boolean(doc.stale); }
 }
 if (kind && doc && doc.stale) stale = true;
+// plainStale is not a translation notice: a plain-language summary can lag
+// its article in any locale, English included, so it is shown there too.
+const show = kind === 'plainStale' ? Boolean(resolved) : lang !== 'en' && Boolean(resolved);
 ---
-{lang !== 'en' && resolved && (
+{show && (
   <p class="lang-banner" lang={lang}>
     <span set:html={fmt(t[resolved], {
       GITHUB: '<a href="https://github.com/ownthemachine/own-the-machine-site/issues">GitHub</a>',

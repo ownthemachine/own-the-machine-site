@@ -142,12 +142,22 @@ la historia de los derechos individuales es mejor.
   millones de EUR (2011) a 2 100 millones de EUR, con retiradas acumuladas
   de 80 300 millones de EUR. La ley que lo protege se aprobó en 2023, cuando
   ya estaba vacío.
-- **El National Pensions Reserve Fund de Irlanda se encuentra, en términos
-  reales, en torno al 99 % de su posición de 2007 dieciocho años después,**
-  porque fue liquidado para el rescate bancario. El -75,9 % de Hungría es el
-  otro punto de referencia. Son los casos más fuertes contra el propio
-  mecanismo de este Reglamento, y por eso las protecciones de la Reserva son
-  artículos operativos y no promesas.
+- **El National Pensions Reserve Fund irlandés mantenía más de
+  21 000 millones de EUR a finales de 2007. Su cartera discrecional era
+  de 7 100 millones de EUR cuando el fondo se liquidó siete años
+  después,** habiéndose destinado la diferencia a la recapitalización de
+  Allied Irish Banks y Bank of Ireland, 10 000 millones de EUR de ella
+  convertidos en efectivo y depositados en esos mismos bancos en abril
+  de 2011 antes de invertirse en ellos en julio de ese año. Los activos
+  pasaron al Ireland Strategic Investment Fund el 22 de diciembre de
+  2014 y el mandato propio del fondo terminó con ellos. *NTMA, National
+  Pensions Reserve Fund Commission Annual Report 2014; valoración de la
+  NTMA de la cartera discrecional a 21 de diciembre de 2014; National
+  Treasury Management Agency (Amendment) Act 2014.* El -75,9 % de
+  Hungría es la otra referencia. Estos son los argumentos más fuertes
+  contra el propio mecanismo de este Reglamento, y son la razón por la
+  que las protecciones de la Reserva son artículos operativos y no
+  promesas.
 - **Estonia demuestra que el derecho es necesario pero no suficiente.**
   Cuando el segundo pilar pasó a ser voluntario en enero de 2021, 149 083
   personas retiraron 1 320 millones de EUR en un solo mes; quienes salieron

@@ -32,10 +32,14 @@ Dezelfde persoon is de verwerkingsverantwoordelijke voor de weinige gegevens die
 
 ## Belangenverklaring
 
-Het ontwerp is voortgekomen uit een boek van de initiatiefnemer. De
-campagne linkt nooit naar het boek, ontvangt niets uit de verkoop ervan
-en staat op haar eigen wettekst: elk argument hier kan worden
-gecontroleerd zonder iets te kopen.
+
+De tekst is voortgekomen uit een boek van de initiatiefnemer. De
+campagne ontvangt niets uit de verkoop van dat boek en verwijst er niet
+naar, en elk argument hier is te controleren zonder iets te kopen. Dat
+is niet het hele verhaal. Aandacht voor deze campagne is aandacht die
+het boek kan bereiken, en de auteur is dezelfde persoon, dus het belang
+bestaat of er nu een verwijzing is of niet. Het wordt hier vermeld om
+gewogen te worden, niet omdat het is wegontworpen.
 
 ## De toetsingspoorten
 

@@ -28,6 +28,25 @@ try {
   lawCommit = execSync('git rev-parse --short HEAD', { cwd: LAW }).toString().trim();
 } catch { /* fine: not a git checkout */ }
 
+// Staleness is per source file, not per repository. Comparing a page against
+// the repo's HEAD marks every translation stale whenever anything at all is
+// committed, including a review record or a campaign note, and a warning that
+// fires constantly is a warning nobody reads. What a reader needs to know is
+// whether the English text THIS page renders has moved since the page was
+// written, so compare against the last commit that touched that file.
+const sourceCommits = new Map();
+const commitFor = (relPath) => {
+  if (!sourceCommits.has(relPath)) {
+    let c = lawCommit;
+    try {
+      c = execSync(`git log -1 --format=%h -- ${relPath}`, { cwd: LAW })
+        .toString().trim() || lawCommit;
+    } catch { /* fine: not a git checkout */ }
+    sourceCommits.set(relPath, c);
+  }
+  return sourceCommits.get(relPath);
+};
+
 // ---- articles -------------------------------------------------------
 const artDir = join(LAW, 'regulation', 'articles');
 const articles = readdirSync(artDir).filter((f) => f.endsWith('.md')).sort().map((f) => {
@@ -51,13 +70,16 @@ const articles = readdirSync(artDir).filter((f) => f.endsWith('.md')).sort().map
     }
     return `<p>${inline(block)}</p>`;
   }).join('\n');
-  return { number, title, slug: `article-${number}`, html };
+  return { number, title, slug: `article-${number}`, html, file: f };
 }).sort((a, b) => a.number - b.number);
 
 // ---- plain-language layers (L0/L1) per locale -----------------------
 // content/{lang}/plain/article-N.md: frontmatter + "L0: ..." line + L1
-// paragraph. Gated by the layer-fidelity gate before deploy.
-const plainFor = (n) => {
+// paragraph. Gated by the layer-fidelity gate before deploy. Like the
+// other law-derived content below, a plain page carries its own
+// source-commit and goes stale the same way: written against one
+// commit of the article, silently wrong the moment the article moves on.
+const plainFor = (n, sourceFile) => {
   const out = {};
   for (const loc of ['en', 'nl', 'fr', 'de', 'es']) {
     const f = join(process.cwd(), 'content', loc, 'plain', `article-${n}.md`);
@@ -65,14 +87,27 @@ const plainFor = (n) => {
     const raw = readFileSync(f, 'utf8');
     const m = raw.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
     if (!m) continue;
+    const meta = {};
+    for (const line of m[1].split('\n')) {
+      const i = line.indexOf(':');
+      if (i > 0) meta[line.slice(0, i).trim()] = line.slice(i + 1).trim();
+    }
     const body = m[2].trim();
     const l0m = body.match(/^L0:\s*(.+)$/m);
     const l1 = body.replace(/^L0:.*$/m, '').trim();
-    out[loc] = { l0: l0m ? l0m[1].trim() : '', l1: marked.parse(l1) };
+    // A missing source-commit must read as stale, not as current: a new
+    // plain page without the field should fail loudly (banner shows) the
+    // moment it ships, rather than silently claiming to be up to date.
+    out[loc] = {
+      l0: l0m ? l0m[1].trim() : '',
+      l1: marked.parse(l1),
+      stale: (meta['source-commit'] || '')
+        !== commitFor(`regulation/articles/${sourceFile}`),
+    };
   }
   return out;
 };
-for (const a of articles) a.plain = plainFor(a.number);
+for (const a of articles) a.plain = plainFor(a.number, a.file);
 
 // ---- recitals -------------------------------------------------------
 const recBody = stripNotes(read('regulation/recitals.md'))
@@ -155,7 +190,9 @@ const loadLocalized = (name, opts = {}) => {
     out[loc] = {
       ...doc,
       status: meta.status || 'machine',
-      stale: opts.lawSource ? (meta['source-commit'] || '') !== lawCommit : false,
+      stale: opts.source
+        ? (meta['source-commit'] || '') !== commitFor(opts.source)
+        : false,
     };
   }
   return out;
@@ -164,11 +201,11 @@ const loadLocalized = (name, opts = {}) => {
 // ---- memorandum: objections + severability --------------------------
 const objections = {
   en: withToc(linkRepoPaths(marked.parse(read('regulation/memorandum/counter-arguments.md'))), 3),
-  ...loadLocalized('objections', { toc: true, depth: 3, lawSource: true }),
+  ...loadLocalized('objections', { toc: true, depth: 3, source: 'regulation/memorandum/counter-arguments.md' }),
 };
 const severability = {
   en: withToc(linkRepoPaths(marked.parse(read('regulation/memorandum/severability.md')))),
-  ...loadLocalized('severability', { toc: true, lawSource: true }),
+  ...loadLocalized('severability', { toc: true, source: 'regulation/memorandum/severability.md' }),
 };
 
 // ---- ledger: review files with front matter -------------------------
@@ -199,7 +236,7 @@ let evidence = { en: { html: '', toc: [] } };
 try {
   evidence = {
     en: withToc(linkRepoPaths(marked.parse(read('evidence/EVIDENCE.md').replace(/^# .+\n/, '')))),
-    ...loadLocalized('evidence', { toc: true, lawSource: true }),
+    ...loadLocalized('evidence', { toc: true, source: 'evidence/EVIDENCE.md' }),
   };
 } catch (e) { console.error('sync-law: WARNING, evidence source missing, page will be empty:', e.message); }
 

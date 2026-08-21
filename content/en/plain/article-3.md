@@ -1,6 +1,7 @@
 ---
 article: 3
 status: gate-reviewed
+source-commit: a3ef091
 ---
 L0: Defines which companies are covered: very large, very automated, for at least two years.
 

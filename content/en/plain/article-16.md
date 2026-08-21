@@ -1,6 +1,7 @@
 ---
 article: 16
 status: gate-reviewed
+source-commit: e9b770a
 ---
 L0: Standard machinery: a committee of national representatives oversees the Commission's implementing decisions.
 

@@ -1,6 +1,7 @@
 ---
 article: 4
 status: gate-reviewed
+source-commit: 154a29c
 ---
 L0: Lets the Commission investigate borderline companies, recheck the list regularly and remove companies that no longer qualify.
 

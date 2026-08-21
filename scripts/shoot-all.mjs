@@ -3,10 +3,12 @@
 import puppeteer from 'puppeteer';
 import { createServer } from 'node:http';
 import { readFileSync, mkdirSync } from 'node:fs';
-import { join, extname } from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { join, extname, dirname } from 'node:path';
 
-const ROOT = '[path removed]';
-const OUT = '[path removed]';
+const REPO_ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
+const ROOT = process.env.OTM_BUILD_DIR || join(REPO_ROOT, '.vercel', 'output', 'static');
+const OUT = process.env.OTM_SHOTS_DIR || join(REPO_ROOT, 'tmp', 'shots');
 mkdirSync(OUT, { recursive: true });
 
 const MIME = { '.html': 'text/html', '.css': 'text/css', '.js': 'text/javascript',

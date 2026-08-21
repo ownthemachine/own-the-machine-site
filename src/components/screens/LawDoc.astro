@@ -28,6 +28,7 @@ const plain = kind === 'article' && item.plain
     {plain && (
       <aside class="plain-l1" lang={item.plain[lang] ? lang : 'en'}>
         <p class="plain-label">{t.lawDoc.plainLabel}</p>
+        {plain.stale && <LangBanner lang={lang} kind="plainStale" />}
         <p class="plain-l0">{plain.l0}</p>
         <div class="prose" set:html={plain.l1} />
       </aside>

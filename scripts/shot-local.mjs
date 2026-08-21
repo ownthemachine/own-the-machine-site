@@ -1,10 +1,13 @@
 // Screenshot built pages from a throwaway static server (no deploy needed).
 import puppeteer from 'puppeteer';
 import { createServer } from 'node:http';
-import { readFileSync, existsSync } from 'node:fs';
-import { join, extname } from 'node:path';
+import { readFileSync, existsSync, mkdirSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
+import { join, extname, dirname } from 'node:path';
 
 const ROOT = new URL('../dist/', import.meta.url).pathname;
+const SHOTS_DIR = process.env.OTM_SHOTS_DIR || join(dirname(fileURLToPath(import.meta.url)), '..', 'tmp');
+mkdirSync(SHOTS_DIR, { recursive: true });
 const TYPES = { '.html': 'text/html', '.css': 'text/css', '.js': 'text/javascript', '.svg': 'image/svg+xml', '.woff2': 'font/woff2', '.png': 'image/png', '.webmanifest': 'application/manifest+json' };
 const server = createServer((req, res) => {
   let p = decodeURIComponent(req.url.split('?')[0]);
@@ -27,7 +30,7 @@ for (const [path, out] of [
   ['/law/article-1', 'en-article1'],
 ]) {
   await page.goto(`http://127.0.0.1:4711${path}`, { waitUntil: 'networkidle0' });
-  await page.screenshot({ path: `[path removed]${out}.png` });
+  await page.screenshot({ path: join(SHOTS_DIR, `${out}.png`) });
   console.log('shot', out);
 }
 await browser.close();

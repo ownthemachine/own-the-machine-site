@@ -34,10 +34,14 @@ La même personne est responsable du traitement des rares données que ce site o
 
 ## Déclaration d'intérêts
 
-Le projet est né d'un livre de son initiateur. La campagne ne renvoie
-jamais vers le livre, ne perçoit rien de ses ventes et repose sur son seul
-texte juridique : chaque argument présenté ici peut être vérifié sans rien
-acheter.
+
+Le texte est né d'un livre de son initiateur. La campagne ne retire
+rien des ventes de ce livre et n'y renvoie pas, et chaque argument
+présenté ici peut être vérifié sans rien acheter. Ce n'est pas tout.
+L'attention portée à cette campagne est une attention susceptible
+d'atteindre le livre, et l'auteur est la même personne, de sorte que
+l'intérêt existe qu'un lien figure ou non. Il est déclaré ici pour être
+pesé, et non parce qu'il aurait été neutralisé par construction.
 
 ## Les portes de contrôle
 

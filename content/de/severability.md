@@ -41,8 +41,8 @@ campaign/GATES.md greift.
 ### Schicht 1: Benennung und Transparenz (Artikel 114 AEUV, komfortabel)
 
 Artikel 1 bis 4, 14, 16, 18, mit Anhang I; Sanktionen beschränkt auf die
-Melde- und Informationspflichten; Erwägungsgründe 1 bis 7, 24 bis 26, 28
-bis 30.
+Melde- und Informationspflichten; Erwägungsgründe 1 bis 8, 30 bis 32, 34
+bis 36.
 
 Eine Verordnung, die hyperautomatisierte Unternehmen nach harmonisierten
 Kriterien benennt, die Benennung öffentlich macht und über Verbreitung,
@@ -59,20 +59,26 @@ spätere Instrument, ob der Union oder national, aufbauen würde.
 ### Schicht 2: der Warrant (Artikel 114 AEUV, umstritten; Rückfallebene 352)
 
 Artikel 5 bis 7, 13 vollständig, 15, 17, mit den gesellschaftsrechtlichen
-Ausnahmen und der Bewertungsmaschinerie; Erwägungsgründe 8 bis 15, 23.
+Ausnahmen und der Bewertungsmaschinerie; Erwägungsgründe 9 bis 20, 29.
 
 Die Pflicht zur Ausgabe des Bürgerkapital-Warrants, der sich beim ersten
-Liquiditätsereignis realisiert, mit den Schutzvorkehrungen nach
-BRRD-Muster. Der Fall für Artikel 114: Er beseitigt den Anreiz zu
+Liquiditätsereignis, bei einer Entnahme zugunsten der Anteilseigner
+oberhalb des genannten Anteils des Umsatzes aus der erfassten Tätigkeit
+oder bei der Siebenjahresfrist realisiert, je nachdem, was zuerst
+eintritt, mit den Schutzvorkehrungen nach BRRD-Muster. Der Fall für
+Artikel 114: Er beseitigt den Anreiz zu
 divergierenden nationalen Abgaben und Beteiligungsmodellen
 (Erwägungsgrund 1), harmonisiert die gesellschaftsrechtlichen Ausnahmen,
 die die Zeichnung braucht, und sichert gleiche Wettbewerbsbedingungen
 zwischen Unions- und Drittstaatsunternehmen. Der Angriff (Prüfstufe zur
 Rechtsgrundlage, erster Durchlauf): Der Schwerpunkt sei Umverteilung, nicht
 Marktaufbau, und Artikel 114 Absatz 2 schließe fiskalische Bestimmungen
-aus. Die Verteidigung ruht darauf, dass die nichtfiskalische Struktur real
-ist (die Abschirmung des Artikels 8, Abwicklung ausschließlich in
-Anteilen), nicht bloß behauptet.
+aus; die maßgebliche Linie sei Tobacco Advertising (C-376/98), die
+tatsächliche Hindernisse oder spürbare Verzerrungen verlange, nicht eine
+wünschenswerte Politik. Die Verteidigung ruht darauf, dass die
+nichtfiskalische Struktur real ist (die Abschirmung des Artikels 8,
+Abwicklung ausschließlich in Anteilen), nicht bloß behauptet, und
+darauf, dass der Divergenzbefund des Erwägungsgrunds 1 echt ist.
 
 Scheitert die Einordnung, wandert diese Schicht zu Artikel 352:
 Einstimmigkeit im Rat, Zustimmung des Parlaments. Das ist ein politischer
@@ -80,7 +86,7 @@ Berg, und dieses Dokument sagt das, statt etwas anderes vorzutäuschen.
 
 ### Schicht 3: die Reserve und der Anspruch (Artikel 352 AEUV, ehrlicherweise)
 
-Artikel 8 bis 12, mit Anhang II; Erwägungsgründe 16 bis 22, 27.
+Artikel 8 bis 12, mit Anhang II; Erwägungsgründe 21 bis 28, 33.
 
 Die Reserve als neue Einrichtung auf Unionsebene, die Vermögen für die
 Bürgerinnen und Bürger hält, der universelle Anspruch kraft Gesetzes, die
@@ -88,7 +94,14 @@ nationalen Vehikel, der Plünderungsschutz. Eine neue Einrichtung mit
 Rechtspersönlichkeit und einer unmittelbaren Eigentumsbeziehung zwischen
 Union und Bürgerinnen und Bürgern zu schaffen, ist der Punkt, an dem
 Artikel 114 am schwächsten ist und an dem sich der Subsidiaritätseinwand
-ballt. Die
+ballt. Die Präzedenzfälle zur Schaffung von Einrichtungen weisen in
+beide Richtungen: Artikel 114 hat Einrichtungen der Union getragen, die
+der Harmonisierung dienen (ENISA, C-217/04; die Eingriffsbefugnisse der
+ESMA, C-270/12), doch eine neue, von den nationalen Rechtsordnungen
+losgelöste Rechtsform verlangte, was heute Artikel 352 ist (die
+Europäische Genossenschaft, C-436/03), und eine Reserve, die den
+Bürgerinnen und Bürgern eine unmittelbare Eigentumsbeziehung schuldet,
+ähnelt eher der zweiten als der ersten. Die
 ehrliche Position: Schicht 3 ist so entworfen, dass sie nach Artikel 352
 verteidigbar ist, und dessen Einstimmigkeitserfordernis ist eingepreist.
 Die Antwort der Kampagne auf „Einstimmigkeit bekommen Sie nie" ist der

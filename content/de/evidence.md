@@ -143,13 +143,22 @@ von Plünderungen, und die Geschichte individueller Ansprüche ist besser.
 - **Spaniens Rentenreservefonds fiel um 97 %,** von 66,8 Mrd. EUR (2011)
   auf 2,1 Mrd. EUR, kumulierte Entnahmen 80,3 Mrd. EUR. Das Gesetz zu
   seinem Schutz wurde 2023 verabschiedet, nachdem er leer war.
-- **Irlands National Pensions Reserve Fund steht real achtzehn Jahre
-  später bei etwa 99 % seines Standes von 2007,** weil er für die
-  Bankenrettung liquidiert wurde. Ungarns -75,9 % sind die andere
-  Vergleichsmarke. Das sind die stärksten Fälle gegen den Mechanismus
-  dieser Verordnung selbst, und sie sind der Grund, warum die
-  Schutzvorkehrungen der Reserve operative Artikel sind und keine
-  Versprechen.
+- **Der irische National Pensions Reserve Fund hielt Ende 2007 mehr
+  als 21 Mrd. EUR. Sein diskretionäres Portfolio belief sich auf
+  7,1 Mrd. EUR, als der Fonds sieben Jahre später aufgelöst wurde,**
+  wobei die Differenz in die Rekapitalisierung von Allied Irish Banks
+  und Bank of Ireland geflossen war; 10 Mrd. EUR davon wurden im April
+  2011 in liquide Mittel umgewandelt und bei eben diesen Banken
+  eingelegt, bevor sie im Juli desselben Jahres in sie investiert
+  wurden. Die Vermögenswerte gingen am 22. Dezember 2014 auf den Ireland
+  Strategic Investment Fund über, und das Mandat des Fonds endete damit.
+  *NTMA, National Pensions Reserve Fund Commission Annual Report 2014;
+  NTMA-Bewertung des diskretionären Portfolios zum 21. Dezember 2014;
+  National Treasury Management Agency (Amendment) Act 2014.* Die -75,9 %
+  Ungarns sind der andere Referenzwert. Dies sind die stärksten
+  Argumente gegen den eigenen Mechanismus dieser Verordnung, und sie
+  sind der Grund dafür, dass die Schutzbestimmungen der Reserve
+  operative Artikel und keine Versprechen sind.
 - **Estland beweist, dass ein Anspruch notwendig, aber nicht hinreichend
   ist.** Als die zweite Säule im Januar 2021 freiwillig wurde, entnahmen
   149 083 Menschen in einem einzigen Monat 1,32 Mrd. EUR; die Aussteiger

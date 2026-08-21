@@ -1,14 +1,17 @@
 #!/usr/bin/env bash
 # EU deployment target: Scaleway Object Storage (fr-par) behind Scaleway
-# Edge Services. Dark until Gate 1; the go-live flip is a DNS change.
+# Edge Services.
 #
 # Usage: npm run build && scripts/deploy-eu.sh
 #
-# Project: own-the-machine (da956a45-21c3-4d10-8a0b-e537f451f5a2), separate
-# from [private project]/[private project]/[private project] so billing, IAM and resources for the campaign stand
-# on their own. Bucket: ownthemachine-eu (fr-par). Deploy identity: IAM
-# application own-the-machine-deploy, scoped by policy to this project only,
-# stored as the scw profile "own-the-machine".
+# Project: own-the-machine (da956a45-21c3-4d10-8a0b-e537f451f5a2), a
+# dedicated Scaleway project so billing, IAM and resources for the campaign
+# stand on their own, separate from anything else on the account. Bucket:
+# ownthemachine-eu (fr-par). Deploy identity: IAM application
+# own-the-machine-deploy, scoped by policy to this project only, stored as
+# the scw profile "own-the-machine". The project, application and pipeline
+# identifiers below are not secrets (they are opaque resource IDs, not
+# credentials) and are recorded here so the deploy commands are legible.
 #
 # State (20 Aug 2026): the bucket IS a working website. Website
 # configuration is set (index.html, 404.html), objects are public-read,
@@ -48,6 +51,13 @@ cd "$(dirname "$0")/.."
 
 OUT="dist"
 [[ -d "$OUT" ]] || { echo "no build output; run the build first" >&2; exit 1; }
+
+# A translation that quietly lost a passage is worse than an obviously
+# untranslated one, because nothing on the page says so. Publishing is the
+# point at which that stops being recoverable, so the structural check runs
+# here rather than in the build: work in progress can still be built and
+# previewed, but it cannot be shipped.
+node scripts/check-translations.mjs
 
 # The site has its own Scaleway project and its own deploy identity, so a
 # key that leaks can touch this bucket and nothing else in the account.

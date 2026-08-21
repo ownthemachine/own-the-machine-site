@@ -26,6 +26,7 @@ export default {
     recordsEnglish: 'Les évaluations elles-mêmes sont menées en anglais et les entrées ci-dessous citent leurs comptes rendus en version originale ; le reste de cette page est traduit.',
     stale: 'L’original anglais a évolué depuis cette traduction ; certains détails peuvent différer jusqu’à sa mise à jour.',
     pageVerified: 'Cette traduction a été vérifiée par un lecteur natif.',
+    plainStale: 'Ce résumé en langage clair a été rédigé à partir d’une version antérieure de l’article ci-dessous ; l’article lui-même est à jour et c’est lui qui fait foi.',
   },
   home: {
     eyebrow: 'Un projet de règlement des citoyens d’Europe',

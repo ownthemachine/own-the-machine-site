@@ -27,6 +27,7 @@ export default {
     recordsEnglish: 'Las revisiones se realizan en inglés y las siguientes entradas citan los registros en su idioma original; el resto de esta página está traducido.',
     stale: 'El original inglés ha cambiado desde que se hizo esta traducción; puede haber diferencias hasta que se actualice.',
     pageVerified: 'Esta traducción ha sido verificada por una persona nativa.',
+    plainStale: 'Este resumen en lenguaje llano se redactó a partir de una versión anterior del artículo que figura a continuación; el artículo en sí está actualizado y es el que prevalece.',
   },
   home: {
     eyebrow: 'Un proyecto de reglamento de la ciudadanía de Europa',

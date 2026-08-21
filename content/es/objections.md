@@ -72,7 +72,7 @@ considerando completo de proporcionalidad conforme al artículo 52, apartado
 1, de la Carta, y una salvaguardia de ejecución cuantificada con
 valoración independiente e impugnable por separado. Una adaptación es
 obligatoria: el contrafactual de la BRRD es la insolvencia, y un régimen
-permanente no puede apoyarse en razonamientos de crisis (Dowling C-41/15),
+permanente no puede apoyarse en razonamientos de crisis (Dowling C-41/15).
 La distinción debe enunciarse en lugar de difuminarse: la resolución bancaria diluye a accionistas cuyas acciones no valdrían nada en la insolvencia contrafáctica, mientras que estas empresas son negocios sanos y en funcionamiento cuyas acciones valen mucho. La BRRD se toma, por tanto, por su maquinaria y no por su justificación, y este expediente no finge lo contrario; la justificación es la de James y la de Hauer, y se sostiene o cae por la proporcionalidad y no por una crisis que no se está produciendo. Nuestro suelo está, por tanto, en la ejecución y
 no en un contrafáctico:
 la injerencia nunca puede exceder en la ejecución el 3 % enunciado, su
@@ -91,8 +91,9 @@ legislador.
 **Consecuencia de diseño.** DC-1: warrant prospectivo sobre la creación
 futura de valor en eventos definidos, nunca transferencia retroactiva de
 acciones existentes. DC-2: umbrales altos consolidados a nivel de grupo.
-DC-3: pasividad y cristalización en eventos escritas en el propio
-instrumento.
+DC-3: pasividad, y cristalización únicamente en eventos legales
+definidos, nunca en un evento discrecional o político, escritas en el
+propio instrumento.
 
 ### 2. Esto es un impuesto, y la UE no puede recaudarlo así
 
@@ -268,8 +269,11 @@ logrado colocando el activo enteramente fuera del alcance de los ciudadanos.
 instrumento, más difícil que la base jurídica.
 
 **La respuesta que el instrumento debe dar.** El warrant permanece latente
-hasta un evento de liquidez: salida a bolsa, cambio de control o venta
-secundaria cualificada. Hasta entonces no requiere valoración, no paga nada
+hasta la cristalización, ya sea en un evento de liquidez (salida a
+bolsa, cambio de control o venta secundaria cualificada) o, conforme al
+artículo 5, apartado 3, cuando la extracción a favor de los accionistas
+supera la cuota indicada de la facturación de la actividad cubierta o han transcurrido
+siete años desde la emisión, lo que ocurra primero. Hasta entonces no requiere valoración, no paga nada
 y no vota nada; en el evento se convierte al precio del evento, sin
 discrecionalidad. Esto coincide con la propia ventana del libro (reclamar la
 participación mientras el activo se forma, cristalizar cuando el mercado le
@@ -590,7 +594,7 @@ fuente de financiación, donde es necesaria.
 
 **La respuesta que el instrumento debe dar.** En tres partes. Primero, la pequeñez es calibración, no fracaso: el tamaño del instrumento sigue por construcción el tamaño del fenómeno. El tres por ciento de poco es poco, detraído de casi nadie, y en ese mundo el artículo 14, apartado 3, obliga a la Comisión a constatar que la premisa no se cumplió y a proponer su modificación o derogación; un dividendo permanentemente pequeño es la activación de la condición de falsación, no una política renqueante. El dividendo solo es pequeño en el mundo en que el problema también lo es. Segundo, el derecho solo puede comprarse pronto. La paga danesa congelada de 4 368 DKK de 1978, dinero irrisorio entonces, vale hoy 119 506 DKK; dos tercios del fondo noruego son rendimiento compuesto, no petróleo. El otro calendario, reclamar la parte cuando las ganancias son visibles y los propietarios están atrincherados, es expropiación y políticamente imposible. El euro compra el certificado, y el certificado es la cuestión. Tercero, el patrimonio acumulado supera al flujo: con los mismos supuestos prudentes, hacia el año treinta la Reserva sostiene unos 400 EUR de capital propio detrás de cada ciudadano, antes de que ningún reparto anual impresione. Una campaña que muestra el reparto sin la participación describe mal su propio instrumento.
 
-**Consecuencia de diseño.** Esta objeción es la razón de ser de DC-14 (nunca abrir con una cifra de los primeros años), de que el artículo 14, apartado 3, lleve explícita la condición de falsación y de que el anexo II reparta rentas y nunca principal. Añade una regla mecánica propia: allí donde se muestre un importe de reparto por ciudadano, figura al lado la participación por ciudadano en la Reserva (DC-31).
+**Consecuencia de diseño.** Esta objeción es la razón de ser de DC-14 (nunca abrir con una cifra de los primeros años), de que el artículo 14, apartado 3, lleve explícita la condición de falsación y de que el anexo II reparta rentas y nunca principal. Añade dos reglas mecánicas propias: allí donde se muestre un importe de reparto por ciudadano, figura al lado la participación por ciudadano en la Reserva (DC-31); y allí donde el importe distribuible de un año fuera demasiado pequeño para justificar la transferencia, el intervalo se alarga en lugar de que el dinero desaparezca, sujeto a un mínimo imperativo de un reparto cada tres años y al deber de publicar lo que no se pagó (DC-40). El umbral es una proporción respecto del coste de efectuar el pago, no una cifra: una cifra en un anexo envejece, y regala un titular a quien lo busque.
 
 ### 16. Esto es una acción de oro, y el Tribunal anula las acciones de oro
 
@@ -598,9 +602,9 @@ fuente de financiación, donde es necesaria.
 
 **Lo que acierta.** La dilución es real y los inversores la incorporarán al precio, y toda posición que confiera facultades de control caería exactamente como cayó Volkswagen. La jurisprudencia de las acciones de oro es la jurisprudencia de referencia para toda posición pública en el capital, y el instrumento debe redactarse contra ella, no esquivándola.
 
-**La respuesta que el instrumento debe dar.** La línea de las acciones de oro condena una sola cosa: los derechos especiales de control desproporcionados respecto de la inversión, topes de voto, minorías de bloqueo, vetos de aprobación, puestos en el consejo, el aparato con el que un Estado dirige una empresa que no posee. El instrumento construye el inverso exacto, en los artículos y no en promesas. La participación de la Reserva no lleva nunca derecho de voto (artículos 5, apartado 3, letra a), y 9, apartado 1, letra a)); ninguna presencia en el consejo (artículo 9, apartado 1, letra b)); ninguna instrucción (artículo 9, apartado 1, letra c)); ninguna adquisición más allá del warrant y de la diversificación indexada (artículo 9, apartado 1, letra d)); ni apalancamiento ni derivados que la conviertan en actor estratégico (artículo 9, apartado 1, letras e) a g)). Lo que queda es participación puramente económica, la posición de cualquier accionista minoritario pasivo, la que el fondo noruego mantiene a escala comparable en las sociedades cotizadas europeas sin que jamás se haya planteado un asunto del artículo 63. A lo que la jurisprudencia exige de toda restricción que pretenda subsistir, el instrumento da respuesta en su propio texto: no discriminación (trato idéntico a empresas de la Unión y de terceros países conforme al artículo 3), un interés general imperioso enunciado en los considerandos, y proporcionalidad sostenida por el 3 % fijo, la valoración independiente e impugnable por separado (artículos 5, apartado 8, 6 y 7) y la ponderación del artículo 52, apartado 1. Y a diferencia de cada acción de oro anulada, esto no es un Estado miembro reservándose influencia nacional contra la integración: es una regla uniforme de la Unión para todo el mercado interior, y su propia uniformidad elimina la divergencia que crearían los regímenes nacionales de participación. Lo que queda en limpio, y hay que reconocerlo con honestidad, es que una dilución futura obligatoria es en sí un coste que los inversores incorporarán al precio; la objeción 4 lo cifra, y la proporcionalidad, no la negación, es la defensa.
+**La respuesta que el instrumento debe dar.** La línea de las acciones de oro condena una sola cosa: los derechos especiales de control desproporcionados respecto de la inversión, topes de voto, minorías de bloqueo, vetos de aprobación, puestos en el consejo, el aparato con el que un Estado dirige una empresa que no posee. El instrumento construye el inverso exacto, en los artículos y no en promesas. La participación de la Reserva no lleva nunca derecho de voto (artículos 5, apartado 4, letra a), y 9, apartado 1, letra a)); ninguna presencia en el consejo (artículo 9, apartado 1, letra b)); ninguna instrucción (artículo 9, apartado 1, letra c)); ninguna adquisición más allá del warrant y de la diversificación indexada (artículo 9, apartado 1, letra d)); ni apalancamiento ni derivados que la conviertan en actor estratégico (artículo 9, apartado 1, letras e) a g)). Lo que queda es participación puramente económica, la posición de cualquier accionista minoritario pasivo, la que el fondo noruego mantiene a escala comparable en las sociedades cotizadas europeas sin que jamás se haya planteado un asunto del artículo 63. A lo que la jurisprudencia exige de toda restricción que pretenda subsistir, el instrumento da respuesta en su propio texto: no discriminación (trato idéntico a empresas de la Unión y de terceros países conforme al artículo 3), un interés general imperioso enunciado en los considerandos, y proporcionalidad sostenida por el 3 % fijo, la valoración independiente e impugnable por separado (artículos 5, apartado 9, 6 y 7) y la ponderación del artículo 52, apartado 1. Y a diferencia de cada acción de oro anulada, esto no es un Estado miembro reservándose influencia nacional contra la integración: es una regla uniforme de la Unión para todo el mercado interior, y su propia uniformidad elimina la divergencia que crearían los regímenes nacionales de participación. Lo que queda en limpio, y hay que reconocerlo con honestidad, es que una dilución futura obligatoria es en sí un coste que los inversores incorporarán al precio; la objeción 4 lo cifra, y la proporcionalidad, no la negación, es la defensa.
 
-**Consecuencia de diseño.** La regla del no voto permanente de DC-13 y las prohibiciones de conducta del artículo 9 son la respuesta de la ley a esta objeción. Añade una regla propia: ninguna modificación podrá jamás vincular un derecho de control, un veto o un privilegio de gobernanza a las participaciones de la Reserva; la participación económica es el máximo constitucional (DC-32).
+**Consecuencia de diseño.** La regla del no voto permanente de DC-13 y las prohibiciones de conducta del artículo 9 son la respuesta de la ley a esta objeción. Lo que no pueden hacer es vincular a una legislatura futura, y este memorando no finge lo contrario: los trabajos preparatorios del artículo 12, apartado 3, dejan constancia de que vincular a legislaturas futuras no superó los filtros en una ronda anterior, y un intento, el 21 de agosto de 2026, de dar a la regla fuerza operativa en ese apartado se abandonó porque el letrado hostil prefería mantenerla, leyéndola como un mandato de Derecho de la Unión que despojaría a la Reserva de los derechos de clase protectores que le otorga el artículo 5, apartado 4, letra b). Lo que subsiste es una regla de diseño que vincula a este instrumento y a quien lo modifique: la participación económica es el máximo, y ningún derecho de control, veto o privilegio de gobernanza se vincula a las participaciones de la Reserva (DC-32). Es un compromiso que el texto cumple, no un cerrojo que el texto pueda imponer.
 
 ### 17. Se está confiscando capital de empresas que Europa no gobierna
 
@@ -608,7 +612,7 @@ fuente de financiación, donde es necesaria.
 
 **Lo que acierta.** Un warrant sobre una matriz extranjera cuyo único vínculo con la Unión es que su sitio web responde iría demasiado lejos y merecería perder. El nexo debe ser la sustancia económica en la Unión, no la accesibilidad. La represalia es un coste real y la reciprocidad un argumento real.
 
-**La respuesta que el instrumento debe dar.** Cuatro decisiones estructurales, todas ya en los artículos. Primera, el desencadenante es el comercio en la Unión, no la accesibilidad en la Unión: la designación exige la prestación en el mercado interior con 7 500 millones de EUR de facturación anual en la Unión, en al menos tres Estados miembros (artículo 3, apartado 2, letra a)), una prueba de presencia económica muy por encima de cualquier umbral de la doctrina de los efectos, y las rentas compartidas son, por construcción, rentas extraídas de usuarios de la Unión. Segunda, la empresa es el grupo: «empresa» consolida las empresas vinculadas (artículo 2, punto 1), el principio de la unidad económica del Derecho de la competencia de la Unión (Akzo Nobel C-97/08 P), de modo que ninguna filial instrumental en la Unión puede apantallar a la matriz a la que realmente afluye el valor de los servicios automatizados. Tercera, el mecanismo respeta el Derecho de sociedades extranjero en lugar de pretender desplazarlo: para las empresas regidas por el Derecho de un tercer país la suscripción es una obligación de resultado (artículo 5, apartado 4), asegurada mediante el artículo 13 como condición del acceso continuado al mercado interior, la arquitectura de toda condición de acceso al mercado que la Unión ya impone, y las excepciones de Derecho de sociedades del artículo 5, apartado 6, alcanzan solo al Derecho de los Estados miembros. Cuarta, la condición es universal: las empresas de la Unión la soportan de forma idéntica, de modo que una reclamación convencional o un panel comercial no encuentra discriminación a la que agarrarse, y la reciprocidad juega a favor del instrumento: una Unión que sienta el principio lo acepta de otros.
+**La respuesta que el instrumento debe dar.** Cuatro decisiones estructurales, todas ya en los artículos. Primera, el desencadenante es el comercio en la Unión, no la accesibilidad en la Unión: la designación exige la prestación en el mercado interior con 7 500 millones de EUR de facturación anual en la Unión, en al menos tres Estados miembros (artículo 3, apartado 2, letra a)), una prueba de presencia económica muy por encima de cualquier umbral de la doctrina de los efectos, y las rentas compartidas son, por construcción, rentas extraídas de usuarios de la Unión. Segunda, la empresa es el grupo: «empresa» consolida las empresas vinculadas (artículo 2, punto 1), el principio de la unidad económica del Derecho de la competencia de la Unión (Akzo Nobel C-97/08 P), de modo que ninguna filial instrumental en la Unión puede apantallar a la matriz a la que realmente afluye el valor de los servicios automatizados. Tercera, el mecanismo respeta el Derecho de sociedades extranjero en lugar de pretender desplazarlo: para las empresas regidas por el Derecho de un tercer país la suscripción es una obligación de resultado (artículo 5, apartado 5), asegurada mediante el artículo 13 como condición del acceso continuado al mercado interior, la arquitectura de toda condición de acceso al mercado que la Unión ya impone, y las excepciones de Derecho de sociedades del artículo 5, apartado 7, alcanzan solo al Derecho de los Estados miembros. Cuarta, la condición es universal: las empresas de la Unión la soportan de forma idéntica, de modo que una reclamación convencional o un panel comercial no encuentra discriminación a la que agarrarse, y la reciprocidad juega a favor del instrumento: una Unión que sienta el principio lo acepta de otros.
 
 **Consecuencia de diseño.** El nexo de acceso al mercado de DC-10 y la consolidación de grupo de DC-2 son las respuestas de la ley a esta objeción. Añade una regla propia: para las empresas bajo Derecho de un tercer país, el warrant es una obligación de resultado como condición de acceso al mercado, nunca una pretendida exclusión del Derecho de sociedades extranjero (DC-33).
 
@@ -624,15 +628,15 @@ Primero el calendario: el warrant ya no espera una venta. El artículo 5, aparta
 
 Después el rango: el artículo 5, apartado 4, letra b), otorga a la Reserva acciones que se sitúan, para dividendos y para el producto de cualquier venta o liquidación, en igualdad de rango con la clase mejor situada entre las creadas tras la designación, y en su defecto con las ordinarias. El tres por ciento de un tramo ordinario situado detrás de una preferencia participativa de tres veces no es el tres por ciento de nada, y el instrumento dice ahora de qué tres por ciento habla, sin retirar a los inversores la preferencia que efectivamente pagaron antes de la designación. El artículo 5, apartado 10, hace inoponible a la Reserva todo montaje que la posponga, dejándolo válido entre las partes.
 
-Después el perímetro: el artículo 5, apartado 11, obliga al adquirente a emitir su propio warrant cuando activos automatizados pasan a una entidad vinculada o bajo control común, o salen en condiciones distintas de las de plena competencia, conservando el transmitente la suya. El artículo 2, punto 14, nombra lo que no puede salir por la puerta: parámetros de los modelos, infraestructura de entrenamiento e inferencia, conjuntos de datos, la propiedad intelectual de la que depende el servicio.
+Después el perímetro: el artículo 5, apartado 11, obliga al adquirente a emitir su propio warrant cuando activos automatizados pasan a una entidad vinculada o bajo control común, o salen en condiciones distintas de las de plena competencia, conservando el transmitente la suya. El artículo 2, punto 14, nombra lo que no puede salir por la puerta: parámetros de los modelos, infraestructura de entrenamiento e inferencia, conjuntos de datos, la propiedad intelectual de la que depende el servicio. Esta es la lógica de sucesión del control de concentraciones, no una invención.
 
 Por último la salida: el artículo 5, apartado 12, vuelve a vincular la obligación cuando los activos automatizados emergen de una insolvencia o de una reestructuración conforme a la Directiva (UE) 2019/1023 en una entidad controlada por las mismas personas o en la que estas ostentan la mayoría de los derechos económicos, y exige emitir un nuevo warrant en tres meses. Un fracaso genuino sigue extinguiendo la participación de la Reserva, como la de cualquier accionista, porque la Reserva es propietaria y los propietarios lo soportan. Lo que no hace es bendecir la versión en que los propietarios sobreviven y solo muere la obligación.
 
-Una vía queda deliberadamente abierta. Una empresa puede endeudarse fuertemente con prestamistas que no son parientes de nadie, pagarles interés de mercado y llegar al plazo final valiendo menos de lo que habría valido sin deuda. Eso no es extracción y la definición no debe fingir lo contrario: el dinero va a extraños, no a personas de dentro, y los fundadores se empobrecen exactamente en la misma proporción que la Reserva. Todo accionista de una sociedad apalancada posee un derecho menor sobre un balance mayor, y un instrumento que toma el 3 % del capital no puede además exigir que ese capital quede libre de cargas.
+Una vía la ha conservado el letrado, y el instrumento la deja deliberadamente abierta. Una empresa puede endeudarse fuertemente con prestamistas que no son parientes de nadie, pagarles interés de mercado y llegar al plazo final valiendo menos de lo que habría valido sin deuda. Eso no es extracción y la definición no debe fingir lo contrario: el dinero va a extraños, no a personas de dentro, y los fundadores se empobrecen exactamente en la misma proporción que la Reserva. Todo accionista de una sociedad apalancada posee un derecho menor sobre un balance mayor, y un instrumento que toma el 3 % del capital no puede además exigir que ese capital quede libre de cargas. Lo que el expediente no debe hacer es confundir esto con las vías anteriores, donde el valor sale hacia bolsillos que son los mismos bolsillos. El apalancamiento es un riesgo que la Reserva asume como propietaria; la extracción es una transferencia que el Reglamento detiene.
 
-Y la respuesta parcial honesta: la retención en la fuente. Un reglamento de la Unión no puede conferir a la Reserva un beneficio convencional que un tercer país no haya otorgado. Se redactaron y se suprimieron dos respuestas. Ordenar a la Comisión negociar con terceros países habría mandado sobre una prerrogativa que el artículo 218 TFUE sitúa en otra parte. Permitir a la Reserva encaminar sus participaciones para rebajar el tipo habría escrito el treaty shopping en un instrumento cuya tesis entera es que el capital debe estar ampliamente repartido y pagar lo que debe. Lo que subsiste es el artículo 8, apartado 5: la Reserva publica cada año el impuesto que no pudo recuperar, y la Comisión responde de ello en el informe del artículo 14. Es una respuesta menor que el problema, y es la honesta.
+Y la respuesta parcial honesta: la retención en la fuente. Un reglamento de la Unión no puede conferir a la Reserva un beneficio convencional que un tercer país no haya otorgado, y a un organismo no residente en ningún lugar se le puede aplicar la retención al tipo legal pleno. Se redactaron y se suprimieron dos respuestas. Ordenar a la Comisión negociar con terceros países habría mandado sobre una prerrogativa que el artículo 218 TFUE sitúa en otra parte. Permitir a la Reserva encaminar sus participaciones para rebajar el tipo habría escrito el treaty shopping en un instrumento cuya tesis entera es que el capital debe estar ampliamente repartido y pagar lo que debe; el letrado hostil ya tenía preparado el titular, y con razón. Lo que subsiste es el artículo 8, apartado 5: la Reserva publica cada año el impuesto que no pudo recuperar, y la Comisión responde de ello en el informe del artículo 14. Es una respuesta menor que el problema, y es la honesta. Una fuga que se declara cada año es una fuga por la que se puede juzgar a la campaña; una fuga que nadie mide solo crece.
 
-**Consecuencia de diseño.** DC-35: cristalización por extracción y por tiempo, no solo por venta. DC-36: las acciones de la Reserva se sitúan en igualdad de rango con la clase mejor situada, y los montajes que las posponen quedan inaplicados. DC-37: la obligación sigue a los activos automatizados hacia cualquier entidad vinculada o sucesora. DC-38: la retención en la fuente no recuperable se reduce donde se puede y se publica donde no. DC-39: la obligación se vuelve a vincular cuando los mismos propietarios recuperan los activos de una reestructuración.
+**Consecuencia de diseño.** DC-35: cristalización por extracción y por tiempo, no solo por venta. DC-36: las acciones de la Reserva se sitúan en igualdad de rango con la clase mejor situada, y los montajes que las posponen quedan inaplicados. DC-37: el adquirente emite su propio warrant sobre su propio capital; la obligación propia del transmitente continúa sin verse afectada. DC-38: la retención en la fuente no recuperable se publica anualmente; el instrumento no ordena a la Reserva organizar sus participaciones para reducirla. DC-39: la obligación se vuelve a vincular cuando los mismos propietarios recuperan los activos de una reestructuración.
 
 ## La tabla de restricciones
 
@@ -643,7 +647,7 @@ suspende la revisión con independencia de su prosa.
 |---|---|---|
 | DC-1 | Warrants prospectivos sobre valor futuro; nunca transferencia retroactiva | 1 |
 | DC-2 | Umbrales altos, objetivos y consolidados a nivel de grupo | 1, 5, 17 |
-| DC-3 | Pasividad legal; cristalización solo en eventos | 1, 6 |
+| DC-3 | Pasividad legal; cristalización únicamente en eventos legales definidos, nunca en un evento discrecional o político | 1, 6 |
 | DC-4 | Ningún flujo monetario de las empresas; solo instrumentos | 2, 4 |
 | DC-5 | Las distribuciones son rentas de la propiedad de la reserva | 2 |
 | DC-6 | Estratificación divisible para el registro parcial de la ICE | 2 |
@@ -672,24 +676,39 @@ suspende la revisión con independencia de su prosa.
 | DC-29 | Injerencia limitada en la ejecución al porcentaje enunciado; valoración independiente e impugnable por separado; control judicial | 1 |
 | DC-30 | Los elementos esenciales (hecho generador, propiedad de la reserva, derecho, injerencia) en los artículos, nunca delegados | 1 |
 | DC-31 | Allí donde se muestre un importe de reparto por ciudadano, figura al lado la participación por ciudadano en la Reserva | 15 |
-| DC-32 | Ningún derecho de control, veto o privilegio de gobernanza podrá jamás vincularse a las participaciones de la Reserva | 16 |
+| DC-32 | La participación económica es el máximo: ningún derecho de control, veto o privilegio de gobernanza se vincula a las participaciones de la Reserva, lo que vincula a este instrumento y a quien lo modifique, sin fingir vincular a una legislatura futura | 16 |
 | DC-33 | Para las empresas bajo Derecho de un tercer país, el warrant es una obligación de resultado como condición de acceso al mercado, nunca una exclusión del Derecho de sociedades extranjero | 17 |
 | DC-34 | Ninguna instancia entre la valoración y los tribunales; corrección a posteriori y la transacción nunca espera | 6 |
 | DC-35 | Cristalización por extracción y por tiempo, no solo por venta | 18 |
 | DC-36 | Las acciones de la Reserva se sitúan en igualdad de rango con la clase mejor situada; los montajes que las posponen quedan inaplicados | 18 |
-| DC-37 | La obligación sigue a los activos automatizados hacia cualquier entidad vinculada o sucesora | 18 |
-| DC-38 | Retención en la fuente no recuperable reducida donde se puede, publicada donde no | 18 |
-| DC-39 | La obligación se vuelve a vincular cuando los mismos propietarios o sus acreedores recuperan los activos de una reestructuración | 18 |
+| DC-37 | El adquirente emite su propio warrant sobre su propio capital; la obligación propia del transmitente continúa sin verse afectada | 18 |
+| DC-38 | Retención en la fuente no recuperable publicada anualmente; no se ordena a la Reserva organizar sus participaciones para reducirla | 18 |
+| DC-39 | La obligación se vuelve a vincular cuando los mismos propietarios recuperan los activos de una reestructuración | 18 |
 | DC-40 | Bajo un umbral de minimis el intervalo de reparto se alarga; nunca se convierte en razón para no pagar | 15 |
 
 ## Estado
 
-Todas las objeciones ABIERTAS hasta que los artículos las respondan; la 12
-está CONCEDIDA por alcance. Las objeciones 16 y 17 se añadieron el 20
+Las objeciones permanecen ABIERTAS hasta que los artículos las
+respondan, salvo donde se indique a continuación; la 12 está CONCEDIDA
+por alcance. La objeción 18 se añadió el 21 de agosto de 2026 a raíz de
+una revisión externa de las vías de reestructuración societaria en
+torno al instrumento. A diferencia de las objeciones 16 y 17, no
+encontró las respuestas ya presentes en los artículos: describe cinco
+vías. Cuatro de ellas están ahora cerradas por modificaciones de los
+artículos 2 y 5. La quinta, la retención en la fuente, dio lugar a una
+modificación del artículo 8 pero no está cerrada, y la respuesta a esa
+objeción lo dice ella misma: la publicación es una respuesta más
+pequeña que el problema. Un sexto elemento, el endeudamiento en
+condiciones de plena competencia, se consideró y se dejó
+deliberadamente abierto, porque no es la extracción de la que trata la
+objeción. Es la primera objeción de este expediente cuya respuesta hubo
+que escribir en lugar de citar.
+
+Las objeciones 16 y 17 se añadieron el 20
 de agosto de 2026 a raíz de una impugnación externa (la línea de las
 acciones de oro del artículo 63; el exceso de alcance de la doctrina de
 los efectos); sus respuestas ya estaban en los artículos 3, 5, apartado
-4, y 9, que es exactamente para lo que sirve redactar contra la tabla,
+5, y 9, que es exactamente para lo que sirve redactar contra la tabla,
 y el residuo que añaden es DC-32 y DC-33. La objeción 1 concentra el mayor riesgo jurídico
 y la objeción 6 el mayor riesgo de diseño. La carta de admisibilidad del
 control 1 sigue encabezada por las objeciones 1 y 2, pero recalibradas por

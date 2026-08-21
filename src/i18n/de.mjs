@@ -27,6 +27,7 @@ export default {
     recordsEnglish: 'Die Prüfungen selbst finden auf Englisch statt und die nachstehenden Einträge zitieren die Protokolle im Original; der Rest dieser Seite ist übersetzt.',
     stale: 'Das englische Original hat sich seit dieser Übersetzung geändert; bis zur Auffrischung können Details abweichen.',
     pageVerified: 'Diese Übersetzung wurde von einer muttersprachlichen Person verifiziert.',
+    plainStale: 'Diese Zusammenfassung in einfacher Sprache wurde anhand einer früheren Fassung des nachstehenden Artikels erstellt; maßgeblich ist der aktuelle Artikel selbst.',
   },
   home: {
     eyebrow: 'Ein Verordnungsentwurf der Bürgerinnen und Bürger Europas',

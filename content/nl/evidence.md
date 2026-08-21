@@ -146,13 +146,21 @@ aanspraken is beter.
   (2011) naar EUR 2,1 mld, met cumulatieve onttrekkingen van
   EUR 80,3 mld. De wet die het beschermt werd aangenomen in 2023, nadat
   het leeg was.
-- **Het Ierse National Pensions Reserve Fund staat, in reële termen,
-  achttien jaar later op ongeveer 99 % van zijn positie van 2007,**
-  omdat het werd geliquideerd voor de bankenredding. Het Hongaarse
-  -75,9 % is het andere ijkpunt. Dit zijn de sterkste zaken tegen het
-  eigen mechanisme van deze verordening, en zij zijn de reden dat de
-  beschermingen van de Reserve operatieve artikelen zijn en geen
-  beloften.
+- **Het Ierse National Pensions Reserve Fund hield eind 2007 ruim
+  EUR 21 mld aan. Zijn discretionaire portefeuille bedroeg EUR 7,1 mld
+  toen het fonds zeven jaar later werd ontbonden,** waarbij het verschil
+  was ingezet voor de herkapitalisatie van Allied Irish Banks en Bank of
+  Ireland; EUR 10 mld daarvan werd in april 2011 omgezet in contanten en
+  bij diezelfde banken in deposito geplaatst, om er in juli van dat jaar
+  in te worden geïnvesteerd. De activa gingen op 22 december 2014 over
+  naar het Ireland Strategic Investment Fund en het mandaat van het
+  fonds eindigde daarmee. *NTMA, National Pensions Reserve Fund
+  Commission Annual Report 2014; NTMA-waardering van de discretionaire
+  portefeuille per 21 december 2014; National Treasury Management Agency
+  (Amendment) Act 2014.* Het Hongaarse -75,9 % is het andere ijkpunt.
+  Dit zijn de sterkste zaken tegen het eigen mechanisme van deze
+  verordening, en zij zijn de reden dat de beschermingen van de Reserve
+  operatieve artikelen zijn en geen beloften.
 - **Estland bewijst dat een aanspraak noodzakelijk maar niet voldoende
   is.** Toen de tweede pijler in januari 2021 vrijwillig werd, namen
   149 083 mensen in één maand EUR 1,32 mld op; de vertrekkers waren

@@ -39,8 +39,8 @@ se aplica el criterio de abandono de campaign/GATES.md.
 ### Capa 1: designación y transparencia (artículo 114 del TFUE, cómoda)
 
 Artículos 1 a 4, 14, 16 y 18, con el anexo I; sanciones limitadas a los
-deberes de notificación e información; considerandos 1 a 7, 24 a 26 y 28 a
-30.
+deberes de notificación e información; considerandos 1 a 8, 30 a 32 y 34 a
+36.
 
 Un reglamento que designa a las empresas hiperautomatizadas según criterios
 armonizados, hace pública la designación e informa sobre la adopción, los
@@ -57,19 +57,26 @@ construiría todo instrumento posterior, de la Unión o nacional.
 ### Capa 2: el warrant (artículo 114 del TFUE, discutida; repliegue al 352)
 
 Artículos 5 a 7, 13 íntegro, 15 y 17, con las excepciones de derecho de
-sociedades y la maquinaria de valoración; considerandos 8 a 15 y 23.
+sociedades y la maquinaria de valoración; considerandos 9 a 20 y 29.
 
 La obligación de emitir el warrant de capital ciudadano, que cristaliza en
-el primer evento de liquidez, con las salvaguardias del patrón de la BRRD.
+el primer evento de liquidez, en la extracción a favor de los accionistas
+por encima de la cuota indicada de la facturación de la actividad
+cubierta o en el plazo límite de siete años, lo que ocurra primero, con
+las salvaguardias del patrón de la BRRD.
 El argumento del artículo 114: elimina el incentivo para gravámenes y
 regímenes de participación nacionales divergentes (considerando 1), armoniza
 las excepciones de derecho de sociedades que la suscripción necesita, y
 asegura la igualdad de condiciones entre empresas de la Unión y de terceros
 países. El ataque (control de base jurídica, primera pasada): el centro de
 gravedad es la redistribución, no la construcción del mercado, y el artículo
-114, apartado 2, excluye las disposiciones fiscales. La defensa descansa en
-que la estructura no fiscal sea real (el aislamiento del artículo 8, la
-liquidación solo en acciones), no meramente afirmada.
+114, apartado 2, excluye las disposiciones fiscales; la línea de
+jurisprudencia determinante es Tobacco Advertising (C-376/98), que
+exige obstáculos genuinos o distorsiones apreciables, no una política
+deseable. La defensa descansa en que la estructura no fiscal sea real
+(el aislamiento del artículo 8, la liquidación solo en acciones), no
+meramente afirmada, y en que el historial de divergencia del
+considerando 1 sea genuino.
 
 Si la calificación jurídica fracasa, esta capa pasa al artículo 352: unanimidad en
 el Consejo, aprobación del Parlamento. Es una montaña política, y este
@@ -77,14 +84,22 @@ documento lo dice en lugar de fingir lo contrario.
 
 ### Capa 3: la Reserva y el derecho (artículo 352 del TFUE, con honestidad)
 
-Artículos 8 a 12, con el anexo II; considerandos 16 a 22 y 27.
+Artículos 8 a 12, con el anexo II; considerandos 21 a 28 y 33.
 
 La Reserva como nuevo organismo de nivel de la Unión que mantiene activos
 para los ciudadanos, el derecho universal que nace por ministerio de la ley,
 los vehículos nacionales, el blindaje frente a saqueos. Crear un organismo
 nuevo con personalidad jurídica y una relación de propiedad directa entre la
 Unión y el ciudadano es donde el artículo 114 es más débil y donde se
-concentra la objeción de subsidiariedad. La posición honesta: la capa 3 está
+concentra la objeción de subsidiariedad. Los precedentes sobre la
+creación de organismos apuntan en ambas direcciones: el artículo 114 ha
+sostenido organismos de la Unión al servicio de la armonización (ENISA,
+C-217/04; las facultades de intervención de la ESMA, C-270/12), pero una
+nueva forma jurídica distinta de los ordenamientos nacionales exigió lo
+que hoy es el artículo 352 (la Sociedad Cooperativa Europea, C-436/03),
+y una Reserva que debe a los ciudadanos una relación de propiedad
+directa se asemeja más a la segunda que a la primera. La posición
+honesta: la capa 3 está
 redactada para ser defendible al amparo del artículo 352, y su requisito de
 unanimidad está descontado. La respuesta de la campaña a «nunca conseguirán
 la unanimidad» es el precedente del impuesto sobre las grandes fortunas: la
