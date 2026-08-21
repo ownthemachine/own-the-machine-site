@@ -1,7 +1,7 @@
 ---
 article: 8
 status: gate-reviewed
-source-commit: 20a0e3c
+source-commit: 742bfc8
 ---
 L0: Creates the Reserve: a fund holding the shares only for citizens, never as government money, paying out what it can spare.
 

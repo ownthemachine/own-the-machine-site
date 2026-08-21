@@ -1,7 +1,7 @@
 ---
 article: 10
 status: gate-reviewed
-source-commit: 9e49545
+source-commit: 9efb503
 ---
 L0: Gives every adult EU citizen an equal automatic share of the Reserve's payouts, which cannot be sold, seized or signed away; but the law does not promise a payout every year, only at least once every three years.
 

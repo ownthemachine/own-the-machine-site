@@ -1,7 +1,7 @@
 ---
 article: 12
 status: gate-reviewed
-source-commit: e9b770a
+source-commit: 004dd66
 ---
 L0: Creates legal barriers against the EU or governments raiding the fund or your share, with a court remedy if anyone tries.
 

@@ -1,7 +1,7 @@
 ---
 article: 1
 status: gate-reviewed
-source-commit: 3250a63
+source-commit: 4d6ee9f
 ---
 L0: Sets out what the rules do and who they cover: highly automated companies selling in the EU, wherever they are based.
 

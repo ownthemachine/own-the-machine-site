@@ -150,9 +150,9 @@ VERDICT: REVISE
   * *Warum es stört:* Lehnübersetzung von *payable in cash / money*. Im deutschen Zivil- und Wirtschaftsrecht unidiomatisch.
   * *Besseres Deutsch:* »in bar zu entrichten« oder »als Geldleistung zu erbringen«.
 
-* **»gestempelt mit Commit c484663«** (S. `/de/law`)
+* **»gestempelt mit Commit 6e1fd70«** (S. `/de/law`)
   * *Warum es stört:* Ungelenke Lehnübertragung von *stamped with commit*. 
-  * *Besseres Deutsch:* »auf Stand von Commit c484663« oder »gekennzeichnet mit Commit-Hash c484663«.
+  * *Besseres Deutsch:* »auf Stand von Commit 6e1fd70« oder »gekennzeichnet mit Commit-Hash 6e1fd70«.
 
 * **»Jedes Urteil wird ins Repository eingetragen, auch die, die wehgetan haben.«** (S. `/de/law/ledger`)
   * *Warum es stört:* Plumper Registerbruch. Das emotionale »die wehgetan haben« wirkt wie eine 1:1-Übersetzung von *even the ones that hurt* in einem ansonsten normativ-rechtlichen Dokument.

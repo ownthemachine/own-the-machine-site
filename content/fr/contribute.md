@@ -1,6 +1,6 @@
 ---
 source: content/en/contribute.md
-source-commit: 7fd3cdc
+source-commit: 8b0d54f
 status: gate-reviewed
 ---
 

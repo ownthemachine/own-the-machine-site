@@ -1,7 +1,7 @@
 ---
 gate: translation
 target: content/{en,nl,fr,de,es}/about.md — EU disclaimer, hosting statement, data notice, publisher identification
-source-commit: 11757cc
+source-commit: 8c93537
 verdict: PUBLISH
 disposition: merged-with-fixes
 date: 2026-08-20

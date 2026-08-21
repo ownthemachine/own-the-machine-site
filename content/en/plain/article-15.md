@@ -1,7 +1,7 @@
 ---
 article: 15
 status: gate-reviewed
-source-commit: 9e49545
+source-commit: 9efb503
 ---
 L0: Standard machinery: controls how the Commission may update two technical annexes, under Parliament and Council oversight.
 

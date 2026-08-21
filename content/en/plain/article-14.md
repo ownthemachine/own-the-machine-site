@@ -1,7 +1,7 @@
 ---
 article: 14
 status: gate-reviewed
-source-commit: e9b770a
+source-commit: 004dd66
 ---
 L0: Makes the Commission track the evidence and propose amendment or repeal if the rules' own premise proves wrong.
 

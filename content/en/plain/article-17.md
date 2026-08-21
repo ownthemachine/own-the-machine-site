@@ -1,7 +1,7 @@
 ---
 article: 17
 status: gate-reviewed
-source-commit: 20a0e3c
+source-commit: 742bfc8
 ---
 L0: Startup rules: past deals stay untouched and a listing that already happened does not trigger the share purchase.
 

@@ -1,7 +1,7 @@
 ---
 article: 13
 status: gate-reviewed
-source-commit: 20a0e3c
+source-commit: 742bfc8
 ---
 L0: Lets the Commission fine companies up to 10 % of worldwide turnover and, as a last resort, bar them from the EU market.
 

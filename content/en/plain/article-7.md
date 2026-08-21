@@ -1,7 +1,7 @@
 ---
 article: 7
 status: gate-reviewed
-source-commit: 20a0e3c
+source-commit: 742bfc8
 ---
 L0: Guarantees court review of the valuation and that shareholders never lose more than the fixed 3 %.
 

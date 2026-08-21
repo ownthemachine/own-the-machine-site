@@ -1,7 +1,7 @@
 ---
 article: 11
 status: gate-reviewed
-source-commit: 20a0e3c
+source-commit: 742bfc8
 ---
 L0: Makes every EU country run personal accounts that receive the payouts, with charges capped at 0,3 % a year.
 

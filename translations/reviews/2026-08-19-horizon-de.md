@@ -1,7 +1,7 @@
 ---
 gate: translation
 target: content/de/evidence.md (section 7) + simulator UI strings (forecast, generation, disclaimer)
-source-commit: 11757cc
+source-commit: 8c93537
 verdict: PUBLISH
 disposition: merged-with-fixes
 date: 2026-08-19
@@ -15,7 +15,7 @@ UI strings (forecast button, generation sentence, disclaimer),
 translated under the fixed terminology canon and gated against the
 English source. This gate run caught a real ambiguity in the English
 source ('designated revenue'), which was fixed in the law repo at
-commit 11757cc. Native verification remains the pending top tier;
+commit 8c93537. Native verification remains the pending top tier;
 status: gate-reviewed.
 
 ## Editor disposition (19 August 2026)
@@ -25,7 +25,7 @@ Prinzip for Entwurf, Vermögensstamm for Grundkapital, Schaltfläche for
 Taste, ausgewiesene for benannte scenario inputs. Round 2: the ihn
 pronoun, politische Aushandlungen, vereinnahmen. Round 3: the
 designated-revenue ambiguity resolved at the English source (covered
-revenue at designated firms, law commit 11757cc) and rendered as
+revenue at designated firms, law commit 8c93537) and rendered as
 erfasster Umsatz benannter Unternehmen; verfügender Teil for the
 operative-article calque; gender pairing completed; berichten for
 festzustellen in the Article 14(3) register. Round 4: PUBLISH.

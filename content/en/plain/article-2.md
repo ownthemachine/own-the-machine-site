@@ -1,7 +1,7 @@
 ---
 article: 2
 status: gate-reviewed
-source-commit: 12b8e37
+source-commit: 6d3c51a
 ---
 L0: Defines the key terms: which companies count, what the warrant is, which events turn it into shares, and two new terms that stop a company dodging it by paying itself instead of selling itself.
 

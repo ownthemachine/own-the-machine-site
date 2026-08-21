@@ -1,7 +1,7 @@
 ---
 gate: translation
 target: content/nl/objections.md (objection 15 + DC-31, new section only)
-source-commit: 97206ad
+source-commit: ab9cc0f
 verdict: PUBLISH
 disposition: merged-with-fixes
 date: 2026-08-19
@@ -13,7 +13,7 @@ Objection 15 (a euro a year is an insult, not a policy) and the DC-31
 table row, translated under the fixed terminology canon and gated
 against the English source in isolation. The English source's own
 section headings were normalised to the memorandum's convention in the
-same pass (law commit 97206ad); each translation uses its file's
+same pass (law commit ab9cc0f); each translation uses its file's
 established headings. The simulator's DC-31 stake sentence in
 src/i18n/nl.mjs was written in the same pass and is covered by this
 disposition; it was verified rendered on the live page. Native
