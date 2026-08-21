@@ -1,7 +1,7 @@
 ---
 article: 6
 status: gate-reviewed
-source-commit: e12ba2b
+source-commit: 9e49545
 ---
 L0: Puts an independent expert in charge of valuing the company at each trigger event, including early crystallisation for heavy payouts or the seven-year long-stop, with errors corrected either way.
 

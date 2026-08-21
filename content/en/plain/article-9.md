@@ -1,7 +1,7 @@
 ---
 article: 9
 status: gate-reviewed
-source-commit: e12ba2b
+source-commit: 9e49545
 ---
 L0: Forbids the Reserve from voting its shares, steering companies, borrowing, lending or speculating.
 

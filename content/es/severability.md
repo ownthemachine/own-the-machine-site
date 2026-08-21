@@ -1,6 +1,6 @@
 ---
 source: regulation/memorandum/severability.md
-source-commit: cb3da17
+source-commit: 7fd3cdc
 status: gate-reviewed
 ---
 

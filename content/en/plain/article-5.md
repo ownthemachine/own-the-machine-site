@@ -1,7 +1,7 @@
 ---
 article: 5
 status: gate-reviewed
-source-commit: 154a29c
+source-commit: 20a0e3c
 ---
 L0: Requires each covered company to give the Reserve the right to buy 3 % of its shares cheaply, triggered by a sale or listing, by heavy payouts to its owners, or by seven years passing, whichever comes first.
 
