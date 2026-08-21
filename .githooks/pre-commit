@@ -1,0 +1,4 @@
+#!/bin/sh
+# Blocks private identifiers in the staged content.
+# Bypass deliberately with: git commit --no-verify
+exec python3 "$(git rev-parse --show-toplevel)/.githooks/scan.py" --staged

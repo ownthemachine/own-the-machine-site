@@ -1,0 +1,5 @@
+#!/bin/sh
+# Blocks private identifiers in the commit message itself. The message is as
+# public as the code: it is rendered on GitHub, in every clone, and in the
+# review ledger. Bypass deliberately with: git commit --no-verify
+exec python3 "$(git rev-parse --show-toplevel)/.githooks/scan.py" "$1"
