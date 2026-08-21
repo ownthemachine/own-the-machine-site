@@ -21,8 +21,19 @@ const eyebrow = kind === 'article'
   : fmt(en.lawDoc.eyebrowAnnex, { N: item.numeral });
 const plain = kind === 'article' && item.plain
   ? (item.plain[lang] || item.plain.en) : null;
+// The meta description is a search snippet, not the page. Several L0 lines got
+// longer when the plain layer was corrected, because they now state things the
+// old ones left out, such as Article 10 not promising a payment every year.
+// The page keeps the whole sentence; the tag is trimmed at a word boundary so
+// a search engine truncates nothing mid-word.
+const metaDescription = (s: string, limit = 160) => {
+  if (!s || s.length <= limit) return s;
+  const cut = s.slice(0, limit);
+  const at = cut.lastIndexOf(' ');
+  return `${(at > 60 ? cut.slice(0, at) : cut).replace(/[,;:]$/, '')}…`;
+};
 ---
-<Base title={title} lang={lang} description={plain ? plain.l0 : undefined}>
+<Base title={title} lang={lang} description={plain ? metaDescription(plain.l0) : undefined}>
   <article class="lawpage">
     <LangBanner lang={lang} kind="lawEnglish" />
     {plain && (
