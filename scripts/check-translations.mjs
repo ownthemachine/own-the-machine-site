@@ -201,6 +201,36 @@ for (const [loc, list] of Object.entries(plainStale)) {
     : 'all current'}`);
 }
 
+// ---- link integrity -------------------------------------------------
+// These files are hard-wrapped at 76 columns. A wrap that lands inside a
+// markdown link target silently produces a dead link: the page still builds,
+// the text still reads correctly, and the anchor points at a URL containing a
+// newline. It happened to all four translations of the versions page in one
+// pass on 21 August 2026, introduced by a re-wrapping script and caught by a
+// translation reviewer rather than by anything here. A URL never legitimately
+// contains whitespace, so this is cheap and exact.
+const badLinks = [];
+for (const loc of ['en', ...LOCALES]) {
+  const dir = join(CONTENT, loc);
+  if (!existsSync(dir)) continue;
+  const files = readdirSync(dir).filter((f) => f.endsWith('.md'));
+  for (const f of files) {
+    const raw = readFileSync(join(dir, f), 'utf8');
+    for (const m of raw.matchAll(/\]\(([^)]*)\)/g)) {
+      if (/\s/.test(m[1])) badLinks.push(`${loc}/${f}: ${m[1].slice(0, 60)}`);
+    }
+  }
+}
+console.log('');
+if (badLinks.length) {
+  problems += badLinks.length;
+  console.error(`links         ${badLinks.length} link target(s) contain whitespace, `
+    + `which means a line wrap landed inside a URL:`);
+  for (const b of badLinks) console.error(`  ${b}`);
+} else {
+  console.log('links          every markdown link target is intact');
+}
+
 if (problems) {
   console.error(`\ncheck-translations: ${problems} page(s) structurally adrift `
     + `from the English. A missing heading or DC row means a passage was never `

@@ -1,6 +1,6 @@
 ---
 source: site/content/en/about.md
-source-commit: 8b0d54f
+source-commit: ecd56c3
 status: gate-reviewed
 ---
 
@@ -52,9 +52,23 @@ permanecerá disponible como bien público.
 
 ## Financiación
 
-Ninguna. Cuando exista alguna, se publicará aquí al céntimo, como el
-Reglamento (UE) 2019/788 exige a las iniciativas y como nosotros nos lo
-exigimos desde el principio.
+Ninguna organización, ninguna cuenta bancaria, ninguna donación y ningún
+tipo de fondos de terceros. Nadie ha cobrado y nadie ha trabajado en esto a
+cambio de remuneración.
+
+Decir «ninguna» sería la respuesta más cómoda y no sería cierta. Mantener
+este sitio cuesta algo y lo paga personalmente el promotor: el dominio, el
+almacenamiento de objetos y la distribución de contenido en Scaleway, en
+Francia, y las llamadas a la API que consumen los controles de revisión.
+Ningún partido, fundación, sindicato, empresa, organismo público ni otro
+particular ha aportado dinero, servicios, tiempo de trabajo ni software a
+esta campaña.
+
+El Reglamento (UE) 2019/788 obliga a una iniciativa registrada a declarar
+toda fuente que aporte más de 500 EUR al año y a mantener esa declaración
+actualizada mientras se recojan firmas. Esa obligación empieza con el
+registro. La declaración empieza ahora, en campaign/FUNDING.md, que recoge
+además las reglas adoptadas de antemano sobre lo que nunca se aceptará.
 
 ## Sus datos
 

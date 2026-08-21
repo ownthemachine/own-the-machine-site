@@ -1,6 +1,6 @@
 ---
 source: site/content/en/about.md
-source-commit: 8b0d54f
+source-commit: ecd56c3
 status: gate-reviewed
 ---
 
@@ -51,9 +51,24 @@ de repository staan als publiek goed.
 
 ## Financiering
 
-Geen. Zodra er financiering is, wordt zij hier tot op de cent
-gepubliceerd, zoals Verordening (EU) 2019/788 van initiatieven eist en
-wij vroeg van onszelf eisen.
+Geen organisatie, geen bankrekening, geen giften en geen geld van derden in
+welke vorm dan ook. Niemand is betaald, en niemand heeft hieraan tegen
+betaling gewerkt.
+
+"Geen" zeggen zou het makkelijkste antwoord zijn, maar het is niet waar. Het
+kost geld om deze site draaiende te houden, en de initiatiefnemer betaalt
+dat persoonlijk: het domein, objectopslag en contentlevering bij Scaleway in
+Frankrijk, en de API-aanroepen die de toetsingspoorten verbruiken. Geen
+partij, stichting, vakbond, onderneming, overheidsinstantie of andere
+particulier heeft geld, diensten, werktijd of software aan deze campagne
+bijgedragen.
+
+Verordening (EU) 2019/788 verplicht een geregistreerd initiatief elke bron
+te noemen die in een jaar meer dan 500 EUR geeft, en die verklaring actueel
+te houden zolang er handtekeningen worden verzameld. Die verplichting begint
+bij registratie. Deze verantwoording begint nu al, in campaign/FUNDING.md,
+waarin ook de vooraf vastgestelde regels staan over wat nooit zal worden
+aanvaard.
 
 ## Uw gegevens
 

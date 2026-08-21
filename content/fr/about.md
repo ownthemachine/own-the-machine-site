@@ -1,6 +1,6 @@
 ---
 source: content/en/about.md
-source-commit: 8b0d54f
+source-commit: ecd56c3
 status: gate-reviewed
 ---
 
@@ -53,9 +53,24 @@ public.
 
 ## Financement
 
-Aucun. Le jour où il en existera un, il sera publié ici au centime près,
-comme le règlement (UE) 2019/788 l'exige des initiatives et comme nous
-l'exigeons de nous-mêmes par avance.
+Aucune organisation, aucun compte bancaire, aucun don et aucun financement
+extérieur sous quelque forme que ce soit. Personne n'a été payé et personne
+n'a travaillé sur ce projet contre rémunération.
+
+Répondre « aucun » serait plus simple et ne serait pas vrai. Le
+fonctionnement de ce site a un coût, que l'initiateur assume personnellement
+: le nom de domaine, le stockage objet et la diffusion en périphérie chez
+Scaleway en France, ainsi que les appels d'API que consomment les portes de
+contrôle. Aucun parti, aucune fondation, aucun syndicat, aucune entreprise,
+aucun organisme public ni aucun autre particulier n'a apporté d'argent, de
+services, de temps de travail ou de logiciels à cette campagne.
+
+Le règlement (UE) 2019/788 oblige une initiative enregistrée à déclarer
+toute source apportant plus de 500 EUR par an et à tenir cette déclaration à
+jour tant que des signatures sont recueillies. Cette obligation commence à
+l'enregistrement. La déclaration, elle, commence maintenant, dans
+campaign/FUNDING.md, qui énonce également les règles adoptées au préalable
+quant à ce qui ne sera jamais accepté.
 
 ## Vos données
 

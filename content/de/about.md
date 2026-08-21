@@ -1,6 +1,6 @@
 ---
 source: site/content/en/about.md
-source-commit: 8b0d54f
+source-commit: ecd56c3
 status: gate-reviewed
 ---
 
@@ -54,9 +54,24 @@ bleibt als öffentliches Gut bestehen.
 
 ## Finanzierung
 
-Keine. Sobald Finanzierung vorliegt, wird sie hier auf den Cent genau
-veröffentlicht, wie es die Verordnung (EU) 2019/788 von Initiativen
-verlangt und wir es früh von uns selbst verlangen.
+Keine Organisation, kein Bankkonto, keine Spenden und kein Geld von Dritten
+in irgendeiner Form. Niemand wurde dafür bezahlt, und niemand hat gegen
+Vergütung daran gearbeitet.
+
+„Keine“ zu sagen wäre die bequemere Antwort, aber sie wäre unwahr. Der
+Betrieb dieser Seite kostet etwas, und der Initiator trägt diese Kosten
+privat: die Domain, Objektspeicher und Content-Auslieferung bei Scaleway in
+Frankreich sowie die API-Aufrufe, die die Prüfstufen auslösen. Keine Partei,
+keine Stiftung, keine Gewerkschaft, kein Unternehmen, keine öffentliche
+Stelle und keine andere Privatperson hat Geld, Dienstleistungen, Arbeitszeit
+oder Software zu dieser Kampagne beigetragen.
+
+Die Verordnung (EU) 2019/788 verpflichtet eine registrierte Initiative, jede
+Quelle anzugeben, deren Zuwendungen 500 EUR im Jahr übersteigen, und diese
+Erklärung aktuell zu halten, solange Unterschriften gesammelt werden. Diese
+Pflicht beginnt mit der Registrierung. Diese Offenlegung gilt ab sofort, in
+campaign/FUNDING.md, wo auch die vorab beschlossenen Regeln darüber stehen,
+was niemals angenommen wird.
 
 ## Ihre Daten
 
