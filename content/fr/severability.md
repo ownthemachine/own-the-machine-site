@@ -140,6 +140,23 @@ public, au procès-verbal.
    suggéré, de sorte qu'un enregistrement partiel, si la Commission y
    tient, taille dans l'annexe et non dans la demande.
 
+   **Cette règle est une hypothèse, pas une conclusion, et c'est la
+   première chose que la porte de contrôle 1 doit vérifier.** La
+   préparation de la demande adressée à l'ECI Forum le 21 août 2026 a
+   fait apparaître la lecture contraire : que la Commission examine
+   l'ensemble d'une initiative, annexe et tout projet d'acte juridique
+   compris, et non le seul titre et les seuls objectifs, et que formuler
+   un objectif comme une demande d'évaluation et de proposition ne le
+   met pas à l'abri si le mécanisme qu'il vise a besoin d'une compétence
+   que l'Union n'a pas. Selon cette lecture, annexer le règlement ne
+   protège pas la demande et peut élargir ce qui est évalué. Le point
+   est soumis à l'ECI Forum comme les questions 2 et 3 de
+   campaign/GATE1-LETTER.md. Si la réponse est que l'annexe est évaluée
+   sur le même pied que la demande, cette règle change, et ce qui figure
+   dans le formulaire d'enregistrement change avec elle, de sorte que
+   rien en aval ne doit être bâti dessus tant que la réponse n'est pas
+   connue.
+
 ## Ce que cela coûte et pourquoi cela en vaut la peine
 
 L'organisation en couches est une concession par avance, et des lecteurs

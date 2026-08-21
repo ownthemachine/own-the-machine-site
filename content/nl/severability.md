@@ -62,7 +62,7 @@ vennootschapsrechtelijke afwijkingen en de waarderingsmachinerie;
 overwegingen 9 tot en met 20 en 29.
 
 De verplichting om de burgerkapitaalwarrant uit te geven, te verzilveren
-bij de eerste liquiditeitsgebeurtenis, bij onttrekking aan aandeelhouders
+bij de eerste liquiditeitsgebeurtenis, bij onttrekking ten gunste van aandeelhouders
 boven het genoemde aandeel van de omzet uit de gedekte activiteit, of bij
 de termijn van zeven jaar sinds de uitgifte, wat zich het eerst voordoet,
 met de waarborgen naar BRRD-patroon. De zaak voor artikel 114: het neemt
@@ -138,6 +138,23 @@ vastgelegd in de verslagen.
    van het voorgestelde instrument, zodat gedeeltelijke registratie, als
    de Commissie daaraan vasthoudt, de bijlage snoeit en niet het
    verzoek.
+
+   **Deze regel is een aanname, geen bevinding, en het is het eerste wat
+   toetsingspoort 1 moet toetsen.** De voorbereiding van het verzoek aan
+   het ECI Forum op 21 augustus 2026 bracht de tegengestelde lezing aan
+   het licht: dat de Commissie het geheel van een initiatief onderzoekt,
+   met inbegrip van de bijlage en een eventuele ontwerp-rechtshandeling,
+   en niet alleen de titel en de doelstellingen, en dat het formuleren
+   van een doelstelling als een verzoek om te beoordelen en voor te
+   stellen deze niet beschermt als het mechanisme waarnaar zij verwijst
+   een bevoegdheid vereist die de Unie niet heeft. Volgens die lezing
+   beschermt het bijvoegen van de verordening het verzoek niet, en kan
+   het juist verruimen wat wordt beoordeeld. Het punt wordt aan het ECI
+   Forum voorgelegd als vragen 2 en 3 van campaign/GATE1-LETTER.md. Als
+   het antwoord luidt dat de bijlage op dezelfde voet wordt beoordeeld
+   als het verzoek, verandert deze regel, en daarmee ook wat in het
+   registratieformulier komt, zodat hierop niets stroomafwaarts mag
+   worden gebouwd totdat het antwoord er is.
 
 ## Wat dit kost en waarom het dat waard is
 

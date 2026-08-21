@@ -14,7 +14,7 @@ agosto de 2026; las correcciones son bienvenidas mediante pull request.
 
 La premisa del Reglamento se enuncia en sus propios considerandos y se
 somete a prueba en su propio artículo 14: la producción hiperautomatizada
-desacopla el producto del trabajo a nivel de empresa, las ganancias se
+desacopla el producto del trabajo a escala de empresa, las ganancias se
 concentran en quien posee la plataforma, y la titularidad del capital
 productivo en Europa está demasiado concentrada para que esas ganancias lleguen a
 los ciudadanos por sí solas. Cada sección siguiente corresponde a una parte
@@ -32,7 +32,7 @@ y promesas de pensión, no capital productivo.
   y el consumo de los hogares (HFCS) del BCE, ola 5, año de referencia 2023,
   publicada en junio de 2026.* El mismo fichero, la misma población, la
   misma encuesta.
-- **El décimo más rico de los hogares de la zona del euro posee el 83 % de
+- **El decil más rico de los hogares de la zona del euro posee el 83 % de
   las acciones en tenencia directa; la mitad más pobre posee el 2 %.**
   Italia: 93 frente a 0,5. *Cuentas Distributivas de Riqueza (DWA) del BCE,
   2025-T4.* Salvedad que debe declararse: toda observación de las DWA es una
@@ -65,7 +65,7 @@ que cae son las horas.
   porque el mercado se multiplicó por seis. Amazon, Microsoft y Google se
   llevan el 70 % de un mercado europeo de 61 000 millones de EUR; SAP y
   Deutsche Telekom tienen en torno al 2 % cada una. *Synergy Research Group,
-  24 de julio de 2025.* Historial de ingresos consumado, no una previsión.
+  24 de julio de 2025.* Datos históricos de facturación ya consolidada, no una previsión.
 - **Francia, 2025: empresas de servicios -1,8 %, consultoría tecnológica
   -2,5 %, software y nube +8,2 %,** en palabras de la propia patronal
   «surtout de la hausse des tarifs», con los aumentos de presupuesto
@@ -74,14 +74,14 @@ que cae son las horas.
 - **Alemania, 2026: servicios de TI +3,1 %, software +9,9 %, software en la
   nube +21,9 %, plataformas de IA +75,8 %.** *Bitkom/IDC, agosto de 2026.*
 - **Alemania produce en términos reales un tercio más de software y
-  servicios de TI que hace cinco años, con la tasa de vacantes TIC caída del
-  6,3 % al 2,5 %.** Índice de volumen de producción: de 99,2 (2021-T1) a
+  servicios de TI que hace cinco años, mientras la tasa de vacantes en el
+  sector TIC cayó del 6,3 % al 2,5 %.** Índice de volumen de producción: de 99,2 (2021-T1) a
   134,0 (2026-T1). *Eurostat, cotejado con la API.*
 - **En Alemania y Francia el mercado de trabajo en su conjunto ha recuperado
   los niveles prepandemia mientras las ofertas de empleo de desarrollador de
   software están a la mitad.** Alemania, 50,6 frente a 104,5; Francia, 51,1
   frente a 100,0 (febrero de 2020 = 100). *Indeed Hiring Lab, 7 de agosto de
-  2026.* El grupo de control viene incorporado.
+  2026.* El grupo de control queda ya integrado.
 - **Hays Alemania: honorarios +3 % mientras los volúmenes caían un 9 %.**
   *Hays plc, S1 y T4 del ejercicio 2026, auditado y cotizado.* **Bélgica:
   ingresos de project sourcing +0,4 % mientras las horas facturables caían
@@ -100,7 +100,7 @@ versiones.
   Alemania está en máximos de la serie; la serie neerlandesa (del 81,4 % en
   1995 al 70,6 % en 2025) lleva tres años subiendo. Quien apoye una ley en
   una participación salarial en desplome pierde el argumento en Europa, así
-  que esta ley no lo hace.
+  que esta ley no la funda en eso.
 - **El desplazamiento agregado aún no es demostrable.** La tasa de empleo de
   la UE-27 está en un récord del 76,3 %; los especialistas TIC pasaron del
   3,5 % al 5,0 % del empleo; la remuneración de los asalariados fue el
@@ -111,12 +111,12 @@ versiones.
   los empleados junior (*Bundestag Drucksache 21/3722, 19 de enero de
   2026*). La misma tecnología, decisiones opuestas: Publicis sumó
   aproximadamente 5 800 empleados el año en que WPP prescindió de 9 389.
-- **El mecanismo no se ha difundido lejos.** Solo el 19,95 % de las empresas
+- **El mecanismo no ha tenido una difusión amplia.** Solo el 19,95 % de las empresas
   de la UE con diez o más empleados usó alguna IA en 2025. La afirmación
   seria es un pronóstico sobre un mecanismo, no un informe sobre el pasado.
 
 Por eso el Reglamento no afirma nada en pasado. La designación del artículo
-3 exige un desacoplamiento demostrado a nivel de empresa, no un relato de
+3 exige un desacoplamiento demostrado a escala de empresa, no un relato de
 toda la economía; el warrant del artículo 5 no detrae nada hasta que las
 ganancias cristalizan efectivamente; y el artículo 14, apartado 3, lleva la
 condición de falsación a la vista: si la automatización se extiende sin el
@@ -132,12 +132,12 @@ de los activos públicos mancomunados en Europa es una historia de saqueos, y
 la historia de los derechos individuales es mejor.
 
 - **Polonia, una línea de ley: el 51,5 % del dinero de la cuenta de
-  pensiones de cada ciudadano, cancelado en un día señalado.** *Ley de 6 de
+  pensiones de cada ciudadano, cancelado en una fecha fijada.** *Ley de 6 de
   diciembre de 2013, Dz.U. 2013 poz. 1717, artículo 23(1).* El artículo
   23(2) se llevó primero los bonos del Tesoro, para que el Estado pudiera
   amortizar su propia deuda. El saqueo no es una hipótesis; es una ley
-  promulgada, y el artículo 12 de este Reglamento está redactado contra sus
-  verbos enumerados.
+  promulgada, y el artículo 12 de este Reglamento está redactado para
+  blindarse frente a cada una de esas conductas enumeradas.
 - **El fondo de reserva de las pensiones de España cayó un 97 %,** de 66 800
   millones de EUR (2011) a 2 100 millones de EUR, con retiradas acumuladas
   de 80 300 millones de EUR. La ley que lo protege se aprobó en 2023, cuando
@@ -163,11 +163,11 @@ la historia de los derechos individuales es mejor.
   personas retiraron 1 320 millones de EUR en un solo mes; quienes salieron
   tenían una media de 41 años y 8 468 EUR, con ingresos ligeramente
   inferiores a la media nacional. Por eso el derecho del artículo 10 es
-  irrenunciable: un derecho que puede comprarse de las manos de un ciudadano
-  lo será, empezando por el más barato.
+  irrenunciable: un derecho que pueda comprarse a un ciudadano se le
+  comprará, empezando por el más barato.
 - **La subida salarial danesa congelada de 1978, 4 368 DKK, vale hoy 119 506
-  DKK libres de impuestos,** unas 27 veces en 46 años, en una cuenta con el
-  nombre del trabajador. *Lønmodtagernes Dyrtidsfond, a 31 de diciembre de
+  DKK libres de impuestos,** multiplicada por 27 en 46 años, en una cuenta
+  con el nombre del trabajador. *Lønmodtagernes Dyrtidsfond, a 31 de diciembre de
   2025.* Renta diferida convertida en capital en propiedad: el instrumento
   existente más próximo a lo que este Reglamento construye.
 - **Dos tercios del fondo de Noruega nunca fueron petróleo:** 15 210 000
@@ -204,14 +204,14 @@ algunas que nos habrían ayudado.
   eran un cálculo de volumen de chats.
 - **«SAP recortó 10 000 empleos por la IA.»** La plantilla creció en ambos
   años.
-- **Las 160 000 pérdidas de empleo de las telecomunicaciones como historia
-  de IA.** La propia evaluación del sector: «esta contracción dramática debe
-  muy poco a la IA»; los mismos operadores prescindieron de más de 380 000
-  personas entre 2014 y 2022.
+- **Las 160 000 pérdidas de empleo de las telecomunicaciones como un
+  relato sobre el impacto de la IA.** La propia evaluación del sector:
+  «esta contracción dramática apenas se debe a la IA»; los mismos
+  operadores prescindieron de más de 380 000 personas entre 2014 y 2022.
 - **Las afirmaciones causales de los portales de empleo** (ofertas de nivel
   inicial «un 32 % menos desde ChatGPT» y similares): ventanas que contienen
   el ciclo entero de endurecimiento de tipos, presentadas como efectos de la
-  IA por partes que venden productos de selección de personal.
+  IA por agentes que comercializan productos de selección de personal.
 
 ## 6. Trampas de medición
 
@@ -225,17 +225,17 @@ algunas que nos habrían ayudado.
   excluyen las pensiones**, lo que invierte la clasificación y hace que los
   Países Bajos y Dinamarca parezcan pobres en activos.
 - **La participación salarial de Noruega es un efecto de denominador del
-  precio del gas**; no la use. **Alemania tiene una ruptura dura de serie en
+  precio del gas**; no la use. **Alemania tiene una dura ruptura de serie en
   1991**; nunca empalme.
 - **Los datos de vacantes TIC de Eurostat se detienen en 2025-T4** mientras
   las series de precios y empleo llegan a 2026; los periodos no están
   alineados en el tiempo.
 
-## 7. El horizonte largo
+## 7. El horizonte a largo plazo
 
 La Reserva es un instrumento construido para un horizonte que la
-política rara vez premia; por eso esta página dice sin rodeos lo que
-hacen cincuenta años, y lo que no.
+política rara vez premia; por eso esta página dice sin rodeos lo que da
+de sí un horizonte de cincuenta años, y lo que no.
 
 - **Alaska paga un dividendo a cada residente desde hace 44 años
   consecutivos.** El Permanent Fund posee más de 86 000 millones de
@@ -245,7 +245,7 @@ hacen cincuenta años, y lo que no.
   Alaska Department of Revenue, tabla de dividendos.* Ningún
   legislador ha tocado el principal en medio siglo, porque cada
   ciudadano tenía una razón para defenderlo.
-- **Alaska muestra también el modo de fallo.** Desde 2016 el dividendo
+- **Alaska muestra también cómo puede fallar el mecanismo.** Desde 2016 el dividendo
   se fija en el regateo político anual; la fórmula legal sigue en la
   ley y sencillamente no se aplica, y el dividendo de 1 000 USD de
   2025 es, corregido por inflación, el más pequeño de la historia del
@@ -270,8 +270,8 @@ hacen cincuenta años, y lo que no.
   unos 1 200 EUR de capital de la Reserva por ciudadano y un dividendo
   de unos 47 EUR al año; ajustada a las previsiones anteriores, unos
   10 000 EUR y 370 EUR, en euros constantes de 2026: un fondo de la
-  escala que construyó la regla noruega. Ambas curvas pasan su primera
-  década indistinguibles de cero. Ese es el diseño: el anexo II
+  escala que construyó la regla noruega. Ambas curvas se mantienen
+  prácticamente en cero durante la primera década. Ese es el diseño: el anexo II
   preserva el capital antes de repartir, y la participación se
   capitaliza mientras el reparto espera. Si ninguna curva se
   materializa, el artículo 14, apartado 3, obliga a la Comisión a
@@ -292,5 +292,5 @@ El artículo 114 TFUE solo sostiene este Reglamento si normas nacionales diverge
 
 Las notas de trabajo de las tres líneas de investigación están en este
 directorio; contienen el rastro completo de fuentes. Discuta una cifra
-abriendo una incidencia o un pull request: una cifra que no sobrevive al contacto
-con su fuente sale de esta página y pasa a la sección 5.
+abriendo una incidencia o un pull request: toda cifra que no se sostenga al
+contrastarla con su fuente sale de esta página y pasa a la sección 5.

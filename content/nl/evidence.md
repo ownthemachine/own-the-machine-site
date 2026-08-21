@@ -17,14 +17,14 @@ De premisse van de verordening staat in haar eigen overwegingen en wordt
 getoetst door haar eigen artikel 14: hypergeautomatiseerde productie
 koppelt de productie los van arbeid op het niveau van de onderneming, de
 winsten concentreren zich bij wie het platform bezit, en het bezit van
-productief kapitaal in Europa is te smal om die winsten uit zichzelf bij
-de burgers te laten aankomen. Elke sectie hieronder beantwoordt aan een
+productief kapitaal in Europa is te geconcentreerd om die winsten uit
+zichzelf bij de burgers te laten aankomen. Elke sectie hieronder beantwoordt aan een
 deel van die premisse, en sectie 3 legt vast wat het Europese bewijs niet
 laat zien, omdat het instrument rond die eerlijkheid is ontworpen.
 
-## 1. Het bezit is smal
+## 1. Het bezit is geconcentreerd
 
-De toestand waarop het instrument antwoordt: Europeanen bezitten woningen
+De situatie waarop het instrument inspeelt: Europeanen bezitten woningen
 en pensioenbeloften, geen productief kapitaal.
 
 - **In het eurogebied bezit 60 % van de huishoudens de eigen woning en
@@ -42,8 +42,9 @@ en pensioenbeloften, geen productief kapitaal.
   haar vermogen aan als woning en 3 % als aandelen.** België: 76 %
   woning, 2 % aandelen. *ECB DWA, 2025-Q4.* De premisse als één rij van
   een tabel.
-- **Het doorsnee Nederlandse huishouden is EUR 135 500 waard, of
-  EUR 23 000 zodra de woning wordt weggenomen.** *CBS 83834NED,
+- **Het doorsnee Nederlandse huishouden heeft een nettovermogen van
+  EUR 135 500, of EUR 23 000 wanneer de eigen woning buiten beschouwing
+  wordt gelaten.** *CBS 83834NED,
   1 januari 2024*, belastingregisters, geen enquête. Vermeld eerst dat
   pensioenen buiten beschouwing blijven.
 - **Belgische huishoudens hebben EUR 1 740 mld aan pensioenaanspraken
@@ -58,15 +59,15 @@ en pensioenbeloften, geen productief kapitaal.
 ## 2. De winsten concentreren zich bij het platform
 
 Waarom artikel 3 aanwijst wat het aanwijst: waar de productie is
-geautomatiseerd, is de prijs die standhoudt de licentieprijs, en het
-volume dat daalt de uren.
+geautomatiseerd, blijven licentieprijzen op peil, terwijl het aantal
+gewerkte uren terugloopt.
 
 - **Europese cloudbedrijven verdrievoudigden hun omzet in zeven jaar en
   hun aandeel in hun eigen thuismarkt daalde toch van 29 % naar 15 %,**
   omdat de markt verzesvoudigde. Amazon, Microsoft en Google nemen 70 %
   van een Europese markt van EUR 61 mld; SAP en Deutsche Telekom houden
-  elk ongeveer 2 %. *Synergy Research Group, 24 juli 2025.* Afgesloten
-  omzetgeschiedenis, geen prognose.
+  elk ongeveer 2 %. *Synergy Research Group, 24 juli 2025.* Gerealiseerde
+  historische omzet, geen prognose.
 - **Frankrijk 2025: dienstenbedrijven -1,8 %, technologieconsulting
   -2,5 %, software en cloud +8,2 %,** in de eigen woorden van de
   branchevereniging "surtout de la hausse des tarifs", met
@@ -74,15 +75,16 @@ volume dat daalt de uren.
   *Numeum/PAC, december 2025.*
 - **Duitsland 2026: IT-diensten +3,1 %, software +9,9 %, cloudsoftware
   +21,9 %, AI-platforms +75,8 %.** *Bitkom/IDC, augustus 2026.*
-- **Duitsland produceert in reële termen een derde meer software en
+- **Duitsland produceert reëel een derde meer software en
   IT-diensten dan vijf jaar geleden, terwijl de ICT-vacaturegraad daalde
   van 6,3 % naar 2,5 %.** Productievolume-index van 99,2 (2021-Q1) naar
   134,0 (2026-Q1). *Eurostat, geverifieerd aan de hand van de API.*
 - **In Duitsland en Frankrijk staat de arbeidsmarkt als geheel weer op
-  het niveau van vóór de pandemie, terwijl de vacatures voor
-  softwareontwikkelaars op de helft staan.** Duitsland 50,6 tegenover
+  het niveau van vóór de pandemie, terwijl het aantal vacatures voor
+  softwareontwikkelaars is gehalveerd.** Duitsland 50,6 tegenover
   104,5; Frankrijk 51,1 tegenover 100,0 (februari 2020 = 100). *Indeed
-  Hiring Lab, 7 augustus 2026.* De controlegroep is ingebouwd.
+  Hiring Lab, 7 augustus 2026.* De cijfers bevatten al een ingebouwde
+  controlegroep.
 - **Hays Duitsland: tarieven +3 % terwijl de volumes 9 % daalden.**
   *Hays plc H1 en Q4 FY26, gecontroleerd en beursgenoteerd.* **België:
   omzet uit projectsourcing +0,4 % terwijl de factureerbare uren 3,4 %
@@ -107,7 +109,7 @@ nodig.
   ICT-specialisten stegen van 3,5 % naar 5,0 % van de werkgelegenheid; de
   beloning van werknemers bedroeg in 2025 48,09 % van het bbp van de
   EU27, boven 2015, 2019 en 2022. Deense registerdata over ~25 000
-  werknemers vinden precieze nuleffecten twee jaar na ChatGPT (*Humlum en
+  werknemers laten exact een nuleffect zien, twee jaar na ChatGPT (*Humlum en
   Vestergaard*); de Duitse bondsregering stelt formeel "keine Hinweise"
   van verdringing van starters vast (*Bundestag Drucksache 21/3722,
   19 januari 2026*). Zelfde technologie, tegengestelde keuzes: Publicis
@@ -122,11 +124,11 @@ Daarom claimt de verordening niets in de verleden tijd. Aanwijzing onder
 artikel 3 vereist aangetoonde loskoppeling op het niveau van de
 onderneming, geen verhaal over de hele economie; de warrant onder artikel
 5 neemt niets totdat winsten daadwerkelijk worden verzilverd; en artikel
-14, lid 3, draagt de falsificatievoorwaarde openlijk: als automatisering
+14, lid 3, bevat expliciet de falsificatievoorwaarde: als automatisering
 zich verspreidt zonder de loskoppeling en concentratie die de premisse
-stelt, moet de Commissie rapporteren dat de premisse niet wordt gedragen
-en wijziging of intrekking voorstellen. Een wet die op een empirische
-claim is gegrond, behoort haar eigen toets te dragen.
+stelt, moet de Commissie rapporteren dat de premisse niet wordt
+onderbouwd en wijziging of intrekking voorstellen. Een wet die op een
+empirische claim is gegrond, behoort haar eigen toets te doorstaan.
 
 ## 4. Wat er met gepoolde aanspraken gebeurt
 
@@ -158,16 +160,16 @@ aanspraken is beter.
   Commission Annual Report 2014; NTMA-waardering van de discretionaire
   portefeuille per 21 december 2014; National Treasury Management Agency
   (Amendment) Act 2014.* Het Hongaarse -75,9 % is het andere ijkpunt.
-  Dit zijn de sterkste zaken tegen het eigen mechanisme van deze
+  Dit zijn de sterkste argumenten tegen het eigen mechanisme van deze
   verordening, en zij zijn de reden dat de beschermingen van de Reserve
-  operatieve artikelen zijn en geen beloften.
+  rechtstreeks werkende bepalingen zijn en geen beloften.
 - **Estland bewijst dat een aanspraak noodzakelijk maar niet voldoende
   is.** Toen de tweede pijler in januari 2021 vrijwillig werd, namen
   149 083 mensen in één maand EUR 1,32 mld op; de vertrekkers waren
   gemiddeld 41 jaar oud, met EUR 8 468, en verdienden iets minder dan het
   nationale gemiddelde. Daarom kan van de aanspraak in artikel 10 geen
-  afstand worden gedaan: een aanspraak die uit de handen van een burger
-  kan worden gekocht, zal dat ook worden, de goedkoopste eerst.
+  afstand worden gedaan: een aanspraak die van een burger kan worden
+  afgekocht, zal dat ook worden, de goedkoopste eerst.
 - **De bevroren loonsverhoging van een Deense werknemer uit 1978, DKK
   4 368, is vandaag DKK 119 506 belastingvrij waard,** ongeveer 27 keer
   zoveel in 46 jaar, op een rekening met de naam van de werknemer erop.
@@ -184,7 +186,7 @@ aanspraken is beter.
   Groeifonds, COFIDES, SEPI, het Spaanse FRSS, het Portugese BPF en
   FEFSS, het Griekse Growth Fund, het Finse Solidium, Bpifrance, het
   Italiaanse CDP, het Sloveense SDH, het Poolse PFR, het Ierse FIF, ICNF
-  en ISIF. Geen rekening, geen eenheid, geen overerfbaar recht.
+  en ISIF. Geen rekening, geen participatie, geen overerfbaar recht.
   Individuele aanspraken bestaan alleen in pensioenvehikels, en dat is
   het gat dat artikel 10 dicht.
 
@@ -217,7 +219,7 @@ waaronder enkele die ons zouden hebben geholpen.
   cyclus van renteverhogingen omvatten, als AI-effect gepresenteerd door
   partijen die wervingsproducten verkopen.
 
-## 6. Meetvallen
+## 6. Meetvalkuilen
 
 - **Drie verdedigbare maatstaven voor het arbeidsaandeel verschillen tot
   19 punten.** Italië 2024: ongecorrigeerd 39,4 %, gecorrigeerd 58,3 %.
@@ -249,14 +251,14 @@ doen, en wat niet.
   dividendtabel.* Geen wetgever heeft in een halve eeuw aan de
   hoofdsom gezeten, omdat elke burger een reden had haar te
   verdedigen.
-- **Alaska toont ook de faalwijze.** Sinds 2016 wordt het dividend
+- **Alaska laat ook zien waar het misgaat.** Sinds 2016 wordt het dividend
   bepaald in de jaarlijkse politieke onderhandeling; de wettelijke
   formule staat nog in de wet en wordt eenvoudigweg niet gevolgd, en
   het dividend van USD 1 000 in 2025 is, gecorrigeerd voor inflatie,
   het kleinste uit de geschiedenis van het programma. Een
   uitkeringsregel in een gewone wet is te kapen in een
   begrotingsstrijd. Daarom staat de regel hier in bijlage II van de
-  verordening zelf, is de aanspraak een operationeel artikel, en
+  verordening zelf, is de aanspraak een rechtstreeks werkende bepaling, en
   rapporteert de Commissie over de formule in plaats van haar vast te
   stellen.
 - **De AI-waardeprognoses blijven buiten de premisse.** PwC raamt
@@ -272,7 +274,7 @@ doen, en wat niet.
   Bij een voorzichtige doorrekening (EUR 150 mrd omzet van aangewezen
   ondernemingen, reële
   rendementen van Noorse klasse) bereikt de centrale curve van de
-  simulator tegen jaar vijftig een belang van ruwweg EUR 1 200 aan
+  simulator na vijftig jaar een belang van ruwweg EUR 1 200 aan
   Reservekapitaal per burger en een dividend van ruwweg EUR 47 per
   jaar; doorgerekend met de prognoses hierboven ruwweg EUR 10 000 en
   EUR 370, in constante euro's van 2026: een fonds van de schaal die
@@ -290,12 +292,12 @@ Artikel 114 VWEU biedt alleen een rechtsgrondslag voor deze verordening als uite
 - **Acht lidstaten belasten digitale activiteit eenzijdig, tegen tarieven van 1,5 % tot 7,5 %, op grondslagen die niet overeenkomen.** Oostenrijk 5 % op uitsluitend onlinereclame; Denemarken 2 % met een toeslag van 3 % op streaming; Frankrijk 3 % op digitale interfaces, gerichte reclame en de doorgifte van gebruikersgegevens, met een verlaagde schijf van 1,2 %; Hongarije 7,5 %, momenteel tot en met juni 2026 op nul gezet; Italië 3 %, na afschaffing van zijn wereldwijde omzetdrempel; Polen 1,5 % en 3 % op audiovisuele media en reclame; Portugal 4 % en 1 % op video- en on-demandplatforms; Spanje 3 % op reclame en de verkoop van gebruikersgegevens. *Tax Foundation Europe, digitaledienstenbelastingen in Europa, 2026.*
 - **De toegangsdrempels verschillen een factor tienduizend,** van HUF 100 miljoen in Hongarije en EUR 3 miljoen in Spanje tot EUR 25 miljoen in Frankrijk en Oostenrijk en EUR 1 miljard groepsomzet in Polen. Dezelfde onderneming valt bij gelijke omzet binnen het ene nationale stelsel en buiten dat van het buurland.
 - **Zes andere lidstaten hebben zulke belastingen voorgesteld of aangekondigd zonder ze aan te nemen:** België, Tsjechië, Duitsland, Letland, Slowakije en Slovenië. Ongeveer de helft van de Europese OESO-leden heeft er een aangekondigd, voorgesteld of ingevoerd. *Zelfde bron.*
-- **Het gaat om de volgorde.** Een maatregel op Unieniveau werd geprobeerd en haalde het niet; daarna stelden lidstaten ieder voor zich wetgeving vast, en het versnipperde landschap dat de Commissie had willen vermijden is wat de interne markt nu heeft. Aan de volgende ronde is niets anders: het Europees Parlement verwierp in februari 2017 een robotbelasting (het verslag-Delvaux), het voorstel is teruggekeerd in het huidige debat over grootschalige AI-invoering, en geen enkel Unie-instrument bestrijkt deze materie.
+- **Het gaat om de volgorde.** Een maatregel op Unieniveau werd geprobeerd en haalde het niet; daarna stelden lidstaten ieder voor zich wetgeving vast, en het versnipperde landschap dat de Commissie had willen vermijden is wat de interne markt nu heeft. De volgende ronde verloopt niet anders: het Europees Parlement verwierp in februari 2017 een robotbelasting (het verslag-Delvaux), het voorstel is teruggekeerd in het huidige debat over grootschalige AI-invoering, en geen enkel Unie-instrument bestrijkt deze materie.
 - **Wat de vergelijking wel en niet aantoont.** Zij toont niet aan dat automatiseringsheffingen eraan komen; zij toont wat lidstaten doen wanneer een nieuwe vorm van waarde in de interne markt verschijnt en de Unie niet handelt, en dat zij dat doen tegen onverenigbare tarieven, op onverenigbare grondslagen en met onverenigbare drempels. Dat is de belemmering die deze verordening uitsluit door de trigger, het instrument en het vehikel te harmoniseren voordat er zevenentwintig antwoorden bestaan in plaats van erna.
 
 ---
 
 Werkaantekeningen voor de drie onderzoekslijnen staan in deze map; zij
-dragen het volledige bronnenspoor. Betwist een cijfer door een issue of
-een pull request te openen: een cijfer dat het contact met zijn bron niet
-overleeft, gaat van deze pagina af en verhuist naar sectie 5.
+bevatten het volledige bronnenspoor. Betwist een cijfer door een issue of
+een pull request te openen: een cijfer dat de toets aan de bron niet
+doorstaat, gaat van deze pagina af en verhuist naar sectie 5.

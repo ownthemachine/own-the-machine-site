@@ -104,6 +104,7 @@ for (const [page, source] of Object.entries(PAGES)) {
     if (!existsSync(f)) continue;
     const tr = shape(readFileSync(f, 'utf8'));
     const issues = [];
+    const notes = [];
     if (tr.headings !== en.headings) {
       issues.push(`headings ${tr.headings} vs ${en.headings}`);
     }
@@ -113,6 +114,12 @@ for (const [page, source] of Object.entries(PAGES)) {
     const drift = Math.abs(tr.paras - en.paras) / Math.max(en.paras, 1);
     if (drift > PARA_TOLERANCE) {
       issues.push(`paragraphs ${tr.paras} vs ${en.paras}`);
+    } else if (tr.paras !== en.paras) {
+      // Below tolerance is not the same as fine. A 14-against-15 slipped
+      // through here once and it was a whole paragraph of the English that
+      // had never been translated, so any difference is now shown even when
+      // it does not fail the check.
+      notes.push(`paragraphs ${tr.paras} vs ${en.paras}`);
     }
     const lost = missingFrom(en.cites, tr.cites);
     const extra = missingFrom(tr.cites, en.cites);
@@ -125,14 +132,15 @@ for (const [page, source] of Object.entries(PAGES)) {
     if (tr.pcts !== en.pcts) {
       issues.push(`percentage figures ${tr.pcts} vs ${en.pcts}`);
     }
-    rows.push({ page, loc, ...tr, issues });
+    rows.push({ page, loc, ...tr, issues, notes });
     if (issues.length) problems++;
   }
   rows.push({ page, loc: 'en', ...en, issues: [] });
 }
 
 for (const r of rows) {
-  const tag = r.issues.length ? `PROBLEM: ${r.issues.join('; ')}` : 'ok';
+  const tag = r.issues.length ? `PROBLEM: ${r.issues.join('; ')}`
+    : (r.notes && r.notes.length ? `ok, but ${r.notes.join('; ')}` : 'ok');
   console.log(
     `${r.page.padEnd(14)} ${r.loc}  headings=${String(r.headings).padStart(3)}`
     + `  dc=${String(r.dcRows).padStart(3)}  paras=${String(r.paras).padStart(4)}`

@@ -131,6 +131,22 @@ batalla está pensada para el Consejo, en público y con constancia en acta.
    el registro parcial, si la Comisión insiste en él, recorte el anexo y no
    la petición.
 
+   **Esta regla es una hipótesis, no una conclusión, y es lo primero que
+   el control 1 tiene que someter a prueba.** La preparación de la
+   solicitud al ECI Forum el 21 de agosto de 2026 sacó a la luz la
+   lectura contraria: que la Comisión examina la iniciativa en su
+   conjunto, incluidos el anexo y cualquier proyecto de acto jurídico, y
+   no solo el título y los objetivos, y que enmarcar un objetivo como una
+   petición de evaluación y propuesta no lo protege si el mecanismo al
+   que apunta necesita una competencia que la Unión no tiene. Según esa
+   lectura, anexar el Reglamento no protege la petición y puede ampliar
+   lo que se evalúa. El punto se plantea al ECI Forum como las preguntas
+   2 y 3 de campaign/GATE1-LETTER.md. Si la respuesta es que el anexo se
+   evalúa en pie de igualdad con la petición, esta regla cambia, y con
+   ella lo que se incluye en el formulario de registro, de modo que nada
+   aguas abajo debe construirse sobre ella hasta que llegue la
+   respuesta.
+
 ## Lo que esto cuesta y por qué merece la pena
 
 La estratificación es una concesión por adelantado, y los lectores hostiles

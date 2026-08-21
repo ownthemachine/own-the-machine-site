@@ -136,6 +136,23 @@ Präzedenzfall der Vermögensteuer: Der Kampf ist für den Rat gedacht,
    sodass eine teilweise Registrierung, falls die Kommission darauf
    besteht, den Anhang beschneidet und nicht das Ersuchen.
 
+   **Diese Regel ist eine Annahme, kein Befund, und sie ist das Erste,
+   was die Prüfstufe 1 zu testen hat.** Die Vorbereitung des Antrags an
+   das ECI Forum am 21. August 2026 brachte die gegenteilige Lesart
+   zutage: dass die Kommission die Initiative als Ganzes prüft, Anhang
+   und einen etwaigen Entwurf eines Rechtsakts eingeschlossen, statt nur
+   Titel und Ziele, und dass die Formulierung eines Ziels als Ersuchen um
+   Prüfung und Vorschlag es nicht schützt, wenn der Mechanismus, auf den
+   es verweist, eine Befugnis erfordert, die der Union fehlt. Nach dieser
+   Lesart schützt die Beifügung der Verordnung als Anhang das Ersuchen
+   nicht und kann vielmehr erweitern, was geprüft wird. Der Punkt wird
+   dem ECI Forum als Fragen 2 und 3 von campaign/GATE1-LETTER.md
+   vorgelegt. Lautet die Antwort, dass der Anhang auf derselben Grundlage
+   geprüft wird wie das Ersuchen, ändert sich diese Regel, und damit
+   auch, was in das Registrierungsformular kommt, sodass nichts
+   Nachgelagertes darauf aufgebaut werden sollte, bis die Antwort
+   vorliegt.
+
 ## Was das kostet und warum es das wert ist
 
 Die Schichtung ist ein Zugeständnis im Voraus, und feindselige Leser werden
