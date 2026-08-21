@@ -1,6 +1,6 @@
 ---
 source: evidence/EVIDENCE.md
-source-commit: 8b0d54f
+source-commit: b1872b1
 status: gate-reviewed
 ---
 
@@ -158,6 +158,20 @@ la historia de los derechos individuales es mejor.
   contra el propio mecanismo de este Reglamento, y son la razón por la
   que las protecciones de la Reserva son artículos operativos y no
   promesas.
+- **Suecia abolió sus fondos de los asalariados en 1991, ocho años después
+  de crearlos, con un cambio de gobierno.** Los fondos se legislaron en
+  1983 como cinco organismos regionales financiados mediante un gravamen
+  sobre los beneficios y sobre la masa salarial, sin poder superar el 8 %
+  de ninguna empresa. Eran el superviviente diluido del plan Meidner de
+  1976, que habría obligado a las empresas rentables a emitir nuevas
+  acciones por valor del 20 % del beneficio anual a favor de fondos de
+  titularidad colectiva hasta que estos poseyeran la mayoría; la emisión
+  obligatoria se abandonó antes de que el Riksdag llegara siquiera a
+  votarla. Un gobierno de centroderecha liquidó los fondos en 1991 con
+  escasa resistencia del propio movimiento que los había propuesto. Este
+  es el precedente más cercano que existe al mecanismo del artículo 5, y
+  es el argumento más sólido en su contra, razón por la cual la objeción
+  19 lo enuncia en vez de que la base de evidencia lo oculte.
 - **Estonia demuestra que el derecho es necesario pero no suficiente.**
   Cuando el segundo pilar pasó a ser voluntario en enero de 2021, 149 083
   personas retiraron 1 320 millones de EUR en un solo mes; quienes salieron

@@ -1,6 +1,6 @@
 ---
 source: regulation/memorandum/counter-arguments.md
-source-commit: d7934d5
+source-commit: b1872b1
 status: gate-reviewed
 ---
 
@@ -73,7 +73,44 @@ considerando completo de proporcionalidad conforme al artículo 52, apartado
 valoración independiente e impugnable por separado. Una adaptación es
 obligatoria: el contrafactual de la BRRD es la insolvencia, y un régimen
 permanente no puede apoyarse en razonamientos de crisis (Dowling C-41/15).
-La distinción debe enunciarse en lugar de difuminarse: la resolución bancaria diluye a accionistas cuyas acciones no valdrían nada en la insolvencia contrafáctica, mientras que estas empresas son negocios sanos y en funcionamiento cuyas acciones valen mucho. La BRRD se toma, por tanto, por su maquinaria y no por su justificación, y este expediente no finge lo contrario; la justificación es la de James y la de Hauer, y se sostiene o cae por la proporcionalidad y no por una crisis que no se está produciendo. Nuestro suelo está, por tanto, en la ejecución y
+La distinción debe enunciarse en lugar de difuminarse: la resolución bancaria diluye a accionistas cuyas acciones no valdrían nada en la insolvencia contrafáctica, mientras que estas empresas son negocios sanos y en funcionamiento cuyas acciones valen mucho. La BRRD se toma, por tanto, por su maquinaria y no por su justificación, y este expediente no finge lo contrario; la justificación es la de James y la de Hauer, y se sostiene o cae por la proporcionalidad y no por una crisis que no se está produciendo.
+
+Conviene enunciar con precisión una autoridad jurisprudencial más, porque
+enunciada con vaguedad no valdría nada. En Sky Österreich (C-283/11, 22 de
+enero de 2013) la Gran Sala confirmó una medida de la Unión que exigía a los
+titulares de derechos exclusivos de radiodifusión conceder a sus
+competidores acceso para breves reportajes informativos, con una
+indemnización limitada a los costes adicionales directamente soportados,
+inferior a lo que pagaría el mercado. Los titulares de los derechos eran
+solventes, no había crisis ni insolvencia contrafáctica. **Ese asunto se
+decidió al amparo del artículo 16 de la Carta, la libertad de empresa, y no
+del artículo 17.** No es autoridad para una expropiación de capital, y este
+expediente no la ofrece como tal; el letrado hostil estaría legitimado para
+desmontar cualquier uso de ese tipo, y disfrutaría haciéndolo.
+
+Lo que sí aporta es más estrecho y sigue siendo útil. Este instrumento
+incide tanto en el artículo 16 como en el artículo 17, porque obligar a una
+empresa a emitir acciones que no eligió emitir es una injerencia en la
+conducción de su actividad, y el Servicio Jurídico de la Comisión verá
+ambas. En ese plano Sky Österreich es directamente pertinente, y dice tres
+cosas: la libertad del artículo 16 no es absoluta, sino que debe apreciarse
+en relación con su función social; el legislador de la Unión puede fijar
+una contraprestación inferior al valor de mercado cuando el interés público
+lo exija; y el criterio es el ordinario del artículo 52, apartado 1. La
+jurisprudencia más antigua respalda la misma lectura de los intereses
+empresariales, que no gozan de protección como meras expectativas
+comerciales de beneficios futuros (Nold 4/73). Booker Aquaculture (C-20/00 y
+C-64/00) se cita a veces junto a ella, y este expediente no se apoya en ese
+asunto: se refería a la destrucción de existencias enfermas bajo un régimen
+de sanidad animal, una justificación de emergencia de salud pública que
+este instrumento no puede invocar.
+
+El plano del artículo 17 descansa por tanto donde descansaba, en James y en
+Hauer, y la afirmación honesta es que ningún asunto resuelto sitúa una
+dilución de capital permanente, ajena a toda crisis y sin compensación, de
+una empresa sana, del lado correcto del artículo 17. Ese es el mayor riesgo
+jurídico del proyecto, y se enuncia como tal en la respuesta anterior.
+Nuestro suelo está, por tanto, en la ejecución y
 no en un contrafáctico:
 la injerencia nunca puede exceder en la ejecución el 3 % enunciado, su
 precio lo fija el propio evento de liquidez mediante una valoración
@@ -638,6 +675,116 @@ Y la respuesta parcial honesta: la retención en la fuente. Un reglamento de la 
 
 **Consecuencia de diseño.** DC-35: cristalización por extracción y por tiempo, no solo por venta. DC-36: las acciones de la Reserva se sitúan en igualdad de rango con la clase mejor situada entre las creadas tras la designación, sin afectar a las preferencias anteriores, y los montajes que las posponen son inoponibles a la Reserva. DC-37: el adquirente emite su propio warrant sobre su propio capital; el transmitente sigue obligado por los activos automatizados que conserva, y el conjunto entre ambos nunca supera el porcentaje enunciado de su capital combinado. DC-38: la retención en la fuente no recuperable se publica anualmente; el instrumento no ordena a la Reserva organizar sus participaciones para reducirla. DC-39: la obligación se vuelve a vincular cuando los mismos propietarios recuperan los activos de una reestructuración.
 
+### 19. Suecia lo intentó y ni siquiera pudo legislarlo
+
+**La objeción, en su formulación más sólida.** Este mecanismo no es nuevo y
+ya ha fracasado, en el único país que con mayor probabilidad podría haberlo
+sostenido. El plan Meidner, respaldado por el congreso de la confederación
+sindical sueca en 1976, obligaba a las empresas rentables a emitir nuevas
+acciones por valor del 20 % de su beneficio anual a favor de fondos de
+titularidad colectiva, año tras año, hasta que esos fondos poseyeran la
+mayoría de las acciones. Ese es el mecanismo de este instrumento: una
+emisión obligatoria de capital nuevo a favor de un titular colectivo,
+liquidada en acciones y no en efectivo, calibrada sobre la propia
+prosperidad de la empresa.
+
+No sobrevivió ni a su propia redacción. Cuando el Riksdag legisló en 1983,
+la emisión obligatoria de acciones ya se había abandonado y había sido
+sustituida por un gravamen sobre los beneficios y sobre la masa salarial,
+limitado en su conjunto y restringido a una tenencia máxima del 8 % en
+cualquier empresa. El diseño se convirtió, bajo presión política y antes de
+su promulgación, en precisamente aquello que este memorando dedica el
+artículo 8 y la objeción 2 a insistir en que este instrumento no es: un
+impuesto. Después el empresariado sueco se movilizó contra la propia
+versión diluida a una escala sin parangón moderno, con una manifestación el
+4 de octubre de 1983 que reunió entre 75 000 y 100 000 personas donde los
+organizadores esperaban 5 000, y la repitió cada año hasta que un cambio de
+gobierno abolió los fondos en 1991, con una resistencia mínima del propio
+movimiento que los había propuesto.
+
+La lectura es cruel, y está al alcance de cualquiera que conozca el
+expediente. En la economía avanzada más favorable a los sindicatos del
+mundo, en el apogeo del poder del movimiento obrero organizado, con un
+gobierno afín, la emisión obligatoria de capital a un fondo colectivo
+resultó imposible de legislar, se convirtió en una medida fiscal durante la
+propia redacción y fue derogada en ocho años por el primer gobierno que lo
+quiso. Quien redacta sin conocer esto no ha hecho la lectura. Quien lo
+conoce y lo omite lo está ocultando.
+
+**Lo que acierta.** Casi todo, como historia. El mecanismo es de la misma
+familia. La conversión en un gravamen es real y es la prueba más
+contundente disponible para el ataque de la objeción 2 sobre la
+calificación jurídica, porque muestra a legisladores experimentados
+recurriendo al instrumento fiscal cuando el instrumento de capital se
+volvió políticamente imposible. La abolición de 1991 es un caso genuino del
+saqueo contra el que este instrumento redacta el capítulo VI, y su lugar
+está junto a Polonia, España e Irlanda en la base de evidencia, en vez de
+omitirse por resultar incómoda. La movilización es una predicción real de
+lo que ocurre cuando el capital interpreta una propuesta de este tipo como
+una transferencia de control.
+
+**La respuesta que el instrumento debe dar.** Tres diferencias, cada una de
+las cuales corresponde a una razón concreta por la que el diseño sueco
+fracasó, y ninguna de ellas es cosmética.
+
+Primera, el término. Los fondos de Meidner estaban diseñados para
+acumularse sin límite hasta que la propiedad cambiara de manos, y su autor
+lo dijo así; ese era el objetivo, no un efecto secundario. Este instrumento
+toma el 3 % del capital totalmente diluido una sola vez, por designación,
+con el conjunto entre una empresa y cada adquirente limitado a ese mismo
+porcentaje conforme al artículo 5, apartado 11, y al artículo 7, apartado
+2. No existe ninguna vía desde este instrumento hasta el control, porque la
+aritmética no la permite. Quien sostenga lo contrario está argumentando
+contra una propuesta distinta.
+
+Segunda, el control. Los fondos suecos votaban, y los dirigían los
+sindicatos. La bibliografía sobre la derrota coincide en que la
+movilización giraba en torno a quién gobernaría las empresas, y no en torno
+al dinero, y el propio techo del 8 % fue un intento de responder a ese
+temor. La Reserva mantiene acciones sin derecho de voto conforme al
+artículo 5, apartado 4, letra a), tiene prohibido por el artículo 9 buscar
+o ejercer influencia, y el DC-32 hace de la participación económica el
+máximo. La base social que hizo posible 1983 eran empresarios que creían
+estar siendo nacionalizados a plazos. Esa creencia no puede formarse en
+torno a un instrumento que no puede votar.
+
+Tercera, el beneficiario. Los fondos suecos beneficiaban a un movimiento
+obrero, lo que los convirtió en una cuestión de partido en una disputa
+bipartidista. Las distribuciones de este instrumento benefician por igual a
+cada ciudadano de la Unión conforme al artículo 10, incluidos los propios
+accionistas y empleados de las empresas designadas. Eso no vuelve imposible
+la oposición. Sí hace más difícil trazar un «nosotros contra ellos».
+
+Lo que este expediente no afirma es que las diferencias hagan segura la
+economía política. No la hacen. La posición honesta es que Suecia
+demuestra que el mecanismo solo puede legislarse si es visiblemente
+acotado, visiblemente carente de poder en cuanto al control y visiblemente
+universal en a quién paga, y que una propuesta que falle en cualquiera de
+esos tres extremos tiene una vía documentada hacia el fracaso. Este
+instrumento está redactado para satisfacer los tres a la vez, y la
+objeción 4 ya cuantifica el riesgo político residual en lugar de negarlo.
+
+**Consecuencia de diseño.** DC-41: el instrumento debe ser acotado, sin
+votos ni derechos de control, y universal en a quién paga, los tres a la
+vez, porque el precedente sueco demuestra que fallar en cualquiera de ellos
+basta para perder. La palabra que hay que evitar es pasiva. La Reserva sí
+hace valer derechos: el artículo 5, apartado 4, letra b), fija su rango, y
+el artículo 5, apartado 10, hace ineficaces frente a ella los montajes que
+la subordinan, y un adversario llamará a eso cualquier cosa menos pasiva.
+La afirmación defendible es más estrecha: la Reserva no tiene votos, no
+nombra a nadie y no tiene voz en la gestión de la empresa. Ni siquiera eso
+agota la cuestión. El letrado hostil añade que un rango que la empresa no
+puede subordinar condiciona cómo obtiene capital de rescate o preferente,
+puesto que el dinero nuevo normalmente exige prelación, y llama a eso, en
+sustancia, un veto sobre la estructura de capital. No es un derecho de
+gobernanza, y el artículo 5, apartado 10, deja el montaje eficaz entre las
+partes. Es, aun así, una restricción a la financiación que la palabra
+pasiva ocultaría, y la objeción 18 y el expediente de redacción la recogen
+ahora como una cuestión abierta y no resuelta. DC-42: los fondos de los
+asalariados pertenecen a la base de evidencia como precedente de saqueo y a
+este expediente como objeción, enunciados antes de que un adversario los
+enuncie.
+
 ## La tabla de restricciones
 
 Los artículos se redactan contra esta tabla. Un borrador que viole una DC
@@ -685,6 +832,8 @@ suspende la revisión con independencia de su prosa.
 | DC-38 | Retención en la fuente no recuperable publicada anualmente; no se ordena a la Reserva organizar sus participaciones para reducirla | 18 |
 | DC-39 | La obligación se vuelve a vincular cuando los mismos propietarios recuperan los activos de una reestructuración | 18 |
 | DC-40 | Bajo un umbral de minimis el intervalo de reparto se alarga; nunca se convierte en razón para no pagar | 15 |
+| DC-41 | Acotado, sin votos ni derechos de control, y universal en a quién paga: los fondos suecos de los asalariados demuestran que fallar en cualquiera de los tres basta para perder. La Reserva sí hace valer derechos en cuanto al rango y frente a la subordinación; lo que nunca adquiere son votos, puestos en el consejo ni voz alguna en la gestión | 19 |
+| DC-42 | Los fondos de los asalariados se enuncian aquí como objeción y en la base de evidencia como precedente de saqueo, antes de que un adversario los enuncie | 19 |
 
 ## Estado
 

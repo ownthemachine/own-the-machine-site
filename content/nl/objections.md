@@ -1,6 +1,6 @@
 ---
 source: regulation/memorandum/counter-arguments.md
-source-commit: d7934d5
+source-commit: b1872b1
 status: gate-reviewed
 ---
 
@@ -76,7 +76,13 @@ artikel 17 van het Handvest, een volledige evenredigheidsoverweging onder
 artikel 52, lid 1, van het Handvest, en een gekwantificeerde uitvoeringswaarborg
 met een onafhankelijke, afzonderlijk aanvechtbare waardering. Eén aanpassing is verplicht: het contrafeitelijke scenario van
 de BRRD is insolventie, en een permanent stelsel kan niet leunen op
-crisisredeneringen (Dowling C-41/15). Het onderscheid moet worden benoemd in plaats van verdoezeld: bankenafwikkeling verwatert aandeelhouders wier aandelen in het contrafeitelijke faillissement niets waard zouden zijn, terwijl deze ondernemingen gezonde, lopende bedrijven zijn waarvan de aandelen veel waard zijn. De BRRD is daarom overgenomen vanwege haar mechaniek, niet vanwege haar rechtvaardiging, en dit dossier doet niet alsof; de rechtvaardiging is die in James en in Hauer, en zij staat of valt met evenredigheid in plaats van met een crisis die zich niet voordoet. Onze ondergrens ligt daarom in de
+crisisredeneringen (Dowling C-41/15). Het onderscheid moet worden benoemd in plaats van verdoezeld: bankenafwikkeling verwatert aandeelhouders wier aandelen in het contrafeitelijke faillissement niets waard zouden zijn, terwijl deze ondernemingen gezonde, lopende bedrijven zijn waarvan de aandelen veel waard zijn. De BRRD is daarom overgenomen vanwege haar mechaniek, niet vanwege haar rechtvaardiging, en dit dossier doet niet alsof; de rechtvaardiging is die in James en in Hauer, en zij staat of valt met evenredigheid in plaats van met een crisis die zich niet voordoet.
+
+Eén verder gezag verdient een precieze formulering, want los geformuleerd zou het niets waard zijn. In Sky Österreich (C-283/11, 22 januari 2013) hield de Grote kamer van het Hof een Uniemaatregel in stand die houders van exclusieve uitzendrechten verplichtte concurrenten toegang te geven voor korte nieuwsverslagen, tegen een vergoeding die was begrensd tot de rechtstreeks gemaakte extra kosten, wat onder de marktprijs ligt. De rechthebbenden waren solvabel, er was geen crisis en geen contrafeitelijke insolventie. **Die zaak is beslist onder artikel 16 van het Handvest, de vrijheid van ondernemerschap, en niet onder artikel 17.** Zij is geen gezag voor een ontneming van eigen vermogen, en dit dossier biedt haar niet als zodanig aan; vijandige raadslieden zouden gerechtigd zijn elk zodanig gebruik ervan te ontmantelen, en zouden dat met genoegen doen.
+
+Wat de zaak wel draagt, is smaller en niettemin bruikbaar. Dit instrument raakt zowel artikel 16 als artikel 17, want een onderneming verplichten aandelen uit te geven die zij niet uit eigen keuze uitgeeft, is een inmenging in de bedrijfsvoering, en de Juridische Dienst van de Commissie zal beide zien. Op dat onderdeel is Sky Österreich rechtstreeks van toepassing, en zij zegt drie dingen: de vrijheid van artikel 16 is niet onbegrensd maar moet worden bezien in relatie tot haar maatschappelijke functie; de Uniewetgever mag de vergoeding onder de marktwaarde vaststellen wanneer het algemeen belang dat vereist; en de toets is de gewone toets van artikel 52, lid 1. De oudere rechtspraak steunt dezelfde lezing van bedrijfsbelangen, die geen bescherming genieten als loutere commerciële verwachtingen van toekomstige winst (Nold 4/73). Booker Aquaculture (C-20/00 en C-64/00) wordt soms in dezelfde adem aangehaald, en dit dossier steunt daar niet op: die zaak betrof de vernietiging van ziek vee onder een diergezondheidsregeling, een rechtvaardiging op grond van een noodsituatie voor de volksgezondheid die dit instrument niet kan inroepen.
+
+Het onderdeel van artikel 17 rust daarom nog steeds waar het rustte, op James en op Hauer, en de eerlijke vaststelling is dat geen enkele beslissing een permanente, niet-crisisgebonden, onvergoede verwatering van eigen vermogen van een gezonde onderneming aan de juiste kant van artikel 17 plaatst. Dat is het grootste juridische risico van het project en het wordt als zodanig benoemd in het antwoord hierboven. Onze ondergrens ligt daarom in de
 uitvoering, niet in een vergelijkingsscenario: de inmenging kan bij de
 uitvoering nooit de genoemde 3 % overschrijden, haar prijs wordt bepaald
 door de liquiditeitsgebeurtenis zelf onder een onafhankelijke en
@@ -643,6 +649,120 @@ En het eerlijke gedeeltelijke antwoord: bronbelasting. Een Unieverordening kan d
 
 **Ontwerpconsequentie.** DC-35: omzetting bij onttrekking en na verloop van tijd, niet alleen bij een verkoop. DC-36: de aandelen van de Reserve staan gelijk in rang met de gunstigste klasse die na de aanwijzing is gecreëerd, waarbij eerdere preferenties onaangetast blijven, en achterstellende constructies zijn niet-inroepbaar tegenover de Reserve. DC-37: de verkrijger geeft een eigen warrant uit op haar eigen kapitaal; de overdrager blijft gebonden voor de geautomatiseerde activa die zij behoudt, en het totaal over hen samen overschrijdt nooit het genoemde percentage van hun gezamenlijke kapitaal. DC-38: niet-terugvorderbare bronbelasting wordt jaarlijks gepubliceerd; het instrument draagt de Reserve niet op haar bezit zo in te richten dat deze wordt verminderd. DC-39: de verplichting hecht opnieuw aan wanneer dezelfde eigenaars de activa uit een herstructurering terugkrijgen.
 
+### 19. Zweden probeerde dit en kreeg het niet eens wetgevend rond
+
+**Het bezwaar, in zijn sterkste vorm.** Dit mechanisme is niet nieuw en het
+heeft al gefaald, in het ene land dat het het meest waarschijnlijk had
+kunnen dragen. Het Meidner-plan, in 1976 goedgekeurd door het congres van
+de Zweedse vakcentrale, verplichtte winstgevende ondernemingen jaar na jaar
+nieuwe aandelen ter waarde van 20 % van hun jaarwinst uit te geven aan
+collectief gehouden fondsen, totdat die fondsen een meerderheid van de
+aandelen bezaten. Dat is het mechanisme van dit instrument: een verplichte
+uitgifte van nieuw eigen vermogen aan een collectieve houder, afgewikkeld
+in aandelen in plaats van contanten, geijkt op de eigen voorspoed van de
+onderneming.
+
+Het overleefde zijn eigen opstelling niet. Tegen de tijd dat de Riksdag in
+1983 wetgeving aannam, was de verplichte aandelenuitgifte al opgegeven en
+vervangen door een heffing op winsten en op de loonsom, in totaal aan een
+maximum gebonden en beperkt tot een belang van ten hoogste 8 % in elke
+afzonderlijke onderneming. Het ontwerp veranderde, onder politieke druk en
+vóór de inwerkingtreding, in precies datgene waarvan dit memorandum in
+artikel 8 en bezwaar 2 volhoudt dat dit instrument het niet is: een
+belasting. Vervolgens mobiliseerde het Zweedse bedrijfsleven tegen zelfs
+deze verwaterde versie op een schaal zonder moderne evenknie, met een
+demonstratie op 4 oktober 1983 die tussen de 75 000 en 100 000 mensen trok
+waar de organisatoren er 5 000 hadden verwacht, en herhaalde dat jaarlijks
+totdat een regeringswisseling de fondsen in 1991 afschafte, tegen
+nauwelijks weerstand van de beweging die ze had voorgesteld.
+
+De lezing is onvriendelijk en zij ligt open voor iedereen die het dossier
+kent. In de meest vakbondsvriendelijke ontwikkelde economie ter wereld, op
+het hoogtepunt van de macht van de georganiseerde arbeid, met een
+welwillende regering, bleek de verplichte uitgifte van eigen vermogen aan
+een collectief fonds niet te wetgeven, veranderde zij al in de
+ontwerpfase in een fiscale maatregel, en werd zij binnen acht jaar
+afgeschaft door de eerste regering die dat wilde. Een opsteller die dit
+niet weet, heeft het huiswerk niet gedaan. Een opsteller die het weet en
+het weglaat, verbergt het.
+
+**Wat eraan klopt.** Vrijwel alles, als geschiedenis. Het mechanisme
+behoort tot dezelfde familie. De omzetting naar een heffing is reëel en is
+het scherpste beschikbare bewijs voor de kwalificatieaanval van bezwaar 2,
+want zij toont ervaren wetgevers die naar het fiscale instrument grijpen
+zodra het instrument van eigen vermogen politiek onmogelijk wordt. De
+afschaffing van 1991 is een echt voorbeeld van de plundering waartegen dit
+instrument hoofdstuk VI opstelt, en zij hoort naast Polen, Spanje en
+Ierland in de bewijsbasis thuis, in plaats van te worden weggelaten omdat
+zij ongelegen komt. De mobilisatie is een reële voorspelling van wat er
+gebeurt wanneer kapitaal een voorstel van dit type leest als een
+overdracht van zeggenschap.
+
+**Het antwoord dat het instrument moet geven.** Drie verschillen, elk
+gekoppeld aan een specifieke reden waarom het Zweedse ontwerp faalde, en
+geen ervan is cosmetisch.
+
+Ten eerste, het eindpunt. Meidners fondsen waren ontworpen om zonder grens
+te blijven groeien totdat de zeggenschap van eigenaar wisselde, en de
+auteur zelf zei dat; dat was het doel, geen bijverschijnsel. Dit instrument
+neemt eenmalig 3 % van het volledig verwaterde kapitaal, per aanwijzing,
+waarbij het totaal over een onderneming en elke verkrijger samen begrensd
+is op datzelfde percentage krachtens artikel 5, lid 11, en artikel 7, lid
+2. Er loopt geen weg van dit instrument naar zeggenschap, want de
+rekenkunde staat er geen toe. Een tegenstander die iets anders beweert,
+betoogt tegen een ander voorstel.
+
+Ten tweede, zeggenschap. De Zweedse fondsen hadden stemrecht, en zij werden
+bestuurd door de vakbonden. De wetenschappelijke literatuur over de
+nederlaag is eenduidig dat de mobilisatie ging over wie de ondernemingen
+zou besturen, niet over het geld, en het plafond van 8 % was zelf al een
+poging om die vrees te beantwoorden. De Reserve houdt stemrechtloze
+aandelen krachtens artikel 5, lid 4, onder a), het is haar bij artikel 9
+verboden invloed te zoeken of uit te oefenen, en DC-32 maakt economische
+deelneming tot het maximum. De achterban die 1983 mogelijk maakte, bestond
+uit werkgevers die geloofden dat zij in termijnen werden genationaliseerd.
+Die overtuiging kan niet ontstaan over een instrument dat niet kan
+stemmen.
+
+Ten derde, de begunstigde. De Zweedse fondsen kwamen ten goede aan een
+arbeidersbeweging, waardoor zij een partijkwestie werden in een
+tweepartijenstrijd. De uitkeringen van dit instrument komen krachtens
+artikel 10 gelijkelijk toe aan iedere burger van de Unie, inclusief de
+aandeelhouders en de werknemers van de aangewezen ondernemingen zelf. Dat
+maakt verzet niet onmogelijk. Het maakt het lastiger om een 'zij tegen
+wij' te tekenen.
+
+Wat dit dossier niet beweert, is dat de verschillen de politieke economie
+veilig maken. Dat doen zij niet. De eerlijke positie is dat Zweden laat
+zien dat het mechanisme alleen wetgevend kan worden vastgelegd als het
+zichtbaar begrensd is, zichtbaar machteloos wat zeggenschap betreft, en
+zichtbaar universeel in wie het uitkeert, en dat een voorstel dat op een
+van die drie tekortschiet, een gedocumenteerde manier heeft om te
+sneuvelen. Dit instrument is zo opgesteld dat het aan alle drie voldoet, en
+bezwaar 4 prijst het resterende politieke risico al in, in plaats van het
+te ontkennen.
+
+**Ontwerpconsequentie.** DC-41: het instrument moet begrensd zijn, zonder
+stemrecht of zeggenschapsrechten, en universeel in wie het uitkeert, alle
+drie tegelijk, want het Zweedse precedent laat zien dat tekortschieten op
+één ervan al voldoende is om te verliezen. Het te vermijden woord is
+passief. De Reserve doet wel degelijk aanspraken gelden: artikel 5, lid 4,
+onder b), legt haar rang vast en artikel 5, lid 10, maakt achterstellende
+constructies tegenover haar niet-inroepbaar, en een tegenstander zal dat
+alles noemen behalve passief. De houdbare bewering is smaller: de Reserve
+heeft geen stemrecht, benoemt niemand en heeft geen zeggenschap over het
+bestuur van de onderneming. Ook daarmee is de zaak niet afgedaan. Vijandige
+raadslieden voeren verder aan dat een rang die de onderneming niet kan
+achterstellen, beperkt hoe zij noodlijdend of preferent kapitaal aantrekt,
+omdat nieuw geld doorgaans voorrang eist, en noemen dat feitelijk een veto
+over de kapitaalstructuur. Het is geen zeggenschapsrecht, en artikel 5, lid
+10, laat de constructie tussen de partijen zelf onverlet van kracht. Het is
+niettemin een beperking op financiering die het woord passief zou
+verhullen, en bezwaar 18 en het redactiedossier dragen dit nu als een open
+vraag in plaats van een uitgemaakte zaak. DC-42: de loontrekkersfondsen
+horen thuis in de bewijsbasis als plunderingsprecedent en in dit dossier
+als bezwaar, gesteld voordat een tegenstander het stelt.
+
 ## De beperkingentabel
 
 De artikelen worden aan de hand van deze tabel geredigeerd. Een ontwerp dat een DC
@@ -690,6 +810,8 @@ schendt, zakt voor de review, hoe goed het proza ook is.
 | DC-38 | Niet-terugvorderbare bronbelasting jaarlijks gepubliceerd; de Reserve wordt niet opgedragen haar bezit zo in te richten dat deze wordt verminderd | 18 |
 | DC-39 | De verplichting hecht opnieuw aan wanneer dezelfde eigenaars de activa uit een herstructurering terugkrijgen | 18 |
 | DC-40 | Onder een de-minimisdrempel verlengt het uitkeringsinterval; het wordt nooit een reden om niet uit te keren | 15 |
+| DC-41 | Begrensd, zonder stemrecht of zeggenschapsrechten, en universeel in wie het uitkeert: de Zweedse loontrekkersfondsen tonen dat tekortschieten op één van de drie al voldoende is om te verliezen. De Reserve doet wel aanspraken gelden op rang en tegen achterstelling; wat zij nooit verkrijgt, zijn stemrecht, bestuurszetels of enige zeggenschap over het bestuur | 19 |
+| DC-42 | De loontrekkersfondsen worden hier als bezwaar gesteld en in de bewijsbasis als plunderingsprecedent, vóórdat een tegenstander ze stelt | 19 |
 
 ## Status
 

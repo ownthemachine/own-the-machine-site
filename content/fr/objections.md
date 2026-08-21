@@ -1,6 +1,6 @@
 ---
 source: regulation/memorandum/counter-arguments.md
-source-commit: d7934d5
+source-commit: b1872b1
 status: gate-reviewed
 ---
 
@@ -75,7 +75,13 @@ complet de proportionnalité au titre de l'article 52, paragraphe 1, de la
 Charte, et une garantie d'exécution chiffrée, assortie d'une valorisation
 indépendante et contestable séparément. Une adaptation s'impose : le contrefactuel de la BRRD est
 l'insolvabilité, et un régime permanent ne peut s'appuyer sur un
-raisonnement de crise (Dowling C-41/15). La distinction doit être formulée nettement plutôt qu'estompée : la résolution bancaire dilue des actionnaires dont les actions ne vaudraient rien dans l'hypothèse contrefactuelle d'une insolvabilité, alors que ces entreprises sont des entités saines en exploitation dont les actions ont une grande valeur. La BRRD est donc empruntée pour ses mécanismes, non pour sa justification, et ce dossier ne prétend pas le contraire ; la justification est celle de James et de Hauer, et elle tient ou s'effondre sur la proportionnalité plutôt que sur une crise qui n'a pas lieu. Notre plancher tient donc à l'exécution, non
+raisonnement de crise (Dowling C-41/15). La distinction doit être formulée nettement plutôt qu'estompée : la résolution bancaire dilue des actionnaires dont les actions ne vaudraient rien dans l'hypothèse contrefactuelle d'une insolvabilité, alors que ces entreprises sont des entités saines en exploitation dont les actions ont une grande valeur. La BRRD est donc empruntée pour ses mécanismes, non pour sa justification, et ce dossier ne prétend pas le contraire ; la justification est celle de James et de Hauer, et elle tient ou s'effondre sur la proportionnalité plutôt que sur une crise qui n'a pas lieu.
+
+Un fondement supplémentaire mérite d'être énoncé avec précision, car énoncé de façon relâchée il ne vaudrait rien. Dans l'arrêt Sky Österreich (C-283/11, 22 janvier 2013), la grande chambre de la Cour a validé une mesure de l'Union imposant aux détenteurs de droits exclusifs de radiodiffusion d'accorder à leurs concurrents un accès pour de courts reportages d'actualité, moyennant une indemnisation plafonnée aux coûts supplémentaires directement exposés, soit un montant inférieur à ce que le marché aurait payé. Les titulaires de droits étaient solvables, il n'y avait ni crise ni insolvabilité contrefactuelle. **Cette affaire a été tranchée au titre de l'article 16 de la Charte, la liberté d'entreprise, et non au titre de l'article 17.** Elle ne constitue pas un précédent pour une captation de capital, et ce dossier ne la présente pas comme tel ; un conseil hostile serait fondé à démonter tout usage de ce genre, et le ferait avec plaisir.
+
+Ce qu'elle apporte réellement est plus étroit, mais utile. Cet instrument porte atteinte tant à l'article 16 qu'à l'article 17, car contraindre une entreprise à émettre des actions qu'elle n'a pas choisi d'émettre est une ingérence dans la conduite de ses affaires, et le service juridique de la Commission verra les deux. Sur ce volet, Sky Österreich est directement pertinent, et l'arrêt dit trois choses : la liberté de l'article 16 n'est pas absolue mais doit être envisagée par rapport à sa fonction sociale ; le législateur de l'Union peut fixer une indemnisation inférieure à la valeur de marché lorsque l'intérêt public l'exige ; et le contrôle est celui, ordinaire, de l'article 52, paragraphe 1. La jurisprudence plus ancienne conforte la même lecture des intérêts commerciaux, qui ne bénéficient d'aucune protection en tant que simples perspectives commerciales de profit futur (Nold, 4/73). Booker Aquaculture (C-20/00 et C-64/00) est parfois citée à l'appui, et ce dossier ne s'y appuie pas : cette affaire concernait la destruction de cheptel malade sous un régime de police sanitaire, une justification d'urgence sanitaire que cet instrument ne peut invoquer.
+
+Le volet de l'article 17 repose donc toujours là où il reposait, sur James et sur Hauer, et l'énoncé honnête est qu'aucune décision n'a jamais placé du bon côté de l'article 17 une dilution permanente, hors crise et non indemnisée du capital d'une entreprise saine. C'est le plus grand risque juridique du projet et il est énoncé comme tel dans la réponse ci-dessus. Notre plancher tient donc à l'exécution, non
 à un contrefactuel : l'ingérence ne peut jamais excéder
 les 3 % énoncés dans son exécution, son prix est fixé par l'événement de
 liquidité lui-même sur la base d'une évaluation indépendante et contestable
@@ -663,6 +669,124 @@ Et la réponse partielle honnête : la retenue à la source. Un règlement de l'
 
 **Conséquence de conception.** DC-35 : cristallisation sur les prélèvements et sur le temps, non sur la seule vente. DC-36 : les actions de la Réserve prennent rang avec la classe la mieux placée parmi celles créées après la désignation, sans toucher aux préférences antérieures, et les montages subordonnants sont inopposables à la Réserve. DC-37 : le cessionnaire émet son propre warrant sur son propre capital ; le cédant reste tenu pour les actifs automatisés qu'il conserve, et le cumul entre eux ne dépasse jamais le pourcentage énoncé de leur capital combiné. DC-38 : la retenue à la source non récupérable est publiée annuellement ; l'instrument n'enjoint pas à la Réserve d'organiser ses participations pour la réduire. DC-39 : l'obligation se réattache lorsque les mêmes propriétaires récupèrent les actifs au sortir d'une restructuration.
 
+### 19. La Suède a tenté cela, et n'a même pas réussi à le faire adopter
+
+**L'objection, sous sa forme la plus forte.** Ce mécanisme n'est pas
+nouveau, et il a déjà échoué, dans le pays le plus susceptible de l'avoir
+porté. Le plan Meidner, adopté par le congrès de la confédération
+syndicale suédoise en 1976, obligeait les entreprises bénéficiaires à
+émettre chaque année de nouvelles actions représentant 20 % de leur
+bénéfice annuel au profit de fonds détenus collectivement, jusqu'à ce que
+ces fonds détiennent la majorité des actions. C'est le mécanisme de cet
+instrument : une émission obligatoire de nouveau capital au profit d'un
+détenteur collectif, réglée en actions plutôt qu'en numéraire, calibrée
+sur la prospérité propre de l'entreprise.
+
+Il n'a pas survécu à sa propre rédaction. Lorsque le Riksdag a légiféré en
+1983, l'émission obligatoire d'actions avait déjà été abandonnée et
+remplacée par un prélèvement sur les bénéfices et sur la masse salariale,
+plafonné globalement et limité à une détention d'au plus 8 % dans chaque
+entreprise. Le dispositif s'est converti, sous la pression politique et
+avant l'adoption, en exactement ce dont ce mémorandum, à l'article 8 et
+dans l'objection 2, s'attache à démontrer que cet instrument n'est pas :
+un impôt. Les milieux d'affaires suédois se sont ensuite mobilisés contre
+cette version même diluée à une échelle sans équivalent moderne, avec une
+manifestation le 4 octobre 1983 qui a rassemblé entre 75 000 et 100 000
+personnes là où les organisateurs en attendaient 5 000, et l'ont répétée
+chaque année jusqu'à ce qu'un changement de gouvernement abolisse les
+fonds en 1991, face à une résistance minime du mouvement qui les avait
+proposés.
+
+Cette lecture n'a rien d'aimable, et elle est à la portée de quiconque
+connaît le dossier. Dans l'économie développée la plus favorable aux
+syndicats au monde, au sommet de la puissance du mouvement ouvrier
+organisé, avec un gouvernement bienveillant, l'émission obligatoire de
+capital au profit d'un fonds collectif s'est révélée impossible à
+légiférer, s'est convertie en mesure fiscale dès le stade de la
+rédaction, et a été abrogée en huit ans par le premier gouvernement qui
+l'a voulu. Un rédacteur qui l'ignore n'a pas fait ses recherches. Un
+rédacteur qui le sait et l'omet le dissimule.
+
+**Là où elle voit juste.** Presque tout, comme fait historique. Le
+mécanisme appartient à la même famille. La conversion en prélèvement est
+réelle et constitue la preuve la plus nette disponible pour l'attaque en
+qualification de l'objection 2, car elle montre des législateurs
+expérimentés se tournant vers l'instrument fiscal lorsque l'instrument en
+capital est devenu politiquement impossible. L'abolition de 1991 est un
+exemple authentique de la ponction contre laquelle cet instrument rédige
+le chapitre VI, et elle a sa place aux côtés de la Pologne, de l'Espagne
+et de l'Irlande dans la base de preuves, plutôt que d'en être écartée
+parce qu'elle est gênante. La mobilisation est une prédiction réelle de ce
+qui se passe lorsque le capital perçoit une proposition de ce type comme
+un transfert de contrôle.
+
+**La réponse que l'instrument doit apporter.** Trois différences, chacune
+correspondant à une raison précise de l'échec du dispositif suédois, et
+aucune n'est cosmétique.
+
+Premièrement, le terme. Les fonds de Meidner étaient conçus pour
+s'accumuler sans limite jusqu'au transfert de la propriété, et leur auteur
+le disait lui-même ; c'était le but recherché, non un effet secondaire.
+Cet instrument prélève une seule fois 3 % du capital pleinement dilué, par
+désignation, le cumul sur une entreprise et chacun de ses cessionnaires
+étant plafonné à ce même pourcentage au titre de l'article 5, paragraphe
+11, et de l'article 7, paragraphe 2. Aucun chemin ne mène de cet
+instrument au contrôle, car l'arithmétique ne le permet pas. Un opposant
+qui prétend le contraire argumente contre une autre proposition.
+
+Deuxièmement, le contrôle. Les fonds suédois votaient, et ils étaient
+gérés par les syndicats. La littérature savante sur cette défaite
+s'accorde à dire que la mobilisation portait sur qui gouvernerait les
+entreprises plutôt que sur l'argent, et le plafond de 8 % était lui-même
+une tentative de répondre à cette crainte. La Réserve détient des actions
+sans droit de vote au titre de l'article 5, paragraphe 4, point a), il lui
+est interdit par l'article 9 de rechercher ou d'exercer une influence, et
+DC-32 fait de la participation économique le maximum possible.
+L'électorat qui a rendu 1983 possible était composé de patrons convaincus
+d'être nationalisés par tranches. Cette conviction ne peut se former à
+l'égard d'un instrument dépourvu de droit de vote.
+
+Troisièmement, le bénéficiaire. Les fonds suédois profitaient à un
+mouvement ouvrier, ce qui en faisait un enjeu partisan dans un
+affrontement à deux camps. Les distributions de cet instrument profitent
+également, au titre de l'article 10, à chaque citoyen de l'Union, y
+compris les actionnaires et les salariés des entreprises désignées
+elles-mêmes. Cela ne rend pas l'opposition impossible. Cela rend plus
+difficile de tracer une ligne entre « eux » et « nous ».
+
+Ce dossier ne prétend pas que ces différences rendent l'économie
+politique sans risque. Elles ne le font pas. La position honnête est que
+la Suède montre que le mécanisme ne peut être légiféré que s'il est
+visiblement borné, visiblement dépourvu de pouvoir quant au contrôle, et
+visiblement universel quant à ses bénéficiaires, et qu'une proposition
+défaillant sur l'un de ces trois points dispose d'une manière documentée
+de mourir. Cet instrument est rédigé pour satisfaire ces trois exigences
+à la fois, et l'objection 4 intègre déjà le risque politique résiduel
+dans son prix, plutôt que de le nier.
+
+**Conséquence de conception.** DC-41 : l'instrument doit être borné, sans
+droit de vote ni droit de contrôle, et universel quant à ses
+bénéficiaires, les trois à la fois, car le précédent suédois montre qu'un
+manquement sur l'un d'eux suffit à perdre. Le mot à éviter est passif. La
+Réserve fait bien valoir des droits : l'article 5, paragraphe 4, point b),
+fixe son rang et l'article 5, paragraphe 10, rend inopposables à son
+égard les montages subordonnants, et un opposant qualifiera cela de tout
+sauf de passif. L'affirmation défendable est plus étroite : la Réserve ne
+détient aucun droit de vote, ne nomme personne, et n'a aucune voix dans la
+gestion de l'entreprise. Cela même ne clôt pas la question. Un conseil
+hostile fait valoir en outre qu'un rang que l'entreprise ne peut
+subordonner contraint la manière dont elle lève un capital de détresse ou
+de préférence, puisque l'argent frais exige normalement la préséance, et
+qualifie cela, en substance, de veto sur la structure du capital. Ce
+n'est pas un droit de gouvernance, et l'article 5, paragraphe 10, laisse
+le montage valable entre les parties qui y ont recours. C'est néanmoins
+une contrainte sur le financement que le mot passif dissimulerait, et
+l'objection 18 ainsi que les travaux préparatoires la portent désormais
+comme une question ouverte plutôt que tranchée. DC-42 : les fonds des
+salariés ont leur place dans la base de preuves comme précédent de
+ponction et dans ce dossier comme objection, énoncés avant qu'un
+opposant ne les énonce.
+
 ## Le tableau des contraintes
 
 Les articles sont rédigés à l'aune de ce tableau. Un projet qui viole une DC
@@ -710,6 +834,8 @@ Les articles sont rédigés à l'aune de ce tableau. Un projet qui viole une DC
 | DC-38 | Retenue à la source non récupérable publiée annuellement ; la Réserve n'est pas tenue d'organiser ses participations pour la réduire | 18 |
 | DC-39 | L'obligation se réattache lorsque les mêmes propriétaires récupèrent les actifs au sortir d'une restructuration | 18 |
 | DC-40 | Sous un seuil de minimis l'intervalle de distribution s'allonge ; il ne devient jamais une raison de ne pas payer | 15 |
+| DC-41 | Borné, sans droit de vote ni droit de contrôle, et universel quant à ses bénéficiaires : les fonds suédois des salariés montrent qu'un manquement sur l'un des trois suffit à perdre. La Réserve fait bien valoir des droits quant au rang et contre la subordination ; ce qu'elle n'acquiert jamais, ce sont des droits de vote, des sièges au conseil ou une quelconque voix dans la gestion | 19 |
+| DC-42 | Les fonds des salariés sont énoncés ici comme objection et dans la base de preuves comme précédent de ponction, avant qu'un opposant ne les énonce | 19 |
 
 ## Statut
 

@@ -42,7 +42,29 @@ const t = dict(lang).chrome;
   .onpage-side { display: none; }
   @media (min-width: 1100px) {
     .onpage-mobile { display: none; }
-    .onpage-side { display: block; position: sticky; top: 1.5rem; align-self: start; }
+    /* A sticky element taller than the viewport hides its own bottom: the
+       top pins and everything below the fold becomes unreachable, which is
+       what happened once this list grew past nineteen objections. Bound it
+       to the viewport and let it scroll on its own. overscroll-behavior
+       stops that scroll chaining into the page when it reaches the end. */
+    .onpage-side {
+      display: block;
+      position: sticky;
+      top: 1.5rem;
+      align-self: start;
+      max-height: calc(100vh - 3rem);
+      overflow-y: auto;
+      overscroll-behavior: contain;
+      scrollbar-gutter: stable;
+      scrollbar-width: thin;
+      scrollbar-color: var(--guilloche) transparent;
+    }
+    .onpage-side::-webkit-scrollbar { width: 6px; }
+    .onpage-side::-webkit-scrollbar-track { background: transparent; }
+    .onpage-side::-webkit-scrollbar-thumb {
+      background: var(--guilloche);
+      border-radius: 3px;
+    }
     .onpage-side ol { list-style: none; margin-top: 0.7rem; border-left: 1px solid var(--guilloche); }
     .onpage-side li { padding: 0.22rem 0 0.22rem 0.9rem; font-size: 0.83rem; line-height: 1.4; }
     .onpage-side ol ol { border: 0; margin-left: 0.4rem; }

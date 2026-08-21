@@ -1,6 +1,6 @@
 ---
 source: evidence/EVIDENCE.md
-source-commit: 8b0d54f
+source-commit: b1872b1
 status: gate-reviewed
 ---
 
@@ -163,6 +163,22 @@ aanspraken is beter.
   Dit zijn de sterkste argumenten tegen het eigen mechanisme van deze
   verordening, en zij zijn de reden dat de beschermingen van de Reserve
   rechtstreeks werkende bepalingen zijn en geen beloften.
+- **Zweden schafte zijn loontrekkersfondsen in 1991 af, acht jaar na hun
+  oprichting, bij een regeringswisseling.** De fondsen waren in 1983 bij
+  wet ingesteld als vijf regionale lichamen, gefinancierd uit een heffing
+  op winsten en op de loonsom, met een belang van ten hoogste 8 % in
+  elke afzonderlijke onderneming. Zij waren de verwaterde overlevende van
+  het Meidner-plan uit 1976, dat winstgevende ondernemingen zou hebben
+  verplicht nieuwe aandelen ter waarde van 20 % van de jaarwinst uit te
+  geven aan collectief gehouden fondsen totdat die fondsen een
+  meerderheid bezaten; de verplichte uitgifte werd al opgegeven voordat
+  de Riksdag er ooit over stemde. Een centrumrechtse regering hief de
+  fondsen in 1991 op, tegen weinig weerstand van de beweging die ze had
+  voorgesteld. Dit is het dichtstbijzijnde precedent ter wereld voor het
+  mechanisme in artikel 5, en het is het sterkste argument ertegen,
+  reden waarom bezwaar 19 het stelt in plaats van dat de bewijsbasis het
+  begraaft.
+
 - **Estland bewijst dat een aanspraak noodzakelijk maar niet voldoende
   is.** Toen de tweede pijler in januari 2021 vrijwillig werd, namen
   149 083 mensen in één maand EUR 1,32 mld op; de vertrekkers waren

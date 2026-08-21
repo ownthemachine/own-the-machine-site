@@ -1,6 +1,6 @@
 ---
 source: regulation/memorandum/counter-arguments.md
-source-commit: d7934d5
+source-commit: b1872b1
 status: gate-reviewed
 ---
 
@@ -76,7 +76,46 @@ vollständigen Verhältnismäßigkeits-Erwägungsgrund nach Artikel 52 Absatz 1
 der Charta und eine bezifferte Ausführungsgarantie mit unabhängiger,
 gesondert anfechtbarer Bewertung. Eine Anpassung ist zwingend: Das
 Vergleichsszenario der BRRD ist die Insolvenz, und ein dauerhaftes Regime
-kann sich nicht auf Krisenlogik stützen (Dowling C-41/15). Die Unterscheidung muss benannt statt verwischt werden: Bankenabwicklung verwässert Anteilseigner, deren Aktien im kontrafaktischen Insolvenzfall nichts wert wären, während diese Unternehmen gesunde, werbende Unternehmen sind, deren Aktien sehr viel wert sind. Die BRRD ist daher wegen ihrer Mechanik übernommen, nicht wegen ihrer Rechtfertigung, und diese Akte tut nicht so, als wäre es anders; die Rechtfertigung ist die aus James und aus Hauer, und sie steht und fällt mit der Verhältnismäßigkeit statt mit einer Krise, die nicht stattfindet. Unsere Untergrenze liegt daher im Vollzug und
+kann sich nicht auf Krisenlogik stützen (Dowling C-41/15). Die Unterscheidung muss benannt statt verwischt werden: Bankenabwicklung verwässert Anteilseigner, deren Aktien im kontrafaktischen Insolvenzfall nichts wert wären, während diese Unternehmen gesunde, werbende Unternehmen sind, deren Aktien sehr viel wert sind. Die BRRD ist daher wegen ihrer Mechanik übernommen, nicht wegen ihrer Rechtfertigung, und diese Akte tut nicht so, als wäre es anders; die Rechtfertigung ist die aus James und aus Hauer, und sie steht und fällt mit der Verhältnismäßigkeit statt mit einer Krise, die nicht stattfindet.
+
+Eine weitere Autorität lohnt eine genaue Darstellung, denn lose formuliert
+wäre sie nichts wert. In der Rechtssache Sky Österreich (C-283/11, 22. Januar
+2013) bestätigte die Große Kammer eine Unionsmaßnahme, die Inhaber
+ausschließlicher Fernsehübertragungsrechte verpflichtete, Wettbewerbern
+Zugang für Kurzberichterstattung zu gewähren, mit einer Entschädigung, die
+auf die unmittelbar entstandenen Zusatzkosten begrenzt war, also unter dem,
+was der Markt zahlen würde. Die Rechteinhaber waren solvent, es gab keine
+Krise und keine hypothetische Insolvenz. **Diese Rechtssache wurde nach
+Artikel 16 der Charta entschieden, der unternehmerischen Freiheit, und nicht
+nach Artikel 17.** Sie ist keine Grundlage für eine Wegnahme von
+Eigenkapital, und diese Akte bietet sie nicht als eine solche an; ein
+gegnerischer Rechtsbeistand wäre berechtigt, jede solche Verwendung zu
+zerlegen, und würde es mit Vergnügen tun.
+
+Was sie trägt, ist enger gefasst und dennoch nützlich. Dieses Instrument
+greift sowohl in Artikel 16 als auch in Artikel 17 ein, denn ein Unternehmen
+zur Ausgabe von Aktien zu zwingen, die es nicht auszugeben gewählt hat, ist
+ein Eingriff in die Führung seiner Geschäfte, und der Juristische Dienst der
+Kommission wird beides sehen. Auf diesem Zweig ist Sky Österreich
+unmittelbar einschlägig, und die Entscheidung sagt drei Dinge: Die Freiheit
+aus Artikel 16 ist nicht schrankenlos, sondern im Hinblick auf ihre soziale
+Funktion zu betrachten; der Unionsgesetzgeber darf eine Gegenleistung
+unterhalb des Marktwerts festsetzen, wo das öffentliche Interesse dies
+verlangt; und der Maßstab ist der gewöhnliche des Artikels 52 Absatz 1. Die
+ältere Rechtsprechungslinie stützt dieselbe Lesart geschäftlicher
+Interessen, die als bloße kaufmännische Erwartungen künftigen Gewinns keinen
+Schutz genießen (Nold 4/73). Booker Aquaculture (C-20/00 und C-64/00) wird
+mitunter daneben angeführt, und diese Akte stützt sich nicht darauf: Der
+Fall betraf die Vernichtung erkrankter Bestände im Rahmen einer
+Tierseuchenregelung, eine Rechtfertigung durch einen öffentlichen Notstand,
+die dieses Instrument nicht für sich beanspruchen kann.
+
+Der Artikel-17-Zweig ruht daher weiterhin dort, wo er ruhte, auf James und
+auf Hauer, und die ehrliche Feststellung lautet, dass kein entschiedener
+Fall eine dauerhafte, nicht krisenbedingte, nicht entschädigte
+Eigenkapitalverwässerung eines gesunden Unternehmens auf die richtige Seite
+des Artikels 17 stellt. Das ist das größte Rechtsrisiko des Projekts, und es
+wird in der obigen Antwort auch so benannt. Unsere Untergrenze liegt daher im Vollzug und
 nicht in einem hypothetischen Vergleichsszenario: der
 Eingriff kann in der Ausführung die genannten 3 % nie überschreiten,
 sein Preis wird vom Liquiditätsereignis selbst auf der Grundlage einer
@@ -641,6 +680,119 @@ Und die ehrliche Teilantwort: die Quellenbesteuerung. Eine Unionsverordnung kann
 
 **Konsequenz für den Entwurf.** DC-35: Kristallisation bei Entnahme und nach Zeit, nicht nur beim Verkauf. DC-36: Die Aktien der Reserve stehen gleichrangig mit der bestgestellten Klasse unter den nach der Benennung geschaffenen Klassen, wobei frühere Präferenzen unberührt bleiben, und nachrangig stellende Gestaltungen sind gegenüber der Reserve unwirksam. DC-37: Der Erwerber gibt einen eigenen Warrant auf sein eigenes Kapital aus; der Übertragende bleibt für die automatisierten Vermögenswerte gebunden, die er behält, und die Summe über beide hinweg übersteigt nie den genannten Prozentsatz ihres gemeinsamen Kapitals. DC-38: Nicht erstattungsfähige Quellensteuer wird jährlich veröffentlicht; das Instrument weist die Reserve nicht an, ihre Beteiligungen so zu gestalten, dass diese sich mindert. DC-39: Die Verpflichtung knüpft erneut an, wenn dieselben Eigentümer die Vermögenswerte aus einer Restrukturierung zurückerhalten.
 
+### 19. Schweden hat es versucht und konnte es nicht einmal gesetzlich regeln
+
+**Der Einwand, in aller Schärfe.** Dieser Mechanismus ist nicht neu, und er
+ist bereits gescheitert, in dem einen Land, das ihn am ehesten hätte tragen
+können. Der Meidner-Plan, 1976 vom Kongress des schwedischen
+Gewerkschaftsdachverbands gebilligt, verpflichtete profitable Unternehmen,
+Jahr für Jahr neue Aktien im Wert von 20 % ihres Jahresgewinns an gemeinsam
+gehaltene Fonds auszugeben, bis diese Fonds eine Mehrheit der Aktien
+hielten. Das ist der Mechanismus dieses Instruments: eine verpflichtende
+Ausgabe neuen Eigenkapitals an eine kollektive Halterin, in Aktien statt in
+bar beglichen, kalibriert am eigenen Wohlstand des Unternehmens.
+
+Er überlebte nicht einmal seinen eigenen Entwurf. Als der Riksdag 1983
+gesetzgeberisch tätig wurde, war die Pflicht zur Aktienausgabe bereits
+aufgegeben und durch eine Abgabe auf Gewinne und auf die Lohnsumme ersetzt
+worden, in der Summe gedeckelt und auf höchstens 8 % Beteiligung an einem
+einzelnen Unternehmen begrenzt. Der Entwurf wandelte sich, unter
+politischem Druck und noch vor seinem Inkrafttreten, in genau das, was
+dieses Memorandum in Artikel 8 und Einwand 2 mit Nachdruck bestreitet, dass
+dieses Instrument sei: eine Steuer. Danach mobilisierte die schwedische
+Wirtschaft selbst gegen die abgeschwächte Fassung in einem Ausmaß ohne
+modernes Gegenstück, mit einer Demonstration am 4. Oktober 1983, die
+zwischen 75 000 und 100 000 Menschen anzog, wo die Veranstalter 5 000
+erwartet hatten, und wiederholte dies jährlich, bis ein Regierungswechsel
+die Fonds 1991 abschaffte, gegen minimalen Widerstand der Bewegung, die sie
+vorgeschlagen hatte.
+
+Die Lesart ist unfreundlich, und sie steht jedem offen, der die Akte kennt.
+In der gewerkschaftsfreundlichsten hoch entwickelten Volkswirtschaft der
+Welt, auf dem Höhepunkt der Macht der organisierten Arbeitnehmerschaft, mit
+einer wohlgesinnten Regierung, erwies sich die verpflichtende Ausgabe von
+Eigenkapital an einen kollektiven Fonds als nicht gesetzgebungsfähig,
+wandelte sich noch im Entwurfsstadium in eine fiskalische Maßnahme und wurde
+binnen acht Jahren von der ersten Regierung aufgehoben, die das wollte. Wer
+das nicht weiß, hat als Verfasser die Lektüre nicht getan. Wer es weiß und
+es wegzulassen wählt, verbirgt es.
+
+**Was daran richtig ist.** Fast alles davon, als Geschichte. Der Mechanismus
+gehört zur selben Familie. Die Umwandlung in eine Abgabe ist real und der
+schärfste verfügbare Beleg für den Einordnungsangriff des Einwands 2, denn
+sie zeigt erfahrene Gesetzgeber, die zum fiskalischen Instrument griffen,
+als das Eigenkapitalinstrument politisch unmöglich wurde. Die Abschaffung
+von 1991 ist ein echter Fall der Plünderung, gegen die dieses Instrument
+Kapitel VI entwirft, und sie gehört neben Polen, Spanien und Irland in die
+Beleglage, statt weggelassen zu werden, weil sie unbequem ist. Die
+Mobilisierung ist eine reale Vorhersage dessen, was geschieht, wenn Kapital
+einen Vorschlag dieser Art als Übertragung von Kontrolle liest.
+
+**Die Antwort, die das Instrument geben muss.** Drei Unterschiede, von denen
+jeder auf einen bestimmten Grund verweist, aus dem der schwedische Entwurf
+scheiterte, und keiner davon ist kosmetisch.
+
+Erstens der Endpunkt. Meidners Fonds waren darauf angelegt, sich unbegrenzt
+anzusammeln, bis das Eigentum die Hand wechselte, und ihr Urheber sagte das
+selbst; das war der Zweck, kein Nebeneffekt. Dieses Instrument nimmt
+einmalig 3 % des voll verwässerten Kapitals, je Benennung, wobei die Summe
+über ein Unternehmen und jede Erwerberin hinweg nach Artikel 5 Absatz 11 und
+Artikel 7 Absatz 2 auf denselben Prozentsatz gedeckelt ist. Von diesem
+Instrument führt kein Weg zur Kontrolle, weil die Arithmetik keinen
+zulässt. Ein Gegner, der anderes behauptet, argumentiert gegen einen
+anderen Vorschlag.
+
+Zweitens die Kontrolle. Die schwedischen Fonds stimmten ab, und sie wurden
+von den Gewerkschaften geführt. Die Forschung zur Niederlage ist sich einig,
+dass es der Mobilisierung um die Frage ging, wer die Unternehmen lenken
+würde, und nicht ums Geld, und die Obergrenze von 8 % selbst war ein
+Versuch, dieser Furcht zu begegnen. Die Reserve hält stimmrechtslose Aktien
+nach Artikel 5 Absatz 4 Buchstabe a, ist nach Artikel 9 verboten, Einfluss
+zu suchen oder auszuüben, und DC-32 macht wirtschaftliche Beteiligung zum
+Höchstmaß. Die Wählerschaft, die 1983 möglich machte, waren Arbeitgeber, die
+glaubten, in Raten verstaatlicht zu werden. Diese Überzeugung lässt sich
+über ein Instrument, das nicht abstimmen kann, nicht bilden.
+
+Drittens die Begünstigten. Die schwedischen Fonds kamen einer
+Arbeiterbewegung zugute, was sie zu einer Parteifrage in einem
+Zweiparteienstreit machte. Die Ausschüttungen dieses Instruments kommen nach
+Artikel 10 zu gleichen Teilen jeder Bürgerin und jedem Bürger der Union
+zugute, einschließlich der Anteilseignerinnen und der Beschäftigten der
+benannten Unternehmen selbst. Das macht Widerstand nicht unmöglich. Es macht
+es schwerer, ein „Wir gegen die" zu zeichnen.
+
+Was diese Akte nicht behauptet, ist, dass die Unterschiede die politische
+Ökonomie sicher machen. Das tun sie nicht. Die ehrliche Position ist, dass
+Schweden zeigt: Der Mechanismus lässt sich nur gesetzlich verankern, wenn er
+sichtbar begrenzt, sichtbar machtlos in Bezug auf Kontrolle und sichtbar
+universell darin ist, wem er zahlt, und dass ein Vorschlag, der auch nur
+eines dieser drei Kriterien verfehlt, einen dokumentierten Weg zum Scheitern
+hat. Dieses Instrument ist so entworfen, dass es alle drei erfüllt, und
+Einwand 4 beziffert das verbleibende politische Risiko bereits, statt es zu
+leugnen.
+
+**Konsequenz für den Entwurf.** DC-41: Das Instrument muss begrenzt, ohne
+Stimmrechte oder Kontrollrechte und universell darin sein, wem es zahlt,
+alle drei zugleich, weil der schwedische Präzedenzfall zeigt, dass das
+Verfehlen auch nur eines davon zum Scheitern genügt. Das zu vermeidende Wort
+ist passiv. Die Reserve macht durchaus Ansprüche geltend: Artikel 5 Absatz 4
+Buchstabe b legt ihren Rang fest, und Artikel 5 Absatz 10 macht nachrangig
+stellende Gestaltungen ihr gegenüber unwirksam, und ein Gegner wird das
+alles Mögliche nennen, nur nicht passiv. Der vertretbare Anspruch ist enger
+gefasst: Die Reserve hält keine Stimmrechte, beruft niemanden und hat kein
+Mitspracherecht bei der Führung des Unternehmens. Selbst das ist nicht das
+Ende. Der gegnerische Rechtsbeistand macht den weiteren Punkt, dass ein
+Rang, den das Unternehmen nicht nachrangig stellen kann, beschränkt, wie es
+Sanierungs- oder Vorzugskapital aufnimmt, da neues Geld gewöhnlich Vorrang
+verlangt, und nennt das der Sache nach ein Veto über die Kapitalstruktur. Es
+ist kein Governance-Recht, und Artikel 5 Absatz 10 lässt die Vereinbarung
+zwischen den Beteiligten wirksam. Es ist gleichwohl eine Beschränkung der
+Finanzierung, die das Wort passiv verbergen würde, und Einwand 18 sowie das
+Entwurfsprotokoll führen sie nun als offene Frage statt als entschiedene.
+DC-42: Die Lohnempfängerfonds gehören in die Beleglage als Präzedenzfall der
+Plünderung und in diese Akte als Einwand, ausgesprochen, bevor ein Gegner
+ihn ausspricht.
+
 ## Die Tabelle der Vorgaben
 
 Die Artikel werden gegen diese Tabelle entworfen. Ein Entwurf, der eine DC
@@ -688,6 +840,8 @@ verletzt, fällt in der Prüfung durch, ganz gleich, wie seine Prosa lautet.
 | DC-38 | Nicht erstattungsfähige Quellensteuer jährlich veröffentlicht; die Reserve wird nicht angewiesen, ihre Beteiligungen so zu gestalten, dass diese sich mindert | 18 |
 | DC-39 | Die Verpflichtung knüpft erneut an, wenn dieselben Eigentümer die Vermögenswerte aus einer Restrukturierung zurückerhalten | 18 |
 | DC-40 | Unterhalb einer Geringfügigkeitsschwelle verlängert sich das Ausschüttungsintervall; es wird nie zum Grund, nicht zu zahlen | 15 |
+| DC-41 | Begrenzt, ohne Stimmrechte oder Kontrollrechte, und universell darin, wem es zahlt: Die schwedischen Lohnempfängerfonds zeigen, dass das Verfehlen auch nur eines der drei zum Scheitern genügt. Die Reserve macht durchaus Ansprüche hinsichtlich Rang und gegen Nachrangigkeit geltend; was sie nie erwirbt, sind Stimmrechte, Organsitze oder ein Mitspracherecht bei der Führung | 19 |
+| DC-42 | Die Lohnempfängerfonds werden hier als Einwand und in der Beleglage als Plünderungspräzedenzfall ausgesprochen, bevor ein Gegner sie ausspricht | 19 |
 
 ## Status
 

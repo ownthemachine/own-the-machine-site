@@ -1,6 +1,6 @@
 ---
 source: evidence/EVIDENCE.md
-source-commit: 8b0d54f
+source-commit: b1872b1
 status: gate-reviewed
 ---
 
@@ -166,6 +166,23 @@ ponctions, et l'histoire des droits individuels est meilleure.
   arguments les plus forts contre le mécanisme même de ce règlement, et
   c'est pourquoi les protections de la Réserve sont des articles
   opératoires plutôt que des promesses.
+- **La Suède a aboli ses fonds des salariés en 1991, huit ans après leur
+  création, lors d'un changement de gouvernement.** Ces fonds avaient
+  été institués par la loi en 1983 sous la forme de cinq organismes
+  régionaux, financés par un prélèvement sur les bénéfices et sur la
+  masse salariale, ne détenant pas plus de 8 % de chaque entreprise. Ils
+  étaient le survivant dilué du plan Meidner de 1976, qui aurait obligé
+  les entreprises bénéficiaires à émettre de nouvelles actions
+  représentant 20 % du bénéfice annuel au profit de fonds détenus
+  collectivement jusqu'à ce que ces fonds détiennent la majorité ;
+  l'émission obligatoire avait été abandonnée avant même que le Riksdag
+  ne se prononce. Un gouvernement de centre droit a liquidé les fonds en
+  1991, contre une résistance minime du mouvement qui les avait
+  proposés. C'est le précédent le plus proche au monde du mécanisme de
+  l'article 5, et c'est l'argument le plus fort contre lui, raison pour
+  laquelle l'objection 19 l'énonce plutôt que de laisser la base de
+  preuves l'enterrer.
+
 - **L'Estonie prouve qu'un droit est nécessaire mais pas suffisant.**
   Quand le deuxième pilier est devenu volontaire en janvier 2021, 149 083
   personnes ont retiré 1,32 milliard d'EUR en un seul mois ; les partants

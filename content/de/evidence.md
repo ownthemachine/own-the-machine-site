@@ -1,6 +1,6 @@
 ---
 source: evidence/EVIDENCE.md
-source-commit: 8b0d54f
+source-commit: b1872b1
 status: gate-reviewed
 ---
 
@@ -161,6 +161,21 @@ von Plünderungen, und die Geschichte individueller Ansprüche ist besser.
   sind der Grund dafür, dass die Schutzbestimmungen der Reserve
   unmittelbar verbindliche Rechtsnormen und keine bloßen
   Absichtserklärungen sind.
+- **Schweden schaffte seine Lohnempfängerfonds 1991 ab, acht Jahre nach
+  ihrer Gründung, im Zuge eines Regierungswechsels.** Die Fonds wurden
+  1983 als fünf regionale Einrichtungen gesetzlich verankert, finanziert
+  durch eine Abgabe auf Gewinne und auf die Lohnsumme, mit einer
+  Höchstbeteiligung von 8 % an einem einzelnen Unternehmen. Sie waren die
+  abgeschwächten Überlebenden des Meidner-Plans von 1976, der profitable
+  Unternehmen verpflichtet hätte, neue Aktien im Wert von 20 % des
+  Jahresgewinns an gemeinsam gehaltene Fonds auszugeben, bis diese Fonds
+  eine Mehrheit hielten; die Pflicht zur Aktienausgabe wurde aufgegeben,
+  bevor der Riksdag je darüber abstimmte. Eine bürgerliche Regierung löste
+  die Fonds 1991 auf, gegen geringen Widerstand der Bewegung, die sie
+  vorgeschlagen hatte. Dies ist der nächstliegende Präzedenzfall überhaupt
+  zum Mechanismus in Artikel 5, und er ist der stärkste Fall gegen ihn,
+  weshalb Einwand 19 ihn ausspricht, statt dass die Beleglage ihn
+  verbirgt.
 - **Estland beweist, dass ein Anspruch notwendig, aber nicht hinreichend
   ist.** Als die zweite Säule im Januar 2021 freiwillig wurde, entnahmen
   149 083 Menschen in einem einzigen Monat 1,32 Mrd. EUR; die Aussteiger

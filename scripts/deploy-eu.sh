@@ -59,6 +59,12 @@ OUT="dist"
 # previewed, but it cannot be shipped.
 node scripts/check-translations.mjs
 
+# The on-page contents list is sticky. Once it grows taller than the viewport
+# its bottom becomes unreachable at any scroll position, which is invisible to
+# every other check here because the markup and the stylesheet are both valid.
+# Measured against the rendered page instead.
+node scripts/check-toc.mjs
+
 # The site has its own Scaleway project and its own deploy identity, so a
 # key that leaks can touch this bucket and nothing else in the account.
 SCW_PROFILE_NAME="${SCW_PROFILE_NAME:-own-the-machine}"
