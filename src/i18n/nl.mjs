@@ -4,6 +4,7 @@ export default {
   code: 'nl', name: 'Nederlands',
   chrome: {
     law: 'De wet', objections: 'Bezwaren', ledger: 'Grootboek',
+    join: 'Meedoen',
     simulator: 'Simulator', evidence: 'Bewijs', about: 'Over',
     skip: 'Naar de inhoud',
     themeToggle: 'Wissel tussen papier en plaat (licht en donker)',
@@ -33,6 +34,7 @@ export default {
     tagline: 'Kapitaal voor iedereen, zodat het dividend volgt.',
     ask: 'Wanneer productie geen arbeid op grote schaal meer nodig heeft, hoort elke burger van de Unie een aandeel te bezitten in wat de machines voortbrengen. Dit is de wet die dat regelt: een volledige ontwerpverordening van de EU, in alle openbaarheid opgesteld, met de bezwaren in hun sterkste vorm gepubliceerd vóór de artikelen.',
     ctaRead: 'Lees de wet', ctaObjections: 'Begin bij de bezwaren',
+    ctaJoin: 'Wat helpt',
     col1Head: 'Het mechanisme',
     col1: 'Eén stemrechtloze warrant per hypergeautomatiseerd bedrijf: 3 % van het kapitaal, pas uitgeoefend op het moment dat de eigenaren zelf hun belang verzilveren. Niets is opeisbaar in contanten en niets vloeit naar de staatskas.',
     col2Head: 'De aanspraak',
@@ -137,6 +139,13 @@ export default {
   about: {
     title: 'Over', eyebrow: 'Wie, waarom, en onder welke regels',
     description: 'Wie hierachter zit, het gemelde belang, de poorten, en hoe deze campagne met je gegevens omgaat.',
+  },
+  join: {
+    title: 'Meedoen', eyebrow: 'Wat echt helpt, en waartoe het je verplicht',
+    description: 'Er wordt niets verzameld. Wat dit nodig heeft zijn argumenten, en zeven mensen die met naam genoemd willen worden.',
+    stageLabel: 'Stand van zaken',
+    stageNone: 'Er is niets ingediend en nergens worden handtekeningen verzameld. Aan niemand wordt vandaag gevraagd zich ergens toe te verbinden.',
+    stageRegistered: 'Een versie van dit ontwerp is geregistreerd. Handtekeningen worden verzameld via het eigen systeem van de Europese Commissie, nooit hier.',
   },
   versions: {
     title: 'Versies', eyebrow: 'Wat vastligt en wat nog beweegt',

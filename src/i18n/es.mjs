@@ -5,6 +5,7 @@ export default {
   code: 'es', name: 'Español',
   chrome: {
     law: 'La ley', objections: 'Objeciones', ledger: 'Libro mayor',
+    join: 'Participar',
     simulator: 'Simulador', evidence: 'Pruebas', about: 'Acerca de',
     skip: 'Ir al contenido',
     themeToggle: 'Cambiar entre papel y plancha (claro y oscuro)',
@@ -34,6 +35,7 @@ export default {
     tagline: 'Capital para todos, para que el dividendo llegue.',
     ask: 'Cuando la producción ya no necesita trabajo a gran escala, cada ciudadano de la Unión debería poseer una parte de lo que producen las máquinas. Esta es la ley que lo hace: un proyecto completo de Reglamento de la UE, escrito a la vista de todos, con sus objeciones publicadas en su formulación más sólida antes que sus artículos.',
     ctaRead: 'Leer la ley', ctaObjections: 'Empezar por las objeciones',
+    ctaJoin: 'Qué ayudaría',
     col1Head: 'El mecanismo',
     col1: 'Un warrant sin derecho de voto por cada empresa hiperautomatizada: el 3 % del capital, reclamado solo en el momento en que sus propietarios liquidan su participación. Nada es pagadero en efectivo y nada entra en ningún presupuesto público.',
     col2Head: 'El derecho',
@@ -138,6 +140,13 @@ export default {
   about: {
     title: 'Acerca de', eyebrow: 'Quién, por qué y bajo qué reglas',
     description: 'Quién está detrás, el interés declarado, las puertas, y cómo trata esta campaña sus datos.',
+  },
+  join: {
+    title: 'Participar', eyebrow: 'Qué ayuda de verdad y a qué le compromete',
+    description: 'No se recoge nada. Lo que hace falta son argumentos y siete personas dispuestas a dar su nombre.',
+    stageLabel: 'Situación',
+    stageNone: 'No se ha presentado nada y no se recogen firmas en ningún sitio. Hoy no se pide ningún compromiso a nadie.',
+    stageRegistered: 'Hay una versión registrada de este borrador. Las firmas se recogen en el sistema de la Comisión Europea, nunca aquí.',
   },
   versions: {
     title: 'Versiones', eyebrow: 'Lo que queda fijo y lo que aún se mueve',

@@ -179,13 +179,28 @@ const parseFM = (raw) => {
   }
   return { meta, body };
 };
+// A translated page that links to /law/versions sends its reader to the
+// ENGLISH page, silently, in the middle of a Dutch sentence. Every localised
+// file in this repository carried unprefixed internal links, because the
+// prefix is a property of where the page is served and not of what the
+// translator wrote. Rewrite at render time instead of asking four translators
+// to remember it. Asset paths are not localised and are left alone.
+const ASSET_PREFIXES = ['/downloads/', '/og/', '/_astro/', '/fonts/'];
+const localiseLinks = (html, loc) => html.replace(
+  /href="(\/[^"#]*)"/g,
+  (m, path) => (
+    path.startsWith(`/${loc}/`) || ASSET_PREFIXES.some((a) => path.startsWith(a))
+      ? m
+      : `href="/${loc}${path}"`
+  ));
+
 const loadLocalized = (name, opts = {}) => {
   const out = {};
   for (const loc of ['nl', 'fr', 'de', 'es']) {
     const f = join(CONTENT, loc, `${name}.md`);
     if (!existsSync(f)) continue;
     const { meta, body } = parseFM(readFileSync(f, 'utf8'));
-    const html = linkRepoPaths(marked.parse(body.trim()));
+    const html = localiseLinks(linkRepoPaths(marked.parse(body.trim())), loc);
     const doc = opts.toc ? withToc(html, opts.depth || 2) : { html, toc: [] };
     out[loc] = {
       ...doc,
@@ -248,6 +263,7 @@ const siteDoc = (name) => ({
 const about = siteDoc('about');
 const contribute = siteDoc('contribute');
 const versions = siteDoc('versions');
+const joinDoc = siteDoc('join');
 
 // ---- registered version state ---------------------------------------
 // Whether a version of this draft has been filed and registered is a fact
@@ -272,7 +288,7 @@ writeFileSync(join(OUT, 'law.json'), JSON.stringify({
   lawCommit,
   builtAt: new Date().toISOString(),
   articles, recitals, annexes, objections, severability, ledger, evidence, about, contribute, structure,
-  versions, registered,
+  versions, join: joinDoc, registered,
 }, null, 1));
 console.log(`sync-law: ${articles.length} articles, ${annexes.length} annexes, ${ledger.length} ledger entries @ ${lawCommit}`);
 console.log(`sync-law: registered version: ${registered ? registered.number : 'none'}`);

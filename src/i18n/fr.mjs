@@ -4,6 +4,7 @@ export default {
   code: 'fr', name: 'Français',
   chrome: {
     law: 'La loi', objections: 'Objections', ledger: 'Grand livre',
+    join: 'Participer',
     simulator: 'Simulateur', evidence: 'Preuves', about: 'À propos',
     skip: 'Aller au contenu',
     themeToggle: 'Basculer entre papier et plaque (clair et sombre)',
@@ -33,6 +34,7 @@ export default {
     tagline: 'Du capital pour tous, pour que le dividende suive.',
     ask: 'Quand la production n’a plus besoin de travail à grande échelle, chaque citoyen de l’Union devrait détenir une part de ce que produisent les machines. Voici la loi qui le met en œuvre : un projet complet de règlement de l’UE, écrit au grand jour, ses objections publiées sous leur forme la plus forte avant ses articles.',
     ctaRead: 'Lire la loi', ctaObjections: 'Commencer par les objections',
+    ctaJoin: 'Ce qui aiderait',
     col1Head: 'Le mécanisme',
     col1: 'Un warrant sans droit de vote par entreprise hyperautomatisée : 3 % du capital, réclamés seulement au moment où ses propriétaires eux-mêmes encaissent. Rien n’est payable en numéraire et rien n’entre dans aucun budget public.',
     col2Head: 'Le droit',
@@ -137,6 +139,13 @@ export default {
   about: {
     title: 'À propos', eyebrow: 'Qui, pourquoi, et sous quelles règles',
     description: 'Qui est derrière ce projet, l’intérêt déclaré, les portes, et comment cette campagne traite vos données.',
+  },
+  join: {
+    title: 'Participer', eyebrow: 'Ce qui aide vraiment, et ce que cela vous engage',
+    description: 'Rien n\u2019est recueilli. Ce projet a besoin d\u2019arguments, et de sept personnes prêtes à être nommées.',
+    stageLabel: 'Situation',
+    stageNone: 'Rien n\u2019a été déposé et aucune signature n\u2019est recueillie où que ce soit. Personne n\u2019est invité à s\u2019engager aujourd\u2019hui.',
+    stageRegistered: 'Une version de ce projet est enregistrée. Les signatures sont recueillies sur le système de la Commission européenne, jamais ici.',
   },
   versions: {
     title: 'Versions', eyebrow: 'Ce qui est figé et ce qui bouge encore',

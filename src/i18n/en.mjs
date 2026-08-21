@@ -4,6 +4,7 @@ export default {
   code: 'en', name: 'English',
   chrome: {
     law: 'The law', objections: 'Objections', ledger: 'Ledger',
+    join: 'Take part',
     simulator: 'Simulator', evidence: 'Evidence', about: 'About',
     skip: 'Skip to content',
     themeToggle: 'Switch between paper and plate (light and dark)',
@@ -33,6 +34,7 @@ export default {
     tagline: 'Capital for all, so the dividend follows.',
     ask: 'When production no longer needs labour at scale, every citizen of the Union should hold a share of what the machines produce. This is the law that does it: a complete draft EU Regulation, written in the open, its objections published at full strength before its articles.',
     ctaRead: 'Read the law', ctaObjections: 'Start with the objections',
+    ctaJoin: 'What would help',
     col1Head: 'The mechanism',
     col1: 'One non-voting warrant per hyper-automated firm: 3 % of the equity, claimed only at the moment its owners themselves cash in. Nothing is payable in cash and nothing enters any public budget.',
     col2Head: 'The entitlement',
@@ -137,6 +139,13 @@ export default {
   about: {
     title: 'About', eyebrow: 'Who, why, and under what rules',
     description: 'Who is behind this, the declared interest, the gates, and how this campaign treats your data.',
+  },
+  join: {
+    title: 'Take part', eyebrow: 'What would actually help, and what it commits you to',
+    description: 'Nothing is being collected. What this needs is arguments, and seven people willing to be named.',
+    stageLabel: 'Stage',
+    stageNone: 'Nothing has been filed and no signature is being collected anywhere. Nobody is being asked to commit to anything today.',
+    stageRegistered: 'A version of this draft is registered. Signature collection runs on the European Commission\u2019s own system, never here.',
   },
   versions: {
     title: 'Versions', eyebrow: 'What is fixed, and what still moves',

@@ -5,6 +5,7 @@ export default {
   code: 'de', name: 'Deutsch',
   chrome: {
     law: 'Das Gesetz', objections: 'Einwände', ledger: 'Hauptbuch',
+    join: 'Mitmachen',
     simulator: 'Simulator', evidence: 'Belege', about: 'Über das Projekt',
     skip: 'Zum Inhalt springen',
     themeToggle: 'Zwischen Papier und Platte wechseln (hell und dunkel)',
@@ -34,6 +35,7 @@ export default {
     tagline: 'Kapital für alle, damit die Dividende folgt.',
     ask: 'Wenn Produktion keine Arbeit im großen Maßstab mehr braucht, sollte jede Bürgerin und jeder Bürger der Union einen Anteil an dem halten, was die Maschinen erzeugen. Dies ist das Gesetz, das genau das tut: ein vollständiger Entwurf einer EU-Verordnung, öffentlich geschrieben, mit den Einwänden in aller Schärfe vor den Artikeln veröffentlicht.',
     ctaRead: 'Das Gesetz lesen', ctaObjections: 'Mit den Einwänden beginnen',
+    ctaJoin: 'Was hilft',
     col1Head: 'Der Mechanismus',
     col1: 'Ein stimmrechtsloser Warrant je hyperautomatisiertem Unternehmen: 3 % des Kapitals, eingefordert erst in dem Moment, in dem die Eigentümer selbst Kasse machen. Nichts ist als Geldleistung zu erbringen, und nichts fließt in einen öffentlichen Haushalt.',
     col2Head: 'Der Anspruch',
@@ -138,6 +140,13 @@ export default {
   about: {
     title: 'Über das Projekt', eyebrow: 'Wer, warum und nach welchen Regeln',
     description: 'Wer dahintersteht, das erklärte Interesse, die Prüfstufen, und wie diese Kampagne mit Ihren Daten umgeht.',
+  },
+  join: {
+    title: 'Mitmachen', eyebrow: 'Was wirklich hilft, und wozu es Sie verpflichtet',
+    description: 'Es wird nichts gesammelt. Gebraucht werden Argumente und sieben Menschen, die sich namentlich nennen lassen.',
+    stageLabel: 'Stand',
+    stageNone: 'Es wurde nichts eingereicht, und nirgendwo werden Unterschriften gesammelt. Niemand wird heute um eine Zusage gebeten.',
+    stageRegistered: 'Eine Fassung dieses Entwurfs ist registriert. Unterschriften werden über das System der Europäischen Kommission gesammelt, niemals hier.',
   },
   versions: {
     title: 'Fassungen', eyebrow: 'Was feststeht und was sich noch bewegt',

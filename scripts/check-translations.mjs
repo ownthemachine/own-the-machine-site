@@ -51,6 +51,7 @@ const SITE_PAGES = {
   about: 'content/en/about.md',
   contribute: 'content/en/contribute.md',
   versions: 'content/en/versions.md',
+  join: 'content/en/join.md',
 };
 
 const PARA_TOLERANCE = 0.12; // 12 %, for legitimate paragraphing differences

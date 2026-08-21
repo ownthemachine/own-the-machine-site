@@ -1,0 +1,46 @@
+---
+import Base from '../../layouts/Base.astro';
+import LangBanner from '../LangBanner.astro';
+import law from '../../generated/law.json';
+import { dict } from '../../lib/i18n.mjs';
+interface Props { lang: string }
+const { lang } = Astro.props;
+const t = dict(lang);
+const doc = law.join[lang] || law.join.en;
+const isLocal = Boolean(law.join[lang]);
+// The same rule as the versions page: the stage the campaign is at is read
+// from the law repo, never asserted in copy. A page that invites people to
+// put their names to something must not be the page that decides, from
+// memory, whether anything has been filed.
+const reg = (law as any).registered;
+---
+<Base title={t.join.title} lang={lang} description={t.join.description}>
+  <p class="eyebrow">{t.join.eyebrow}</p>
+  <h1>{t.join.title}</h1>
+  <LangBanner lang={lang} doc={law.join[lang]} />
+
+  <div class="stage">
+    <p class="stage-label">{t.join.stageLabel}</p>
+    <p class="stage-body">
+      {reg ? t.join.stageRegistered : t.join.stageNone}
+    </p>
+  </div>
+
+  <div class="prose" lang={isLocal ? lang : 'en'} set:html={doc.html} />
+</Base>
+
+<style>
+  h1 { font-size: 1.7rem; margin: 0.4rem 0 1.2rem; }
+  .prose :global(h2) { font-size: 1.25rem; }
+  .prose :global(li) { margin-bottom: 0.5rem; }
+  .stage {
+    border: 1px solid var(--guilloche); border-left: 3px solid var(--seal-gold);
+    background: var(--card); padding: 0.9rem 1.1rem; margin: 0 0 1.8rem;
+    max-width: var(--measure);
+  }
+  .stage-label {
+    margin: 0 0 0.3rem; font-size: 0.72rem; letter-spacing: 0.09em;
+    text-transform: uppercase; color: var(--ink-soft);
+  }
+  .stage-body { margin: 0; font-size: 0.95rem; }
+</style>

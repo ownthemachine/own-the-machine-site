@@ -1,0 +1,9 @@
+---
+import Join from '../../components/screens/Join.astro';
+
+export function getStaticPaths() {
+  return ['nl', 'fr', 'de', 'es'].map((lang) => ({ params: { lang } }));
+}
+const { lang } = Astro.params;
+---
+<Join lang={lang} />
