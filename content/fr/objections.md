@@ -1,6 +1,6 @@
 ---
 source: regulation/memorandum/counter-arguments.md
-source-commit: b1872b1
+source-commit: 3181013
 status: gate-reviewed
 ---
 
@@ -639,13 +639,68 @@ source de financement, là où elle est nécessaire.
 
 ### 17. Vous saisissez le capital d'entreprises que l'Europe ne régit pas
 
-**L'objection, sous sa forme la plus forte.** L'obligation de warrant atteint des entreprises constituées au Delaware ou à Singapour, dont les actions sont détenues ailleurs et les systèmes construits ailleurs, parce que leurs services sont utilisés dans l'Union. Le droit international public ne permet à l'Union de régir des comportements étrangers que lorsqu'ils produisent des effets immédiats, substantiels et prévisibles dans le marché intérieur (Gencor T-102/96 ; Intel C-413/14 P), et même alors elle régit des comportements, non la propriété : aucune affaire fondée sur la doctrine des effets n'a jamais exigé d'une société mère étrangère qu'elle dilue son propre capital. Les gouvernements de pays tiers traiteront une souscription obligatoire de 3 % dans leurs champions comme une expropriation par règlement, attaquable au titre des traités d'investissement et des engagements commerciaux, et ils riposteront. L'Union revendiquerait un pouvoir qu'elle ne concéderait jamais aux autres : une loi étrangère exigeant 3 % du capital d'un champion européen comme prix de l'accès à ce marché.
+**L'objection, sous sa forme la plus forte.** L'obligation de warrant
+atteint des entreprises constituées au Delaware ou à Singapour, dont les
+actions sont détenues ailleurs et les systèmes construits ailleurs, parce
+que leurs services sont utilisés dans l'Union. Le droit international public
+ne permet à l'Union de régir des comportements étrangers que lorsqu'ils
+produisent des effets immédiats, substantiels et prévisibles dans le marché
+intérieur (Gencor T-102/96 ; Intel C-413/14 P), et même alors elle régit des
+comportements, non la propriété : aucune affaire fondée sur la doctrine des
+effets n'a jamais exigé d'une société mère étrangère qu'elle dilue son
+propre capital. Les gouvernements de pays tiers traiteront une souscription
+obligatoire de 3 % dans leurs champions comme une expropriation
+réglementaire, attaquable au titre des traités d'investissement et des
+engagements commerciaux, et ils riposteront. L'Union revendiquerait un
+pouvoir qu'elle ne concéderait jamais aux autres : une loi étrangère
+exigeant 3 % du capital d'un champion européen comme prix de l'accès à ce
+marché.
 
 **Là où elle voit juste.** Un warrant sur une société mère étrangère dont le seul lien avec l'Union est que son site web répond irait trop loin et mériterait de perdre. Le rattachement doit être la substance économique dans l'Union, non l'accessibilité. La riposte est un coût réel et la réciprocité un argument réel.
 
-**La réponse que l'instrument doit apporter.** Quatre choix structurels, tous déjà dans les articles. Premièrement, le déclencheur est le commerce dans l'Union, non l'accessibilité dans l'Union : la désignation exige la fourniture dans le marché intérieur avec 7,5 milliards EUR de chiffre d'affaires annuel dans l'Union, dans au moins trois États membres (article 3, paragraphe 2, point a)), un critère de présence économique bien au-delà de tout seuil de la doctrine des effets, et les rentes partagées sont, par construction, des rentes tirées des utilisateurs de l'Union. Deuxièmement, l'entreprise est le groupe : « entreprise » consolide les entreprises liées (article 2, point 1), le principe de l'unité économique du droit de la concurrence de l'Union (Akzo Nobel C-97/08 P), de sorte qu'aucune filiale mince dans l'Union ne peut faire écran à la société mère à laquelle la valeur des services automatisés revient réellement. Troisièmement, le mécanisme respecte le droit des sociétés étranger au lieu de prétendre l'écarter : pour les entreprises régies par le droit d'un pays tiers, la souscription est une obligation de résultat (article 5, paragraphe 5), assurée par l'article 13 comme condition du maintien de l'accès au marché intérieur, l'architecture de toute condition d'accès au marché que l'Union impose déjà, et les dérogations de droit des sociétés de l'article 5, paragraphe 7, n'atteignent que le droit des États membres. Quatrièmement, la condition est universelle : les entreprises de l'Union la portent à l'identique, de sorte qu'une réclamation conventionnelle ou un panel commercial ne trouve aucune discrimination à saisir, et la réciprocité joue en faveur de l'instrument : une Union qui pose le principe l'accepte des autres.
+**La réponse que l'instrument doit apporter.** Quatre choix structurels,
+tous déjà dans les articles. Premièrement, le déclencheur est le commerce
+dans l'Union, non l'accessibilité dans l'Union : la désignation exige la
+fourniture dans le marché intérieur avec 7,5 milliards EUR de chiffre
+d'affaires annuel dans l'Union, dans au moins trois États membres (article
+3, paragraphe 2, point a)), un critère de présence économique bien au-delà
+de tout seuil de la doctrine des effets, et les rentes partagées sont, par
+construction, des rentes tirées des utilisateurs de l'Union. Deuxièmement,
+l'entreprise est le groupe : « entreprise » consolide les entreprises liées
+(article 2, point 1), le principe de l'unité économique du droit de la
+concurrence de l'Union (Akzo Nobel C-97/08 P), de sorte qu'aucune filiale de
+façade dans l'Union ne peut faire écran à la société mère à laquelle la
+valeur des services automatisés revient réellement. Troisièmement, le
+mécanisme respecte le droit des sociétés étranger au lieu de prétendre
+l'écarter : pour les entreprises régies par le droit d'un pays tiers, la
+souscription est une obligation de résultat (article 5, paragraphe 5),
+assurée par l'article 13 comme condition du maintien de l'accès au marché
+intérieur, l'architecture de toute condition d'accès au marché que l'Union
+impose déjà, et les dérogations de droit des sociétés de l'article 5,
+paragraphe 7, n'atteignent que le droit des États membres. Quatrièmement, la
+condition est universelle : les entreprises de l'Union y sont soumises à
+l'identique, de sorte qu'un recours fondé sur un traité ou un panel
+commercial ne peut s'appuyer sur aucune discrimination, et la réciprocité
+joue en faveur de l'instrument : une Union qui pose le principe l'accepte
+des autres.
 
-**Conséquence de conception.** Le rattachement d'accès au marché de DC-10 et la consolidation de groupe de DC-2 constituent les réponses en droit à cette objection. Elle ajoute une règle qui lui est propre : pour les entreprises relevant du droit d'un pays tiers, le warrant est une obligation de résultat en tant que condition d'accès au marché, jamais une prétendue mise à l'écart du droit des sociétés étranger (DC-33).
+Sur l'incidence pratique, l'objection reçoit désormais une réponse
+concrète et non plus abstraite. Sous le critère de désignation de
+l'article 3, paragraphe 2, point b), tel que modifié, les entreprises
+présumées désignées sur les chiffres d'août 2026 couvrent les États-Unis,
+Taïwan et, près du seuil, l'Union elle-même
+(evidence/designation-count.md). L'incidence des premières années ne se
+réduit donc plus à un ensemble composé exclusivement d'entreprises d'un
+seul pays tiers, et l'universalité de la condition se lit dans l'ensemble
+désigné lui-même au lieu d'être affirmée à propos d'un ensemble
+hypothétique.
+
+**Conséquence de conception.** Le rattachement d'accès au marché de DC-10 et
+la consolidation de groupe de DC-2 constituent les réponses en droit à cette
+objection. Elle ajoute une règle qui lui est propre : pour les entreprises
+relevant du droit d'un pays tiers, le warrant est une obligation de
+résultat, mise en œuvre comme condition d'accès au marché, jamais une
+prétendue mise à l'écart du droit des sociétés étranger (DC-33).
 
 ### 18. Les montages de droit des sociétés contourneront tout cela
 
@@ -974,31 +1029,41 @@ cent se situent confortablement en dessous de tout plafond de privation
 plausible. Se situer sous un plafond est un argument de proportionnalité et
 non de nécessité, et ce dossier n'habillera pas l'un en l'autre.
 
-Ce qui en découle pour la rédaction est concret plutôt qu'incantatoire.
-L'article 1er a besoin d'un objectif quantifié, exprimé sous une forme à
-laquelle un pourcentage puisse être mesuré : une cible pour les
-participations de la Réserve rapportée au capital agrégé des entreprises
-désignées, ou une distribution d'un ordre énoncé dans un horizon énoncé, l'un
-et l'autre transformant « pourquoi pas un pour cent » en une question qui a
-une réponse. Ce travail n'est pas fait. Il est en tête de la liste de ce
-dossier avant tout dépôt, il passe avant les points d'interface avec
-l'acquis, et la réponse de la porte 1 sur l'enregistrabilité doit orienter sa
-formulation plutôt que la retarder.
+Cette réparation est désormais faite, et le présent passage consigne la
+réparation et sa limite honnête. L'article 1er, paragraphe 2, énonce
+l'objectif comme une position de propriété : un avoir par citoyen de
+l'ordre de six mois de revenu disponible équivalent médian dans l'Union,
+en prix constants, dans la génération suivant les premières désignations.
+Sur le modèle publié et le critère de désignation modifié de l'article 3,
+paragraphe 2, point b), la valeur désignée agrégée est de l'ordre de
+20 000 milliards d'euros sur les chiffres d'août 2026
+(evidence/designation-count.md), et l'avoir par adulte dans une génération
+d'environ 8 400 euros à trois pour cent, 5 600 à deux et 2 800 à un
+(evidence/sizing-the-ask.md). Six mois de revenu disponible équivalent
+médian sont de l'ordre de 9 000 euros. Trois pour cent est donc le plus
+petit pourcentage entier capable d'approcher l'objectif énoncé, un pour
+cent ne le peut manifestement pas, et le volet de la nécessité de
+l'article 52, paragraphe 1, dispose pour la première fois d'une grandeur à
+laquelle se mesurer, publiée, reproductible, et réexaminée à chaque
+rapport prévu à l'article 14, où la clause qui peut relever le pourcentage
+sur la base des éléments est celle-là même qui peut l'abaisser.
 
-Tant qu'il n'est pas fait, la formulation honnête de la position de ce
-dossier est que le chiffre de trois pour cent est défendable comme
-proportionné et n'est pas défendable comme nécessaire, et que quiconque
-s'appuie sur cet exposé des motifs doit savoir lequel des deux volets porte
-le poids.
+La limite honnête est la circularité qu'un relecteur relèvera et que ce
+dossier énonce le premier : avec un modèle linéaire, tout couple
+objectif-pourcentage est défendable, de sorte que l'objectif lui-même
+n'est pas dérivé mais choisi, ouvertement, dans le dispositif. Ce n'est
+pas un défaut que la rédaction puisse effacer ; c'est ce qu'est un
+objectif législatif. La jurisprudence exige un objectif énoncé et un
+rapport raisonné entre la mesure et lui, non un objectif qui se dérive
+lui-même, ce qu'aucun instrument ne possède. Ce que ce dossier ne fait
+plus, c'est affirmer un pourcentage sans aucun objectif.
 
-**Conséquence de conception.** Le pourcentage ne peut être dérivé du côté de
-la distribution, parce que le modèle publié en est une fonction linéaire et
-qu'aucun seuil ne distingue un chiffre ; le dossier le dit plutôt que de
-laisser croire à une dérivation qu'il ne peut produire (DC-45). L'objectif
-de l'article 1er est qualitatif, de sorte que le volet de la nécessité de
-l'article 52, paragraphe 1, n'a rien à quoi se mesurer, et le quantifier est
-consigné comme un travail de rédaction requis avant tout dépôt et non comme
-une question à examiner après (DC-46).
+**Conséquence de conception.** Le pourcentage est dérivé comme le plus
+petit entier compatible avec l'objectif énoncé à l'article 1er, paragraphe 2, sur un modèle publié et reproductible, et la circularité inhérente
+au choix de l'objectif est énoncée plutôt que dissimulée (DC-45).
+L'article 1er, paragraphe 2, porte l'objectif quantifié, apprécié dans
+chaque rapport prévu à l'article 14 dans les deux sens, et la dérivation
+est revue dès que l'ensemble désigné ou le modèle évolue (DC-46).
 
 
 ## Le tableau des contraintes
@@ -1052,8 +1117,8 @@ Les articles sont rédigés à l'aune de ce tableau. Un projet qui viole une DC
 | DC-42 | Les fonds des salariés sont énoncés ici comme objection et dans la base de preuves comme précédent de ponction, avant qu'un opposant ne les énonce | 19 |
 | DC-43 | La prétention est distributive et aucune modification ne donne de voix à la Réserve sans se défendre comme un instrument différent ; l'effet de gouvernance sur les détenteurs restants est concédé et défendu, jamais dénié comme la mauvaise lunette | 20 |
 | DC-44 | L'effet relatif sur le vote des détenteurs existants est énoncé avec son ampleur et non laissé au calcul d'un adversaire, et toute comparaison avec les rachats reste bornée à l'ampleur, sa dissemblance énoncée à côté | 20 |
-| DC-45 | Le pourcentage ne peut être dérivé du côté de la distribution : le modèle publié y est linéaire et aucun seuil ne distingue un chiffre. Le dossier le dit plutôt que de laisser croire à une dérivation qu'il ne peut produire | 21 |
-| DC-46 | L'objectif de l'article 1er est qualitatif, de sorte que le volet de la nécessité de l'article 52, paragraphe 1, n'a rien à quoi se mesurer. Le quantifier est un travail de rédaction requis avant tout dépôt, non une question à examiner après | 21 |
+| DC-45 | Le pourcentage est le plus petit entier compatible avec l'objectif de l'article 1er, paragraphe 2, dérivé sur un modèle publié et reproductible ; la circularité du choix de l'objectif est énoncée, jamais dissimulée | 21 |
+| DC-46 | L'article 1er, paragraphe 2, porte l'objectif quantifié, apprécié dans chaque rapport de l'article 14 dans les deux sens ; la dérivation est revue dès que l'ensemble désigné ou le modèle évolue | 21 |
 
 ## Statut
 

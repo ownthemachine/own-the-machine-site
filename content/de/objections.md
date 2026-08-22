@@ -1,6 +1,6 @@
 ---
 source: regulation/memorandum/counter-arguments.md
-source-commit: b1872b1
+source-commit: 3181013
 status: gate-reviewed
 ---
 
@@ -654,7 +654,40 @@ Finanzierungsquelle beschränkt, wo sie nötig ist.
 
 **Was daran richtig ist.** Ein Warrant auf eine ausländische Muttergesellschaft, deren einzige Verbindung zur Union darin besteht, dass ihre Website erreichbar ist, griffe zu weit und verdiente zu verlieren. Der Anknüpfungspunkt muss wirtschaftliche Substanz in der Union sein, nicht Erreichbarkeit. Vergeltung ist ein realer Kostenfaktor und Gegenseitigkeit ein reales Argument.
 
-**Die Antwort, die das Instrument geben muss.** Vier strukturelle Entscheidungen, alle bereits in den Artikeln. Erstens ist der Auslöser Handel in der Union, nicht Erreichbarkeit in der Union: die Benennung verlangt die Erbringung im Binnenmarkt mit 7,5 Milliarden EUR jährlichem Unionsumsatz in mindestens drei Mitgliedstaaten (Artikel 3 Absatz 2 Buchstabe a), eine Prüfung wirtschaftlicher Präsenz weit über jeder Schwelle der Wirkungsdoktrin, und die geteilten Renten sind konstruktionsbedingt Renten aus Unionsnutzern. Zweitens ist das Unternehmen die Gruppe: 'Unternehmen' konsolidiert verbundene Unternehmen (Artikel 2 Nummer 1), das Prinzip der wirtschaftlichen Einheit des Wettbewerbsrechts der Union (Akzo Nobel C-97/08 P), sodass keine dünne Unionstochter die Muttergesellschaft abschirmen kann, der der Wert der automatisierten Dienste tatsächlich zufließt. Drittens achtet der Mechanismus ausländisches Gesellschaftsrecht, statt es verdrängen zu wollen: für Unternehmen unter Drittstaatsrecht ist die Zeichnung eine Ergebnispflicht (Artikel 5 Absatz 5), durchgesetzt über Artikel 13 als Bedingung fortgesetzten Zugangs zum Binnenmarkt, die Architektur jeder Marktzugangsbedingung, die die Union bereits kennt, und die gesellschaftsrechtlichen Ausnahmeregelungen des Artikels 5 Absatz 7 erfassen allein das Recht der Mitgliedstaaten. Viertens ist die Bedingung universell: Unionsunternehmen tragen sie identisch, sodass eine Vertragsklage oder ein Handelspanel keine Diskriminierung vorfindet, an der angesetzt werden könnte, und die Gegenseitigkeit arbeitet für das Instrument: eine Union, die dieses Prinzip beansprucht, lässt es auch durch andere gegen sich gelten.
+**Die Antwort, die das Instrument geben muss.** Vier strukturelle
+Entscheidungen, alle bereits in den Artikeln. Erstens ist der Auslöser
+Handel in der Union, nicht Erreichbarkeit in der Union: die Benennung
+verlangt die Erbringung im Binnenmarkt mit 7,5 Milliarden EUR jährlichem
+Unionsumsatz in mindestens drei Mitgliedstaaten (Artikel 3 Absatz 2
+Buchstabe a), eine Prüfung wirtschaftlicher Präsenz weit über jeder Schwelle
+der Wirkungsdoktrin, und die geteilten Renten sind konstruktionsbedingt
+Renten aus Unionsnutzern. Zweitens ist das Unternehmen die Gruppe:
+'Unternehmen' konsolidiert verbundene Unternehmen (Artikel 2 Nummer 1), das
+Prinzip der wirtschaftlichen Einheit des Wettbewerbsrechts der Union (Akzo
+Nobel C-97/08 P), sodass keine dünne Unionstochter die Muttergesellschaft
+abschirmen kann, der der Wert der automatisierten Dienste tatsächlich
+zufließt. Drittens achtet der Mechanismus ausländisches Gesellschaftsrecht,
+statt es verdrängen zu wollen: für Unternehmen unter Drittstaatsrecht ist
+die Zeichnung eine Ergebnispflicht (Artikel 5 Absatz 5), durchgesetzt über
+Artikel 13 als Bedingung fortgesetzten Zugangs zum Binnenmarkt, die
+Architektur jeder Marktzugangsbedingung, die die Union bereits kennt, und
+die gesellschaftsrechtlichen Ausnahmeregelungen des Artikels 5 Absatz 7
+erfassen allein das Recht der Mitgliedstaaten. Viertens ist die Bedingung
+universell: Unionsunternehmen tragen sie identisch, sodass eine
+Vertragsklage oder ein Handelspanel keine Diskriminierung vorfindet, an der
+angesetzt werden könnte, und die Gegenseitigkeit spricht für das Instrument:
+eine Union, die dieses Prinzip beansprucht, lässt es auch durch andere gegen
+sich gelten.
+
+Zur praktischen Wirkung hat der Einwand nun eine konkrete statt einer
+abstrakten Antwort. Unter der geänderten Benennungsprüfung des Artikels 3
+Absatz 2 Buchstabe b erstrecken sich die nach den Zahlen vom August 2026
+mutmaßlich benannten Unternehmen über die Vereinigten Staaten, Taiwan und,
+nahe der Schwelle, die Union selbst (evidence/designation-count.md). Die
+Wirkung der ersten Jahre trifft also nicht länger ausschließlich Unternehmen
+eines einzigen Drittlands, und die Universalität der Bedingung ist in der
+benannten Gruppe selbst sichtbar, statt über eine hypothetische behauptet zu
+werden.
 
 **Konsequenz für den Entwurf.** Der Marktzugangsanknüpfungspunkt von DC-10 und die Gruppenkonsolidierung von DC-2 sind die rechtlichen Antworten auf diesen Einwand. Er fügt eine eigene Regel hinzu: für Unternehmen unter Drittstaatsrecht ist der Warrant eine Ergebnispflicht als Marktzugangsbedingung, niemals eine vermeintliche Verdrängung ausländischen Gesellschaftsrechts (DC-33).
 
@@ -984,32 +1017,45 @@ Entziehungsgrenze. Unter einer Obergrenze zu liegen ist ein Argument der
 Verhältnismäßigkeit und keines der Erforderlichkeit, und diese Akte wird das
 eine nicht als das andere verkleiden.
 
-Was daraus für die Redaktion folgt, ist konkret und nicht bloß eine
-Absichtserklärung. Artikel 1 braucht ein quantifiziertes Ziel, ausgedrückt
-in einer Form, an der ein Prozentsatz gemessen werden kann: eine Zielgröße
-für die Beteiligungen der Reserve im Verhältnis zum zusammengefassten
-Kapital benannter Unternehmen oder eine Ausschüttung einer genannten
-Größenordnung innerhalb eines genannten Horizonts, von denen jede die Frage
-„warum nicht ein Prozent" in eine Frage mit einer Antwort verwandelt. Diese
-Arbeit ist nicht getan. Sie steht an der Spitze der Liste dieser Akte vor
-jeder Einreichung, sie geht den Berührungspunkten mit dem Besitzstand vor,
-und die Antwort der Prüfstufe 1 zur Registrierbarkeit soll ihre Formulierung
-leiten, nicht sie verzögern.
+Diese Reparatur ist nun erfolgt, und diese Passage hält sowohl die
+Reparatur als auch ihre ehrliche Grenze fest. Artikel 1 Absatz 2
+formuliert das Ziel als Eigentumsposition: ein Guthaben je Bürgerin und
+Bürger in der Größenordnung von sechs Monaten des medianen
+Nettoäquivalenzeinkommens in der Union, in konstanten Preisen, innerhalb
+einer Generation nach den ersten Benennungen. Auf dem veröffentlichten
+Modell und der geänderten Benennungsprüfung des Artikels 3 Absatz 2
+Buchstabe b beträgt der zusammengefasste benannte Wert nach den Zahlen
+vom August 2026 rund 20 Billionen EUR (evidence/designation-count.md)
+und das Guthaben je erwachsener Person innerhalb einer Generation etwa
+8 400 EUR bei drei Prozent, 5 600 bei zwei und 2 800 bei einem
+(evidence/sizing-the-ask.md). Sechs Monate des medianen
+Nettoäquivalenzeinkommens liegen in der Größenordnung von 9 000 EUR.
+Drei Prozent ist damit der kleinste ganzzahlige Prozentsatz, der das
+erklärte Ziel erreichen kann, ein Prozent kann es offenkundig nicht, und
+die Erforderlichkeitsprüfung des Artikels 52 Absatz 1 hat zum ersten Mal
+eine Größe, an der sie messen kann, veröffentlicht, nachrechenbar und bei
+jedem Bericht nach Artikel 14 erneut geprüft, wo dieselbe Klausel, die
+den Prozentsatz auf der Grundlage der Belege anheben könnte, ihn auch
+senkt.
 
-Bis sie getan ist, lautet die ehrliche Feststellung der Position dieser Akte,
-dass die Zahl von drei Prozent als verhältnismäßig verteidigbar ist und als
-erforderlich nicht verteidigbar ist, und dass jede und jeder, der sich auf
-diese Begründung stützt, wissen sollte, welche der beiden Prüfungen das
-Gewicht trägt.
+Die ehrliche Grenze ist der Zirkel, den ein Prüfer benennen wird und den
+diese Akte zuerst nennt: bei einem linearen Modell ist jedes Paar aus
+Ziel und Prozentsatz vertretbar, das Ziel selbst wird also nicht
+hergeleitet, sondern gewählt, offen, im verfügenden Teil. Das ist kein
+Mangel, den die Redaktion beheben könnte; es ist, was ein
+Gesetzgebungsziel ist. Die Rechtsprechung verlangt ein erklärtes Ziel und
+ein begründetes Verhältnis zwischen Maßnahme und Ziel, kein Ziel, das
+sich selbst herleitet, und das hat kein Instrument. Was diese Akte nicht
+mehr tut, ist, einen Prozentsatz ohne jedes Ziel zu behaupten.
 
-**Gestaltungsfolge.** Der Prozentsatz kann nicht von der Ausschüttungsseite
-her hergeleitet werden, weil das veröffentlichte Modell darin linear ist und
-keine Schwelle irgendeine Zahl auszeichnet; die Akte sagt das, statt eine
-Herleitung nahezulegen, die sie nicht erbringen kann (DC-45). Das Ziel des
-Artikels 1 ist qualitativ, sodass die Erforderlichkeitsprüfung des Artikels
-52 Absatz 1 nichts hat, woran sie gemessen werden könnte, und seine
-Quantifizierung wird als erforderliche Redaktionsarbeit vor jeder Einreichung
-festgehalten und nicht als Frage für eine spätere Überprüfung (DC-46).
+**Gestaltungsfolge.** Der Prozentsatz wird als kleinste ganze Zahl
+hergeleitet, die mit dem in Artikel 1 Absatz 2 erklärten Ziel vereinbar
+ist, auf einem veröffentlichten, nachrechenbaren Modell, und der Zirkel,
+der in der Wahl des Ziels liegt, wird benannt statt verdeckt (DC-45).
+Artikel 1 Absatz 2 trägt das quantifizierte Ziel, das in jedem Bericht
+nach Artikel 14 in beide Richtungen geprüft wird, und die Herleitung wird
+überprüft, sobald sich die benannte Gruppe oder das Modell bewegt
+(DC-46).
 
 
 ## Die Tabelle der Vorgaben
@@ -1063,8 +1109,8 @@ verletzt, fällt in der Prüfung durch, ganz gleich, wie seine Prosa lautet.
 | DC-42 | Die Lohnempfängerfonds werden hier als Einwand und in der Beleglage als Plünderungspräzedenzfall ausgesprochen, bevor ein Gegner sie ausspricht | 19 |
 | DC-43 | Der Anspruch ist verteilungsbezogen und keine Änderung gibt der Reserve Stimmen, ohne sich als anderes Instrument zu verteidigen; die Governance-Wirkung auf verbleibende Inhaber wird eingeräumt und verteidigt, nie in Abrede gestellt | 20 |
 | DC-44 | Die relative Stimmwirkung auf vorhandene Inhaber wird mit ihrer Größe genannt und nicht dem Gegner zur Berechnung überlassen, und jeder Vergleich mit Rückkäufen bleibt auf die Größe beschränkt, die Ungleichartigkeit daneben genannt | 20 |
-| DC-45 | Der Prozentsatz kann nicht von der Ausschüttungsseite hergeleitet werden: das veröffentlichte Modell ist darin linear und keine Schwelle zeichnet eine Zahl aus. Die Akte sagt das, statt eine Herleitung nahezulegen, die sie nicht erbringen kann | 21 |
-| DC-46 | Das Ziel des Artikels 1 ist qualitativ, sodass die Erforderlichkeitsprüfung des Artikels 52 Absatz 1 nichts zum Messen hat. Es zu quantifizieren ist erforderliche Redaktionsarbeit vor jeder Einreichung, keine Frage für eine spätere Überprüfung | 21 |
+| DC-45 | Der Prozentsatz ist die kleinste ganze Zahl, die mit dem Ziel des Artikels 1 Absatz 2 vereinbar ist, hergeleitet auf einem veröffentlichten, nachrechenbaren Modell; der Zirkel in der Wahl des Ziels wird benannt, nie verdeckt | 21 |
+| DC-46 | Artikel 1 Absatz 2 trägt das quantifizierte Ziel, in jedem Bericht nach Artikel 14 in beide Richtungen geprüft; die Herleitung wird überprüft, sobald sich die benannte Gruppe oder das Modell bewegt | 21 |
 
 ## Status
 

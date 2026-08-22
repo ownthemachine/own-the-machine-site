@@ -1,6 +1,6 @@
 ---
 source: regulation/memorandum/counter-arguments.md
-source-commit: b1872b1
+source-commit: 3181013
 status: gate-reviewed
 ---
 
@@ -621,9 +621,23 @@ de financieringsbron, waar het nodig is.
 
 **Het bezwaar, in zijn sterkste vorm.** De warrantverplichting reikt tot ondernemingen die in Delaware of Singapore zijn opgericht, waarvan de aandelen elders liggen en de systemen elders worden gebouwd, omdat hun diensten in de Unie worden gebruikt. Het volkenrecht staat de Unie slechts toe buitenlands handelen te reguleren wanneer dat onmiddellijke, wezenlijke en voorzienbare gevolgen in de interne markt heeft (Gencor T-102/96; Intel C-413/14 P), en zelfs dan reguleert zij gedrag, geen eigendom: geen enkele zaak onder de gevolgenleer heeft ooit een buitenlandse moedermaatschappij verplicht haar eigen kapitaal te verwateren. Regeringen van derde landen zullen een verplichte inschrijving op 3 % in hun kampioenen behandelen als onteigening per verordening, aanvechtbaar onder investeringsverdragen en handelsverplichtingen, en zij zullen tegenmaatregelen nemen. De Unie zou een bevoegdheid claimen die zij anderen nooit zou toestaan: een buitenlandse wet die 3 % van het kapitaal van een Europese kampioen eist als prijs voor het bedienen van die markt.
 
-**Wat eraan klopt.** Een warrant op een buitenlandse moedermaatschappij waarvan de enige band met de Unie is dat haar website bereikbaar is, zou te ver reiken en zou verdienen te verliezen. De aanknoping moet economische substantie in de Unie zijn, niet bereikbaarheid. Vergelding is een reële kostenpost en wederkerigheid een reëel argument.
+**Wat eraan klopt.** Een warrant op een buitenlandse moedermaatschappij
+waarvan de enige band met de Unie is dat haar website bereikbaar is, zou te
+ver gaan en zou terecht in het ongelijk worden gesteld. De aanknoping moet
+economische substantie in de Unie zijn, niet bereikbaarheid. Vergelding is
+een reële kostenpost en wederkerigheid een reëel argument.
 
 **Het antwoord dat het instrument moet geven.** Vier structurele keuzes, alle reeds in de artikelen. Ten eerste is de trigger handel in de Unie, niet bereikbaarheid in de Unie: aanwijzing vereist het aanbieden in de interne markt met EUR 7,5 miljard aan jaarlijkse Unieomzet in ten minste drie lidstaten (artikel 3, lid 2, onder a)), een toets van economische aanwezigheid die ver boven elke drempel van de gevolgenleer ligt, en de te delen overwinsten zijn per constructie overwinsten uit Uniegebruikers. Ten tweede is de onderneming de groep: 'onderneming' consolideert verbonden ondernemingen (artikel 2, punt 1), het beginsel van de ene economische eenheid uit het mededingingsrecht van de Unie (Akzo Nobel C-97/08 P), zodat geen dunne Uniedochter de moedermaatschappij kan afschermen waaraan de waarde van de geautomatiseerde diensten werkelijk toevalt. Ten derde eerbiedigt het mechanisme buitenlands vennootschapsrecht in plaats van het opzij te schuiven: voor ondernemingen die door het recht van een derde land worden beheerst is de inschrijving een resultaatsverplichting (artikel 5, lid 5), gehandhaafd via artikel 13 als voorwaarde voor voortgezette toegang tot de interne markt, de architectuur van elke markttoegangsvoorwaarde die de Unie al kent, en de vennootschapsrechtelijke afwijkingen van artikel 5, lid 7, raken uitsluitend het recht van de lidstaten. Ten vierde is de voorwaarde universeel: Unieondernemingen dragen haar identiek, zodat een verdragsclaim of handelspanel geen discriminatie vindt om zich aan vast te grijpen, en de wederkerigheid werkt in het voordeel van het instrument: een Unie die het beginsel stelt, aanvaardt het van anderen.
+
+Wat de praktische uitwerking betreft heeft het bezwaar nu een concreet in
+plaats van een abstract antwoord. Onder de aanwijzingstoets van artikel 3,
+lid 2, onder b), zoals gewijzigd, strekken de op cijfers van augustus 2026
+vermoedelijk aangewezen ondernemingen zich uit over de Verenigde Staten,
+Taiwan en, nabij de drempel, de Unie zelf (evidence/designation-count.md).
+De eerste jaren van de maatregel treffen dus niet langer uitsluitend
+ondernemingen van één derde land, en de universaliteit van de voorwaarde is
+zichtbaar in de aangewezen groep zelf, in plaats van dat zij over een
+hypothetische groep wordt beweerd.
 
 **Ontwerpconsequentie.** De markttoegangsaanknoping van DC-10 en de groepsconsolidatie van DC-2 zijn de juridische antwoorden op dit bezwaar. Het voegt één eigen regel toe: voor ondernemingen onder derdelandsrecht is de warrant een resultaatsverplichting als markttoegangsvoorwaarde, nooit een vermeende terzijdestelling van buitenlands vennootschapsrecht (DC-33).
 
@@ -945,30 +959,42 @@ ligt ruim onder elk aannemelijk ontnemingsplafond. Onder een plafond liggen
 is een evenredigheidsargument, geen noodzakelijkheidsargument, en dit
 dossier zal het ene niet als het andere verkleden.
 
-Wat daaruit voor de redactie volgt is concreet in plaats van vrijblijvend.
-Artikel 1 heeft een gekwantificeerd doel nodig, uitgedrukt in een vorm
-waaraan een percentage kan worden getoetst: een streefwaarde voor de
-deelnemingen van de Reserve ten opzichte van het samengetelde kapitaal van
-aangewezen ondernemingen, of een uitkering van een genoemde orde binnen een
-genoemde horizon, waarvan elk de vraag "waarom niet één procent" omzet in
-een vraag met een antwoord. Dat werk is niet gedaan. Het staat bovenaan de
-lijst van dit dossier vóór enige indiening, het gaat vóór de raakvlakken met
-het acquis, en het antwoord van poort 1 over registreerbaarheid hoort te
-bepalen hoe het wordt geformuleerd, niet het uit te stellen.
+Die reparatie is nu uitgevoerd, en deze passage legt zowel de reparatie
+als haar eerlijke grens vast. Artikel 1, lid 2, formuleert het doel als
+een eigendomspositie: een tegoed per burger van de orde van zes maanden
+mediaan equivalent besteedbaar inkomen in de Unie, in constante prijzen,
+binnen een generatie na de eerste aanwijzingen. Op het gepubliceerde model
+en de gewijzigde aanwijzingstoets van artikel 3, lid 2, onder b), bedraagt
+de samengetelde aangewezen waarde op cijfers van augustus 2026 ongeveer
+EUR 20 biljoen (evidence/designation-count.md), en het tegoed per
+volwassene binnen een generatie ongeveer EUR 8 400 bij drie procent,
+EUR 5 600 bij twee en EUR 2 800 bij één (evidence/sizing-the-ask.md). Zes
+maanden mediaan equivalent besteedbaar inkomen is van de orde van
+EUR 9 000. Drie procent is daarmee het kleinste gehele percentage dat het
+gestelde doel kan benaderen, één procent kan dat aantoonbaar niet, en de
+noodzakelijkheidstoets van artikel 52, lid 1, heeft voor het eerst een
+grootheid om aan te toetsen, gepubliceerd, reproduceerbaar, en opnieuw
+bezien bij elk verslag onder artikel 14, waar dezelfde bepaling die het
+percentage op grond van het bewijs kan verhogen het ook kan verlagen.
 
-Zolang dat niet is gedaan, luidt de eerlijke vaststelling van de positie van
-dit dossier dat het getal van drie procent verdedigbaar is als evenredig en
-niet verdedigbaar is als noodzakelijk, en dat wie op deze toelichting afgaat
-moet weten welke van de twee toetsen het gewicht draagt.
+De eerlijke grens is de cirkelredenering die een beoordelaar zal aanwijzen
+en die dit dossier als eerste noemt: bij een lineair model is elk paar van
+doel en percentage verdedigbaar, dus het doel zelf wordt niet afgeleid
+maar gekozen, openlijk, in de bepalingen zelf. Dat is geen gebrek dat de
+redactie kan wegnemen; het is wat een wetgevingsdoel is. De rechtspraak
+vereist een gesteld doel en een beredeneerde verhouding tussen maatregel
+en doel, geen doel dat zichzelf afleidt, en dat heeft geen enkel
+instrument. Wat dit dossier niet langer doet, is een percentage stellen
+zonder enig doel.
 
-**Ontwerpgevolg.** Het percentage kan niet worden afgeleid uit de
-uitkeringskant, omdat het gepubliceerde model daarin lineair is en geen
-drempel enig getal uitzondert; het dossier zegt dat, in plaats van een
-afleiding te suggereren die het niet kan leveren (DC-45). Het doel van
-artikel 1 is kwalitatief, zodat de noodzakelijkheidstoets van artikel 52, lid
-1, geen toetssteen heeft, en het kwantificeren van dat doel wordt vastgelegd
-als vereist redactiewerk vóór indiening en niet als iets voor toetsing
-achteraf (DC-46).
+**Ontwerpgevolg.** Het percentage wordt afgeleid als het kleinste gehele
+getal dat verenigbaar is met het in artikel 1, lid 2, gestelde doel, op
+een gepubliceerd en reproduceerbaar model, en de cirkelredenering die in de
+keuze van het doel besloten ligt wordt genoemd in plaats van verhuld
+(DC-45). Artikel 1, lid 2, draagt het gekwantificeerde doel, dat in elk
+verslag onder artikel 14 in beide richtingen wordt getoetst, en de
+afleiding wordt herzien zodra de aangewezen groep of het model beweegt
+(DC-46).
 
 
 ## De beperkingentabel
@@ -1022,8 +1048,8 @@ schendt, zakt voor de review, hoe goed het proza ook is.
 | DC-42 | De loontrekkersfondsen worden hier als bezwaar gesteld en in de bewijsbasis als plunderingsprecedent, vóórdat een tegenstander ze stelt | 19 |
 | DC-43 | De aanspraak is verdelend en geen wijziging geeft de Reserve stemrecht zonder zichzelf als een ander instrument te verdedigen; het bestuurseffect op overblijvende houders wordt erkend en verdedigd, nooit weggesproken als de verkeerde bril | 20 |
 | DC-44 | Het relatieve stemeffect op bestaande houders wordt met zijn omvang vermeld en niet aan een tegenstander overgelaten om uit te rekenen, en elke vergelijking met inkoop blijft beperkt tot de omvang, met de ongelijksoortigheid ernaast vermeld | 20 |
-| DC-45 | Het percentage kan niet worden afgeleid uit de uitkeringskant: het gepubliceerde model is daarin lineair en geen drempel zondert enig getal uit. Het dossier zegt dat, in plaats van een afleiding te suggereren die het niet kan leveren | 21 |
-| DC-46 | Het doel van artikel 1 is kwalitatief, zodat de noodzakelijkheidstoets van artikel 52, lid 1, geen toetssteen heeft. Het kwantificeren ervan is vereist redactiewerk vóór indiening, niet iets voor toetsing achteraf | 21 |
+| DC-45 | Het percentage is het kleinste gehele getal dat verenigbaar is met het doel van artikel 1, lid 2, afgeleid op een gepubliceerd, reproduceerbaar model; de cirkel in de keuze van het doel wordt genoemd, nooit verhuld | 21 |
+| DC-46 | Artikel 1, lid 2, draagt het gekwantificeerde doel, in elk verslag onder artikel 14 in beide richtingen getoetst; de afleiding wordt herzien zodra de aangewezen groep of het model beweegt | 21 |
 
 ## Status
 

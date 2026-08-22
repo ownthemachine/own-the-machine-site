@@ -1,6 +1,6 @@
 ---
 source: regulation/memorandum/counter-arguments.md
-source-commit: b1872b1
+source-commit: 3181013
 status: gate-reviewed
 ---
 
@@ -649,7 +649,41 @@ fuente de financiación, donde es necesaria.
 
 **Lo que acierta.** Un warrant sobre una matriz extranjera cuyo único vínculo con la Unión es que su sitio web responde iría demasiado lejos y merecería perder. El nexo debe ser la sustancia económica en la Unión, no la accesibilidad. La represalia es un coste real y la reciprocidad un argumento real.
 
-**La respuesta que el instrumento debe dar.** Cuatro decisiones estructurales, todas ya en los artículos. Primera, el desencadenante es el comercio en la Unión, no la accesibilidad en la Unión: la designación exige la prestación en el mercado interior con 7 500 millones de EUR de facturación anual en la Unión, en al menos tres Estados miembros (artículo 3, apartado 2, letra a)), una prueba de presencia económica muy por encima de cualquier umbral de la doctrina de los efectos, y las rentas compartidas son, por construcción, rentas extraídas de usuarios de la Unión. Segunda, la empresa es el grupo: «empresa» consolida las empresas vinculadas (artículo 2, punto 1), el principio de la unidad económica del Derecho de la competencia de la Unión (Akzo Nobel C-97/08 P), de modo que ninguna filial instrumental en la Unión puede apantallar a la matriz a la que realmente afluye el valor de los servicios automatizados. Tercera, el mecanismo respeta el Derecho de sociedades extranjero en lugar de pretender desplazarlo: para las empresas regidas por el Derecho de un tercer país la suscripción es una obligación de resultado (artículo 5, apartado 5), asegurada mediante el artículo 13 como condición del acceso continuado al mercado interior, la arquitectura de toda condición de acceso al mercado que la Unión ya impone, y las excepciones de Derecho de sociedades del artículo 5, apartado 7, alcanzan solo al Derecho de los Estados miembros. Cuarta, la condición es universal: las empresas de la Unión la soportan de forma idéntica, de modo que una reclamación convencional o un panel comercial no encuentra discriminación a la que agarrarse, y la reciprocidad juega a favor del instrumento: una Unión que sienta el principio lo acepta de otros.
+**La respuesta que el instrumento debe dar.** Cuatro decisiones
+estructurales, todas ya en los artículos. Primera, el desencadenante es el
+comercio en la Unión, no la accesibilidad en la Unión: la designación exige
+la prestación en el mercado interior con 7 500 millones de EUR de
+facturación anual en la Unión, en al menos tres Estados miembros (artículo
+3, apartado 2, letra a)), una prueba de presencia económica muy por encima
+de cualquier umbral de la doctrina de los efectos, y las rentas compartidas
+son, por construcción, rentas extraídas de usuarios de la Unión. Segunda, la
+empresa es el grupo: «empresa» consolida las empresas vinculadas (artículo
+2, punto 1), el principio de la unidad económica del Derecho de la
+competencia de la Unión (Akzo Nobel C-97/08 P), de modo que ninguna filial
+instrumental en la Unión puede apantallar a la matriz a la que realmente
+afluye el valor de los servicios automatizados. Tercera, el mecanismo
+respeta el Derecho de sociedades extranjero en lugar de pretender
+desplazarlo: para las empresas regidas por el Derecho de un tercer país la
+suscripción es una obligación de resultado (artículo 5, apartado 5),
+asegurada mediante el artículo 13 como condición del acceso continuado al
+mercado interior, la arquitectura de toda condición de acceso al mercado que
+la Unión ya impone, y las excepciones de Derecho de sociedades del artículo
+5, apartado 7, alcanzan solo al Derecho de los Estados miembros. Cuarta, la
+condición es universal: las empresas de la Unión la soportan de forma
+idéntica, de modo que una reclamación convencional o un panel comercial no
+encuentra discriminación a la que agarrarse, y la reciprocidad juega a favor
+del instrumento: una Unión que hace valer el principio lo acepta de los
+demás.
+
+Sobre la incidencia práctica, la objeción tiene ahora una respuesta
+concreta y no abstracta. Con el criterio de designación del artículo 3,
+apartado 2, letra b), en su versión modificada, las empresas
+presuntamente designadas con las cifras de agosto de 2026 abarcan los
+Estados Unidos, Taiwán y, cerca del umbral, la propia Unión
+(evidence/designation-count.md). La incidencia de los primeros años ya no
+se reduce a un conjunto compuesto exclusivamente por empresas de un solo
+tercer país, y la universalidad de la condición se ve en el propio
+conjunto designado en lugar de afirmarse sobre uno hipotético.
 
 **Consecuencia de diseño.** El nexo de acceso al mercado de DC-10 y la consolidación de grupo de DC-2 son las respuestas de la ley a esta objeción. Añade una regla propia: para las empresas bajo Derecho de un tercer país, el warrant es una obligación de resultado como condición de acceso al mercado, nunca una pretendida exclusión del Derecho de sociedades extranjero (DC-33).
 
@@ -970,30 +1004,42 @@ por ciento queda cómodamente por debajo de cualquier techo de privación
 plausible. Estar por debajo de un techo es un argumento de proporcionalidad
 y no de necesidad, y este expediente no hará pasar el uno por el otro.
 
-Lo que de ello se sigue para la redacción es concreto y no aspiracional. El
-artículo 1 necesita un objetivo cuantificado, expresado en una forma frente a
-la cual pueda medirse un porcentaje: una meta para las participaciones de la
-Reserva en relación con el capital agregado de las empresas designadas, o una
-distribución de un orden enunciado dentro de un horizonte enunciado,
-cualquiera de las cuales convierte «por qué no el uno por ciento» en una
-pregunta con respuesta. Ese trabajo no está hecho. Encabeza la lista de este
-expediente antes de cualquier presentación, va por delante de los puntos de
-interfaz con el acervo, y la respuesta del control 1 sobre la
-registrabilidad debe orientar cómo se formula, no retrasarlo.
+Esa reparación ya está hecha, y este pasaje deja constancia de la
+reparación y de su límite honesto. El artículo 1, apartado 2, enuncia
+el objetivo como una posición de propiedad: un haber por ciudadano del
+orden de seis meses de la renta disponible equivalente mediana de la
+Unión, en precios constantes, dentro de la generación siguiente a las
+primeras designaciones. Con el modelo publicado y el criterio de
+designación modificado del artículo 3, apartado 2, letra b), el valor
+designado agregado es del orden de 20 billones de euros con las cifras de
+agosto de 2026 (evidence/designation-count.md), y el haber por adulto en
+una generación, de unos 8 400 euros al tres por ciento, 5 600 al dos y
+2 800 al uno (evidence/sizing-the-ask.md). Seis meses de renta disponible
+equivalente mediana son del orden de 9 000 euros. El tres por ciento es,
+por tanto, el menor porcentaje entero capaz de aproximarse al objetivo
+enunciado, el uno por ciento manifiestamente no puede, y el requisito de
+necesidad del artículo 52, apartado 1, dispone por primera vez de una
+magnitud con la que medirse, publicada, reproducible y reexaminada en
+cada informe del artículo 14, donde la misma cláusula que podría elevar
+el porcentaje sobre la base de las pruebas es la que lo rebaja.
 
-Hasta que se haga, la formulación honesta de la posición de este expediente
-es que la cifra del tres por ciento es defendible como proporcionada y no es
-defendible como necesaria, y que quien se apoye en esta exposición de motivos
-debe saber cuál de los dos requisitos soporta el peso.
+El límite honesto es la circularidad que un revisor señalará y que este
+expediente enuncia primero: con un modelo lineal, cualquier par de
+objetivo y porcentaje es defendible, de modo que el objetivo mismo no se
+deriva, se elige, abiertamente, en la parte dispositiva. No es un defecto
+que la redacción pueda eliminar; es lo que es un objetivo legislativo. La
+jurisprudencia exige un objetivo enunciado y una relación razonada entre
+la medida y él, no un objetivo que se derive a sí mismo, cosa que ningún
+instrumento tiene. Lo que este expediente ya no hace es afirmar un
+porcentaje sin objetivo alguno.
 
-**Consecuencia de diseño.** El porcentaje no puede derivarse del lado de la
-distribución, porque el modelo publicado es lineal en él y ningún umbral
-distingue cifra alguna; el expediente lo dice en lugar de dar a entender una
-derivación que no puede producir (DC-45). El objetivo del artículo 1 es
-cualitativo, de modo que el requisito de necesidad del artículo 52, apartado
-1, no tiene nada con que medirse, y cuantificarlo queda consignado como
-trabajo de redacción exigido antes de cualquier presentación y no como
-cuestión para una revisión posterior (DC-46).
+**Consecuencia de diseño.** El porcentaje se deriva como el menor entero
+compatible con el objetivo enunciado en el artículo 1, apartado 2,
+sobre un modelo publicado y reproducible, y la circularidad inherente a la
+elección del objetivo se enuncia en lugar de ocultarse (DC-45). El
+artículo 1, apartado 2, porta el objetivo cuantificado, evaluado en
+cada informe del artículo 14 en ambos sentidos, y la derivación se revisa
+cuando el conjunto designado o el modelo cambian (DC-46).
 
 
 ## La tabla de restricciones
@@ -1047,8 +1093,8 @@ suspende la revisión con independencia de su prosa.
 | DC-42 | Los fondos de los asalariados se enuncian aquí como objeción y en la base de evidencia como precedente de saqueo, antes de que un adversario los enuncie | 19 |
 | DC-43 | La pretensión es distributiva y ninguna modificación da votos a la Reserva sin defenderse como un instrumento distinto; el efecto sobre el gobierno corporativo de los tenedores restantes se admite y se defiende, nunca se niega como lente equivocada | 20 |
 | DC-44 | El efecto relativo sobre el voto de los tenedores existentes se expone con su magnitud y no se deja al cálculo de un adversario, y toda comparación con recompras queda acotada a la magnitud, señalando al mismo tiempo sus diferencias | 20 |
-| DC-45 | El porcentaje no puede derivarse del lado de la distribución: el modelo publicado es lineal en él y ningún umbral distingue cifra alguna. El expediente lo dice en lugar de dar a entender una derivación que no puede producir | 21 |
-| DC-46 | El objetivo del artículo 1 es cualitativo, de modo que el requisito de necesidad del artículo 52, apartado 1, no tiene nada con que medirse. Cuantificarlo es trabajo de redacción exigido antes de presentar, no cuestión para revisión posterior | 21 |
+| DC-45 | El porcentaje es el menor entero compatible con el objetivo del artículo 1, apartado 2, derivado sobre un modelo publicado y reproducible; la circularidad de la elección del objetivo se enuncia, nunca se oculta | 21 |
+| DC-46 | El artículo 1, apartado 2, porta el objetivo cuantificado, evaluado en cada informe del artículo 14 en ambos sentidos; la derivación se revisa cuando el conjunto designado o el modelo cambian | 21 |
 
 ## Estado
 
