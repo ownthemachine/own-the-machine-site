@@ -793,6 +793,225 @@ DC-42: Die Lohnempfängerfonds gehören in die Beleglage als Präzedenzfall der
 Plünderung und in diese Akte als Einwand, ausgesprochen, bevor ein Gegner
 ihn ausspricht.
 
+### 20. Die stimmrechtslosen Anteile zu nehmen gibt die Kontrolle gerade denen, die Sie als das Problem benannt haben
+
+**Der Einwand in seiner stärksten Fassung.** Das Instrument nimmt drei
+Prozent des wirtschaftlichen Werts und keine der Stimmen. Diese Rechnung ist
+nicht neutral. Vor dem Bezugsrecht besitzen die vorhandenen Inhaber das ganze
+Kapital und geben alle Stimmen ab; danach besitzen sie siebenundneunzig
+Prozent des Kapitals und geben noch immer alle Stimmen ab. Ihre Kontrolle je
+Euro eigenen Geldes ist gestiegen, um etwa drei Prozent, und die Union hat
+sie ihnen gegeben. Eine Akte, deren Befund lautet, das Eigentum an
+produktivem Kapital sei zu schmal, antwortet damit, den größten dauerhaft
+stimmrechtslosen Anteilseigner Europas zu schaffen und in jedem erfassten
+Unternehmen genau jenen Keil zwischen Zahlungsstromrechten und
+Kontrollrechten zu verbreitern, den die Forschung zur Unternehmensführung als
+den verlässlichsten Prädiktor für die Ausbeutung von Minderheiten und für
+Leitung ohne Rechenschaft ausweist. Die Gründer der Spitzenunternehmen halten
+die Kontrolle bereits über Strukturen mit zwei Anteilsklassen bei
+wirtschaftlicher Minderheitsbeteiligung. Dies gibt ihnen mehr davon,
+kostenlos, kraft Gesetzes.
+
+Der Legitimationspunkt ist schlimmer als die Rechnung. Sobald die Union
+selbst stimmrechtsloses Eigenkapital als die Form akzeptiert, welche die
+Beteiligung ihrer eigenen Bürgerinnen und Bürger annimmt, kann kein Organ der
+Union mehr stimmig gegen Notierungen mit zwei Anteilsklassen, gegen
+Treueaktien oder gegen irgendeine andere Trennung von Eigentum und Kontrolle
+einwenden. Das Instrument duldet den Keil nicht nur; es billigt ihn, in einer
+Verordnung, im Namen von 450 Millionen Menschen.
+
+**Was daran zutrifft.** Die mechanische Behauptung ist genau richtig, und
+diese Akte sollte nichts anderes vorgeben: stimmrechtslose Anteile erhöhen
+das relative Stimmgewicht jedes stimmberechtigten Anteils, und die Erhöhung
+ist hier real. Ginge es im Befund darum, wer Unternehmen führt, statt darum,
+wer die Erträge des Kapitals erhält, so beantwortete das Instrument eine
+Frage, die es nicht gestellt hat, und beantwortete sie überdies in die
+falsche Richtung.
+
+**Die Antwort, die das Instrument geben muss.** Nicht etwa, dass dies der
+falsche Blickwinkel sei. Ein früherer Entwurf dieser Passage nannte die
+Governance-Lesart einen Kategorienfehler, weil der Anspruch des Instruments
+verteilungsbezogen sei. Vier Prüfstufen haben das mit denselben Worten
+verworfen, und sie hatten recht: ein Instrument, das in jedem Unternehmen,
+das es berührt, das Verhältnis von Zahlungsstromrechten zu Kontrollrechten
+verändert, ist in seiner Wirkung ein Governance-Instrument, was immer es der
+Absicht nach ist, und es wird zu Recht an seinen Wirkungen gemessen. Die
+Antwort unten räumt die Wirkung ein und verteidigt die Wahl.
+
+Zu wählen war zwischen drei Positionen, und die Akte hat die am wenigsten
+schlechte genommen. Eine Reserve mit Stimmrechten im Verhältnis zu ihrer
+Beteiligung ist eine politisch gelenkte Beteiligung an jedem
+Spitzenunternehmen des Binnenmarkts: das ist der Honigtopf aus Einwand 9 mit
+einem Hebel daran und die goldene Aktie aus Einwand 16, die der Gerichtshof
+in jeder Gestalt aufgehoben hat, die sie seit Kommission gegen Deutschland
+(C-112/05) angenommen hat. Eine Reserve ohne jede Beteiligung gibt den
+Verteilungsanspruch ganz auf. Eine Reserve mit wirtschaftlicher Beteiligung
+und ohne Kontrolle nimmt reale Governance-Kosten in Kauf für die einzige
+Position, die Artikel 63 und die Rechtsprechungslinie zu goldenen Aktien
+übersteht. Artikel 5 Absatz 4 Buchstabe a und Artikel 9 Absatz 1 Buchstaben
+a bis c entziehen das der späteren Bequemlichkeit des Verfassers, und DC-43
+hält jeden Nachfolger daran fest.
+
+Zur Größenordnung eine Vergleichszahl und ihre Grenzen. Drei Prozent des
+erweiterten Kapitals heben das Stimmgewicht der verbleibenden Inhaber um
+etwa ein Zweiunddreißigstel seiner selbst, und Rückkaufprogramme dieser
+Größenordnung laufen bei den von diesem Instrument erfassten Unternehmen
+routinemäßig, ohne dass jemand sie eine Übertragung von Kontrolle nennt.
+Dieser Vergleich wird für die Größe angeboten und für nichts sonst, und er
+hält nicht stand, wenn man ihn weitertreibt: ein Rückkauf ist freiwillig,
+wird gegen Gegenleistung ausgeführt und gibt gerade jenen Inhabern Geld
+zurück, deren Gewicht steigt, während dies verpflichtend ist, zum Nennwert
+gezeichnet wird und ihnen nichts zurückgibt. Die Prüfer hatten recht, dass
+beides nicht wesensgleich ist. Gleich sind sie in dem einen Punkt, für den
+der Absatz sie verwendet, nämlich wie stark sich das Stimmgewicht eines
+verbleibenden Anteils tatsächlich verschiebt.
+
+Zur Legitimation trifft der Einwand und wird nur zum Teil beantwortet.
+Stimmrechtslose Anteile sind keine Erfindung dieses Instruments: das
+Gesellschaftsrecht der Union lässt sie seit Jahrzehnten zu und jeder
+Mitgliedstaat sieht sie vor, sodass die Reserve eine Klasse nimmt, die der
+Markt bereits handelt. Doch die Union erlässt seit Kurzem Rechtsvorschriften
+in die entgegengesetzte Richtung und ergänzt Schutzvorkehrungen um
+Mehrstimmrechtsstrukturen, gerade weil die Trennung von Eigentum und
+Kontrolle als Gefahr verstanden wird, und eine Verordnung, die in jedes
+erfasste Unternehmen einen dauerhaft stimmrechtslosen Block pflanzt, fügt
+sich daneben nur schwer ein. Die ehrliche Feststellung lautet, dass das
+Instrument einen Teil der Autorität der Union für den Satz aufwendet,
+wirtschaftliche Beteiligung ohne Kontrolle sei eine legitime Form des
+Eigentums, und dass dieser Preis real ist. Er wird bewusst gezahlt, weil die
+Alternative eine Union ist, die Stimmen in den Unternehmen hält, die sie
+reguliert, und diese Akte verteidigt lieber einen Keil als das.
+
+Das genaue Zusammenspiel mit der Unionsgesetzgebung zu
+Mehrstimmrechtsstrukturen wird als offener Berührungspunkt mit dem
+Besitzstand vermerkt und nicht hier aus einer Fundstelle heraus vertreten,
+die diese Akte noch nicht geprüft hat; es tritt zu den bereits verzeichneten
+Berührungspunkten mit dem Besitzstand auf der Liste vor jeder Einreichung.
+
+**Gestaltungsfolge.** Der Anspruch des Instruments ist verteilungsbezogen
+und keine Änderung gibt der Reserve Stimmen, ohne sich als anderes
+Instrument zu verteidigen; die Governance-Wirkung wird jedoch eingeräumt und
+verteidigt, statt in Abrede gestellt zu werden (DC-43). Die relative
+Stimmwirkung auf vorhandene Inhaber wird mit ihrer Größe genannt, und der
+Vergleich mit Rückkäufen bleibt auf die Größe beschränkt, die
+Ungleichartigkeit im selben Atemzug dazugesagt (DC-44).
+
+
+### 21. Warum drei Prozent und nicht eines, oder zehn
+
+**Der Einwand in seiner stärksten Fassung.** Die Zahl wird behauptet.
+Nirgends in dieser Akte wird sie hergeleitet. Artikel 52 Absatz 1 der Charta
+erlaubt eine Einschränkung des Eigentumsrechts nur, wo sie erforderlich ist
+und den von der Union anerkannten dem Gemeinwohl dienenden Zielsetzungen
+tatsächlich entspricht, und die Erforderlichkeit ist genau die Frage, die
+eine nackte Zahl nicht beantworten kann: erreicht drei Prozent das Ziel, so
+ist ein Prozent das mildere Mittel und die Maßnahme fällt; erreicht ein
+Prozent es nicht, so hat die Akte nicht gezeigt, warum drei es tun. Das
+prüfende Gericht wird den Gesetzgeber auffordern, seine Arbeit vorzuzeigen,
+wie es das in jeder nennenswerten Verhältnismäßigkeitssache getan hat, und
+diese Akte wird ihm eine runde Zahl reichen, die bequem unterhalb der
+Schwelle liegt, ab der sich der Vorwurf „Sie verstaatlichen sie" leicht
+erheben lässt. Das ist eine politische Eichung im Gewand einer rechtlichen,
+und der Juristische Dienst der Kommission wird dies schon bei der ersten
+Durchsicht erkennen. Jede andere Zahl im Instrument ist an etwas gebunden:
+die Schwellen in Artikel 3 an messbare Größen, die Höchstfrist von sieben
+Jahren an den beobachteten Abstand zwischen Benennung und Realisierung. Die
+eine Zahl, die bestimmt, wie viel genommen wird, ist an nichts gebunden.
+
+**Was daran zutrifft.** Alles. Dies ist der schwächste tragende Punkt der
+Akte, und keine Redaktionsqualität an anderer Stelle repariert ihn. Es wäre
+schlimmer als nutzlos, ihn hier mit einer Herleitung zu beantworten, die zu
+einer bereits gewählten Zahl erfunden wurde: das ist genau das Laster, das
+der Einwand benennt, und ein Prüfer, der es bemerkte, dürfte alles Übrige in
+dieser Begründung beiseitelegen.
+
+**Die Antwort, die das Instrument geben muss.** Der Einwand trifft zu, und
+der Versuch, ihn zu beantworten, hat Schlimmeres hervorgebracht als eine
+fehlende Herleitung: den Nachweis, dass eine Herleitung der Art, die ein
+Gericht verlangen würde, überhaupt nicht zu erbringen ist, solange Artikel 1
+so steht, wie er steht.
+
+Das veröffentlichte Modell ist linear im Prozentsatz. Die Rechenweise des
+Anhangs II, wie sie im Simulator der Kampagnenseite umgesetzt ist, lässt das
+Kapital der Reserve wachsen, indem sie jedem fällig werdenden Strom den
+Prozentsatz des Bezugsrechts hinzufügt, und jede Ausschüttung stromabwärts
+ist ein Bruchteil dieses Kapitals. Eine Verdopplung des Prozentsatzes
+verdoppelt die Dividende an jedem Horizont, eine Halbierung halbiert sie,
+exakt, in jedem Szenario, das der Simulator anbietet. Die Berechnung steht in
+evidence/warrant-percentage.md und jede und jeder kann sie nachrechnen. Es
+gibt weder Schwelle noch Knick noch Sprung irgendwo auf der Kurve, was
+bedeutet, dass es keinen Prozentsatz gibt, ab dem das Instrument zu wirken
+beginnt und unterhalb dessen es das nicht tut.
+
+Das ist tödlich für die naheliegende Verteidigung. Erforderlichkeit nach
+Artikel 52 Absatz 1 fragt, ob ein milderes Mittel das Ziel erreichen würde.
+Ist das Ziel jenes des Artikels 1, die Beteiligung der Bürgerinnen und Bürger
+an dem von hyperautomatisierten Unternehmen geschaffenen Kapitalwert, dann
+erreicht ein Prozent es, und ein Zehntelprozent ebenfalls, weil jedes davon
+Beteiligung hervorbringt und der Artikel keine Menge nennt, die diese
+Beteiligung erreichen müsste. Ein Gegner muss nicht einmal vortragen, drei
+Prozent seien zu viel. Er muss nur feststellen, dass eine kleinere Zahl das
+erklärte Ziel erreicht, und die Erforderlichkeitsprüfung fällt an den eigenen
+Worten des Instruments.
+
+Der Mangel liegt also nicht in dieser Begründung und ist hier nicht zu
+beheben. Er liegt in Artikel 1. Ein Instrument, das in Artikel 17 der Charta
+eingreift und sein Ziel qualitativ formuliert, hat der
+Erforderlichkeitsprüfung nichts gelassen, woran sie gemessen werden könnte,
+und kein Maß an Argumentation über drei Prozent ersetzt das. Entweder erhält
+das Ziel eine Menge, an der ein Prozentsatz gemessen werden kann, oder die
+Verteidigung nach Artikel 52 Absatz 1 ruht allein auf der
+Verhältnismäßigkeitsprüfung, die nur fragt, ob die Last übermäßig ist, und
+auf die die Antwort die Obergrenze und nicht die Untergrenze ist.
+
+Die Obergrenze ist der Ort, an dem die Verteidigung der Akte heute ehrlich
+steht. Ein Prozentsatz, der groß genug ist, um vorhandenen Inhabern die
+Substanz ihres Eigentums zu nehmen, geht von einer Regelung der Nutzung in
+eine Entziehung über. Hauer (44/79) ist die Fundstelle für die Unterscheidung
+selbst und für den Satz, dass das Eigentumsrecht im Allgemeininteresse
+geregelt werden darf; jene Sache betraf eine befristete Beschränkung der
+Neuanpflanzung von Reben und ist keine Fundstelle für eine zwangsweise
+Übertragung von Eigenkapital, und diese Akte bietet sie nicht als solche an.
+James und andere gegen Vereinigtes Königreich (1986) wird für dieselbe
+Unterscheidung angeführt und für nichts weiter: die dortige Entziehung ging
+mit einer Entschädigung einher, sodass die Sache Fundstelle dafür ist, wo die
+Linie verläuft, und nicht dafür, was ohne Bezahlung genommen werden darf.
+Einwand 1 trägt diese Argumentation und ihren ehrlichen Rest, nämlich dass
+keine entschiedene Sache eine dauerhafte, nicht krisenbedingte,
+unentschädigte Verwässerung eines gesunden Unternehmens auf die richtige
+Seite der Linie stellt. Drei Prozent liegen bequem unter jeder plausiblen
+Entziehungsgrenze. Unter einer Obergrenze zu liegen ist ein Argument der
+Verhältnismäßigkeit und keines der Erforderlichkeit, und diese Akte wird das
+eine nicht als das andere verkleiden.
+
+Was daraus für die Redaktion folgt, ist konkret und nicht bloß eine
+Absichtserklärung. Artikel 1 braucht ein quantifiziertes Ziel, ausgedrückt
+in einer Form, an der ein Prozentsatz gemessen werden kann: eine Zielgröße
+für die Beteiligungen der Reserve im Verhältnis zum zusammengefassten
+Kapital benannter Unternehmen oder eine Ausschüttung einer genannten
+Größenordnung innerhalb eines genannten Horizonts, von denen jede die Frage
+„warum nicht ein Prozent" in eine Frage mit einer Antwort verwandelt. Diese
+Arbeit ist nicht getan. Sie steht an der Spitze der Liste dieser Akte vor
+jeder Einreichung, sie geht den Berührungspunkten mit dem Besitzstand vor,
+und die Antwort der Prüfstufe 1 zur Registrierbarkeit soll ihre Formulierung
+leiten, nicht sie verzögern.
+
+Bis sie getan ist, lautet die ehrliche Feststellung der Position dieser Akte,
+dass die Zahl von drei Prozent als verhältnismäßig verteidigbar ist und als
+erforderlich nicht verteidigbar ist, und dass jede und jeder, der sich auf
+diese Begründung stützt, wissen sollte, welche der beiden Prüfungen das
+Gewicht trägt.
+
+**Gestaltungsfolge.** Der Prozentsatz kann nicht von der Ausschüttungsseite
+her hergeleitet werden, weil das veröffentlichte Modell darin linear ist und
+keine Schwelle irgendeine Zahl auszeichnet; die Akte sagt das, statt eine
+Herleitung nahezulegen, die sie nicht erbringen kann (DC-45). Das Ziel des
+Artikels 1 ist qualitativ, sodass die Erforderlichkeitsprüfung des Artikels
+52 Absatz 1 nichts hat, woran sie gemessen werden könnte, und seine
+Quantifizierung wird als erforderliche Redaktionsarbeit vor jeder Einreichung
+festgehalten und nicht als Frage für eine spätere Überprüfung (DC-46).
+
+
 ## Die Tabelle der Vorgaben
 
 Die Artikel werden gegen diese Tabelle entworfen. Ein Entwurf, der eine DC
@@ -805,7 +1024,7 @@ verletzt, fällt in der Prüfung durch, ganz gleich, wie seine Prosa lautet.
 | DC-3 | Gesetzliche Passivität; Realisierung ausschließlich bei definierten gesetzlichen Ereignissen, niemals bei einem diskretionären oder politischen Ereignis | 1, 6 |
 | DC-4 | Kein Geldfluss von den Unternehmen; nur Instrumente | 2, 4 |
 | DC-5 | Ausschüttungen sind Vermögenseinkommen der Reserve | 2 |
-| DC-6 | Abtrennbare Schichtung für die teilweise EBI-Registrierung | 2 |
+| DC-6 | Abtrennbare Schichtung für die teilweise EBI- Registrierung | 2 |
 | DC-7 | Warrant-Standards der Union; Verwahrung durch die Mitgliedstaaten über die Rentenschienen | 3, 14 |
 | DC-8 | Mindeststandards, keine einheitliche Maschinerie | 3 |
 | DC-9 | Pflicht nie in eine laufende Abgabe umwandelbar | 4 |
@@ -831,7 +1050,7 @@ verletzt, fällt in der Prüfung durch, ganz gleich, wie seine Prosa lautet.
 | DC-29 | Eingriff in der Ausführung auf den genannten Prozentsatz begrenzt; unabhängige, gesondert anfechtbare Bewertung; gerichtliche Überprüfung | 1 |
 | DC-30 | Wesentliche Elemente (Auslöser, Eigentum der Reserve, Anspruch, Eingriff) in den Artikeln, nie delegiert | 1 |
 | DC-31 | Wo ein Auszahlungsbetrag je Bürgerin gezeigt wird, steht der Anteil je Bürgerin an der Reserve daneben | 15 |
-| DC-32 | Wirtschaftliche Beteiligung ist das Maximum: Kein Kontrollrecht, Veto oder Governance-Privileg knüpft an die Beteiligungen der Reserve an, bindend für dieses Instrument und jeden, der es ändert, ohne vorzugeben, eine künftige Gesetzgebung zu binden | 16 |
+| DC-32 | Wirtschaftliche Beteiligung ist das Maximum: Kein Kontrollrecht, Veto oder Governance- Privileg knüpft an die Beteiligungen der Reserve an, bindend für dieses Instrument und jeden, der es ändert, ohne vorzugeben, eine künftige Gesetzgebung zu binden | 16 |
 | DC-33 | Für Unternehmen unter Drittstaatsrecht ist der Warrant eine Ergebnispflicht als Marktzugangsbedingung, niemals eine Verdrängung ausländischen Gesellschaftsrechts | 17 |
 | DC-34 | Keine Instanz zwischen Bewertung und Gericht; Korrektur im Nachhinein, und die Transaktion wartet nie | 6 |
 | DC-35 | Kristallisation bei Entnahme und nach Zeit, nicht nur beim Verkauf | 18 |
@@ -842,6 +1061,10 @@ verletzt, fällt in der Prüfung durch, ganz gleich, wie seine Prosa lautet.
 | DC-40 | Unterhalb einer Geringfügigkeitsschwelle verlängert sich das Ausschüttungsintervall; es wird nie zum Grund, nicht zu zahlen | 15 |
 | DC-41 | Begrenzt, ohne Stimmrechte oder Kontrollrechte, und universell darin, wem es zahlt: Die schwedischen Lohnempfängerfonds zeigen, dass das Verfehlen auch nur eines der drei zum Scheitern genügt. Die Reserve macht durchaus Ansprüche hinsichtlich Rang und gegen Nachrangigkeit geltend; was sie nie erwirbt, sind Stimmrechte, Organsitze oder ein Mitspracherecht bei der Führung | 19 |
 | DC-42 | Die Lohnempfängerfonds werden hier als Einwand und in der Beleglage als Plünderungspräzedenzfall ausgesprochen, bevor ein Gegner sie ausspricht | 19 |
+| DC-43 | Der Anspruch ist verteilungsbezogen und keine Änderung gibt der Reserve Stimmen, ohne sich als anderes Instrument zu verteidigen; die Governance-Wirkung auf verbleibende Inhaber wird eingeräumt und verteidigt, nie in Abrede gestellt | 20 |
+| DC-44 | Die relative Stimmwirkung auf vorhandene Inhaber wird mit ihrer Größe genannt und nicht dem Gegner zur Berechnung überlassen, und jeder Vergleich mit Rückkäufen bleibt auf die Größe beschränkt, die Ungleichartigkeit daneben genannt | 20 |
+| DC-45 | Der Prozentsatz kann nicht von der Ausschüttungsseite hergeleitet werden: das veröffentlichte Modell ist darin linear und keine Schwelle zeichnet eine Zahl aus. Die Akte sagt das, statt eine Herleitung nahezulegen, die sie nicht erbringen kann | 21 |
+| DC-46 | Das Ziel des Artikels 1 ist qualitativ, sodass die Erforderlichkeitsprüfung des Artikels 52 Absatz 1 nichts zum Messen hat. Es zu quantifizieren ist erforderliche Redaktionsarbeit vor jeder Einreichung, keine Frage für eine spätere Überprüfung | 21 |
 
 ## Status
 

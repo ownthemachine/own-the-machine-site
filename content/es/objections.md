@@ -785,6 +785,217 @@ asalariados pertenecen a la base de evidencia como precedente de saqueo y a
 este expediente como objeción, enunciados antes de que un adversario los
 enuncie.
 
+### 20. Tomar las acciones sin voto entrega el control a quienes usted señaló como el problema
+
+**La objeción, en su versión más fuerte.** El instrumento toma el tres por
+ciento del valor económico y ninguno de los votos. Esa aritmética no es
+neutral. Antes del derecho de suscripción, los tenedores existentes poseen
+todo el capital y emiten todos los votos; después poseen el noventa y siete
+por ciento del capital y siguen emitiendo todos los votos. Su control por
+cada euro de su propio dinero ha subido, en torno a un tres por ciento, y se
+lo ha entregado la Unión. Un expediente cuyo diagnóstico es que la propiedad
+del capital productivo es demasiado estrecha responde creando el mayor
+accionista permanentemente sin voto de Europa y ensanchando, en cada empresa
+cubierta, precisamente la cuña entre derechos al flujo de caja y derechos de
+control que la investigación sobre gobierno corporativo identifica como el
+predictor más fiable de la expropiación de minoritarios y de una gestión sin
+rendición de cuentas. Los fundadores de las empresas de frontera ya ostentan
+el control mediante estructuras de doble clase de acciones sobre
+participaciones económicas minoritarias. Esto les da más, gratis, por ley.
+
+El punto de legitimación es peor que la aritmética. Una vez que la propia
+Unión acepta el capital sin voto como la forma que adopta la participación de
+sus propios ciudadanos, ninguna institución de la Unión puede oponerse de
+manera coherente a las cotizaciones de doble clase, a las acciones de
+fidelidad ni a ninguna otra separación entre propiedad y control. El
+instrumento no se limita a tolerar la cuña; la avala, en un reglamento, en
+nombre de 450 millones de personas.
+
+**En qué acierta.** La afirmación mecánica es exactamente cierta y este
+expediente no debe fingir lo contrario: las acciones sin voto elevan el peso
+relativo de cada acción con voto, y aquí la subida es real. Si el diagnóstico
+tratara de quién dirige las empresas en lugar de quién recibe los
+rendimientos del capital, el instrumento estaría respondiendo a una pregunta
+que no formuló, y además la estaría respondiendo en la dirección equivocada.
+
+**La respuesta que el instrumento debe dar.** No que esta sea la lente
+equivocada. Un borrador anterior de este pasaje llamaba error de categoría a
+la lectura en clave de gobierno corporativo, porque la pretensión del
+instrumento es distributiva. Cuatro controles de revisión lo rechazaron en
+los mismos términos, y tenían razón: un instrumento que altera la relación
+entre derechos al flujo de caja y derechos de control en cada empresa que
+toca es, por su efecto, un instrumento de gobierno corporativo, sea cual sea
+su intención, y se le juzga con razón por sus efectos. La respuesta que sigue
+admite el efecto y defiende la elección.
+
+La elección era entre tres posiciones y el expediente ha tomado la menos
+mala. Una Reserva con votos proporcionales a su participación es un
+accionariado dirigido políticamente en cada empresa de frontera del mercado
+interior: es el tarro de miel de la objeción 9 con una palanca, y la acción
+de oro de la objeción 16, que el Tribunal ha anulado en todas las formas que
+ha adoptado desde Comisión contra Alemania (C-112/05). Una Reserva sin
+participación alguna abandona por completo la pretensión distributiva. Una
+Reserva con participación económica y sin control acepta un coste real de
+gobierno a cambio de la única posición que sobrevive al artículo 63 y a la
+línea de las acciones de oro. El artículo 5, apartado 4, letra a), y el
+artículo 9, apartado 1, letras a) a c), lo sitúan fuera del alcance de la
+comodidad posterior del redactor, y la DC-43 obliga a cualquier sucesor a
+ser transparente al respecto.
+
+Sobre la magnitud, una comparación y sus límites. El tres por ciento del
+capital ampliado eleva el peso de voto de los tenedores restantes en
+aproximadamente una treintaidosava parte de sí mismo, y programas de recompra
+de ese orden se ejecutan de forma rutinaria en las empresas que este
+instrumento cubre sin que nadie los llame una transferencia de control. Esa
+comparación se ofrece por el tamaño y por nada más, y no resiste que se la
+lleve más lejos: una recompra es voluntaria, se ejecuta con contraprestación
+y devuelve efectivo a los mismos tenedores cuyo peso aumenta, mientras que
+esto es obligatorio, se suscribe por el valor nominal y no les devuelve nada.
+Los revisores tenían razón al decir que ambas cosas no son de la misma
+naturaleza. Se parecen en el único aspecto para el que el párrafo las emplea,
+que es cuánto se mueve realmente el peso de voto de una acción restante.
+
+Sobre la legitimación, la objeción da en el blanco y solo se responde en
+parte. Las acciones sin voto no son un invento de este instrumento: el
+derecho de sociedades de la Unión las permite desde hace décadas y todos los
+Estados miembros las contemplan, de modo que la Reserva toma una clase que el
+mercado ya negocia. Pero la Unión lleva un tiempo legislando en sentido
+contrario, añadiendo salvaguardias en torno a las estructuras de voto
+múltiple precisamente porque la separación entre propiedad y control se
+entiende como un peligro, y un reglamento que planta un bloque
+permanentemente sin voto en cada empresa cubierta encaja mal junto a eso. La
+formulación honesta es que el instrumento gasta parte de la autoridad de la
+Unión en la proposición de que la participación económica sin control es una
+forma legítima de propiedad, y que ese precio es real. Se paga
+deliberadamente, porque la alternativa es una Unión que ostenta votos en las
+empresas que regula, y este expediente prefiere defender una cuña antes que
+eso.
+
+La interacción precisa con la legislación de la Unión sobre estructuras de
+voto múltiple queda consignada como un punto de interfaz abierto con el
+acervo, y no se argumenta aquí a partir de una referencia que este expediente
+todavía no ha verificado; se suma a los puntos de interfaz con el acervo ya
+inscritos en la lista antes de cualquier presentación.
+
+**Consecuencia de diseño.** La pretensión del instrumento es distributiva y
+ninguna modificación da votos a la Reserva sin defenderse como un
+instrumento distinto, pero el efecto sobre el gobierno corporativo se admite
+y se defiende en lugar de negarse (DC-43). El efecto relativo sobre el voto
+de los tenedores existentes se expone con su magnitud, y la comparación con
+las recompras queda acotada a la magnitud, señalando al mismo tiempo sus
+diferencias (DC-44).
+
+
+### 21. Por qué el tres por ciento y no el uno, o el diez
+
+**La objeción, en su versión más fuerte.** La cifra se afirma. En ninguna
+parte de este expediente se deriva. El artículo 52, apartado 1, de la Carta
+solo permite una limitación del derecho de propiedad cuando es necesaria y
+responde efectivamente a un objetivo de interés general, y la necesidad es
+precisamente la pregunta que una cifra desnuda no puede responder: si el
+tres por ciento logra el objetivo, el uno por ciento es el medio menos
+lesivo y la medida cae; si el uno por ciento no lo logra, el expediente no
+ha mostrado por qué el tres sí. El tribunal que revise pedirá al legislador
+que justifique sus cálculos, como lo ha pedido en todo asunto de
+proporcionalidad digno de cita, y este expediente le tenderá una cifra
+redonda que se sitúa cómodamente por debajo del nivel en el que el reproche
+«los están nacionalizando» se vuelve fácil de formular. Eso es una
+calibración política vestida de jurídica, y el Servicio Jurídico de la
+Comisión lo verá en la primera lectura. Cualquier otra cifra del instrumento
+está atada a algo: los umbrales del artículo 3 a magnitudes medibles, el
+plazo máximo de siete años al intervalo observado entre designación y
+realización. La única cifra que determina cuánto se toma no está atada a
+nada.
+
+**En qué acierta.** En todo. Este es el punto portante más débil del
+expediente, y ninguna calidad de redacción en otro lugar lo repara. Sería
+peor que inútil responderla aquí con una derivación inventada para encajar
+con una cifra ya elegida: ese es exactamente el vicio que la objeción nombra,
+y un revisor que lo advirtiera estaría legitimado para descartar todo lo
+demás de esta exposición de motivos.
+
+**La respuesta que el instrumento debe dar.** La objeción es correcta, y el
+intento de responderla produjo algo peor que una derivación ausente: la
+demostración de que no cabe producir ninguna derivación del tipo que un
+tribunal querría mientras el artículo 1 siga redactado como está.
+
+El modelo publicado es lineal en el porcentaje. La aritmética del anexo II,
+tal como se implementa en el simulador del sitio de campaña, hace crecer el
+capital de la Reserva sumando a cada flujo que se materializa el porcentaje
+del derecho de suscripción, y toda distribución posterior es una fracción de
+ese capital. Duplicar el porcentaje duplica el dividendo en todos los
+horizontes y reducirlo a la mitad lo reduce a la mitad, exactamente, en todos
+los escenarios que ofrece el simulador. El cálculo figura en
+evidence/warrant-percentage.md y cualquiera puede rehacerlo. No hay umbral,
+ni codo, ni discontinuidad en ningún punto de la curva, lo que significa que
+no existe porcentaje alguno a partir del cual el instrumento empiece a
+funcionar y por debajo del cual no lo haga.
+
+Eso es fatal para la defensa evidente. La necesidad conforme al artículo 52,
+apartado 1, pregunta si una medida menos lesiva lograría el objetivo. Si el
+objetivo es el del artículo 1, la participación de los ciudadanos en el valor
+de capital creado por empresas hiperautomatizadas, entonces el uno por ciento
+lo logra, y una décima de punto porcentual también, porque cada uno produce
+participación y el artículo no enuncia ninguna cantidad que esa participación
+deba alcanzar. Un adversario ni siquiera necesita sostener que el tres por
+ciento es demasiado. Le basta con observar que una cifra menor logra el
+objetivo tal como se enuncia, y el requisito de necesidad cae por las propias
+palabras del instrumento.
+
+El defecto, por tanto, no está en esta exposición de motivos y no puede
+repararse aquí. Está en el artículo 1. Un instrumento que interfiere en el
+artículo 17 de la Carta y enuncia su objetivo de forma cualitativa ha dejado
+al requisito de necesidad sin nada con que medirse, y ninguna cantidad de
+argumentación sobre el tres por ciento lo sustituye. O el objetivo adquiere
+una cantidad frente a la cual pueda medirse un porcentaje, o la defensa al
+amparo del artículo 52, apartado 1, descansa solo en el requisito de
+proporcionalidad, que únicamente pregunta si la carga es excesiva y al que la
+respuesta es el techo y no el suelo.
+
+El techo es donde la defensa del expediente se sitúa hoy honestamente. Un
+porcentaje lo bastante grande como para despojar a los tenedores existentes
+de la sustancia de su propiedad pasa de una regulación del uso a una
+privación. Hauer (44/79) es la autoridad para la distinción misma y para la
+proposición de que el derecho de propiedad puede regularse en interés
+general; aquel asunto versaba sobre una restricción temporal a la plantación
+de viñedos y no es autoridad para una transferencia forzosa de capital, y
+este expediente no la ofrece como tal. James y otros contra Reino Unido
+(1986) se cita para la misma distinción y para nada más: allí la privación
+iba acompañada de indemnización, de modo que el asunto es autoridad sobre
+dónde discurre la línea y no sobre qué puede tomarse sin pagarlo. La
+objeción 1 sostiene ese argumento y su residuo honesto, a saber, que ningún
+asunto resuelto sitúa una dilución permanente, ajena a una crisis y no
+indemnizada, de una empresa sana en el lado correcto de la línea. El tres
+por ciento queda cómodamente por debajo de cualquier techo de privación
+plausible. Estar por debajo de un techo es un argumento de proporcionalidad
+y no de necesidad, y este expediente no hará pasar el uno por el otro.
+
+Lo que de ello se sigue para la redacción es concreto y no aspiracional. El
+artículo 1 necesita un objetivo cuantificado, expresado en una forma frente a
+la cual pueda medirse un porcentaje: una meta para las participaciones de la
+Reserva en relación con el capital agregado de las empresas designadas, o una
+distribución de un orden enunciado dentro de un horizonte enunciado,
+cualquiera de las cuales convierte «por qué no el uno por ciento» en una
+pregunta con respuesta. Ese trabajo no está hecho. Encabeza la lista de este
+expediente antes de cualquier presentación, va por delante de los puntos de
+interfaz con el acervo, y la respuesta del control 1 sobre la
+registrabilidad debe orientar cómo se formula, no retrasarlo.
+
+Hasta que se haga, la formulación honesta de la posición de este expediente
+es que la cifra del tres por ciento es defendible como proporcionada y no es
+defendible como necesaria, y que quien se apoye en esta exposición de motivos
+debe saber cuál de los dos requisitos soporta el peso.
+
+**Consecuencia de diseño.** El porcentaje no puede derivarse del lado de la
+distribución, porque el modelo publicado es lineal en él y ningún umbral
+distingue cifra alguna; el expediente lo dice en lugar de dar a entender una
+derivación que no puede producir (DC-45). El objetivo del artículo 1 es
+cualitativo, de modo que el requisito de necesidad del artículo 52, apartado
+1, no tiene nada con que medirse, y cuantificarlo queda consignado como
+trabajo de redacción exigido antes de cualquier presentación y no como
+cuestión para una revisión posterior (DC-46).
+
+
 ## La tabla de restricciones
 
 Los artículos se redactan contra esta tabla. Un borrador que viole una DC
@@ -834,6 +1045,10 @@ suspende la revisión con independencia de su prosa.
 | DC-40 | Bajo un umbral de minimis el intervalo de reparto se alarga; nunca se convierte en razón para no pagar | 15 |
 | DC-41 | Acotado, sin votos ni derechos de control, y universal en a quién paga: los fondos suecos de los asalariados demuestran que fallar en cualquiera de los tres basta para perder. La Reserva sí hace valer derechos en cuanto al rango y frente a la subordinación; lo que nunca adquiere son votos, puestos en el consejo ni voz alguna en la gestión | 19 |
 | DC-42 | Los fondos de los asalariados se enuncian aquí como objeción y en la base de evidencia como precedente de saqueo, antes de que un adversario los enuncie | 19 |
+| DC-43 | La pretensión es distributiva y ninguna modificación da votos a la Reserva sin defenderse como un instrumento distinto; el efecto sobre el gobierno corporativo de los tenedores restantes se admite y se defiende, nunca se niega como lente equivocada | 20 |
+| DC-44 | El efecto relativo sobre el voto de los tenedores existentes se expone con su magnitud y no se deja al cálculo de un adversario, y toda comparación con recompras queda acotada a la magnitud, señalando al mismo tiempo sus diferencias | 20 |
+| DC-45 | El porcentaje no puede derivarse del lado de la distribución: el modelo publicado es lineal en él y ningún umbral distingue cifra alguna. El expediente lo dice en lugar de dar a entender una derivación que no puede producir | 21 |
+| DC-46 | El objetivo del artículo 1 es cualitativo, de modo que el requisito de necesidad del artículo 52, apartado 1, no tiene nada con que medirse. Cuantificarlo es trabajo de redacción exigido antes de presentar, no cuestión para revisión posterior | 21 |
 
 ## Estado
 

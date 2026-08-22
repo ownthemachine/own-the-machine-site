@@ -203,6 +203,36 @@ for (const [loc, list] of Object.entries(plainStale)) {
     : 'all current'}`);
 }
 
+// ---- table integrity ------------------------------------------------
+// The DC-row count above passed while the German and Spanish tables did not
+// render at all: a re-wrapping script had split the header row across two
+// lines, so every DC row was still present and countable and the browser saw
+// a paragraph of pipes. Counting rows is not the same as having a table. A
+// markdown table line is malformed if it opens with a pipe and does not carry
+// at least two more, which is exactly what a split row looks like.
+const badRows = [];
+for (const loc of ['en', ...LOCALES]) {
+  const dir = join(CONTENT, loc);
+  if (!existsSync(dir)) continue;
+  for (const f of readdirSync(dir).filter((x) => x.endsWith('.md'))) {
+    const raw = readFileSync(join(dir, f), 'utf8');
+    raw.split('\n').forEach((line, i) => {
+      const s = line.trim();
+      if (s.startsWith('|') && (s.match(/\|/g) || []).length < 3) {
+        badRows.push(`${loc}/${f}:${i + 1}: ${s.slice(0, 50)}`);
+      }
+    });
+  }
+}
+if (badRows.length) {
+  problems += badRows.length;
+  console.error(`tables        ${badRows.length} malformed table line(s), which means a `
+    + `row was split and the table will not render:`);
+  for (const b of badRows) console.error(`  ${b}`);
+} else {
+  console.log('tables         every markdown table row is well formed');
+}
+
 // ---- link integrity -------------------------------------------------
 // These files are hard-wrapped at 76 columns. A wrap that lands inside a
 // markdown link target silently produces a dead link: the page still builds,

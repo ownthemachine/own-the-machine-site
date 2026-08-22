@@ -787,6 +787,220 @@ salariés ont leur place dans la base de preuves comme précédent de
 ponction et dans ce dossier comme objection, énoncés avant qu'un
 opposant ne les énonce.
 
+### 20. Prendre les actions sans droit de vote confie le contrôle à ceux-là mêmes que vous désignez comme le problème
+
+**L'objection, dans sa version la plus forte.** L'instrument prend trois pour
+cent de la valeur économique et aucune des voix. Cette arithmétique n'est pas
+neutre. Avant le bon, les détenteurs existants possèdent tout le capital et
+expriment toutes les voix ; après, ils possèdent quatre-vingt-dix-sept pour
+cent du capital et expriment toujours toutes les voix. Leur contrôle par euro
+de leur propre argent a augmenté, d'environ trois pour cent, et c'est l'Union
+qui le leur a donné. Un dossier dont le diagnostic est que la propriété du
+capital productif est trop étroite répond en créant le plus grand actionnaire
+durablement privé de droit de vote d'Europe et en élargissant, dans chaque
+entreprise couverte, précisément le coin entre droits aux flux financiers et
+droits de contrôle que la recherche en gouvernance d'entreprise identifie
+comme le meilleur prédicteur de la spoliation des minoritaires et d'une
+gestion sans reddition de comptes. Les fondateurs des entreprises de
+frontière détiennent déjà le contrôle par des structures à double catégorie
+d'actions sur une participation économique minoritaire. Ceci leur en donne
+davantage, gratuitement, par la loi.
+
+Le point de légitimation est pire que l'arithmétique. Dès lors que l'Union
+elle-même accepte des titres sans droit de vote comme la forme que prend la
+participation de ses propres citoyens, aucune institution de l'Union ne peut
+plus s'opposer de façon cohérente aux cotations à double catégorie, aux
+actions de fidélité ni à aucune autre séparation entre propriété et contrôle.
+L'instrument ne se contente pas de tolérer le coin ; il l'avalise, dans un
+règlement, au nom de 450 millions de personnes.
+
+**Ce qu'elle voit juste.** L'affirmation mécanique est exactement vraie et ce
+dossier ne doit pas prétendre le contraire : les actions sans droit de vote
+augmentent le poids relatif de chaque action votante, et l'augmentation est
+ici réelle. Si le diagnostic portait sur qui dirige les entreprises plutôt
+que sur qui reçoit les rendements du capital, l'instrument répondrait à une
+question qu'il n'a pas posée, et y répondrait dans le mauvais sens.
+
+**La réponse que l'instrument doit donner.** Non pas que ce soit la mauvaise
+lunette. Une version antérieure de ce passage qualifiait la lecture en termes
+de gouvernance d'erreur de catégorie, au motif que la prétention de
+l'instrument est distributive. Quatre portes de relecture l'ont rejetée dans
+les mêmes termes, et elles avaient raison : un instrument qui modifie le
+rapport entre droits aux flux et droits de contrôle dans chaque entreprise
+qu'il touche est, par son effet, un instrument de gouvernance, quelle que
+soit son intention, et c'est sur ses effets qu'il est jugé. La réponse
+ci-dessous concède l'effet et défend le choix.
+
+Le choix se faisait entre trois positions et le dossier a pris la moins
+mauvaise. Une Réserve dotée de voix proportionnelles à sa participation est
+un actionnariat politiquement dirigé dans chaque entreprise de frontière du
+marché intérieur : c'est le pot de miel de l'objection 9 muni d'un levier,
+et l'action spécifique de l'objection 16, que la Cour a censurée sous toutes
+les formes qu'elle a prises depuis Commission contre Allemagne (C-112/05).
+Une Réserve sans aucune participation abandonne entièrement la prétention
+distributive. Une Réserve avec participation économique et sans contrôle
+accepte un coût de gouvernance réel en échange de la seule position qui
+survive à l'article 63 et à la jurisprudence relative aux actions
+spécifiques. L'article 5, paragraphe 4, point a), et l'article 9, paragraphe
+1, points a) à c), placent cela hors de portée des commodités ultérieures du
+rédacteur, et la DC-43 contraint tout successeur à la même franchise.
+
+Sur l'ampleur, une comparaison et ses limites. Trois pour cent du capital
+augmenté relèvent le poids de vote des détenteurs restants d'environ un
+trente-deuxième de lui-même, et des programmes de rachat de cet ordre sont
+couramment menés au sein des entreprises que cet instrument couvre sans que
+personne n'y voie un transfert de contrôle. Cette comparaison est offerte
+pour l'ampleur et pour rien d'autre, et elle ne résiste pas si on la pousse
+plus loin : un rachat est facultatif, s'exécute contre contrepartie et
+restitue des liquidités aux détenteurs dont le poids augmente, tandis que
+ceci est obligatoire, se souscrit à la valeur nominale et ne leur restitue
+rien. Les relecteurs avaient raison de dire que les deux ne sont pas de même
+nature. Ils se ressemblent sur le seul point pour lequel le paragraphe les
+emploie, à savoir de combien bouge réellement le poids de vote d'une action
+restante.
+
+Sur la légitimation, l'objection porte et n'est qu'en partie traitée. Les
+titres sans droit de vote ne sont pas une invention de cet instrument : le
+droit des sociétés de l'Union les autorise depuis des décennies et chaque
+État membre en prévoit, de sorte que la Réserve prend une catégorie que le
+marché négocie déjà. Mais l'Union légifère depuis peu en sens inverse, en
+ajoutant des garde-fous autour des structures à vote multiple précisément
+parce que la séparation de la propriété et du contrôle est comprise comme un
+danger, et un règlement qui plante un bloc durablement privé de droit de vote
+dans chaque entreprise couverte s'accorde mal avec cela. La formulation
+honnête est que l'instrument dépense une part de l'autorité de l'Union sur la
+proposition selon laquelle la participation économique sans contrôle est une
+forme légitime de propriété, et que ce prix est réel. Il est payé
+délibérément, parce que l'alternative est une Union détenant des voix dans
+les entreprises qu'elle réglemente, et ce dossier préfère défendre un coin
+que défendre cela.
+
+L'interaction précise avec la législation de l'Union sur les structures à
+vote multiple est consignée comme un point d'interface ouvert avec l'acquis
+plutôt que plaidée ici à partir d'une référence que ce dossier n'a pas encore
+vérifiée ; elle rejoint les points d'interface avec l'acquis déjà inscrits
+sur la liste avant tout dépôt.
+
+**Conséquence de conception.** La prétention de l'instrument est
+distributive et aucune modification ne donne de voix à la Réserve sans se
+défendre comme un instrument différent, mais l'effet de gouvernance est
+concédé et défendu plutôt que dénié (DC-43). L'effet relatif sur le vote des
+détenteurs existants est énoncé avec son ampleur, et la comparaison avec les
+rachats reste bornée à l'ampleur, sa dissemblance énoncée dans le même temps
+(DC-44).
+
+
+### 21. Pourquoi trois pour cent, et non un, ou dix
+
+**L'objection, dans sa version la plus forte.** Le chiffre est affirmé.
+Nulle part dans ce dossier il n'est dérivé. L'article 52, paragraphe 1, de
+la Charte ne permet une limitation du droit de propriété que si elle est
+nécessaire et répond effectivement à un objectif d'intérêt général, et la
+nécessité est précisément la question qu'un chiffre nu ne peut trancher : si
+trois pour cent atteignent l'objectif, un pour cent est le moyen moins
+attentatoire et la mesure tombe ; si un pour cent ne l'atteint pas, le
+dossier n'a pas montré pourquoi trois l'atteignent. La juridiction de
+contrôle demandera au législateur d'expliciter son raisonnement, comme elle
+l'a demandé dans toute affaire de proportionnalité digne d'être citée, et ce
+dossier lui tendra un chiffre rond qui se tient confortablement en dessous
+du seuil à partir duquel le reproche « vous les nationalisez » devient
+facile à formuler. C'est un calibrage politique vêtu en calibrage juridique,
+et le service juridique de la Commission le verra à la première lecture.
+Tous les autres chiffres de l'instrument sont rattachés à quelque chose :
+les seuils de l'article 3 à des grandeurs mesurables, le délai butoir de
+sept ans à l'intervalle observé entre désignation et réalisation. Le seul
+chiffre qui détermine combien est pris n'est rattaché à rien.
+
+**Ce qu'elle voit juste.** Tout. C'est le point porteur le plus faible du
+dossier, et aucune qualité de rédaction ailleurs ne le répare. Il serait pire
+qu'inutile d'y répondre ici par une dérivation inventée pour s'ajuster à un
+chiffre déjà choisi : c'est exactement le vice que l'objection nomme, et un
+relecteur qui le surprendrait serait fondé à écarter tout le reste de cet
+exposé des motifs.
+
+**La réponse que l'instrument doit donner.** L'objection est fondée, et la
+tentative d'y répondre a produit pire qu'une dérivation manquante : la
+démonstration qu'aucune dérivation du genre qu'un juge attendrait ne peut
+être produite tant que l'article 1er reste rédigé comme il l'est.
+
+Le modèle publié est une fonction linéaire du pourcentage. L'arithmétique de
+l'annexe II, telle qu'elle est mise en œuvre dans le simulateur du site de
+campagne, fait croître le capital de la Réserve en ajoutant à chaque flux
+cristallisant le pourcentage du bon, et toute distribution en aval est une
+fraction de ce capital. Doubler le pourcentage double le dividende à tout
+horizon et le réduire de moitié le réduit de moitié, exactement, dans chaque
+scénario que le simulateur propose. Le calcul figure dans evidence/warrant-
+percentage.md et quiconque peut le refaire. Il n'y a ni seuil, ni coude, ni
+discontinuité nulle part sur la courbe, ce qui signifie qu'il n'existe aucun
+pourcentage à partir duquel l'instrument commence à fonctionner et en
+dessous duquel il ne fonctionne pas.
+
+Cela est fatal à la défense évidente. La nécessité au sens de l'article 52,
+paragraphe 1, demande si une mesure moins attentatoire atteindrait
+l'objectif. Si l'objectif est celui de l'article 1er, la participation des
+citoyens à la valeur en capital créée par les entreprises hyperautomatisées,
+alors un pour cent l'atteint, et un dixième de pour cent aussi, parce que
+chacun produit de la participation et que l'article n'énonce aucune quantité
+que cette participation devrait atteindre. Un adversaire n'a même pas besoin
+de soutenir que trois pour cent, c'est trop. Il lui suffit d'observer qu'un
+chiffre plus petit atteint l'objectif tel qu'énoncé, et le volet de la
+nécessité tombe sur les propres termes de l'instrument.
+
+Le défaut n'est donc pas dans cet exposé des motifs et ne peut y être
+réparé. Il est dans l'article 1er. Un instrument qui porte atteinte à
+l'article 17 de la Charte et énonce son objectif de façon qualitative a
+laissé le volet de la nécessité sans rien à quoi se mesurer, et aucune
+argumentation sur les trois pour cent, aussi poussée soit-elle, n'y supplée.
+Ou bien l'objectif acquiert une quantité à laquelle un pourcentage peut être
+mesuré, ou bien la défense au titre de l'article 52, paragraphe 1, repose
+sur le seul volet de la proportionnalité, qui demande uniquement si la
+charge est excessive et auquel la réponse est le plafond et non le plancher.
+
+Le plafond est là où la défense du dossier se tient honnêtement aujourd'hui.
+Un pourcentage assez élevé pour dépouiller les détenteurs existants de la
+substance de leur propriété passe d'une réglementation de l'usage à une
+privation. Hauer (44/79) fait autorité pour la distinction elle-même et pour
+la proposition selon laquelle le droit de propriété peut être réglementé dans
+l'intérêt général ; cette affaire concernait une restriction temporaire à la
+plantation de vignes et ne fait pas autorité pour un transfert forcé de
+capital, et ce dossier ne l'offre pas comme telle. James et autres contre
+Royaume-Uni (1986) est cité pour la même distinction et pour rien de plus :
+la privation y était assortie d'une indemnisation, de sorte que l'affaire
+fait autorité sur l'endroit où passe la ligne et non sur ce qui peut être
+pris sans payer. L'objection 1 porte cet argument et son reliquat honnête, à
+savoir qu'aucune affaire jugée ne place une dilution permanente, hors crise
+et non indemnisée, d'une entreprise saine du bon côté de la ligne. Trois pour
+cent se situent confortablement en dessous de tout plafond de privation
+plausible. Se situer sous un plafond est un argument de proportionnalité et
+non de nécessité, et ce dossier n'habillera pas l'un en l'autre.
+
+Ce qui en découle pour la rédaction est concret plutôt qu'incantatoire.
+L'article 1er a besoin d'un objectif quantifié, exprimé sous une forme à
+laquelle un pourcentage puisse être mesuré : une cible pour les
+participations de la Réserve rapportée au capital agrégé des entreprises
+désignées, ou une distribution d'un ordre énoncé dans un horizon énoncé, l'un
+et l'autre transformant « pourquoi pas un pour cent » en une question qui a
+une réponse. Ce travail n'est pas fait. Il est en tête de la liste de ce
+dossier avant tout dépôt, il passe avant les points d'interface avec
+l'acquis, et la réponse de la porte 1 sur l'enregistrabilité doit orienter sa
+formulation plutôt que la retarder.
+
+Tant qu'il n'est pas fait, la formulation honnête de la position de ce
+dossier est que le chiffre de trois pour cent est défendable comme
+proportionné et n'est pas défendable comme nécessaire, et que quiconque
+s'appuie sur cet exposé des motifs doit savoir lequel des deux volets porte
+le poids.
+
+**Conséquence de conception.** Le pourcentage ne peut être dérivé du côté de
+la distribution, parce que le modèle publié en est une fonction linéaire et
+qu'aucun seuil ne distingue un chiffre ; le dossier le dit plutôt que de
+laisser croire à une dérivation qu'il ne peut produire (DC-45). L'objectif
+de l'article 1er est qualitatif, de sorte que le volet de la nécessité de
+l'article 52, paragraphe 1, n'a rien à quoi se mesurer, et le quantifier est
+consigné comme un travail de rédaction requis avant tout dépôt et non comme
+une question à examiner après (DC-46).
+
+
 ## Le tableau des contraintes
 
 Les articles sont rédigés à l'aune de ce tableau. Un projet qui viole une DC
@@ -836,6 +1050,10 @@ Les articles sont rédigés à l'aune de ce tableau. Un projet qui viole une DC
 | DC-40 | Sous un seuil de minimis l'intervalle de distribution s'allonge ; il ne devient jamais une raison de ne pas payer | 15 |
 | DC-41 | Borné, sans droit de vote ni droit de contrôle, et universel quant à ses bénéficiaires : les fonds suédois des salariés montrent qu'un manquement sur l'un des trois suffit à perdre. La Réserve fait bien valoir des droits quant au rang et contre la subordination ; ce qu'elle n'acquiert jamais, ce sont des droits de vote, des sièges au conseil ou une quelconque voix dans la gestion | 19 |
 | DC-42 | Les fonds des salariés sont énoncés ici comme objection et dans la base de preuves comme précédent de ponction, avant qu'un opposant ne les énonce | 19 |
+| DC-43 | La prétention est distributive et aucune modification ne donne de voix à la Réserve sans se défendre comme un instrument différent ; l'effet de gouvernance sur les détenteurs restants est concédé et défendu, jamais dénié comme la mauvaise lunette | 20 |
+| DC-44 | L'effet relatif sur le vote des détenteurs existants est énoncé avec son ampleur et non laissé au calcul d'un adversaire, et toute comparaison avec les rachats reste bornée à l'ampleur, sa dissemblance énoncée à côté | 20 |
+| DC-45 | Le pourcentage ne peut être dérivé du côté de la distribution : le modèle publié y est linéaire et aucun seuil ne distingue un chiffre. Le dossier le dit plutôt que de laisser croire à une dérivation qu'il ne peut produire | 21 |
+| DC-46 | L'objectif de l'article 1er est qualitatif, de sorte que le volet de la nécessité de l'article 52, paragraphe 1, n'a rien à quoi se mesurer. Le quantifier est un travail de rédaction requis avant tout dépôt, non une question à examiner après | 21 |
 
 ## Statut
 

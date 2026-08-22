@@ -763,6 +763,214 @@ vraag in plaats van een uitgemaakte zaak. DC-42: de loontrekkersfondsen
 horen thuis in de bewijsbasis als plunderingsprecedent en in dit dossier
 als bezwaar, gesteld voordat een tegenstander het stelt.
 
+### 20. De stemrechtloze aandelen nemen geeft zeggenschap aan juist de mensen die u het probleem noemde
+
+**Het bezwaar, in zijn sterkste vorm.** Het instrument neemt drie procent van
+de economische waarde en geen van de stemmen. Die rekensom is niet neutraal.
+Vóór de warrant bezitten de bestaande houders al het kapitaal en brengen zij
+alle stemmen uit; daarna bezitten zij zevenennegentig procent van het
+kapitaal en brengen zij nog steeds alle stemmen uit. Hun zeggenschap per euro
+van hun eigen geld is gestegen, met ongeveer drie procent, en de Unie heeft
+hun die gegeven. Een dossier waarvan de diagnose luidt dat het bezit van
+productief kapitaal te smal is, reageert door de grootste blijvend
+stemrechtloze aandeelhouder van Europa te scheppen en bij elke gedekte
+onderneming precies die wig tussen kasstroomrechten en zeggenschapsrechten te
+vergroten die in het onderzoek naar ondernemingsbestuur geldt als de meest
+betrouwbare voorspeller van benadeling van minderheden en van bestuur zonder
+verantwoording. De oprichters van de grensverleggende ondernemingen hebben de
+zeggenschap al via aandelenstructuren met dubbele klassen op een economisch
+minderheidsbelang. Dit geeft hun er meer van, gratis, bij wet.
+
+Het legitimatiepunt is erger dan de rekensom. Zodra de Unie zelf
+stemrechtloos kapitaal aanvaardt als de vorm die de deelname van haar eigen
+burgers aanneemt, kan geen enkele instelling van de Unie zich nog
+samenhangend verzetten tegen beursnoteringen met dubbele aandelenklassen,
+loyaliteitsaandelen of welke andere scheiding van bezit en zeggenschap ook.
+Het instrument duldt de wig niet alleen; het bekrachtigt haar, in een
+verordening, namens 450 miljoen mensen.
+
+**Wat het juist ziet.** De mechanische bewering is exact waar en dit dossier
+moet niet doen alsof dat anders ligt: stemrechtloze aandelen verhogen het
+relatieve stemgewicht van elk stemgerechtigd aandeel, en die verhoging is
+hier echt. Ging de diagnose over wie ondernemingen bestuurt in plaats van
+over wie de opbrengsten van kapitaal ontvangt, dan zou het instrument een
+vraag beantwoorden die het niet gesteld heeft, en haar bovendien de verkeerde
+kant op beantwoorden.
+
+**Het antwoord dat het instrument moet geven.** Niet dat dit de verkeerde
+bril is. Een eerdere versie van deze passage noemde de bestuurslezing een
+categoriefout, omdat de aanspraak van het instrument verdelend van aard is.
+Vier reviewpoorten verwierpen dat in dezelfde bewoordingen, en zij hadden
+gelijk: een instrument dat bij elke onderneming die het raakt de verhouding
+tussen kasstroomrechten en zeggenschapsrechten verandert, is in zijn werking
+een bestuursinstrument, wat het in zijn bedoeling ook is, en het wordt
+terecht op zijn werking beoordeeld. Het antwoord hieronder erkent dat effect
+en verdedigt de keuze.
+
+De keuze ging tussen drie posities en het dossier heeft de minst slechte
+genomen. Een Reserve met stemrecht naar rato van haar belang is een politiek
+gestuurd aandeelhouderschap in elke grensverleggende onderneming van de
+interne markt: dat is de honingpot van bezwaar 9 met een hendel eraan, en het
+gouden aandeel van bezwaar 16, dat het Hof heeft vernietigd in elke vorm die
+het sinds Commissie tegen Duitsland (C-112/05) heeft aangenomen. Een Reserve
+zonder enig belang laat de verdelende aanspraak volledig varen. Een Reserve
+met economische deelname en zonder zeggenschap aanvaardt werkelijke
+bestuurskosten in ruil voor de enige positie die artikel 63 en de lijn van de
+gouden aandelen overleeft. Artikel 5, lid 4, onder a), en artikel 9, lid 1,
+onder a) tot en met c), plaatsen dat buiten het latere gemak van de
+opsteller, en DC-43 houdt elke opvolger daaraan.
+
+Over de omvang, één vergelijking en haar grenzen. Drie procent van het
+vergrote kapitaal verhoogt het stemgewicht van de overige houders met ruwweg
+een tweeëndertigste van zichzelf, en inkoopprogramma's van die orde lopen
+routinematig bij de ondernemingen die dit instrument dekt zonder dat iemand
+ze een overdracht van zeggenschap noemt. Die vergelijking wordt aangeboden
+voor de omvang en voor niets anders, en zij houdt geen stand als men haar
+verder doortrekt: een inkoop is vrijwillig, wordt tegen tegenprestatie
+uitgevoerd en keert geld uit aan juist de houders wier gewicht stijgt,
+terwijl dit verplicht is, tegen nominale waarde wordt genomen en hun niets
+teruggeeft. Reviewers hadden gelijk dat de twee niet van dezelfde aard zijn.
+Zij zijn gelijk in het ene opzicht waarvoor de alinea ze gebruikt, namelijk
+hoeveel het stemgewicht van een overblijvend aandeel werkelijk verschuift.
+
+Over de legitimatie treft het bezwaar doel en wordt het slechts ten dele
+beantwoord. Stemrechtloze aandelen zijn geen vinding van dit instrument: het
+vennootschapsrecht van de Unie staat ze al decennia toe en elke lidstaat
+voorziet erin, zodat de Reserve een klasse neemt die de markt al verhandelt.
+Maar de Unie stelt de laatste tijd wetgeving vast in de andere richting, met
+waarborgen rond structuren met meervoudig stemrecht, juist omdat de
+scheiding van bezit en zeggenschap als een gevaar wordt gezien, en een
+verordening die in elke gedekte onderneming een blijvend stemrechtloos blok
+plant, staat daar ongemakkelijk naast. De eerlijke vaststelling is dat het
+instrument een deel van het gezag van de Unie besteedt aan de stelling dat
+economische deelname zonder zeggenschap een legitieme vorm van eigendom is,
+en dat die prijs echt is. Hij wordt bewust betaald, omdat het alternatief
+een Unie is die stemmen houdt in de ondernemingen die zij reguleert, en dit
+dossier verdedigt liever een wig dan dat.
+
+De precieze wisselwerking met de wetgeving van de Unie over meervoudig
+stemrecht wordt vastgelegd als een open raakvlak met het acquis, en niet hier
+beargumenteerd op grond van een verwijzing die dit dossier nog niet heeft
+geverifieerd; zij voegt zich bij de raakvlakken met het acquis die al op de
+lijst vóór indiening staan.
+
+**Ontwerpgevolg.** De aanspraak van het instrument is verdelend en geen
+wijziging geeft de Reserve stemrecht zonder zichzelf als een ander instrument
+te verdedigen, maar het bestuurseffect wordt erkend en verdedigd in plaats
+van weggesproken (DC-43). Het relatieve stemeffect op bestaande houders wordt
+met zijn omvang vermeld, en de vergelijking met inkoop blijft beperkt tot de
+omvang, met de ongelijksoortigheid in dezelfde adem erbij (DC-44).
+
+
+### 21. Waarom drie procent, en niet één, of tien
+
+**Het bezwaar, in zijn sterkste vorm.** Het getal wordt gesteld. Nergens in
+dit dossier wordt het afgeleid. Artikel 52, lid 1, van het Handvest staat een
+beperking van het eigendomsrecht alleen toe waar zij noodzakelijk is en
+werkelijk beantwoordt aan een doel van algemeen belang, en noodzakelijkheid
+is nu juist de vraag die een kaal getal niet kan beantwoorden: haalt drie
+procent het doel, dan is één procent het minder ingrijpende middel en
+sneuvelt de maatregel; haalt één procent het niet, dan heeft het dossier niet
+aangetoond waarom drie dat wel doet. De toetsende rechter zal de wetgever
+vragen zijn werk te tonen, zoals hij dat in elke noemenswaardige
+evenredigheidszaak heeft gevraagd, en dit dossier zal hem een rond getal
+aanreiken dat comfortabel onder het niveau ligt waarop het verwijt "u
+nationaliseert ze" gemakkelijk te maken wordt. Dat is een politieke ijking in
+het pak van een juridische, en de Juridische Dienst van de Commissie ziet het
+bij eerste lezing. Elk ander getal in het instrument is ergens aan
+vastgemaakt: de drempels in artikel 3 aan meetbare grootheden, de uiterste
+termijn van zeven jaar aan het waargenomen verloop tussen aanwijzing en
+realisatie. Het ene getal dat bepaalt hoeveel er wordt genomen, is nergens
+aan vastgemaakt.
+
+**Wat het juist ziet.** Alles. Dit is het zwakste dragende punt van het
+dossier, en geen enkele kwaliteit van redactie elders herstelt het. Het zou
+erger dan nutteloos zijn om het hier te beantwoorden met een afleiding die is
+bedacht om bij een reeds gekozen getal te passen: dat is precies de
+ondeugd die het bezwaar benoemt, en een reviewer die haar betrapte zou het
+recht hebben al het overige in deze toelichting terzijde te schuiven.
+
+**Het antwoord dat het instrument moet geven.** Het bezwaar klopt, en de
+poging het te beantwoorden leverde iets ergers op dan een ontbrekende
+afleiding: het bewijs dat een afleiding van de soort die een rechter wil,
+helemaal niet te maken is zolang artikel 1 staat zoals het staat.
+
+Het gepubliceerde model is lineair in het percentage. De rekenwijze van
+bijlage II, zoals uitgevoerd in de simulator op de campagnesite, laat het
+kapitaal van de Reserve aangroeien door bij elke verzilverende stroom het
+warrantpercentage op te tellen, en elke uitkering verderop is een breuk van
+dat kapitaal. Verdubbeling van het percentage verdubbelt het dividend op elke
+horizon en halvering halveert het, exact, in elk scenario dat de simulator
+biedt. De berekening staat in evidence/warrant-percentage.md en iedereen kan
+haar overdoen. Er is geen drempel, geen knik en geen sprong ergens op de
+curve, wat betekent dat er geen percentage is waarbij het instrument begint
+te werken en waaronder het dat niet doet.
+
+Dat is dodelijk voor de voor de hand liggende verdediging. Noodzakelijkheid
+onder artikel 52, lid 1, vraagt of een minder ingrijpende maatregel het doel
+zou halen. Is het doel dat van artikel 1, de deelname van burgers in de
+kapitaalwaarde die door hypergeautomatiseerde ondernemingen wordt geschapen,
+dan haalt één procent het, en een tiende procent ook, omdat elk daarvan
+deelname oplevert en het artikel geen hoeveelheid noemt die die deelname moet
+bereiken. Een tegenstander hoeft niet eens te betogen dat drie procent te
+veel is. Hij hoeft alleen op te merken dat een kleiner getal het gestelde
+doel haalt, en de noodzakelijkheidstoets sneuvelt op de eigen woorden van het
+instrument.
+
+Het gebrek zit dus niet in deze toelichting en is hier niet te herstellen.
+Het zit in artikel 1. Een instrument dat inbreuk maakt op artikel 17 van het
+Handvest en zijn doel kwalitatief formuleert, heeft de
+noodzakelijkheidstoets zonder toetssteen gelaten, en geen enkele hoeveelheid
+betoog over drie procent vervangt dat. Ofwel krijgt het doel een hoeveelheid
+waaraan een percentage kan worden gemeten, ofwel rust de verdediging onder
+artikel 52, lid 1, op de evenredigheidstoets alleen, die enkel vraagt of de
+last buitensporig is en waarop het antwoord het plafond is en niet de vloer.
+
+Het plafond is waar de verdediging van het dossier vandaag eerlijk gezegd
+ligt. Een percentage dat groot genoeg is om bestaande houders de kern van
+hun eigendom te ontnemen, gaat van een regeling van het gebruik over in een
+ontneming. Hauer (44/79) geldt als de jurisprudentiële grondslag voor het
+onderscheid zelf en voor de stelling dat het eigendomsrecht in het algemeen
+belang kan worden geregeld; die zaak betrof een tijdelijke beperking op het
+aanplanten van wijnstokken en vormt geen grondslag voor een gedwongen
+overdracht van kapitaal, en dit dossier biedt haar niet als zodanig aan.
+James en anderen tegen het Verenigd Koninkrijk (1986) wordt voor hetzelfde
+onderscheid aangehaald en voor niets meer: de ontneming daar ging vergezeld
+van vergoeding, zodat de zaak enkel richtinggevend is voor waar de grens
+loopt en niet over wat zonder betaling mag worden genomen. Bezwaar 1 draagt
+dat betoog en de eerlijke rest ervan, namelijk dat geen enkele besliste zaak
+een blijvende, niet door crisis ingegeven, onvergoede verwatering van een
+gezonde onderneming aan de goede kant van de grens plaatst. Drie procent
+ligt ruim onder elk aannemelijk ontnemingsplafond. Onder een plafond liggen
+is een evenredigheidsargument, geen noodzakelijkheidsargument, en dit
+dossier zal het ene niet als het andere verkleden.
+
+Wat daaruit voor de redactie volgt is concreet in plaats van vrijblijvend.
+Artikel 1 heeft een gekwantificeerd doel nodig, uitgedrukt in een vorm
+waaraan een percentage kan worden getoetst: een streefwaarde voor de
+deelnemingen van de Reserve ten opzichte van het samengetelde kapitaal van
+aangewezen ondernemingen, of een uitkering van een genoemde orde binnen een
+genoemde horizon, waarvan elk de vraag "waarom niet één procent" omzet in
+een vraag met een antwoord. Dat werk is niet gedaan. Het staat bovenaan de
+lijst van dit dossier vóór enige indiening, het gaat vóór de raakvlakken met
+het acquis, en het antwoord van poort 1 over registreerbaarheid hoort te
+bepalen hoe het wordt geformuleerd, niet het uit te stellen.
+
+Zolang dat niet is gedaan, luidt de eerlijke vaststelling van de positie van
+dit dossier dat het getal van drie procent verdedigbaar is als evenredig en
+niet verdedigbaar is als noodzakelijk, en dat wie op deze toelichting afgaat
+moet weten welke van de twee toetsen het gewicht draagt.
+
+**Ontwerpgevolg.** Het percentage kan niet worden afgeleid uit de
+uitkeringskant, omdat het gepubliceerde model daarin lineair is en geen
+drempel enig getal uitzondert; het dossier zegt dat, in plaats van een
+afleiding te suggereren die het niet kan leveren (DC-45). Het doel van
+artikel 1 is kwalitatief, zodat de noodzakelijkheidstoets van artikel 52, lid
+1, geen toetssteen heeft, en het kwantificeren van dat doel wordt vastgelegd
+als vereist redactiewerk vóór indiening en niet als iets voor toetsing
+achteraf (DC-46).
+
+
 ## De beperkingentabel
 
 De artikelen worden aan de hand van deze tabel geredigeerd. Een ontwerp dat een DC
@@ -812,6 +1020,10 @@ schendt, zakt voor de review, hoe goed het proza ook is.
 | DC-40 | Onder een de-minimisdrempel verlengt het uitkeringsinterval; het wordt nooit een reden om niet uit te keren | 15 |
 | DC-41 | Begrensd, zonder stemrecht of zeggenschapsrechten, en universeel in wie het uitkeert: de Zweedse loontrekkersfondsen tonen dat tekortschieten op één van de drie al voldoende is om te verliezen. De Reserve doet wel aanspraken gelden op rang en tegen achterstelling; wat zij nooit verkrijgt, zijn stemrecht, bestuurszetels of enige zeggenschap over het bestuur | 19 |
 | DC-42 | De loontrekkersfondsen worden hier als bezwaar gesteld en in de bewijsbasis als plunderingsprecedent, vóórdat een tegenstander ze stelt | 19 |
+| DC-43 | De aanspraak is verdelend en geen wijziging geeft de Reserve stemrecht zonder zichzelf als een ander instrument te verdedigen; het bestuurseffect op overblijvende houders wordt erkend en verdedigd, nooit weggesproken als de verkeerde bril | 20 |
+| DC-44 | Het relatieve stemeffect op bestaande houders wordt met zijn omvang vermeld en niet aan een tegenstander overgelaten om uit te rekenen, en elke vergelijking met inkoop blijft beperkt tot de omvang, met de ongelijksoortigheid ernaast vermeld | 20 |
+| DC-45 | Het percentage kan niet worden afgeleid uit de uitkeringskant: het gepubliceerde model is daarin lineair en geen drempel zondert enig getal uit. Het dossier zegt dat, in plaats van een afleiding te suggereren die het niet kan leveren | 21 |
+| DC-46 | Het doel van artikel 1 is kwalitatief, zodat de noodzakelijkheidstoets van artikel 52, lid 1, geen toetssteen heeft. Het kwantificeren ervan is vereist redactiewerk vóór indiening, niet iets voor toetsing achteraf | 21 |
 
 ## Status
 
