@@ -11,9 +11,21 @@ const arts = lawData.articles;
 const idx = kind === 'article' ? arts.findIndex((a) => a.number === item.number) : -1;
 const prev = idx > 0 ? arts[idx - 1] : null;
 const next = idx >= 0 && idx < arts.length - 1 ? arts[idx + 1] : null;
-const title = kind === 'article'
-  ? `${t.lawIndex.article} ${item.number}: ${item.title}`
-  : item.title.replace(/^Annex ([IVX]+): /, `${t.lawIndex.annex} $1: `);
+// The rubric is a comprehension aid, like the plain layer: translated where a
+// translation exists, so a reader scanning tabs, search results and the
+// contents list is not met by twenty English headings. The rubric inside the
+// law block stays English, because that block is the authentic text.
+const englishRubric = kind === 'article'
+  ? item.title : item.title.replace(/^Annex [IVX]+:\s*/, '');
+const rubric = (item.titles && item.titles[lang]) || englishRubric;
+const localised = rubric !== englishRubric;
+const label = kind === 'article'
+  ? `${t.lawIndex.article} ${item.number}`
+  : `${t.lawIndex.annex} ${item.numeral}`;
+const title = `${label}: ${rubric}`;
+// one h1 per page: when the translated rubric heads the page, the English one
+// inside the law block steps down to h2 rather than competing with it
+const Rubric = localised ? 'h2' : 'h1';
 // The eyebrow labels the authentic text, so it stays in the language of that
 // text: the law block reads English end to end, whatever the page language.
 const en = dict('en');
@@ -36,6 +48,12 @@ const metaDescription = (s: string, limit = 160) => {
 ---
 <Base title={title} lang={lang} description={plain ? metaDescription(plain.l0) : undefined}>
   <article class="lawpage">
+    {localised && (
+      <header class="rubric">
+        <p class="eyebrow">{label}</p>
+        <h1>{rubric}</h1>
+      </header>
+    )}
     <LangBanner lang={lang} kind="lawEnglish" />
     <DraftNotice lang={lang} />
     {plain && (
@@ -48,7 +66,7 @@ const metaDescription = (s: string, limit = 160) => {
     )}
     <div class="lawblock" lang="en">
       <p class="eyebrow">{eyebrow}</p>
-      <h1>{kind === 'article' ? item.title : item.title.replace(/^Annex [IVX]+: /, '')}</h1>
+      <Rubric>{englishRubric}</Rubric>
       <div class="prose law-text" set:html={item.html} />
     </div>
     <p class="provenance" set:html={
@@ -70,6 +88,12 @@ const metaDescription = (s: string, limit = 160) => {
 
 <style>
   .lawpage h1 { font-size: 1.7rem; margin: 0.4rem 0 1.2rem; }
+  /* The translated rubric heads the page; the English one below it keeps the
+     same size but a quieter colour, so the eye reads them as one heading in
+     two languages rather than as two competing headlines. */
+  .rubric { margin-bottom: 1.4rem; }
+  .rubric h1 { margin-bottom: 0.2rem; }
+  .lawblock h2 { font-size: 1.7rem; margin: 0.4rem 0 1.2rem; color: var(--ink-soft); }
   /* The law block: one uninterrupted stretch of authentic English text,
      marked by the seal rule so the eye can tell law from commentary. */
   .lawblock { border-top: 2px solid var(--seal-gold); padding-top: 1rem; margin-top: 2rem; }

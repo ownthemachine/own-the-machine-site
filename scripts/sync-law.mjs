@@ -109,6 +109,43 @@ const plainFor = (n, sourceFile) => {
 };
 for (const a of articles) a.plain = plainFor(a.number, a.file);
 
+// ---- translated rubrics ---------------------------------------------
+// content/{lang}/rubrics.md: | slug | english | rubric |. The English column
+// is the drift check. A rubric that moves in the law repo must not leave a
+// translation of the old heading standing, so a mismatch fails the build
+// rather than shipping a heading that no longer exists upstream.
+const rubricsFor = () => {
+  const out = {};
+  for (const loc of ['nl', 'fr', 'de', 'es']) {
+    const f = join(process.cwd(), 'content', loc, 'rubrics.md');
+    if (!existsSync(f)) continue;
+    for (const line of readFileSync(f, 'utf8').split('\n')) {
+      const cells = line.split('|').map((c) => c.trim());
+      if (cells.length !== 5 || !cells[1] || cells[1] === 'slug'
+          || cells[1].startsWith('---')) continue;
+      const [, slug, english, rubric] = cells;
+      (out[slug] ||= {})[loc] = { english, rubric };
+    }
+  }
+  return out;
+};
+const rubrics = rubricsFor();
+const attachRubrics = (item, englishRubric) => {
+  const per = rubrics[item.slug] || {};
+  item.titles = {};
+  for (const [loc, { english, rubric }] of Object.entries(per)) {
+    if (english !== englishRubric) {
+      throw new Error(
+        `rubric drift: content/${loc}/rubrics.md records ${item.slug} as\n`
+        + `  "${english}"\nbut the law repo now says\n  "${englishRubric}"\n`
+        + 'Update the translation, then the english column.'
+      );
+    }
+    item.titles[loc] = rubric;
+  }
+};
+for (const a of articles) attachRubrics(a, a.title);
+
 // ---- recitals -------------------------------------------------------
 const recBody = stripNotes(read('regulation/recitals.md'))
   .replace(/^# Recitals$/m, '').replace(/^Whereas:$/m, '').trim();
@@ -122,12 +159,16 @@ const annexDir = join(LAW, 'regulation', 'annexes');
 const annexes = readdirSync(annexDir).filter((f) => f.endsWith('.md')).sort().map((f, i) => {
   const body = stripNotes(readFileSync(join(annexDir, f), 'utf8'));
   const title = body.match(/^# (.+)$/m)[1];
-  return {
+  const item = {
     numeral: ['I', 'II', 'III'][i],
     slug: basename(f, '.md'),
     title,
     html: marked.parse(body.replace(/^# .+$/m, '').trim()),
   };
+  // the annex rubric is stored without its "Annex I: " prefix, like the
+  // article rubrics, so both sides of the drift check compare like with like
+  attachRubrics(item, title.replace(/^Annex [IVX]+:\s*/, ''));
+  return item;
 });
 
 // Mentions of repo files in prose become links to the repository, so a

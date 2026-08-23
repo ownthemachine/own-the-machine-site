@@ -10,6 +10,9 @@ const numerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII'];
 const chapterArticles = [[1, 2], [3, 4], [5, 6, 7], [8, 9], [10, 11], [12], [13, 14, 15, 16], [17, 18]];
 const byNumber = Object.fromEntries(law.articles.map((a) => [a.number, a]));
 const commit = `<span class="serial">${law.lawCommit}</span>`;
+// the contents list is the most-scanned surface on the site, so it uses the
+// translated rubric where one exists and falls back to the English heading
+const rubric = (item, english) => (item.titles && item.titles[lang]) || english;
 ---
 <Base title={t.lawIndex.title} lang={lang} description={dict(lang).chrome.metaDescription}>
   <h1>{t.lawIndex.title}</h1>
@@ -28,7 +31,7 @@ const commit = `<span class="serial">${law.lawCommit}</span>`;
       <ul>
         {chapterArticles[i].map((n) => (
           <li>
-            <a href={href(lang, `/law/${byNumber[n].slug}`)}>{t.lawIndex.article} {n}: {byNumber[n].title}</a>
+            <a href={href(lang, `/law/${byNumber[n].slug}`)}>{t.lawIndex.article} {n}: {rubric(byNumber[n], byNumber[n].title)}</a>
             {byNumber[n].plain && (byNumber[n].plain[lang] || byNumber[n].plain.en) && (
               <span class="l0">{(byNumber[n].plain[lang] || byNumber[n].plain.en).l0}</span>
             )}
@@ -42,7 +45,8 @@ const commit = `<span class="serial">${law.lawCommit}</span>`;
     <p class="eyebrow">{t.lawIndex.annexes}</p>
     <ul>
       {law.annexes.map((a) => (
-        <li><a href={href(lang, `/law/${a.slug}`)}>{a.title}</a></li>
+        <li><a href={href(lang, `/law/${a.slug}`)}>{t.lawIndex.annex} {a.numeral}: {
+          rubric(a, a.title.replace(/^Annex [IVX]+:\s*/, ''))}</a></li>
       ))}
     </ul>
   </section>

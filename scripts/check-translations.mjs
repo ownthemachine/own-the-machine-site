@@ -267,6 +267,28 @@ if (badLinks.length) {
   console.log('links          every markdown link target is intact');
 }
 
+// Rubrics. A missing rubric falls back to the English heading, which renders
+// perfectly and says nothing, so it would never be noticed by looking at the
+// page. Absence has to be an error here or it is invisible everywhere else.
+const law = JSON.parse(
+  readFileSync(join(process.cwd(), 'src/generated/law.json'), 'utf8'));
+const rubricGaps = [];
+for (const item of [...law.articles, ...law.annexes]) {
+  for (const loc of LOCALES) {
+    if (!item.titles || !item.titles[loc]) rubricGaps.push(`${loc}: ${item.slug}`);
+  }
+}
+console.log('');
+if (rubricGaps.length) {
+  problems += rubricGaps.length;
+  console.error(`rubrics       ${rubricGaps.length} article/annex heading(s) with no `
+    + `translation, which would silently render in English:`);
+  for (const g of rubricGaps.slice(0, 12)) console.error(`  ${g}`);
+} else {
+  console.log(`rubrics        all ${law.articles.length + law.annexes.length} `
+    + `article and annex headings translated in every locale`);
+}
+
 if (problems) {
   console.error(`\ncheck-translations: ${problems} page(s) structurally adrift `
     + `from the English. A missing heading or DC row means a passage was never `
