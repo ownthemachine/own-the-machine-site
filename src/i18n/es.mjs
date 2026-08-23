@@ -107,7 +107,7 @@ export default {
     description: 'Lo que la Reserva significaría plausiblemente por ciudadano, a cincuenta años, con cada incertidumbre etiquetada.',
     intro: 'La respuesta es una curva, nunca una cifra. Los repartos empiezan pequeños, porque la Reserva preserva su capital antes de repartir, por ley (<a href="%ANNEX2%">anexo II</a>), y crecen a medida que los warrants cristalizan y los rendimientos se capitalizan. Cada parámetro lleva su incertidumbre; la banda muestra la horquilla de pesimista a optimista, y el botón escéptico aplica a cada parámetro el supuesto más desfavorable.',
     revLabel: 'Ingresos automatizados que alcanzan los umbrales (miles de millones EUR/año, hacia el año 5)',
-    revNote: 'Nadie conoce esta cifra. Depende de la velocidad con que las empresas hiperautomatizadas crucen los umbrales del artículo 3; la horquilla va del escepticismo al auge.',
+    revNote: 'Anclado, desde la modificación de la prueba del artículo 3 el 22 de agosto de 2026, en una cifra medida: las nueve empresas que la prueba modificada designa por presunción sumaban alrededor de 1 400 000 millones de euros de facturación cubierta. El ajuste escéptico supone que solo los laboratorios y diseñadores de chips puros siguen desacoplados; el ajuste de pronóstico, que el conjunto se amplía a medida que la IA se extiende.',
     lagLabel: 'Mediana de años hasta un evento de liquidez',
     lagNote: 'Los warrants solo cristalizan cuando una empresa designada sale a bolsa o se vende (artículo 5). Las empresas privadas pueden seguir siéndolo mucho tiempo; el instrumento espera.',
     retLabel: 'Rendimiento real de la cartera (%/año)',
@@ -124,7 +124,7 @@ export default {
     disclaimer: 'Horquillas, no promesas. El botón de previsión aplica proyecciones publicadas del valor de la IA (PwC, Goldman Sachs, McKinsey), cuyos márgenes de error se miden en billones; aquí son entradas de escenario, nunca la premisa de la ley, y el botón escéptico queda a un clic. Si el fenómeno sigue siendo pequeño, el dividendo sigue siendo pequeño, y el artículo 14, apartado 3, obliga a la Comisión a constatarlo y a proponer su modificación o derogación.',
     assumptionsHead: 'Cada supuesto de este modelo',
     assumptions: [
-      'El 3 % del valor de una empresa designada entra en la Reserva en el primer evento de liquidez de esa empresa (fijado por el artículo 5, apartado 2); el valor de la empresa se toma como diez veces los ingresos cubiertos, una cifra redonda deliberada.',
+      'El 3 % del valor de una empresa designada entra en la Reserva en el primer evento de liquidez de esa empresa (fijado por el artículo 5, apartado 2); el valor de la empresa se toma como catorce veces los ingresos cubiertos, la proporción medida del conjunto designado en agosto de 2026.',
       'El valor designado cristaliza como un flujo continuo: la primera ola durante diez años desde la mediana del desfase, y las cohortes posteriores crecen al ritmo que usted fije; adultos con derecho: 350 millones (Eurostat, ciudadanos de la Unión de 18 años o más).',
       'Los repartos siguen el anexo II al pie de la letra, según su modificación pública: primero la preservación del capital real, una banda suavizada de tres años con un suelo del 2 % del capital de la Reserva, sin apalancamiento, todo en euros constantes de 2026.',
       'La banda aplica el mismo cálculo en los extremos pesimista y optimista de sus parámetros. Nada de esto es una promesa; el modelo es de <a href="https://github.com/ownthemachine/own-the-machine-site">código abierto</a>.',

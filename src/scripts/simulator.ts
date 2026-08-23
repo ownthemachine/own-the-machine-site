@@ -8,7 +8,9 @@
 // three decades.
 
 const ADULTS = 350e6;
-const VALUE_MULTIPLE = 10; // firm value as a multiple of covered revenue
+const VALUE_MULTIPLE = 14; // firm value as a multiple of covered revenue:
+// the measured ratio of the designated set under Article 3(2)(b) as amended,
+// EUR ~20,5tn of value on ~EUR 1,43tn of revenue (evidence/designation-count.md)
 const YEARS = 50;
 
 interface Inputs { revBn: number; lag: number; ret: number; growth: number }
@@ -96,14 +98,14 @@ function draw() {
 
 for (const id of ['rev', 'lag', 'ret', 'growth']) $(id).addEventListener('input', draw);
 document.getElementById('sceptic')!.addEventListener('click', () => {
-  $('rev').value = '50'; $('lag').value = '15'; $('ret').value = '2'; $('growth').value = '0'; draw();
+  $('rev').value = '300'; $('lag').value = '15'; $('ret').value = '2'; $('growth').value = '0'; draw();
 });
 document.getElementById('reset')!.addEventListener('click', () => {
-  $('rev').value = '150'; $('lag').value = '7'; $('ret').value = '4'; $('growth').value = '5'; draw();
+  $('rev').value = '1400'; $('lag').value = '7'; $('ret').value = '4'; $('growth').value = '5'; draw();
 });
 // Scenario input only, never premise: PwC/Goldman Sachs/McKinsey-class AI value
 // mapped to EU designated revenue; the disclaimer beside the chart names them.
 document.getElementById('forecast')!.addEventListener('click', () => {
-  $('rev').value = '600'; $('lag').value = '5'; $('ret').value = '4'; $('growth').value = '8'; draw();
+  $('rev').value = '3000'; $('lag').value = '5'; $('ret').value = '4'; $('growth').value = '8'; draw();
 });
 draw();

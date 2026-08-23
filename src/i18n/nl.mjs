@@ -106,7 +106,7 @@ export default {
     description: 'Wat de Reserve per burger aannemelijk zou betekenen, over vijftig jaar, met elke onzekerheid benoemd.',
     intro: 'Het antwoord is een curve, nooit een getal. Uitkeringen beginnen klein, omdat de Reserve haar kapitaal beschermt voordat zij uitkeert, bij wet (<a href="%ANNEX2%">bijlage II</a>), en groeien naarmate warrants worden verzilverd en rendementen aangroeien. Elke invoerwaarde hieronder kent haar onzekerheidsmarge; de band toont de marge van pessimistisch tot optimistisch, en de knop ‘Behoudend scenario’ zet elke invoerwaarde op de voor ons ongunstigste stand.',
     revLabel: 'Geautomatiseerde omzet die de drempels bereikt (EUR mld/jaar, tegen jaar 5)',
-    revNote: 'Niemand kent dit getal. Het hangt af van hoe snel hypergeautomatiseerde bedrijven de drempels van artikel 3 passeren; de marge loopt van scepsis tot hoogconjunctuur.',
+    revNote: 'Sinds de wijziging van de toets van artikel 3 op 22 augustus 2026 verankerd in een gemeten getal: de negen ondernemingen die de gewijzigde toets vermoedelijk aanwijst, hadden samen ongeveer 1 400 miljard euro gedekte omzet. De sceptische stand neemt aan dat alleen de zuivere laboratoria en chipontwerpers ontkoppeld blijven; de prognosestand dat de groep groeit naarmate AI zich verspreidt.',
     lagLabel: 'Mediane looptijd tot een liquiditeitsgebeurtenis (jaren)',
     lagNote: 'Warrants worden pas verzilverd wanneer een aangewezen bedrijf naar de beurs gaat of wordt verkocht (artikel 5). Private bedrijven kunnen lang privaat blijven; het instrument wacht.',
     retLabel: 'Reëel portefeuillerendement (%/jaar)',
@@ -123,7 +123,7 @@ export default {
     disclaimer: 'Bandbreedtes, geen beloften. De prognoseknop past gepubliceerde ramingen van AI-waarde toe (PwC, Goldman Sachs, McKinsey), met foutmarges die in biljoenen worden gemeten; zij zijn hier scenario-invoer, nooit de premisse van de wet, en de scepticusknop blijft één klik verwijderd. Blijft het verschijnsel klein, dan blijft het dividend klein, en verplicht artikel 14, lid 3, de Commissie precies dat te rapporteren en wijziging of intrekking voor te stellen.',
     assumptionsHead: 'Elke aanname in dit model',
     assumptions: [
-      '3 % van de waarde van een aangewezen bedrijf komt in de Reserve bij de eerste liquiditeitsgebeurtenis van dat bedrijf (vastgelegd in artikel 5, lid 2); de bedrijfswaarde is gesteld op tien keer de gedekte omzet, een bewust rond getal.',
+      '3 % van de waarde van een aangewezen bedrijf komt in de Reserve bij de eerste liquiditeitsgebeurtenis van dat bedrijf (vastgelegd in artikel 5, lid 2); de bedrijfswaarde is gesteld op veertien keer de gedekte omzet, de gemeten verhouding van de aangewezen groep in augustus 2026.',
       'Aangewezen waarde verzilvert als een doorlopende stroom: de eerste golf over tien jaar vanaf de mediane doorlooptijd, latere cohorten groeien tegen het tempo dat je instelt; gerechtigde volwassenen: 350 miljoen (Eurostat, Unieburgers 18+).',
       'Uitkeringen volgen bijlage II exact, zoals openbaar gewijzigd: eerst reëel kapitaalbehoud, een driejarig glijdend plafond met een ondergrens van 2 % van het kapitaal van de Reserve, geen hefboom, alles in constante euro\'s van 2026.',
       'De bandbreedte past dezelfde berekening toe op de onder- en bovengrenzen van je invoer. Niets hier is een belofte; het model is <a href="https://github.com/ownthemachine/own-the-machine-site">open source</a>.',

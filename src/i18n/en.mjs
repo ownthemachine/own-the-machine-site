@@ -106,7 +106,7 @@ export default {
     description: 'What the Reserve would plausibly mean per citizen, over fifty years, with every uncertainty labelled.',
     intro: 'The answer is a curve, never a number. Distributions begin small, because the Reserve preserves its capital before it distributes, by law (<a href="%ANNEX2%">Annex II</a>), and grow as warrants crystallise and returns compound. Every input below carries its uncertainty; the band shows the pessimistic-to-optimistic range, and the sceptic button sets every input against us.',
     revLabel: 'Automated revenue reaching the thresholds (EUR bn/yr, by year 5)',
-    revNote: 'Nobody knows this number. It depends on how fast hyper-automated firms cross the Article 3 thresholds; the range spans scepticism to boom.',
+    revNote: 'Anchored, since the Article 3 test was amended on 22 August 2026, to a measured number: the nine undertakings the amended test presumptively designates had combined covered revenue of roughly EUR 1 400 billion. The sceptic setting assumes only the pure-play laboratories and chip designers stay decoupled; the forecast setting assumes the set widens as AI spreads.',
     lagLabel: 'Median years to a liquidity event',
     lagNote: 'Warrants crystallise only when a designated firm lists or is sold (Article 5). Private firms can stay private a long time; the instrument waits.',
     retLabel: 'Portfolio real return (%/yr)',
@@ -123,7 +123,7 @@ export default {
     disclaimer: 'Ranges, not promises. The forecast button applies published projections of AI value (PwC, Goldman Sachs, McKinsey) whose error bars are measured in trillions; they are scenario inputs here, never the law\'s premise, and the sceptic button stays one click away. If the phenomenon stays small, the dividend stays small, and Article 14(3) obliges the Commission to report exactly that and propose amendment or repeal.',
     assumptionsHead: 'Every assumption in this model',
     assumptions: [
-      '3 % of designated firm value enters the Reserve at each firm’s first liquidity event (fixed by Article 5(2)); firm value is taken as ten times covered revenue, a deliberate round number.',
+      '3 % of designated firm value enters the Reserve at each firm\u2019s first liquidity event (fixed by Article 5(2)); firm value is taken as fourteen times covered revenue, the measured ratio of the designated set in August 2026.',
       'Designated value crystallises as a continuing flow: the first wave over ten years from the median event lag, later cohorts growing at the rate you set; eligible adults: 350 million (Eurostat, Union citizens 18+).',
       'Distributions follow Annex II exactly, as amended on the record: real capital preserved first, a three-year smoothing collar floored at 2 % of the Reserve\'s capital, no leverage, everything in constant 2026 euros.',
       'The band runs the same arithmetic at the pessimistic and optimistic ends of your inputs. Nothing here is a promise; the model is <a href="https://github.com/ownthemachine/own-the-machine-site">open source</a>.',
