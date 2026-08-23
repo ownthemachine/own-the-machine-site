@@ -51,6 +51,7 @@ export default {
     intro: 'Harmonisierte Regeln für die Beteiligung der Bürgerinnen und Bürger an automatisierten Produktivitätsgewinnen (die Bürgerkapital-Verordnung). Der vollständige Arbeitsentwurf: <a href="%RECITALS%">30 Erwägungsgründe</a>, 18 Artikel und zwei Anhänge, jeder Absatz verankert und zitierfähig. Der englische Text ist der Entwurf. Stand: Commit %COMMIT%; jede Änderung steht im <a href="%LEDGER%">Hauptbuch</a>.',
     chapter: 'Kapitel', annex: 'Anhang', annexes: 'Anhänge', memorandum: 'Memorandum',
     article: 'Artikel', recitals: 'Erwägungsgründe',
+    explanatoryLink: 'Begründung, in der Struktur der Kommission selbst',
     objectionsLink: 'Die Einwände, in aller Schärfe',
     severabilityLink: 'Teilbarkeit: was bei Streichungen Bestand hat',
     downloadsHead: 'Den vollständigen Entwurf herunterladen',
@@ -142,6 +143,11 @@ export default {
   about: {
     title: 'Über das Projekt', eyebrow: 'Wer, warum und nach welchen Regeln',
     description: 'Wer dahintersteht, das erklärte Interesse, die Prüfstufen, und wie diese Kampagne mit Ihren Daten umgeht.',
+  },
+  explanatory: {
+    title: 'Begründung', eyebrow: 'Der Vorschlag in der Form, die die Kommission für ihre eigenen verwendet',
+    description: 'Kontext, Rechtsgrundlage, Subsidiarität und Verhältnismäßigkeit, die Prüfung der Optionen und die Auswirkungen, Auswirkungen auf den Haushalt, und die offenen Punkte.',
+    intro: 'Eine Bürgerinitiative muss dies nicht erstellen. Es besteht, weil die Dienststellen der Kommission genau dieses Dokument schreiben müssten, wenn sie der Initiative je nachgingen, und weil eine Akte, die diese Fragen nicht beantworten kann, nicht bereit ist, aufgegriffen zu werden. Wo eine Antwort noch nicht existiert, sagt es das, statt die Überschrift zu füllen.',
   },
   faq: {
     title: 'Fragen, die wirklich gestellt werden', eyebrow: 'Die kurzen Antworten, die langen einen Klick entfernt',

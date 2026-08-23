@@ -222,6 +222,10 @@ const severability = {
   en: withToc(linkRepoPaths(marked.parse(read('regulation/memorandum/severability.md')))),
   ...loadLocalized('severability', { toc: true, source: 'regulation/memorandum/severability.md' }),
 };
+const explanatory = {
+  en: withToc(linkRepoPaths(marked.parse(read('regulation/memorandum/explanatory-memorandum.md'))), 3),
+  ...loadLocalized('explanatory', { toc: true, depth: 3, source: 'regulation/memorandum/explanatory-memorandum.md' }),
+};
 
 // ---- ledger: review files with front matter -------------------------
 const revDir = join(LAW, 'pipeline', 'reviews');
@@ -292,7 +296,7 @@ writeFileSync(join(OUT, 'law.json'), JSON.stringify({
   lawCommit,
   builtAt: new Date().toISOString(),
   articles, recitals, annexes, objections, severability, ledger, evidence, about, contribute, structure,
-  versions, join: joinDoc, brief, faq, press, sign, registered,
+  versions, join: joinDoc, brief, faq, press, sign, explanatory, registered,
 }, null, 1));
 console.log(`sync-law: ${articles.length} articles, ${annexes.length} annexes, ${ledger.length} ledger entries @ ${lawCommit}`);
 console.log(`sync-law: registered version: ${registered ? registered.number : 'none'}`);

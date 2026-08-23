@@ -39,6 +39,7 @@ const LOCALES = ['nl', 'fr', 'de', 'es'];
 const PAGES = {
   objections: 'regulation/memorandum/counter-arguments.md',
   severability: 'regulation/memorandum/severability.md',
+  explanatory: 'regulation/memorandum/explanatory-memorandum.md',
   evidence: 'evidence/EVIDENCE.md',
 };
 

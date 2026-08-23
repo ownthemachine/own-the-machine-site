@@ -51,6 +51,7 @@ export default {
     intro: 'Normas armonizadas para la participación ciudadana en las ganancias de productividad automatizadas (el Reglamento de Capital Ciudadano). El proyecto de trabajo completo: <a href="%RECITALS%">30 considerandos</a>, 18 artículos y dos anexos, cada párrafo anclado y citable. El texto inglés es el proyecto. Actualizado al commit %COMMIT%; cada cambio figura en el <a href="%LEDGER%">libro mayor</a>.',
     chapter: 'Capítulo', annex: 'Anexo', annexes: 'Anexos', memorandum: 'Memorando',
     article: 'Artículo', recitals: 'Considerandos',
+    explanatoryLink: 'Exposición de motivos, en la estructura de la propia Comisión',
     objectionsLink: 'Las objeciones, en su formulación más sólida',
     severabilityLink: 'Divisibilidad: lo que sobrevive a la poda',
     downloadsHead: 'Descargue el texto completo',
@@ -142,6 +143,11 @@ export default {
   about: {
     title: 'Acerca de', eyebrow: 'Quién, por qué y bajo qué reglas',
     description: 'Quién está detrás, el interés declarado, las puertas, y cómo trata esta campaña sus datos.',
+  },
+  explanatory: {
+    title: 'Exposición de motivos', eyebrow: 'La propuesta en la forma que la Comisión usa para las suyas',
+    description: 'Contexto, base jurídica, subsidiariedad y proporcionalidad, el examen de opciones y los impactos, implicaciones presupuestarias, y los puntos abiertos.',
+    intro: 'Una iniciativa ciudadana no está obligada a producir esto. Existe porque los servicios de la Comisión tendrían que escribir exactamente este documento si alguna vez actuaran sobre la iniciativa, y porque un expediente que no puede responder a estas preguntas no está listo para que lo recojan. Donde una respuesta aún no existe, lo dice en lugar de rellenar el epígrafe.',
   },
   faq: {
     title: 'Las preguntas que la gente hace de verdad', eyebrow: 'Las respuestas cortas, con las largas a un clic',

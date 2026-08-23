@@ -50,6 +50,7 @@ export default {
     intro: 'Harmonised rules for citizen participation in automated productivity gains (the Citizens’ Capital Regulation). The complete working draft: <a href="%RECITALS%">30 recitals</a>, 18 articles and two annexes, each paragraph anchored and citable. The English text is the draft. Current at commit %COMMIT%; every change is on the <a href="%LEDGER%">ledger</a>.',
     chapter: 'Chapter', annex: 'Annex', annexes: 'Annexes', memorandum: 'Memorandum',
     article: 'Article', recitals: 'Recitals',
+    explanatoryLink: 'Explanatory memorandum, in the Commission\u2019s own structure',
     objectionsLink: 'The objections, at full strength',
     severabilityLink: 'Severability: what survives trimming',
     downloadsHead: 'Take the whole draft with you',
@@ -141,6 +142,11 @@ export default {
   about: {
     title: 'About', eyebrow: 'Who, why, and under what rules',
     description: 'Who is behind this, the declared interest, the gates, and how this campaign treats your data.',
+  },
+  explanatory: {
+    title: 'Explanatory memorandum', eyebrow: 'The proposal in the form the Commission uses for its own',
+    description: 'Context, legal basis, subsidiarity and proportionality, the options appraisal and impacts, budgetary implications, and the open points.',
+    intro: 'A citizens\u2019 initiative is not required to produce this. It exists because the Commission\u2019s services would have to write exactly this document if they ever acted on the initiative, and because a file that cannot answer these questions is not ready to be acted on. Where an answer does not exist yet, it says so rather than filling the heading.',
   },
   faq: {
     title: 'Questions people actually ask', eyebrow: 'The short answers, with the long ones one click away',

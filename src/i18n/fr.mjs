@@ -50,6 +50,7 @@ export default {
     intro: 'Règles harmonisées pour la participation des citoyens aux gains de productivité issus de l’automatisation (le règlement sur le capital citoyen). La version de travail complète : <a href="%RECITALS%">30 considérants</a>, 18 articles et deux annexes, chaque paragraphe ancré et citable. Le texte anglais fait foi. À jour au commit %COMMIT% ; chaque modification figure au <a href="%LEDGER%">grand livre</a>.',
     chapter: 'Chapitre', annex: 'Annexe', annexes: 'Annexes', memorandum: 'Mémorandum',
     article: 'Article', recitals: 'Considérants',
+    explanatoryLink: 'Exposé des motifs, dans la structure de la Commission elle-même',
     objectionsLink: 'Les objections, sous leur forme la plus forte',
     severabilityLink: 'Divisibilité : ce qui survit à l’élagage',
     downloadsHead: 'Télécharger l’intégralité du projet',
@@ -141,6 +142,11 @@ export default {
   about: {
     title: 'À propos', eyebrow: 'Qui, pourquoi, et sous quelles règles',
     description: 'Qui est derrière ce projet, l’intérêt déclaré, les portes, et comment cette campagne traite vos données.',
+  },
+  explanatory: {
+    title: 'Exposé des motifs', eyebrow: 'La proposition dans la forme que la Commission emploie pour les siennes',
+    description: 'Contexte, base juridique, subsidiarité et proportionnalité, l\u2019examen des options et les incidences, implications budgétaires, et les points ouverts.',
+    intro: 'Une initiative citoyenne n\u2019est pas tenue de produire ceci. Ce document existe parce que les services de la Commission devraient rédiger exactement celui-ci s\u2019ils donnaient suite à l\u2019initiative, et parce qu\u2019un dossier incapable de répondre à ces questions n\u2019est pas prêt à être repris. Là où une réponse n\u2019existe pas encore, il le dit au lieu de remplir la rubrique.',
   },
   faq: {
     title: 'Les questions que les gens posent vraiment', eyebrow: 'Les réponses courtes, les longues à un clic',

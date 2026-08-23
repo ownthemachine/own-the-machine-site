@@ -50,6 +50,7 @@ export default {
     intro: 'Geharmoniseerde regels voor deelname van burgers aan geautomatiseerde productiviteitswinsten (de Burgerkapitaalverordening). Het volledige werkontwerp: <a href="%RECITALS%">30 overwegingen</a>, 18 artikelen en twee bijlagen, elke alinea verankerd en citeerbaar. De Engelse tekst geldt als het ontwerp. Actueel op commit %COMMIT%; elke wijziging staat in het <a href="%LEDGER%">grootboek</a>.',
     chapter: 'Hoofdstuk', annex: 'Bijlage', annexes: 'Bijlagen', memorandum: 'Memorandum',
     article: 'Artikel', recitals: 'Overwegingen',
+    explanatoryLink: 'Toelichting, in de structuur van de Commissie zelf',
     objectionsLink: 'De bezwaren, in hun sterkste vorm',
     severabilityLink: 'Deelbaarheid: wat het snoeien overleeft',
     downloadsHead: 'Download het volledige ontwerp',
@@ -141,6 +142,11 @@ export default {
   about: {
     title: 'Over', eyebrow: 'Wie, waarom, en onder welke regels',
     description: 'Wie hierachter zit, het gemelde belang, de poorten, en hoe deze campagne met je gegevens omgaat.',
+  },
+  explanatory: {
+    title: 'Toelichting', eyebrow: 'Het voorstel in de vorm die de Commissie voor haar eigen voorstellen gebruikt',
+    description: 'Context, rechtsgrondslag, subsidiariteit en evenredigheid, de afweging van opties en de gevolgen, budgettaire implicaties, en de open punten.',
+    intro: 'Een burgerinitiatief hoeft dit niet te maken. Het bestaat omdat de diensten van de Commissie precies dit document zouden moeten schrijven als zij ooit op het initiatief ingingen, en omdat een dossier dat deze vragen niet kan beantwoorden niet klaar is om opgepakt te worden. Waar een antwoord nog niet bestaat, zegt het dat, in plaats van de kop te vullen.',
   },
   faq: {
     title: 'Vragen die mensen echt stellen', eyebrow: 'De korte antwoorden, met de lange op één klik',
