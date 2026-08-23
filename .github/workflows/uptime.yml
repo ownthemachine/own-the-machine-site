@@ -1,0 +1,39 @@
+name: Live site check
+
+# Nothing watched ownthemachine.eu until 23 August 2026. The risk is not that
+# object storage falls over; it is that a configuration change breaks the site
+# silently and nobody notices for days. The bucket policy has already 403'd the
+# public once, and the certificate renews on someone else's schedule.
+#
+# A failure here emails the repository owner, which is the whole notification
+# system and is enough for a project with one maintainer. Note the honest
+# limitation: GitHub delays scheduled workflows under load, so this is a
+# safety net measured in hours, not a status page measured in seconds.
+
+on:
+  schedule:
+    - cron: '17,47 * * * *'   # twice an hour, off the hour to avoid the rush
+  workflow_dispatch:           # and on demand, before a sounding or a send
+  push:
+    paths:
+      - 'scripts/check-live.mjs'
+      - '.github/workflows/uptime.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: uptime
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check the live site
+        run: node scripts/check-live.mjs
