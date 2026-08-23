@@ -267,8 +267,8 @@ sous-traitants, exactement le type de structuration offshore que les
 chiffres de Capgemini montrent déjà à grande échelle.
 
 **Là où elle voit juste.** Le contournement des seuils est certain, pas
-seulement possible, et l'inquiétude pour la compétitivité est le vent
-contraire politique le plus fort à Bruxelles cette décennie.
+seulement possible, et l'inquiétude pour la compétitivité est la plus forte
+résistance politique à Bruxelles cette décennie.
 
 **La réponse que l'instrument doit apporter.** L'obligation s'attache au
 fait de vendre dans le marché unique, non au fait d'y être établi,
@@ -292,13 +292,13 @@ marché domestique, sans régulation.
 critère d'établissement. DC-11 : consolidation au niveau du groupe avec des
 règles d'effectifs fondées sur la substance plutôt que sur la forme.
 
-### 6. Des warrants sur des sociétés non cotées ne peuvent être ni valorisés, ni votés, ni vendus
+### 6. Des warrants sur des sociétés non cotées ne peuvent être ni valorisés, ni assortis de droits de vote, ni vendus
 
 **L'objection, sous sa forme la plus forte.** La catégorie désignée est
 dominée par des entreprises non cotées. Une réserve détenant des warrants
 sur des micro-géants privés détient du papier sans prix de marché, sans
 liquidité et sans sortie ; soit elle pousse à des introductions en bourse
-précoces, faussant les marchés de capitaux, soit elle reste assise une
+précoces, faussant les marchés de capitaux, soit elle reste immobilisée une
 décennie sur des créances non valorisées et le dividende qu'elle promet ne
 peut être versé. Pendant ce temps, la question de la gouvernance est un
 piège dans les deux sens : un méga-détenteur passif est le propriétaire
@@ -334,12 +334,30 @@ ne parle pas en notre nom. Les deux tiers du fonds norvégien sont du
 rendement composé ; le discours honnête porte sur la règle, pas sur le
 premier chèque.
 
-Un perfectionnement a été envisagé et écarté. On soutient que les valorisations d'entreprises privées en forte croissance sont assez volatiles pour que des litiges sur le taux de dilution enlisent l'instrument dans le contentieux, et qu'un arbitrage contraignant accéléré devrait donc s'intercaler entre l'évaluateur et le juge. L'instrument répond déjà au problème que la proposition vise, et la proposition coûterait plus qu'elle n'épargne. L'article 6, paragraphe 5, prévoit qu'une contestation ne suspend ni l'événement de liquidité ni la souscription, et l'article 6, paragraphe 4, corrige après coup une valorisation erronée dans les deux sens, de sorte qu'un litige ne retarde personne : c'est le schéma du droit de la résolution, où le contentieux avance à côté de la transaction et non en travers. Lorsque l'événement fixe lui-même un prix, l'article 6, paragraphe 2, fait de la valorisation un calcul sur ce prix plutôt qu'une opinion à son sujet, et c'est précisément là que la volatilité entrerait autrement. Enfin, une instance arbitrale dont la sentence lierait les parties se heurterait à l'article 47 de la Charte sur l'accès au juge et aux limites posées à l'attribution d'appréciations discrétionnaires à des organes de l'Union ; une instance dont la sentence ne les lierait pas ajouterait une étape sans en retrancher aucune.
+Un perfectionnement a été envisagé et écarté. On soutient que les
+valorisations d'entreprises non cotées en forte croissance sont assez
+volatiles pour que des litiges sur le taux de dilution enlisent l'instrument
+dans le contentieux, et qu'un arbitrage contraignant accéléré devrait donc
+s'intercaler entre l'évaluateur et le juge. L'instrument répond déjà au
+problème que la proposition vise, et la proposition coûterait plus qu'elle
+n'épargne. L'article 6, paragraphe 5, prévoit qu'une contestation ne suspend
+ni l'événement de liquidité ni la souscription, et l'article 6, paragraphe
+4, corrige après coup une valorisation erronée dans les deux sens, de sorte
+qu'un litige ne retarde personne : c'est le schéma du droit de la
+résolution, où le contentieux avance à côté de la transaction et non en
+travers. Lorsque l'événement fixe lui-même un prix, l'article 6, paragraphe
+2, fait de la valorisation un calcul sur ce prix plutôt qu'une opinion à son
+sujet, et c'est précisément là que la volatilité entrerait autrement. Enfin,
+une instance arbitrale dont la sentence lierait les parties se heurterait à
+l'article 47 de la Charte sur l'accès au juge et aux limites posées à
+l'attribution d'appréciations discrétionnaires à des organes de l'Union ;
+une instance dont la sentence ne les lierait pas ajouterait une étape sans
+en retrancher aucune.
 
 **Conséquence de conception.** DC-12 : cristallisation déclenchée par
 événement, pas de valorisation continue. DC-13 : des intérêts économiques
 sans droit de vote, à titre permanent. DC-14 : le dividende est présenté
-comme partant de peu et se composant, jamais comme un revenu immédiat. DC-34 : aucune instance entre la valorisation et le juge ; correction a posteriori et la transaction n'attend jamais.
+comme partant de peu et croissant par capitalisation, jamais comme un revenu immédiat. DC-34 : aucune instance entre la valorisation et le juge ; correction a posteriori et la transaction n'attend jamais.
 
 ---
 
@@ -389,15 +407,15 @@ LES DEUX futurs, que la transformation advienne ou non.
 
 ### 8. Les meilleures microdonnées ne trouvent rien à reprocher à l'IA
 
-**L'objection, sous sa forme la plus forte.** Humlum et Vestergaard, sur
-les registres danois couvrant vingt-cinq mille travailleurs : des effets
-nuls précis sur les rémunérations et les heures, rien au-dessus de deux
-pour cent, deux ans après ChatGPT. L'OCDE ne constate aucune rupture dans
-les offres d'emploi des métiers exposés et un écart des jeunes stable dans
-la zone euro. Le gouvernement fédéral allemand a déclaré au Bundestag qu'il
+**L'objection, sous sa forme la plus forte.** Humlum et Vestergaard, sur les
+registres danois couvrant vingt-cinq mille travailleurs : des effets nuls
+précis sur les rémunérations et les heures, rien au-dessus de deux pour
+cent, deux ans après ChatGPT. L'OCDE ne constate aucune rupture dans les
+offres d'emploi des métiers exposés et un écart des jeunes stable dans la
+zone euro. Le gouvernement fédéral allemand a déclaré au Bundestag qu'il
 n'existe keine Hinweise que l'IA ait réduit les chances d'accès aux postes
-de débutants. Un cinquième seulement des entreprises de l'UE de dix
-salariés ou plus utilisait une IA quelconque en 2025. Légiférer une
+de débutants. Un cinquième seulement des entreprises de l'UE de dix salariés
+ou plus utilisait une IA quelconque en 2025. Instaurer par la loi une
 structure permanente de rang quasi constitutionnel sur cette base, c'est de
 la panique déguisée en clairvoyance.
 
@@ -456,25 +474,25 @@ dossier. La ponction n'est pas un risque marginal ; au vu du bilan
 européen, c'est l'issue la plus probable.
 
 **La réponse que l'instrument doit apporter.** Concevoir contre les lois
-réellement votées, clause par clause. Contre la Pologne : la réserve ne
-peut détenir la dette souveraine d'aucun État membre ni de l'Union, ce qui
-supprime le canal d'autofinancement qui rendait l'OFE digne d'être annulé.
-Contre l'Espagne : l'interdiction de disposer figure dans le règlement
-fondateur dès le premier jour, sans rattrapage ultérieur, et la
-modification des dispositions de protection est réservée à un changement
-législatif exprès accompagné d'une évaluation indépendante publiée de
-l'effet sur les détenteurs ; un règlement ne peut pas prescrire des seuils
-de vote ou des délais aux législateurs futurs, et prétendre le contraire
-offrirait aux critiques la moquerie la plus facile du dossier. Contre
-l'Irlande : aucune clause d'urgence d'aucune sorte, parce que la ponction
-du NPRF était légale au regard de ses propres dispositions d'urgence.
-Contre l'Estonie : le droit périodique est insusceptible de renonciation
-ou de rachat contre paiement, de sorte qu'il n'existe aucune sortie
-qu'un rachat puisse acheter, précisément l'échec que l'Estonie a
+réellement votées, clause par clause. Contre la Pologne : la réserve ne peut
+détenir la dette souveraine d'aucun État membre ni de l'Union, ce qui
+supprime le mécanisme d'opérations sur sa propre dette qui rendait
+l'annulation de l'OFE si avantageuse. Contre l'Espagne : l'interdiction de
+disposer figure dans le règlement fondateur dès le premier jour, sans
+rattrapage ultérieur, et la modification des dispositions de protection est
+réservée à un changement législatif exprès accompagné d'une évaluation
+indépendante publiée de l'effet sur les détenteurs ; un règlement ne peut
+pas prescrire des seuils de vote ou des délais aux législateurs futurs, et
+prétendre le contraire offrirait aux critiques la moquerie la plus facile du
+dossier. Contre l'Irlande : aucune clause d'urgence d'aucune sorte, parce
+que la ponction du NPRF était légale au regard de ses propres dispositions
+d'urgence. Contre l'Estonie : le droit périodique est insusceptible de
+renonciation ou de rachat contre paiement, de sorte qu'il n'existe aucune
+sortie qu'un rachat puisse acheter, précisément l'échec que l'Estonie a
 démontré ; les montants déjà distribués sont la propriété du titulaire,
 transmissibles, le dispositif danois qui a tenu. Contre la Grèce : la
-protection contre les ponctions ne doit jamais être obtenue en supprimant
-le droit du citoyen, ce qui est l'échec déguisé en succès. Et une phrase
+protection contre les ponctions ne doit jamais être obtenue en supprimant le
+droit du citoyen, ce qui est l'échec déguisé en succès. Et une phrase
 honnête que le mémorandum doit contenir : aucune rédaction ne défait un
 souverain futur déterminé ; l'objectif de conception est de rendre la
 ponction bruyante, lente et électoralement coûteuse, ce qui est le maximum
@@ -493,10 +511,10 @@ une impossibilité.
 ### 10. L'UE n'arrive même pas à décaisser ce qu'elle annonce
 
 **L'objection, sous sa forme la plus forte.** L'appel à projets des
-gigafactories d'IA a ouvert dix-huit mois après l'annonce des 200
-milliards ; la construction est promise à partir de 2027 ; l'appel
-d'offres de la Commission pour le cloud souverain a attribué 180 millions
-face aux 33,7 milliards d'un seul hyperscaler en Espagne. Le métabolisme
+gigafactories d'IA a été lancé dix-huit mois après l'annonce des 200
+milliards ; la construction est promise à partir de 2027 ; l'appel d'offres
+de la Commission pour le cloud souverain a attribué 180 millions face aux
+33,7 milliards d'un seul hyperscaler en Espagne. Le métabolisme
 institutionnel qui ferait fonctionner ce règlement avance à un rythme que
 l'économie sous-jacente ne reconnaît pas. Une réserve citoyenne gérée à ce
 rythme cristalliserait les warrants avec des années de retard et ne
@@ -506,13 +524,11 @@ distribuerait rien pendant une décennie.
 juste titre, et le mémorandum ne gagne rien à le contester.
 
 **La réponse que l'instrument doit apporter.** Ne placer aucune machinerie
-de dépense de l'Union sur le chemin critique. L'obligation court
-directement des entreprises désignées vers la réserve : les warrants sont
-émis de plein droit au franchissement des seuils, se cristallisent de plein
-droit aux événements, et la tâche de la réserve est la conservation et la
+de dépense de l'Union sur le chemin critique. L'obligation s'impose directement aux entreprises désignées au profit de la réserve : les warrants sont émis de plein
+droit au franchissement des seuils, se cristallisent de plein droit lors de la survenance des événements prévus, et la tâche de la réserve est la conservation et la
 distribution, non la passation de marchés. Rien ne doit être construit, mis
 en appel d'offres ou décaissé pour que l'instrument fonctionne ; le
-contraste avec InvestAI est la conception même, non une gêne pour elle.
+contraste avec InvestAI est délibéré, non un embarras.
 
 **Conséquence de conception.** DC-24 : des obligations auto-exécutoires de
 plein droit ; aucune machinerie de subvention, d'appel d'offres ou de
@@ -538,21 +554,20 @@ considérable, et le principal canal par lequel la technologie a
 historiquement élevé le niveau de vie. Le livre le concède ; le mémorandum
 doit le faire aussi.
 
-**La réponse que l'instrument doit apporter.** Deux faits se tiennent à
-côté du récit de la diffusion sans le contredire. D'abord, le délai : les
-salaires réels britanniques ont stagné environ un demi-siècle après Watt
-pendant que la production explosait, et l'élargissement est venu par les
-syndicats, le suffrage et la législation sur les fabriques, pas par les
-seuls prix ; ceux qui ont vécu à l'intérieur de la pause n'ont pas
-récupéré ces décennies, et le propriétaire de la mine, lui, n'a pas
-attendu. Un instrument revendiqué dès l'entrée fait la différence entre
-traverser la pause avec ou sans actif. Ensuite, le stock et le flux sont
-deux questions distinctes : une consommation moins chère et une richesse
-concentrée sont compatibles, et la zone euro illustre en ce moment cette
-combinaison, avec un emploi record à côté d'une distribution de la
-propriété de quatre-vingt-trois contre deux. Le dividende ne fait pas
-obstacle à la diffusion ; il ajoute un canal de propriété à côté du canal
-des prix.
+**La réponse que l'instrument doit apporter.** Deux faits coexistent avec le
+récit de la diffusion sans le contredire. D'abord, le délai : les salaires
+réels britanniques ont stagné environ un demi-siècle après Watt pendant que
+la production explosait, et l'élargissement est venu par les syndicats, le
+suffrage et la législation sur les fabriques, pas par les seuls prix ; ceux
+qui ont vécu à l'intérieur de la pause n'ont pas récupéré ces décennies, et
+le propriétaire de la mine, lui, n'a pas attendu. Un instrument revendiqué
+dès l'origine fait la différence entre traverser la pause avec ou sans
+actif. Ensuite, le stock et le flux sont deux questions distinctes : une
+consommation moins chère et une richesse concentrée sont compatibles, et la
+zone euro illustre en ce moment cette combinaison, avec un emploi record à
+côté d'une distribution de la propriété de quatre-vingt-trois contre deux.
+Le dividende ne fait pas obstacle à la diffusion ; il ajoute un canal de
+propriété à côté du canal des prix.
 
 **Conséquence de conception.** DC-25 : le mémorandum affirme le surplus du
 consommateur et présente l'instrument comme s'y ajoutant, jamais comme la
@@ -562,11 +577,12 @@ correction d'un mensonge.
 
 **L'objection, sous sa forme la plus forte.** Les biens positionnels se
 réévaluent face à tout transfert universel : donnez davantage à tout le
-monde et la maison de la bonne rue coûte plus cher. Et un revenu sans
+monde et la maison dans le bon quartier coûte plus cher. Et un revenu sans
 travail règle le loyer, pas le mardi après-midi : la structure, la
 considération et l'appartenance que l'emploi fournit par surcroît ne
-relèvent pas de ce que la réserve peut offrir. La proposition survend ce que le revenu du
-capital peut faire pour une personne déplacée.
+relèvent pas de ce que la réserve peut offrir. La proposition surestime ce
+que le revenu du capital peut apporter à une personne dont l'emploi a
+disparu.
 
 **Là où elle voit juste. CONCÉDÉE en totalité.** Ce sont les chapitres 11
 et 13 du livre lui-même, et ils lient son règlement exactement comme ils
@@ -586,11 +602,11 @@ et de limites.
 
 **L'objection, sous sa forme la plus forte.** Retirez la finance
 d'entreprise et un citoyen reçoit un versement récurrent et inconditionnel
-d'un organisme public. C'est le revenu de base universel, une politique que
-l'électorat a pesée à plusieurs reprises, et dont des versions peu
-coûteuses déjà proposées n'ont même pas réuni les signatures d'une ICE. La
-machinerie des warrants est de la complexité ajoutée pour déguiser un
-transfert en rendement.
+d'un organisme public. C'est le revenu de base universel, une politique sur
+laquelle l'électorat s'est prononcé à plusieurs reprises, et dont des
+versions peu coûteuses déjà proposées n'ont même pas réuni les signatures
+d'une ICE. La machinerie des warrants est de la complexité ajoutée pour
+déguiser un transfert en rendement.
 
 **Là où elle voit juste.** Le versement est effectivement inconditionnel et
 universel, et l'air de famille est réel au moment de la réception.
@@ -626,17 +642,16 @@ fonctionnent et inspirent confiance, et toute conception qui les ignore est
 du gaspillage.
 
 **La réponse que l'instrument doit apporter.** Les retraites convertissent
-des salaires en propriété, et le salaire est précisément l'intrant que
-cette transition érode ; chaque véhicule de retraite en Europe suppose un
+des salaires en propriété, et le salaire est précisément l'intrant que cette
+transition érode ; chaque véhicule de retraite en Europe suppose un
 employeur et une retenue sur salaire, exactement l'hypothèse dont le
 chapitre 6 montre la défaillance. La part capitalisée du patrimoine de
 retraite acquis est de 7,8 % en Belgique et de 0,0 % en France : les
 circuits atteignent les salariés des pays à capitalisation et personne
 d'autre. Le warrant détache la source de financement du salaire : les
 rendements de la réserve s'écoulent précisément dans ces circuits nationaux
-de comptes (DC-7), que le citoyen ait ou non jamais occupé un emploi
-salarié. Les retraites sont le tuyau ; ceci est une source nouvelle qui
-l'alimente.
+de comptes (DC-7), que le citoyen ait ou non déjà occupé un emploi salarié.
+Les retraites sont le tuyau ; ceci est une source nouvelle qui l'alimente.
 
 **Conséquence de conception.** DC-28 (renforce DC-7) : distribution par les
 circuits de retraite nationaux existants ; la nouveauté est confinée à la
@@ -648,11 +663,32 @@ source de financement, là où elle est nécessaire.
 
 **L'objection, sous sa forme la plus forte.** Faites tourner le simulateur de l'instrument sur des hypothèses prudentes : il verse à un citoyen un ou deux euros par an pendant sa première décennie. Personne de sensé n'y attache de valeur ; aucun électeur ne fait campagne pour cela ; aucun journaliste ne résiste au titre. L'appareil est d'une disproportion grotesque par rapport à ce qu'il produit : un nouvel organe de l'Union, un régime de désignation, une machinerie d'évaluation, de la comitologie, des amendes jusqu'à 10 % du chiffre d'affaires mondial, le tout pour livrer moins que le prix d'un café. Pire : la doctrine d'honnêteté du projet interdit de promettre davantage. Une initiative qui doit, selon ses propres règles, dire à chaque signataire « vous n'en ressentirez rien pendant vingt ans » a choisi un message avec lequel aucune campagne de masse n'a jamais gagné. Le revenu de base promet au moins le loyer.
 
-**Là où elle voit juste.** Le flux initial est réellement modeste, et la structure même de la campagne lui interdit de le gonfler. Le risque de collecte est réel : les récompenses différées perdent contre les immédiates à chaque porte.
+**Là où elle voit juste.** Le flux initial est réellement modeste, et la
+structure même de la campagne lui interdit de le gonfler. Le risque de
+collecte est réel : les récompenses différées perdent contre les immédiates
+sur le pas de la porte.
 
-**La réponse que l'instrument doit apporter.** En trois temps. D'abord, la petitesse est un calibrage, pas un échec : la taille de l'instrument suit par construction la taille du phénomène. Trois pour cent de peu, c'est peu, prélevé sur presque personne, et dans ce monde l'article 14, paragraphe 3, oblige la Commission à constater que la prémisse ne s'est pas vérifiée et à proposer modification ou abrogation ; un dividende durablement minuscule, c'est la condition de falsification qui joue, pas une politique qui boite. Le dividende n'est petit que dans le monde où le problème l'est aussi. Ensuite, le droit ne peut s'acquérir que tôt. L'acompte danois gelé de 4 368 DKK de 1978, somme dérisoire à l'époque, vaut 119 506 DKK aujourd'hui ; les deux tiers du fonds norvégien sont du rendement composé, pas du pétrole. L'autre calendrier, réclamer la part une fois les gains visibles et les propriétaires installés, c'est l'expropriation, politiquement impossible. L'euro achète le certificat, et c'est le certificat qui importe. Enfin, le stock devance le flux : sur les mêmes hypothèses prudentes, la Réserve détient vers l'an trente environ 400 EUR de capital derrière chaque citoyen, avant qu'un seul versement annuel n'impressionne. Une campagne qui montre le versement sans la part décrit mal son propre instrument.
+**La réponse que l'instrument doit apporter.** En trois temps. D'abord, la
+petitesse est un calibrage, pas un échec : la taille de l'instrument suit
+par construction la taille du phénomène. Trois pour cent de peu, c'est peu,
+prélevé sur presque personne, et dans ce monde l'article 14, paragraphe 3,
+oblige la Commission à constater que la prémisse ne s'est pas vérifiée et à
+proposer modification ou abrogation ; un dividende durablement minuscule,
+c'est la condition de réfutation qui joue, pas une politique qui boite. Le
+dividende n'est petit que dans le monde où le problème l'est aussi. Ensuite,
+le droit ne peut s'acquérir que tôt. L'acompte danois gelé de 4 368 DKK de
+1978, somme dérisoire à l'époque, vaut 119 506 DKK aujourd'hui ; les deux
+tiers du fonds norvégien sont du rendement composé, pas du pétrole. L'autre
+calendrier, réclamer la part une fois les gains visibles et les
+propriétaires installés, c'est l'expropriation, politiquement impossible.
+L'euro achète le certificat, et c'est le certificat qui importe. Enfin, le
+stock devance le flux : sur les mêmes hypothèses prudentes, la Réserve
+détient vers la trentième année environ 400 EUR de capital pour le compte de
+chaque citoyen, avant même que le moindre versement annuel ne devienne
+significatif. Une campagne qui montre le versement sans la part décrit mal
+son propre instrument.
 
-**Conséquence de conception.** Cette objection est la raison d'être de DC-14 (ne jamais ouvrir sur un chiffre des premières années), de la condition de falsification portée par l'article 14, paragraphe 3, et du fait que l'annexe II distribue des revenus, jamais du principal. Elle ajoute deux règles mécaniques qui lui sont propres : partout où figure un montant versé par citoyen, la part par citoyen dans la Réserve figure à côté (DC-31) ; et lorsque le montant distribuable d'une année serait trop faible pour justifier un transfert, l'intervalle s'allonge plutôt que l'argent ne disparaisse, sous réserve d'un plancher impératif d'une distribution tous les trois ans et d'une obligation de publier ce qui n'a pas été versé (DC-40). Le seuil est un rapport au coût du versement, non un chiffre : un chiffre inscrit dans une annexe vieillit, et offre un titre à quiconque en cherche un.
+**Conséquence de conception.** Cette objection est la raison d'être de DC-14 (ne jamais ouvrir sur un chiffre des premières années), de la condition de réfutation portée par l'article 14, paragraphe 3, et du fait que l'annexe II distribue des revenus, jamais du principal. Elle ajoute deux règles mécaniques qui lui sont propres : partout où figure un montant versé par citoyen, la part par citoyen dans la Réserve figure à côté (DC-31) ; et lorsque le montant distribuable d'une année serait trop faible pour justifier un transfert, l'intervalle s'allonge plutôt que l'argent ne disparaisse, sous réserve d'un plancher impératif d'une distribution tous les trois ans et d'une obligation de publier ce qui n'a pas été versé (DC-40). Le seuil est un rapport au coût du versement, non un chiffre : un chiffre inscrit dans une annexe vieillit, et offre un titre à quiconque en cherche un.
 
 ### 16. C'est une golden share, et la Cour annule les golden shares
 
@@ -731,7 +767,32 @@ prétendue mise à l'écart du droit des sociétés étranger (DC-33).
 
 ### 18. Les montages de droit des sociétés contourneront tout cela
 
-**L'objection, sous sa forme la plus forte.** Chaque mécanisme de ce règlement suppose un moment où la valeur devient visible, et le droit des sociétés existe pour déplacer ce moment. Une entreprise hyper-automatisée est l'évadée idéale : elle a besoin de peu de capital, donc elle n'a jamais à s'introduire en bourse ; elle génère de la trésorerie, donc elle peut payer ses fondateurs pendant des décennies par des dividendes, des recapitalisations par la dette et des rachats d'actions sélectifs, pendant que le warrant sommeille indéfiniment. S'il lui faut finalement traiter, elle traite dans une structure de capital où la Réserve ne figure pas : des actions de préférence de l'amorçage à la série G, avec des préférences de liquidation de deux et trois fois, de sorte qu'une vente distribue tout aux porteurs privilégiés et que les trois pour cent d'actions ordinaires de la Réserve ne valent précisément rien. Si le déclencheur approche malgré tout, le groupe se scinde : poids des modèles, infrastructure d'entraînement et base d'utilisateurs migrent vers une sœur non cotée, et ce qui est introduit en bourse est une vitrine européenne à faible marge. Si rien de tout cela ne suffit, un fonds de dette privée complaisant convertit sa créance en capital dans une procédure préventive, les anciens actionnaires sont effacés par décision de justice, et les mêmes personnes possèdent les mêmes modèles le lendemain matin par une société nouvelle. Pendant ce temps, les actions que la Réserve détient dans des sociétés mères de pays tiers sont imposées à la source à des taux qu'elle ne peut récupérer, car un organisme supranational résident nulle part n'a aucune convention à invoquer. Chacun de ces montages est une pratique ordinaire, non un abus ; l'instrument est un événement de cristallisation dans un monde qui a passé quarante ans à apprendre à éviter les événements.
+**L'objection, sous sa forme la plus forte.** Chaque mécanisme de ce
+règlement suppose un moment où la valeur devient visible, et le droit des
+sociétés existe pour déplacer ce moment. Une entreprise hyper-automatisée
+est l'évadée idéale : elle a besoin de peu de capital, donc elle n'a jamais
+à s'introduire en bourse ; elle génère de la trésorerie, donc elle peut
+payer ses fondateurs pendant des décennies par des dividendes, des
+recapitalisations par la dette et des rachats d'actions sélectifs, pendant
+que le warrant sommeille indéfiniment. S'il lui faut finalement traiter,
+elle traite dans une structure de capital où la Réserve ne figure pas : des
+actions de préférence de l'amorçage à la série G, avec des préférences de
+liquidation à hauteur de deux ou trois fois la mise, de sorte qu'une vente
+distribue tout aux porteurs privilégiés et que les trois pour cent d'actions
+ordinaires de la Réserve ne valent précisément rien. Si le déclencheur
+approche malgré tout, le groupe se scinde : poids des modèles,
+infrastructure d'entraînement et base d'utilisateurs migrent vers une sœur
+non cotée, et ce qui est introduit en bourse est une vitrine européenne à
+faible marge. Si rien de tout cela ne suffit, un fonds de dette privée
+complaisant convertit sa créance en capital dans une procédure préventive,
+les anciens actionnaires sont effacés par décision de justice, et les mêmes
+personnes possèdent les mêmes modèles le lendemain matin par une société
+nouvelle. Pendant ce temps, les actions que la Réserve détient dans des
+sociétés mères de pays tiers sont imposées à la source à des taux qu'elle ne
+peut récupérer, car un organisme supranational résident nulle part n'a
+aucune convention à invoquer. Chacun de ces montages est une pratique
+ordinaire, non un abus ; l'instrument est un événement de cristallisation
+dans un monde qui a passé quarante ans à apprendre à éviter les événements.
 
 **Là où elle voit juste.** Sur tout. Un instrument suspendu à un déclencheur unique sera contourné par des gens dont le métier est de structurer, et un règlement qui ne le reconnaît que dans ses considérants a déjà concédé le point. Les réponses ci-dessous sont des ajouts que le dossier n'avait pas ; elles viennent d'une relecture extérieure et le mémorandum le dit.
 
@@ -745,24 +806,51 @@ Le périmètre ensuite : l'article 5, paragraphe 11, oblige le cessionnaire à �
 
 La sortie enfin : l'article 5, paragraphe 12, réattache l'obligation lorsque les actifs automatisés ressortent d'une insolvabilité ou d'une restructuration au titre de la directive (UE) 2019/1023 dans une entité contrôlée par les mêmes personnes ou dans laquelle elles détiennent la majorité des droits économiques, et impose l'émission d'un nouveau warrant dans les trois mois. Une défaillance véritable éteint toujours la participation de la Réserve, comme celle de tout actionnaire, car la Réserve est propriétaire et les propriétaires le supportent. Ce qu'elle ne fait pas, c'est bénir la version où les propriétaires survivent et où seule l'obligation meurt.
 
-Une route, le conseil l'a conservée et l'instrument la laisse délibérément ouverte. Une entreprise peut emprunter lourdement auprès de prêteurs qui ne sont les parents de personne, leur verser un intérêt de marché et valoir moins à l'échéance qu'elle n'aurait valu sans dette. Ce n'est pas un prélèvement et la définition ne doit pas prétendre le contraire : l'argent va à des tiers, non à des initiés, et les fondateurs s'appauvrissent exactement dans la même proportion que la Réserve. Tout actionnaire d'une société endettée détient une créance plus petite sur un bilan plus grand, et un instrument qui prend 3 % du capital ne peut exiger en outre que ce capital reste libre de charges. Ce que le dossier ne doit pas faire, c'est confondre cela avec les voies décrites plus haut, où la valeur part vers des poches qui sont les mêmes poches. Le levier est un risque que la Réserve assume en tant que propriétaire ; le prélèvement est un transfert que le règlement arrête.
+Une route, le conseil l'a conservée et l'instrument la laisse délibérément
+ouverte. Une entreprise peut emprunter lourdement auprès de prêteurs
+strictement tiers, leur verser un intérêt de marché et valoir moins à
+l'échéance qu'elle n'aurait valu sans dette. Ce n'est pas un prélèvement et
+la définition ne doit pas prétendre le contraire : l'argent va à des tiers,
+non à des initiés, et les fondateurs s'appauvrissent exactement dans la même
+proportion que la Réserve. Tout actionnaire d'une société endettée détient
+une créance plus petite sur un bilan plus grand, et un instrument qui prend
+3 % du capital ne peut exiger en outre que ce capital reste libre de
+charges. Ce que le dossier ne doit pas faire, c'est confondre cela avec les
+voies décrites plus haut, où la valeur part vers des poches qui sont les
+mêmes poches. Le levier est un risque que la Réserve assume en tant que
+propriétaire ; le prélèvement est un transfert que le règlement arrête.
 
-Et la réponse partielle honnête : la retenue à la source. Un règlement de l'Union ne peut conférer à la Réserve un avantage conventionnel qu'un pays tiers n'a pas accordé, et un organisme résident nulle part peut se voir appliquer une retenue au taux légal plein. Deux réponses ont été écrites puis supprimées. Enjoindre à la Commission de négocier avec des pays tiers aurait commandé une prérogative que l'article 218 TFUE place ailleurs. Autoriser la Réserve à router ses participations pour abaisser le taux aurait inscrit le chalandage fiscal dans un instrument dont toute la thèse est que le capital doit être largement détenu et payer ce qu'il doit ; un conseil hostile avait déjà le titre tout prêt, et il aurait eu raison de l'utiliser. Ce qui subsiste est l'article 8, paragraphe 5 : la Réserve publie chaque année l'impôt qu'elle n'a pu récupérer, et la Commission en répond dans le rapport de l'article 14. C'est une réponse plus petite que le problème, et c'est l'honnête. Une fuite déclarée chaque année est une fuite sur laquelle la campagne peut être jugée ; une fuite que personne ne mesure ne fait que croître.
+Et la réponse partielle honnête : la retenue à la source. Un règlement de
+l'Union ne peut conférer à la Réserve un avantage conventionnel qu'un pays
+tiers n'a pas accordé, et un organisme résident nulle part peut se voir
+appliquer une retenue au taux légal plein. Deux réponses ont été écrites
+puis supprimées. Enjoindre à la Commission de négocier avec des pays tiers
+aurait commandé une prérogative que l'article 218 TFUE place ailleurs.
+Autoriser la Réserve à router ses participations pour abaisser le taux
+aurait inscrit l'utilisation abusive des conventions fiscales dans un
+instrument dont toute la thèse est que le capital doit être largement détenu
+et payer ce qu'il doit ; un conseil hostile avait déjà le titre tout prêt,
+et il aurait eu raison de l'utiliser. Ce qui subsiste est l'article 8,
+paragraphe 5 : la Réserve publie chaque année l'impôt qu'elle n'a pu
+récupérer, et la Commission en répond dans le rapport de l'article 14. C'est
+une réponse plus petite que le problème, et c'est la réponse honnête. Une
+fuite déclarée chaque année est une fuite sur laquelle la campagne peut être
+jugée ; une fuite que personne ne mesure ne fait que croître.
 
 **Conséquence de conception.** DC-35 : cristallisation sur les prélèvements et sur le temps, non sur la seule vente. DC-36 : les actions de la Réserve prennent rang avec la classe la mieux placée parmi celles créées après la désignation, sans toucher aux préférences antérieures, et les montages subordonnants sont inopposables à la Réserve. DC-37 : le cessionnaire émet son propre warrant sur son propre capital ; le cédant reste tenu pour les actifs automatisés qu'il conserve, et le cumul entre eux ne dépasse jamais le pourcentage énoncé de leur capital combiné. DC-38 : la retenue à la source non récupérable est publiée annuellement ; l'instrument n'enjoint pas à la Réserve d'organiser ses participations pour la réduire. DC-39 : l'obligation se réattache lorsque les mêmes propriétaires récupèrent les actifs au sortir d'une restructuration.
 
 ### 19. La Suède a tenté cela, et n'a même pas réussi à le faire adopter
 
 **L'objection, sous sa forme la plus forte.** Ce mécanisme n'est pas
-nouveau, et il a déjà échoué, dans le pays le plus susceptible de l'avoir
-porté. Le plan Meidner, adopté par le congrès de la confédération
-syndicale suédoise en 1976, obligeait les entreprises bénéficiaires à
-émettre chaque année de nouvelles actions représentant 20 % de leur
-bénéfice annuel au profit de fonds détenus collectivement, jusqu'à ce que
-ces fonds détiennent la majorité des actions. C'est le mécanisme de cet
-instrument : une émission obligatoire de nouveau capital au profit d'un
-détenteur collectif, réglée en actions plutôt qu'en numéraire, calibrée
-sur la prospérité propre de l'entreprise.
+nouveau, et il a déjà échoué, dans le pays qui était le plus à même de le
+porter. Le plan Meidner, adopté par le congrès de la confédération syndicale
+suédoise en 1976, obligeait les entreprises bénéficiaires à émettre chaque
+année de nouvelles actions représentant 20 % de leur bénéfice annuel au
+profit de fonds détenus collectivement, jusqu'à ce que ces fonds détiennent
+la majorité des actions. C'est le mécanisme de cet instrument : une émission
+obligatoire de nouveau capital au profit d'un détenteur collectif, réglée en
+actions plutôt qu'en numéraire, calibrée sur la prospérité propre de
+l'entreprise.
 
 Il n'a pas survécu à sa propre rédaction. Lorsque le Riksdag a légiféré en
 1983, l'émission obligatoire d'actions avait déjà été abandonnée et
@@ -781,26 +869,25 @@ proposés.
 
 Cette lecture n'a rien d'aimable, et elle est à la portée de quiconque
 connaît le dossier. Dans l'économie développée la plus favorable aux
-syndicats au monde, au sommet de la puissance du mouvement ouvrier
-organisé, avec un gouvernement bienveillant, l'émission obligatoire de
-capital au profit d'un fonds collectif s'est révélée impossible à
-légiférer, s'est convertie en mesure fiscale dès le stade de la
-rédaction, et a été abrogée en huit ans par le premier gouvernement qui
-l'a voulu. Un rédacteur qui l'ignore n'a pas fait ses recherches. Un
-rédacteur qui le sait et l'omet le dissimule.
+syndicats au monde, au sommet de la puissance du mouvement ouvrier organisé,
+avec un gouvernement bienveillant, l'émission obligatoire de capital au
+profit d'un fonds collectif s'est révélée impossible à inscrire dans la loi, s'est
+convertie en mesure fiscale dès le stade de la rédaction, et a été abrogée
+en huit ans par le premier gouvernement qui l'a voulu. Un rédacteur qui
+l'ignore ne s'est pas documenté. Un rédacteur qui le sait et l'omet le
+dissimule.
 
-**Là où elle voit juste.** Presque tout, comme fait historique. Le
-mécanisme appartient à la même famille. La conversion en prélèvement est
-réelle et constitue la preuve la plus nette disponible pour l'attaque en
-qualification de l'objection 2, car elle montre des législateurs
-expérimentés se tournant vers l'instrument fiscal lorsque l'instrument en
-capital est devenu politiquement impossible. L'abolition de 1991 est un
-exemple authentique de la ponction contre laquelle cet instrument rédige
-le chapitre VI, et elle a sa place aux côtés de la Pologne, de l'Espagne
-et de l'Irlande dans la base de preuves, plutôt que d'en être écartée
-parce qu'elle est gênante. La mobilisation est une prédiction réelle de ce
-qui se passe lorsque le capital perçoit une proposition de ce type comme
-un transfert de contrôle.
+**Là où elle voit juste.** Presque tout, comme fait historique. Le mécanisme
+appartient à la même famille. La conversion en prélèvement est réelle et
+constitue la preuve la plus nette disponible pour l'attaque en qualification
+de l'objection 2, car elle montre des législateurs expérimentés se tournant
+vers l'instrument fiscal lorsque l'instrument en capital est devenu
+politiquement impossible. L'abolition de 1991 est un exemple authentique de
+la ponction contre laquelle cet instrument a conçu le chapitre VI, et elle a
+sa place aux côtés de la Pologne, de l'Espagne et de l'Irlande dans la base
+de preuves, plutôt que d'en être écartée parce qu'elle est gênante. La
+mobilisation est une prédiction réelle de ce qui se passe lorsque le capital
+perçoit une proposition de ce type comme un transfert de contrôle.
 
 **La réponse que l'instrument doit apporter.** Trois différences, chacune
 correspondant à une raison précise de l'échec du dispositif suédois, et
@@ -816,17 +903,17 @@ désignation, le cumul sur une entreprise et chacun de ses cessionnaires
 instrument au contrôle, car l'arithmétique ne le permet pas. Un opposant
 qui prétend le contraire argumente contre une autre proposition.
 
-Deuxièmement, le contrôle. Les fonds suédois votaient, et ils étaient
-gérés par les syndicats. La littérature savante sur cette défaite
-s'accorde à dire que la mobilisation portait sur qui gouvernerait les
-entreprises plutôt que sur l'argent, et le plafond de 8 % était lui-même
-une tentative de répondre à cette crainte. La Réserve détient des actions
-sans droit de vote au titre de l'article 5, paragraphe 4, point a), il lui
-est interdit par l'article 9 de rechercher ou d'exercer une influence, et
-DC-32 fait de la participation économique le maximum possible.
-L'électorat qui a rendu 1983 possible était composé de patrons convaincus
-d'être nationalisés par tranches. Cette conviction ne peut se former à
-l'égard d'un instrument dépourvu de droit de vote.
+Deuxièmement, le contrôle. Les fonds suédois votaient, et ils étaient gérés
+par les syndicats. La littérature savante sur cette défaite s'accorde à dire
+que la mobilisation portait sur qui gouvernerait les entreprises plutôt que
+sur l'argent, et le plafond de 8 % était lui-même une tentative de répondre
+à cette crainte. La Réserve détient des actions sans droit de vote au titre
+de l'article 5, paragraphe 4, point a), il lui est interdit par l'article 9
+de rechercher ou d'exercer une influence, et DC-32 fait de la participation
+économique le maximum possible. La base sociale qui a rendu 1983 possible
+était composée de patrons convaincus d'être nationalisés par tranches. Cette
+conviction ne peut se former à l'égard d'un instrument dépourvu de droit de
+vote.
 
 Troisièmement, le bénéficiaire. Les fonds suédois profitaient à un
 mouvement ouvrier, ce qui en faisait un enjeu partisan dans un
@@ -836,15 +923,15 @@ compris les actionnaires et les salariés des entreprises désignées
 elles-mêmes. Cela ne rend pas l'opposition impossible. Cela rend plus
 difficile de tracer une ligne entre « eux » et « nous ».
 
-Ce dossier ne prétend pas que ces différences rendent l'économie
-politique sans risque. Elles ne le font pas. La position honnête est que
-la Suède montre que le mécanisme ne peut être légiféré que s'il est
-visiblement borné, visiblement dépourvu de pouvoir quant au contrôle, et
-visiblement universel quant à ses bénéficiaires, et qu'une proposition
-défaillant sur l'un de ces trois points dispose d'une manière documentée
-de mourir. Cet instrument est rédigé pour satisfaire ces trois exigences
-à la fois, et l'objection 4 intègre déjà le risque politique résiduel
-dans son prix, plutôt que de le nier.
+Ce dossier ne prétend pas que ces différences rendent l'économie politique
+sans risque. Elles ne le font pas. La position honnête est que la Suède
+montre que le mécanisme ne peut être légiféré que s'il est visiblement
+borné, visiblement dépourvu de pouvoir quant au contrôle, et visiblement
+universel quant à ses bénéficiaires, et qu'une proposition défaillant sur
+l'un de ces trois points est vouée à un échec parfaitement documenté. Cet
+instrument est rédigé pour satisfaire ces trois exigences à la fois, et
+l'objection 4 intègre déjà le risque politique résiduel dans son prix,
+plutôt que de le nier.
 
 **Conséquence de conception.** DC-41 : l'instrument doit être borné, sans
 droit de vote ni droit de contrôle, et universel quant à ses
@@ -871,22 +958,22 @@ opposant ne les énonce.
 
 ### 20. Prendre les actions sans droit de vote confie le contrôle à ceux-là mêmes que vous désignez comme le problème
 
-**L'objection, dans sa version la plus forte.** L'instrument prend trois pour
-cent de la valeur économique et aucune des voix. Cette arithmétique n'est pas
-neutre. Avant le bon, les détenteurs existants possèdent tout le capital et
-expriment toutes les voix ; après, ils possèdent quatre-vingt-dix-sept pour
-cent du capital et expriment toujours toutes les voix. Leur contrôle par euro
-de leur propre argent a augmenté, d'environ trois pour cent, et c'est l'Union
-qui le leur a donné. Un dossier dont le diagnostic est que la propriété du
-capital productif est trop étroite répond en créant le plus grand actionnaire
-durablement privé de droit de vote d'Europe et en élargissant, dans chaque
-entreprise couverte, précisément le coin entre droits aux flux financiers et
-droits de contrôle que la recherche en gouvernance d'entreprise identifie
-comme le meilleur prédicteur de la spoliation des minoritaires et d'une
-gestion sans reddition de comptes. Les fondateurs des entreprises de
-frontière détiennent déjà le contrôle par des structures à double catégorie
-d'actions sur une participation économique minoritaire. Ceci leur en donne
-davantage, gratuitement, par la loi.
+**L'objection, dans sa version la plus forte.** L'instrument prend trois
+pour cent de la valeur économique et aucune des voix. Cette arithmétique
+n'est pas neutre. Avant le warrant, les détenteurs existants possèdent tout
+le capital et expriment toutes les voix ; après, ils possèdent quatre-vingt-
+dix-sept pour cent du capital et expriment toujours toutes les voix. Leur
+contrôle par euro de leur propre argent a augmenté, d'environ trois pour
+cent, et c'est l'Union qui le leur a donné. Un dossier dont le diagnostic
+est que la propriété du capital productif est trop étroite répond en créant
+le plus grand actionnaire durablement privé de droit de vote d'Europe et en
+élargissant, dans chaque entreprise couverte, précisément le fossé entre droits aux flux financiers et droits de contrôle que la recherche en
+gouvernance d'entreprise identifie comme le meilleur prédicteur de la
+spoliation des minoritaires et d'une gestion sans reddition de comptes. Les
+fondateurs des entreprises à la frontière technologique détiennent déjà le
+contrôle par des structures à double catégorie d'actions sur une
+participation économique minoritaire. Ceci leur en donne davantage,
+gratuitement, par la loi.
 
 Le point de légitimation est pire que l'arithmétique. Dès lors que l'Union
 elle-même accepte des titres sans droit de vote comme la forme que prend la
@@ -904,18 +991,18 @@ que sur qui reçoit les rendements du capital, l'instrument répondrait à une
 question qu'il n'a pas posée, et y répondrait dans le mauvais sens.
 
 **La réponse que l'instrument doit donner.** Non pas que ce soit la mauvaise
-lunette. Une version antérieure de ce passage qualifiait la lecture en termes
-de gouvernance d'erreur de catégorie, au motif que la prétention de
-l'instrument est distributive. Quatre portes de relecture l'ont rejetée dans
+lunette. Une version antérieure de ce passage qualifiait la lecture en
+termes de gouvernance d'erreur de catégorie, au motif que la prétention de
+l'instrument est distributive. Quatre portes de contrôle l'ont rejetée dans
 les mêmes termes, et elles avaient raison : un instrument qui modifie le
 rapport entre droits aux flux et droits de contrôle dans chaque entreprise
 qu'il touche est, par son effet, un instrument de gouvernance, quelle que
-soit son intention, et c'est sur ses effets qu'il est jugé. La réponse
-ci-dessous concède l'effet et défend le choix.
+soit son intention, et c'est sur ses effets qu'il est jugé. La réponse ci-
+dessous concède l'effet et défend le choix.
 
 Le choix se faisait entre trois positions et le dossier a pris la moins
 mauvaise. Une Réserve dotée de voix proportionnelles à sa participation est
-un actionnariat politiquement dirigé dans chaque entreprise de frontière du
+un actionnariat politiquement dirigé dans chaque entreprise à la frontière technologique du
 marché intérieur : c'est le pot de miel de l'objection 9 muni d'un levier,
 et l'action spécifique de l'objection 16, que la Cour a censurée sous toutes
 les formes qu'elle a prises depuis Commission contre Allemagne (C-112/05).
@@ -948,14 +1035,14 @@ droit des sociétés de l'Union les autorise depuis des décennies et chaque
 marché négocie déjà. Mais l'Union légifère depuis peu en sens inverse, en
 ajoutant des garde-fous autour des structures à vote multiple précisément
 parce que la séparation de la propriété et du contrôle est comprise comme un
-danger, et un règlement qui plante un bloc durablement privé de droit de vote
-dans chaque entreprise couverte s'accorde mal avec cela. La formulation
-honnête est que l'instrument dépense une part de l'autorité de l'Union sur la
-proposition selon laquelle la participation économique sans contrôle est une
-forme légitime de propriété, et que ce prix est réel. Il est payé
+danger, et un règlement qui plante un bloc durablement privé de droit de
+vote dans chaque entreprise couverte s'accorde mal avec cela. La formulation
+honnête est que l'instrument dépense une part de l'autorité de l'Union sur
+la proposition selon laquelle la participation économique sans contrôle est
+une forme légitime de propriété, et que ce prix est réel. Il est payé
 délibérément, parce que l'alternative est une Union détenant des voix dans
-les entreprises qu'elle réglemente, et ce dossier préfère défendre un coin
-que défendre cela.
+les entreprises qu'elle réglemente, et ce dossier préfère défendre un tel
+fossé que défendre cela.
 
 L'interaction précise avec la législation de l'Union sur les structures à
 vote multiple est consignée comme un point d'interface ouvert avec l'acquis
@@ -986,12 +1073,12 @@ contrôle demandera au législateur d'expliciter son raisonnement, comme elle
 l'a demandé dans toute affaire de proportionnalité digne d'être citée, et ce
 dossier lui tendra un chiffre rond qui se tient confortablement en dessous
 du seuil à partir duquel le reproche « vous les nationalisez » devient
-facile à formuler. C'est un calibrage politique vêtu en calibrage juridique,
-et le service juridique de la Commission le verra à la première lecture.
-Tous les autres chiffres de l'instrument sont rattachés à quelque chose :
-les seuils de l'article 3 à des grandeurs mesurables, le délai butoir de
-sept ans à l'intervalle observé entre désignation et réalisation. Le seul
-chiffre qui détermine combien est pris n'est rattaché à rien.
+facile à formuler. C'est un calibrage politique travesti en calibrage
+juridique, et le service juridique de la Commission le verra à la première
+lecture. Tous les autres chiffres de l'instrument sont rattachés à quelque
+chose : les seuils de l'article 3 à des grandeurs mesurables, le délai
+butoir de sept ans à l'intervalle observé entre désignation et réalisation.
+Le seul chiffre qui détermine combien est pris n'est rattaché à rien.
 
 **Ce qu'elle voit juste.** Tout. C'est le point porteur le plus faible du
 dossier, et aucune qualité de rédaction ailleurs ne le répare. Il serait pire
@@ -1008,14 +1095,14 @@ démonstration qu'aucune dérivation du genre qu'un juge attendrait ne peut
 Le modèle publié est une fonction linéaire du pourcentage. L'arithmétique de
 l'annexe II, telle qu'elle est mise en œuvre dans le simulateur du site de
 campagne, fait croître le capital de la Réserve en ajoutant à chaque flux
-cristallisant le pourcentage du bon, et toute distribution en aval est une
-fraction de ce capital. Doubler le pourcentage double le dividende à tout
-horizon et le réduire de moitié le réduit de moitié, exactement, dans chaque
-scénario que le simulateur propose. Le calcul figure dans evidence/warrant-
-percentage.md et quiconque peut le refaire. Il n'y a ni seuil, ni coude, ni
-discontinuité nulle part sur la courbe, ce qui signifie qu'il n'existe aucun
-pourcentage à partir duquel l'instrument commence à fonctionner et en
-dessous duquel il ne fonctionne pas.
+cristallisant le pourcentage du warrant, et toute distribution en aval est
+une fraction de ce capital. Doubler le pourcentage double le dividende à
+tout horizon et le réduire de moitié le réduit de moitié, exactement, dans
+chaque scénario que le simulateur propose. Le calcul figure dans
+evidence/warrant- percentage.md et quiconque peut le refaire. Il n'y a ni
+seuil, ni coude, ni discontinuité nulle part sur la courbe, ce qui signifie
+qu'il n'existe aucun pourcentage à partir duquel l'instrument commence à
+fonctionner et en dessous duquel il ne fonctionne pas.
 
 Cela est fatal à la défense évidente. La nécessité au sens de l'article 52,
 paragraphe 1, demande si une mesure moins attentatoire atteindrait
@@ -1113,7 +1200,7 @@ Les articles sont rédigés à l'aune de ce tableau. Un projet qui viole une DC
 | DC-11 | Consolidation des effectifs selon la substance plutôt que la forme | 5 |
 | DC-12 | Cristallisation déclenchée par événement ; pas de valorisation continue | 6 |
 | DC-13 | Intérêts économiques sans droit de vote, à titre permanent | 6, 16 |
-| DC-14 | Dividende présenté comme partant de peu et se composant | 6 |
+| DC-14 | Dividende présenté comme partant de peu et croissant par capitalisation | 6 |
 | DC-15 | Les considérants plaident la propriété et le mécanisme, jamais le déclin de la part salariale | 7 |
 | DC-16 | La valeur énoncée dans les deux futurs | 7 |
 | DC-17 | Les résultats nuls les plus solides cités dans le mémorandum lui-même | 8 |
@@ -1165,16 +1252,16 @@ parce qu'il ne constitue pas le prélèvement dont traite l'objection.
 C'est la première objection de ce dossier dont la réponse a dû être
 rédigée plutôt que citée.
 
-Les objections 16 et 17 ont été
-ajoutées le 20 août 2026 à la suite d'une contestation externe (la ligne
-des golden shares de l'article 63 ; l'excès de compétence au regard de
-la doctrine des effets) ; leurs réponses figuraient déjà aux articles 3,
-5, paragraphe 5, et 9, ce qui est précisément l'objet de la rédaction contre la table, et
-le résidu qu'elles ajoutent est DC-32 et DC-33. L'objection 1 porte le plus
-grand risque juridique et l'objection 6 le plus grand risque de
-conception. La lettre d'admissibilité de la porte de contrôle 1 s'ouvre
-toujours sur les objections 1 et 2, mais recalibrées par les recherches de
-rédaction : l'enregistrement est l'obstacle le plus bas (critère du
-« manifestement en dehors », enregistrement partiel, l'ICE enregistrée sur
-l'impôt sur la fortune), de sorte que la lettre teste la qualification pour
-l'étape du Conseil, pas pour le registre.
+Les objections 16 et 17 ont été ajoutées le 20 août 2026 à la suite d'une
+contestation externe (la ligne des golden shares de l'article 63 ; l'excès
+de compétence au regard de la doctrine des effets) ; leurs réponses
+figuraient déjà aux articles 3, 5, paragraphe 5, et 9, ce qui est
+précisément l'objet de la rédaction au regard du tableau, et le résidu
+qu'elles ajoutent est DC-32 et DC-33. L'objection 1 porte le plus grand
+risque juridique et l'objection 6 le plus grand risque de conception. La
+lettre d'admissibilité de la porte de contrôle 1 s'ouvre toujours sur les
+objections 1 et 2, mais recalibrées par les recherches de rédaction :
+l'enregistrement est l'obstacle le plus bas (critère du « manifestement en
+dehors », enregistrement partiel, l'ICE enregistrée sur l'impôt sur la
+fortune), de sorte que la lettre teste la qualification pour l'étape du
+Conseil, pas pour le registre.

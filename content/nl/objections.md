@@ -77,7 +77,7 @@ daarop: een verwatering van 3 % die op een moment van gerealiseerde winst in
 aandelen wordt omgezet, geijkt op een ontkoppeling van productie en arbeid,
 is bij uitstek een maatregel van economische hervorming.
 
-De tweede is artikel 345 VWEU. Dat bepaalt dat de Verdragen de regeling van het eigendomsrecht in de lidstaten onverlet laten, en de vijandige lezing luidt dat een verplichte overdracht van 3 % van de waarde van particuliere ondernemingen een gedeeltelijke socialisatie is die de Unie niet mag decreteren. Die lezing vergist zich in de geadresseerde. Artikel 345 beschermt de vrijheid van de lidstaten om te kiezen tussen publiek en particulier eigendom tegen de Verdragen; het is geen vrijbrief voor eigendom tegenover Uniewetgeving, want dat is wat artikel 17 van het Handvest beheerst en waarop dit memorandum onder artikel 52, lid 1, antwoordt. Het Hof heeft artikel 345 juist in die richting restrictief uitgelegd en geoordeeld dat een door een lidstaat gekozen eigendomsregeling onderworpen blijft aan de fundamentele vrijheden (Essent, C-105/12 tot en met C-107/12). Het instrument laat het eigendomsstelsel van elke lidstaat precies zoals het dat aantrof: de ingeschreven aandelen zijn gewone aandelen naar nationaal vennootschapsrecht, gehouden door een eigenaar zonder bijzondere rechten, en geen nationale regel over wie wat mag bezitten wordt opzijgezet.
+De tweede is artikel 345 VWEU. Dat bepaalt dat de Verdragen de regeling van het eigendomsrecht in de lidstaten onverlet laten, en de vijandige lezing luidt dat een verplichte overdracht van 3 % van de waarde van niet-beursgenoteerde ondernemingen een gedeeltelijke socialisatie is die de Unie niet mag decreteren. Die lezing vergist zich in de geadresseerde. Artikel 345 beschermt de vrijheid van de lidstaten om te kiezen tussen publiek en particulier eigendom tegen de Verdragen; het is geen vrijbrief voor eigendom tegenover Uniewetgeving, want dat is wat artikel 17 van het Handvest beheerst en waarop dit memorandum onder artikel 52, lid 1, antwoordt. Het Hof heeft artikel 345 juist in die richting restrictief uitgelegd en geoordeeld dat een door een lidstaat gekozen eigendomsregeling onderworpen blijft aan de fundamentele vrijheden (Essent, C-105/12 tot en met C-107/12). Het instrument laat het eigendomsstelsel van elke lidstaat precies zoals het dat aantrof: de ingeschreven aandelen zijn gewone aandelen naar nationaal vennootschapsrecht, gehouden door een eigenaar zonder bijzondere rechten, en geen nationale regel over wie wat mag bezitten wordt opzijgezet.
 
 Het redactieonderzoek (18 augustus) heeft de te gebruiken architectuur
 vastgelegd: de BRRD is het door de rechter gevalideerde sjabloon voor
@@ -260,42 +260,40 @@ afwentelingsvraagstuk hangt ervan af.
 
 ### 5. Aangewezen ondernemingen vertrekken, of komen nooit
 
-**Het bezwaar, in zijn sterkste vorm.** Het rapport-Draghi geeft het
-terrein al prijs: het is te laat voor de EU om stelselmatige uitdagers van
-de grote Amerikaanse cloudaanbieders te ontwikkelen; de Amerikaanse
-ITK-markt groeit met 12,7 % tegen 4,1 % in Duitsland; slechts vier van de
-vijftig grootste technologiebedrijven ter wereld zijn Europees. Voeg daar
-een warrantverplichting aan toe en de marginale AI-investering gaat naar
-Londen, Zürich of Austin. Erger nog, drempels nodigen uit tot
-constructies: een toets op omzet per werknemer wordt omzeild door
-personeel naar onderaannemers te schuiven, precies de offshoreconstructies
-die de cijfers van Capgemini nu al op grote schaal laten zien.
+**Het bezwaar, in zijn sterkste vorm.** Het rapport-Draghi geeft het terrein
+al prijs: het is te laat voor de EU om volwaardige uitdagers van de grote
+Amerikaanse cloudaanbieders te ontwikkelen; de Amerikaanse ITK-markt groeit
+met 12,7 % tegen 4,1 % in Duitsland; slechts vier van de vijftig grootste
+technologiebedrijven ter wereld zijn Europees. Voeg daar een
+warrantverplichting aan toe en de marginale AI-investering gaat naar Londen,
+Zürich of Austin. Erger nog, drempels nodigen uit tot constructies: een
+toets op omzet per werknemer wordt omzeild door personeel naar
+onderaannemers te schuiven, precies de offshoreconstructies die de cijfers
+van Capgemini nu al op grote schaal laten zien.
 
 **Wat eraan klopt.** Drempelontwijking is zeker, niet slechts mogelijk, en
 de concurrentievrees is dit decennium de sterkste politieke tegenwind in
 Brussel.
 
 **Het antwoord dat het instrument moet geven.** De verplichting knoopt aan
-bij verkopen op de interne markt, niet bij er gevestigd zijn, precies
-zoals de DMA en de AVG aanknopen. Het empirische spoor sindsdien is dat
-poortwachters de aanwijzing hebben geabsorbeerd en zijn gebleven, omdat
-450 miljoen koopkrachtige consumenten niet optioneel zijn; de
-DMA-onderzoeken naar AWS en Azure leverden geen vertrek op, maar
-complianceteams. Constructies worden beantwoord met consolidatie: drempels
-berekend op geconsolideerde groepscijfers, met inbegrip van uitbesteed
-werk naar economische realiteit, waarbij de bewijslast bij de onderneming
-ligt om het tegendeel aan te tonen. En de eerlijke toegeving: aan de marge
-zal een deel van de investeringen elders heen lopen, en dat is een reële
-kostenpost, in de toelichting af te wegen tegen de gedocumenteerde kosten
-van het alternatief, namelijk dat de winsten zich hoe dan ook volledig
-buiten Europa concentreren. De Synergy-geschiedenis is het bewijsstuk:
-Europa zag ervan af zijn cloudmarkt met regels open te breken, en zijn
-aanbieders zakten zonder regulering van 29 % naar 15 % van hun eigen
-thuismarkt.
+bij verkopen op de interne markt, niet bij er gevestigd zijn, precies zoals
+de DMA en de AVG aanknopen. Het empirische spoor sindsdien is dat
+poortwachters de aanwijzing hebben geabsorbeerd en zijn gebleven, omdat 450
+miljoen koopkrachtige consumenten niet optioneel zijn; de DMA-onderzoeken
+naar AWS en Azure leverden geen vertrek op, maar complianceteams.
+Constructies worden beantwoord met consolidatie: drempels berekend op
+geconsolideerde groepscijfers, met inbegrip van uitbesteed werk naar
+economische realiteit, waarbij de bewijslast bij de onderneming ligt om het
+tegendeel aan te tonen. En de eerlijke toegeving: in de marge zal een deel
+van de investeringen elders heen lopen, en dat is een reële kostenpost, in
+de toelichting af te wegen tegen de gedocumenteerde kosten van het
+alternatief, namelijk dat de winsten zich hoe dan ook volledig buiten Europa
+concentreren. De Synergy-geschiedenis is het bewijsstuk: Europa zag ervan af
+zijn cloudmarkt met regels open te breken, en zijn aanbieders zakten zonder
+regulering van 29 % naar 15 % van hun eigen thuismarkt.
 
 **Ontwerpconsequentie.** DC-10: aanknoping bij markttoegang, niet bij
-vestiging. DC-11: groepsconsolidatie met personeelsregels naar wezen boven
-vorm.
+vestiging. DC-11: groepsconsolidatie met personeelsregels waarbij de economische realiteit prevaleert boven de vorm.
 
 ### 6. Warrants op private ondernemingen: onwaardeerbaar, stemloos, onverkoopbaar
 
@@ -317,26 +315,26 @@ instrument, moeilijker dan de rechtsgrondslag.
 **Het antwoord dat het instrument moet geven.** De warrant is slapend tot
 verzilvering, hetzij bij een liquiditeitsgebeurtenis (beursgang,
 zeggenschapswijziging of kwalificerende secundaire verkoop), hetzij,
-krachtens artikel 5, lid 3, wanneer de onttrekking ten gunste van aandeelhouders
-het genoemde aandeel van de omzet uit de gedekte activiteit overschrijdt
-of zeven jaar zijn verstreken sinds de uitgifte, wat zich het eerst
-voordoet. Tot dan vergt hij geen waardering,
-betaalt hij niets en stemt hij niet; bij de gebeurtenis converteert hij
-tegen de prijs van die gebeurtenis, zonder beoordelingsruimte. Dat spoort
-met het venster uit het boek zelf (maak aanspraak op het belang terwijl
-het vermogen zich vormt, verzilver het wanneer de markt het prijst) en lost de
-waarderings- en bestuursproblemen in één beweging op: de reserve houdt
-economische belangen zonder stemrecht, permanent, bij wet, en aanvaardt de
-Bebchuk-kosten welbewust, omdat het alternatief, een politiek gestemd
-belang in elke grote onderneming, erger is. Het dividend in de eerste
-jaren wordt gefinancierd uit verzilveringen, niet uit posities, en de
-toelichting moet onomwonden zeggen dat het dividend klein begint en
-aangroeit door samengesteld rendement, op zijn Noors, en dat wie iets
-anders belooft, dat in elk geval niet namens ons doet. Twee derde van
-het Noorse fonds is samengesteld rendement; het eerlijke verhaal is de
-regel, niet de eerste cheque.
+krachtens artikel 5, lid 3, wanneer de onttrekking ten gunste van
+aandeelhouders het genoemde aandeel van de omzet uit de gedekte activiteit
+overschrijdt of zeven jaar zijn verstreken sinds de uitgifte, wat zich het
+eerst voordoet. Tot dan vergt hij geen waardering, betaalt hij niets en
+stemt hij niet; bij de gebeurtenis converteert hij tegen de prijs van die
+gebeurtenis, zonder beoordelingsruimte. Dat spoort met het venster uit het
+boek zelf (maak aanspraak op het belang terwijl het vermogen zich vormt,
+verzilver het wanneer de markt het prijst) en lost de waarderings- en
+bestuursproblemen in één beweging op: de reserve houdt economische belangen
+zonder stemrecht, permanent, bij wet, en aanvaardt de Bebchuk-kosten
+welbewust, omdat het alternatief, een politiek uitgeoefend stemrecht in elke
+grote onderneming, erger is. Het dividend in de eerste jaren wordt
+gefinancierd uit verzilveringen, niet uit posities, en de toelichting moet
+onomwonden zeggen dat het dividend klein begint en aangroeit door
+samengesteld rendement, op zijn Noors, en dat wie iets anders belooft, dat
+in elk geval niet namens ons doet. Twee derde van het Noorse fonds is
+samengesteld rendement; het eerlijke verhaal is de regel, niet de eerste
+uitbetaling.
 
-Eén verfijning is overwogen en verworpen. Er wordt aangevoerd dat waarderingen van snelgroeiende particuliere ondernemingen volatiel genoeg zijn om geschillen over de verwateringsverhouding het instrument in procedures te laten vastlopen, en dat daarom een versnelde bindende arbitrage tussen de waardeerder en de rechter hoort te staan. Het instrument beantwoordt het probleem waarop het voorstel mikt al, en het voorstel zou meer kosten dan het bespaart. Artikel 6, lid 5, bepaalt dat een betwisting noch de liquiditeitsgebeurtenis noch de inschrijving opschort, en artikel 6, lid 4, corrigeert een onjuiste waardering achteraf in beide richtingen, zodat een geschil niemand ophoudt: dat is het patroon van het afwikkelingsrecht, waarin procedures naast de transactie lopen in plaats van er dwars doorheen. Waar de gebeurtenis zelf een prijs vaststelt, maakt artikel 6, lid 2, de waardering tot rekenwerk op die prijs in plaats van tot een mening erover, en juist daar zou volatiliteit anders binnenkomen. En een arbitrale instantie waarvan de uitspraak de partijen zou binden, zou stuiten op artikel 47 van het Handvest over toegang tot de rechter en op de grenzen aan het toekennen van discretionaire beoordeling aan organen van de Unie; een instantie waarvan de uitspraak hen niet zou binden, zou een fase toevoegen zonder er een weg te nemen.
+Eén verfijning is overwogen en verworpen. Er wordt aangevoerd dat waarderingen van snelgroeiende niet-beursgenoteerde ondernemingen volatiel genoeg zijn om geschillen over de verwateringsverhouding het instrument in procedures te laten vastlopen, en dat daarom een versnelde bindende arbitrage tussen de waardeerder en de rechter hoort te staan. Het instrument beantwoordt het probleem waarop het voorstel mikt al, en het voorstel zou meer kosten dan het bespaart. Artikel 6, lid 5, bepaalt dat een betwisting noch de liquiditeitsgebeurtenis noch de inschrijving opschort, en artikel 6, lid 4, corrigeert een onjuiste waardering achteraf in beide richtingen, zodat een geschil niemand ophoudt: dat is het patroon van het afwikkelingsrecht, waarin procedures naast de transactie lopen in plaats van er dwars doorheen. Waar de gebeurtenis zelf een prijs vaststelt, maakt artikel 6, lid 2, de waardering tot rekenwerk op die prijs in plaats van tot een mening erover, en juist daar zou volatiliteit anders binnenkomen. En een arbitrale instantie waarvan de uitspraak de partijen zou binden, zou stuiten op artikel 47 van het Handvest over toegang tot de rechter en op de grenzen aan het toekennen van discretionaire beoordeling aan organen van de Unie; een instantie waarvan de uitspraak hen niet zou binden, zou een fase toevoegen zonder er een weg te nemen.
 
 **Ontwerpconsequentie.** DC-12: verzilvering bij gebeurtenissen, geen
 doorlopende waardering. DC-13: permanent stemrechtloze economische
@@ -407,23 +405,22 @@ volledig of verliest haar geloofwaardigheid.
 **Het antwoord dat het instrument moet geven.** Drie dingen, eerlijk. Ten
 eerste meten de nulresultaten lonen en uren, niet eigendom: een uniforme
 verschuiving van rendement van arbeid naar kapitaal is structureel
-onzichtbaar voor difference-in-differences-ontwerpen, wat de Deense
-auteurs zelf toegeven (de afwezigheid van meetbare arbeidsmarkteffecten is
-geen bewijs dat er niets gebeurt), en de schatting uit hun working paper
-dat slechts drie tot zeven procent van de productiviteitswinst doorwerkte
-in de lonen, verdween uit de gepubliceerde versie, samen met de
-oorspronkelijke titel van het artikel. Ten tweede snijdt het
-verspreidingscijfer aan twee kanten: een mechanisme dat door een vijfde
-van de ondernemingen wordt gebruikt, heeft zijn kans op geaggregeerd
-niveau nog niet gehad, en dat is het argument om het instrument vooraf te
-bouwen in plaats van achteraf. Ten derde moet de toelichting haar eigen
-falsificatievoorwaarde dragen, in de openbaarheid: als de adoptie een
-kwart van de ondernemingen passeert en noch de factoraandelen noch de naar
-eigendom gewogen winsten op een bepaalde datum zijn bewogen, dan is de
-acceleratiepremisse onjuist en herleidt de zaak zich tot het argument van
-de eigendomskloof alleen, dat op eigen benen staat. Een voorstel dat
-vermeldt wat het zou weerleggen, is een ander genre dan al het andere in
-Brussel, en dat is de bedoeling van dit project.
+onzichtbaar voor difference-in-differences-ontwerpen, wat de Deense auteurs
+zelf toegeven (de afwezigheid van meetbare arbeidsmarkteffecten is geen
+bewijs dat er niets gebeurt), en de schatting uit hun working paper dat
+slechts drie tot zeven procent van de productiviteitswinst doorwerkte in de
+lonen, verdween uit de gepubliceerde versie, samen met de oorspronkelijke
+titel van het artikel. Ten tweede snijdt het verspreidingscijfer aan twee
+kanten: een mechanisme dat door een vijfde van de ondernemingen wordt
+gebruikt, heeft zijn kans op geaggregeerd niveau nog niet gehad, en dat is
+het argument om het instrument vooraf te bouwen in plaats van achteraf. Ten
+derde moet de toelichting haar eigen falsificatievoorwaarde dragen, in de
+openbaarheid: als de adoptie een kwart van de ondernemingen passeert en noch
+de factoraandelen noch de naar eigendom gewogen winsten op een bepaalde
+datum zijn verschoven, dan is de acceleratiepremisse onjuist en herleidt de
+zaak zich tot het argument van de eigendomskloof alleen, dat op eigen benen
+staat. Een voorstel dat vermeldt wat het zou weerleggen, is een ander genre
+dan al het andere in Brussel, en dat is de bedoeling van dit project.
 
 **Ontwerpconsequentie.** DC-17: citeer de sterkste nulresultaten in de
 toelichting zelf. DC-18: een uitgeschreven falsificatievoorwaarde met een
@@ -488,27 +485,26 @@ nooit als onmogelijkheid.
 
 ### 10. De EU slaagt er niet eens in uit te keren wat ze aankondigt
 
-**Het bezwaar, in zijn sterkste vorm.** De oproep voor de
-AI-gigafabrieken opende achttien maanden na de aankondiging van de
-200 miljard; de bouw is beloofd vanaf 2027; de aanbesteding van de
-Commissie voor soevereine cloud gunde 180 miljoen tegenover 33,7 miljard
-van één enkele hyperscaler in Spanje. Het institutionele metabolisme dat
-deze verordening zou moeten bedienen, beweegt in een tempo dat de
-onderliggende economie niet herkent. Een burgerreserve die in dat tempo
-wordt bestuurd, zou warrants jaren te laat verzilveren en tien jaar lang
-niets uitkeren.
+**Het bezwaar, in zijn sterkste vorm.** De oproep voor de AI-gigafabrieken
+werd pas achttien maanden na de aankondiging van de 200 miljard opengesteld;
+de bouw is beloofd vanaf 2027; de aanbesteding van de Commissie voor
+soevereine cloud kende 180 miljoen toe, tegenover 33,7 miljard van één
+enkele hyperscaler in Spanje. Het institutionele metabolisme dat deze
+verordening zou moeten bedienen, beweegt in een tempo dat de onderliggende
+economie niet herkent. Een burgerreserve die in dat tempo wordt bestuurd,
+zou warrants jaren te laat verzilveren en tien jaar lang niets uitkeren.
 
-**Wat eraan klopt.** Het uitbetalingsdossier is accuraat vernietigend, en
-de toelichting wint niets bij het betwisten ervan.
+**Wat eraan klopt.** Het uitbetalingsdossier is terecht vernietigend, en de
+toelichting wint niets bij het betwisten ervan.
 
 **Het antwoord dat het instrument moet geven.** Zet geen
-bestedingsmachinerie van de Unie op het kritieke pad. De verplichting
-loopt rechtstreeks van aangewezen ondernemingen naar de reserve: warrants
-ontstaan van rechtswege bij het overschrijden van de drempels, worden van
-rechtswege verzilverd bij gebeurtenissen, en de taak van de reserve is
-bewaring en uitkering, geen aanbesteding. Er hoeft niets te worden
-gebouwd, aanbesteed of uitbetaald om het instrument te laten werken; het
-contrast met InvestAI is het ontwerp, geen verlegenheid ervoor.
+bestedingsmachinerie van de Unie op het kritieke pad. De verplichting loopt
+rechtstreeks van aangewezen ondernemingen naar de reserve: warrants ontstaan
+van rechtswege bij het overschrijden van de drempels, worden van rechtswege
+verzilverd bij gebeurtenissen, en de taak van de reserve is bewaring en
+uitkering, geen aanbesteding. Er hoeft niets te worden gebouwd, aanbesteed
+of uitbetaald om het instrument te laten werken; het contrast met InvestAI
+is een bewuste ontwerpkeuze, geen reden tot gêne.
 
 **Ontwerpconsequentie.** DC-24: verplichtingen die van rechtswege werken;
 nergens in het instrument subsidie-, aanbestedings- of
@@ -521,28 +517,27 @@ programmamachinerie.
 ### 11. Iedereen wordt toch rijker: het antwoord van het consumentensurplus
 
 **Het bezwaar, in zijn sterkste vorm.** Nordhaus schatte dat vernieuwers
-ongeveer twee procent van de maatschappelijke waarde van hun innovaties
-naar zich toe halen; de rest verspreidt zich naar consumenten via dalende
-prijzen en nieuwe mogelijkheden. De stoommachine maakte iedereen rijker
-zonder dat één burger een warrant op Boulton en Watt hield. Als AI dat
-patroon volgt, is de eigendomsvraag afleiding: de winsten komen in ieders
-mandje terecht, ongeacht wiens naam op de aandelen staat.
+ongeveer twee procent van de maatschappelijke waarde van hun innovaties naar
+zich toe halen; de rest verspreidt zich naar consumenten via dalende prijzen
+en nieuwe mogelijkheden. De stoommachine maakte iedereen rijker zonder dat
+één burger een warrant op Boulton en Watt hield. Als AI dat patroon volgt,
+is de eigendomsvraag een afleiding: de winsten komen in ieders mandje
+terecht, ongeacht wiens naam op de aandelen staat.
 
 **Wat eraan klopt.** Consumentensurplus is echt, groot en historisch het
 voornaamste kanaal waarlangs technologie de levensstandaard heeft
 verhoogd. Het boek geeft het toe; de toelichting moet dat ook doen.
 
-**Het antwoord dat het instrument moet geven.** Twee feiten staan naast
-het verspreidingsverhaal zonder het tegen te spreken. Ten eerste de
-vertraging: de Britse reële lonen stagneerden ongeveer een halve eeuw na
-Watt terwijl de productie explodeerde, en de verbreding kwam er via
-vakbonden, kiesrecht en fabriekswetgeving, niet via prijzen alleen; de
-mensen die binnen die pauze leefden, kregen die decennia niet terug, en
-wie de mijn bezat, wachtte niet. Een instrument dat aan de deur wordt
-opgeëist, is het verschil tussen de pauze doormaken met en zonder
-vermogen. Ten tweede zijn de voorraad en de stroom verschillende vragen:
-goedkopere consumptie en geconcentreerd vermogen gaan samen, en het
-eurogebied demonstreert die combinatie op dit moment, met
+**Het antwoord dat het instrument moet geven.** Twee feiten staan naast het
+verspreidingsverhaal zonder het tegen te spreken. Ten eerste de vertraging:
+de Britse reële lonen stagneerden ongeveer een halve eeuw na Watt terwijl de
+productie explodeerde, en de verbreding kwam er via vakbonden, kiesrecht en
+fabriekswetgeving, niet via prijzen alleen; de mensen die binnen die pauze
+leefden, kregen die decennia niet terug, en wie de mijn bezat, wachtte niet.
+Een instrument dat van meet af aan wordt opgeëist, is het verschil tussen de
+pauze doormaken met en zonder vermogen. Ten tweede zijn voorraad en stroom
+verschillende kwesties: goedkopere consumptie en geconcentreerd vermogen
+gaan samen, en het eurogebied demonstreert die combinatie op dit moment, met
 recordwerkgelegenheid naast een eigendomsverdeling van drieëntachtig
 tegenover twee. Het dividend belemmert de verspreiding niet; het voegt een
 eigendomskanaal toe naast het prijskanaal.
@@ -553,13 +548,13 @@ nooit als correctie van een onwaarheid.
 
 ### 12. Een dividend koopt status noch zingeving
 
-**Het bezwaar, in zijn sterkste vorm.** Positionele goederen herprijzen
-zich tegen elke universele overdracht in: geef iedereen meer en het huis
-in de juiste straat wordt duurder. En inkomen zonder werk lost de huur op,
-niet de dinsdagmiddag: de structuur, het aanzien en het erbij horen die
-werk als bijproduct levert, heeft de reserve niet te vergeven. Het
-voorstel belooft te veel over wat kapitaalinkomen voor een verdrongen mens
-kan doen.
+**Het bezwaar, in zijn sterkste vorm.** Bij positionele goederen passen de
+prijzen zich aan tegen elke universele overdracht in: geef iedereen meer en
+het huis in de juiste straat wordt duurder. En inkomen zonder werk betaalt
+de huur, maar niet de leegte van de dinsdagmiddag: de structuur, het aanzien
+en het erbij horen die werk als bijproduct levert, kan de reserve niet
+bieden. Het voorstel belooft te veel over wat kapitaalinkomen voor een
+verdrongen mens kan doen.
 
 **Wat eraan klopt. TOEGEGEVEN, volledig.** Dit zijn de hoofdstukken 11 en
 13 van het boek zelf, en zij binden zijn verordening precies zoals zij
@@ -608,26 +603,26 @@ op juridische vorm, niet op retoriek.
 
 **Het bezwaar, in zijn sterkste vorm.** Europa bezit de machinerie voor
 breed kapitaalbezit al: Nederland heeft zojuist 605 miljard omgezet in
-persoonlijke premiegebaseerde pensioenaanspraken, het Zweedse
-premiepensioen rendeert sinds 2000 samengesteld 5,35 % reëel, en het
-Amerikaanse voorbeeld laat zien dat pensioenrekeningen aandelenbezit naar
-58 % van de huishoudens brengen zonder enige wettelijke warrant. Bouw
-pensioenen, geen nieuwigheden.
+persoonlijke premiegebaseerde pensioenaanspraken, het Zweedse premiepensioen
+rendeert sinds 2000 samengesteld 5,35 % reëel, en het Amerikaanse voorbeeld
+laat zien dat pensioenrekeningen aandelenbezit naar 58 % van de huishoudens
+brengen zonder enige wettelijke warrant. Bouw voort op het pensioenstelsel,
+verzin geen nieuwigheden.
 
 **Wat eraan klopt.** De uitkeringsinfrastructuur bestaat, werkt en wordt
 vertrouwd, en elk ontwerp dat haar negeert is verspilling.
 
-**Het antwoord dat het instrument moet geven.** Pensioenen zetten loon om
-in eigendom, en het loon is precies de input die deze transitie uitholt;
-elk pensioenvehikel in Europa veronderstelt een werkgever en een inhouding
-op het loon, en dat is exact de veronderstelling die hoofdstuk 6 ziet
-falen. Het kapitaalgedekte aandeel van opgebouwd pensioenvermogen is
-7,8 % in België en 0,0 % in Frankrijk: de infrastructuur bereikt de
-werkenden van de kapitaalgedekte landen en verder niemand. De warrant
-koppelt de financieringsbron los van het loon: het rendement van de
-reserve stroomt precies die nationale rekeninginfrastructuur in (DC-7), of
-de burger nu ooit een baan in loondienst had of niet. Pensioenen zijn de
-leiding; dit is een nieuwe bron die haar voedt.
+**Het antwoord dat het instrument moet geven.** Pensioenen zetten loon om in
+eigendom, en het loon is precies de input die deze transitie uitholt; elk
+pensioenvehikel in Europa veronderstelt een werkgever en een inhouding op
+het loon, en dat is exact de veronderstelling die hoofdstuk 6 ziet falen.
+Het kapitaalgedekte aandeel van opgebouwd pensioenvermogen is 7,8 % in
+België en 0,0 % in Frankrijk: de infrastructuur bereikt de werkenden van de
+kapitaalgedekte landen en verder niemand. De warrant koppelt de
+financieringsbron los van het loon: het rendement van de reserve stroomt
+precies die nationale rekeninginfrastructuur in (DC-7), of de burger nu ooit
+een baan in loondienst had of niet. Het pensioenstelsel is de pijpleiding;
+dit is een nieuwe bron die haar voedt.
 
 **Ontwerpconsequentie.** DC-28 (versterkt DC-7): uitkering via de
 bestaande nationale pensioeninfrastructuur; het nieuwe blijft beperkt tot
@@ -637,11 +632,40 @@ de financieringsbron, waar het nodig is.
 
 ### 15. Eén euro per jaar is een belediging, geen beleid
 
-**Het bezwaar, in zijn sterkste vorm.** Draai de eigen simulator van het instrument op voorzichtige aannames en hij keert een burger het eerste decennium een euro of twee per jaar uit. Geen redelijk mens hecht daar waarde aan; geen kiezer voert er campagne voor; geen journalist weerstaat de kop. Het apparaat staat in geen verhouding tot wat het aflevert: een nieuw orgaan van de Unie, een aanwijzingsregime, waarderingsmachinerie, comitologie, boetes tot 10 % van de wereldwijde omzet, alles om minder dan de prijs van een kop koffie op te leveren. Erger nog: de eigen eerlijkheidsdoctrine van het project verbiedt meer te beloven. Een initiatief dat elke ondertekenaar volgens zijn eigen regels moet vertellen "je zult hier twintig jaar lang niets van merken" heeft een boodschap gekozen waarmee nog nooit een massacampagne is gewonnen. Een basisinkomen belooft ten minste de huur.
+**Het bezwaar, in zijn sterkste vorm.** Bij voorzichtige aannames keert de
+eigen simulator van het instrument een burger het eerste decennium een euro
+of twee per jaar uit. Geen redelijk mens hecht daar waarde aan; geen kiezer
+voert er campagne voor; geen journalist weerstaat de kop. Het apparaat staat
+in geen verhouding tot wat het aflevert: een nieuw orgaan van de Unie, een
+aanwijzingsregime, waarderingsmachinerie, comitologie, boetes tot 10 % van
+de wereldwijde omzet, alles om minder dan de prijs van een kop koffie op te
+leveren. Erger nog: de eigen eerlijkheidsdoctrine van het project verbiedt
+meer te beloven. Een initiatief dat elke ondertekenaar volgens zijn eigen
+regels moet vertellen "je zult hier twintig jaar lang niets van merken"
+heeft een boodschap gekozen waarmee nog nooit een massacampagne is gewonnen.
+Een basisinkomen belooft ten minste de huur.
 
 **Wat eraan klopt.** De vroege stroom is werkelijk klein, en de campagne mag haar structureel niet opblazen. Het inzamelingsrisico is reëel: uitgestelde beloningen leggen het aan elke deur af tegen directe beloningen.
 
-**Het antwoord dat het instrument moet geven.** Drie delen. Ten eerste is de kleinheid kalibratie, geen falen: de omvang van het instrument volgt per constructie de omvang van het verschijnsel. Drie procent van weinig is weinig, afgenomen van bijna niemand, en in die wereld verplicht artikel 14, lid 3, de Commissie te rapporteren dat de premisse niet is uitgekomen en wijziging of intrekking voor te stellen; een blijvend klein dividend is de falsificatievoorwaarde die afgaat, geen beleid dat hinkt. Het dividend is alleen klein in de wereld waarin het probleem ook klein is. Ten tweede kan de aanspraak alleen vroeg worden gekocht. De bevroren Deense loonronde van DKK 4 368 uit 1978, destijds zinloos geld, is vandaag DKK 119 506; twee derde van het Noorse fonds is samengesteld rendement, geen olie. Het alternatieve moment, de aanspraak opeisen nadat de winsten zichtbaar zijn en de eigenaren verankerd, is onteigening en politiek onmogelijk. De euro koopt het certificaat, en om dat certificaat is het te doen. Ten derde groeit het vermogen sneller aan dan de stroom: op dezelfde voorzichtige aannames staat de Reserve tegen jaar dertig voor ruwweg EUR 400 aan eigen kapitaal achter elke burger, nog vóór één jaaruitkering indruk maakt. Een campagne die de uitkering toont zonder het belang, beschrijft haar eigen instrument verkeerd.
+**Het antwoord dat het instrument moet geven.** Drie delen. Ten eerste is de
+kleinheid kalibratie, geen falen: de omvang van het instrument volgt per
+definitie de omvang van het verschijnsel. Drie procent van weinig is weinig,
+afgenomen van bijna niemand, en in die wereld verplicht artikel 14, lid 3,
+de Commissie te rapporteren dat de premisse niet is uitgekomen en wijziging
+of intrekking voor te stellen; een blijvend klein dividend is de
+falsificatievoorwaarde die afgaat, geen beleid dat hinkt. Het dividend is
+alleen klein in de wereld waarin het probleem ook klein is. Ten tweede kan
+de aanspraak alleen vroeg worden gekocht. De bevroren Deense inleg van DKK 4
+368 uit 1978, destijds zinloos geld, is vandaag DKK 119 506; twee derde van
+het Noorse fonds is samengesteld rendement, geen olie. Het alternatieve
+moment, de aanspraak opeisen nadat de winsten zichtbaar zijn en de eigenaren
+verankerd, is onteigening en politiek onmogelijk. De euro koopt het
+certificaat, en om dat certificaat is het te doen. Ten derde groeit het
+vermogen sneller aan dan de stroom: op dezelfde voorzichtige aannames heeft
+de Reserve na dertig jaar ruwweg 400 EUR aan eigen vermogen per burger
+opgebouwd, nog vóór één jaaruitkering indruk maakt. Een campagne die de
+uitkering toont zonder het belang, beschrijft haar eigen instrument
+verkeerd.
 
 **Ontwerpconsequentie.** Dit bezwaar is waarom DC-14 bestaat (nooit openen met een cijfer uit de beginjaren), waarom artikel 14, lid 3, de falsificatievoorwaarde in de tekst zelf draagt, en waarom bijlage II inkomsten uitkeert en nooit hoofdsom. Het voegt daar zelf twee mechanische regels aan toe: waar een uitkeringsbedrag per burger wordt getoond, staat het belang per burger in de Reserve ernaast (DC-31); en waar het uitkeerbare bedrag van een jaar te klein zou zijn om de moeite van het overmaken waard te zijn, wordt het interval verlengd in plaats van dat het geld verdwijnt, met als harde ondergrens één uitkering in elke drie jaar en een plicht om te publiceren wat niet is uitgekeerd (DC-40). De drempel is een verhouding tot de kosten van het doen van de betaling, geen vast getal: een getal in een bijlage veroudert, en levert iedereen die er een wil een kop op.
 
@@ -665,7 +689,29 @@ ver gaan en zou terecht in het ongelijk worden gesteld. De aanknoping moet
 economische substantie in de Unie zijn, niet bereikbaarheid. Vergelding is
 een reële kostenpost en wederkerigheid een reëel argument.
 
-**Het antwoord dat het instrument moet geven.** Vier structurele keuzes, alle reeds in de artikelen. Ten eerste is de trigger handel in de Unie, niet bereikbaarheid in de Unie: aanwijzing vereist het aanbieden in de interne markt met EUR 7,5 miljard aan jaarlijkse Unieomzet in ten minste drie lidstaten (artikel 3, lid 2, onder a)), een toets van economische aanwezigheid die ver boven elke drempel van de gevolgenleer ligt, en de te delen overwinsten zijn per constructie overwinsten uit Uniegebruikers. Ten tweede is de onderneming de groep: 'onderneming' consolideert verbonden ondernemingen (artikel 2, punt 1), het beginsel van de ene economische eenheid uit het mededingingsrecht van de Unie (Akzo Nobel C-97/08 P), zodat geen dunne Uniedochter de moedermaatschappij kan afschermen waaraan de waarde van de geautomatiseerde diensten werkelijk toevalt. Ten derde eerbiedigt het mechanisme buitenlands vennootschapsrecht in plaats van het opzij te schuiven: voor ondernemingen die door het recht van een derde land worden beheerst is de inschrijving een resultaatsverplichting (artikel 5, lid 5), gehandhaafd via artikel 13 als voorwaarde voor voortgezette toegang tot de interne markt, de architectuur van elke markttoegangsvoorwaarde die de Unie al kent, en de vennootschapsrechtelijke afwijkingen van artikel 5, lid 7, raken uitsluitend het recht van de lidstaten. Ten vierde is de voorwaarde universeel: Unieondernemingen dragen haar identiek, zodat een verdragsclaim of handelspanel geen discriminatie vindt om zich aan vast te grijpen, en de wederkerigheid werkt in het voordeel van het instrument: een Unie die het beginsel stelt, aanvaardt het van anderen.
+**Het antwoord dat het instrument moet geven.** Vier structurele keuzes,
+alle reeds in de artikelen. Ten eerste is de trigger handel in de Unie, niet
+bereikbaarheid in de Unie: aanwijzing vereist het aanbieden in de interne
+markt met EUR 7,5 miljard aan jaarlijkse Unieomzet in ten minste drie
+lidstaten (artikel 3, lid 2, onder a)), een toets van economische
+aanwezigheid die ver boven elke drempel van de gevolgenleer ligt, en de te
+delen overwinsten zijn per definitie overwinsten uit Uniegebruikers. Ten
+tweede is de onderneming de groep: 'onderneming' consolideert verbonden
+ondernemingen (artikel 2, punt 1), het beginsel van de economische eenheid
+uit het mededingingsrecht van de Unie (Akzo Nobel C-97/08 P), zodat geen
+dunne Uniedochter de moedermaatschappij kan afschermen waaraan de waarde van
+de geautomatiseerde diensten werkelijk toevalt. Ten derde eerbiedigt het
+mechanisme buitenlands vennootschapsrecht in plaats van het opzij te
+schuiven: voor ondernemingen die door het recht van een derde land worden
+beheerst is de inschrijving een resultaatsverplichting (artikel 5, lid 5),
+gehandhaafd via artikel 13 als voorwaarde voor voortgezette toegang tot de
+interne markt, de architectuur van elke markttoegangsvoorwaarde die de Unie
+al kent, en de vennootschapsrechtelijke afwijkingen van artikel 5, lid 7,
+raken uitsluitend het recht van de lidstaten. Ten vierde is de voorwaarde
+universeel: Unieondernemingen dragen haar identiek, zodat een verdragsclaim
+of handelspanel geen discriminatie vindt om zich aan vast te grijpen, en de
+wederkerigheid werkt in het voordeel van het instrument: een Unie die het
+beginsel stelt, aanvaardt het van anderen.
 
 Wat de praktische uitwerking betreft heeft het bezwaar nu een concreet in
 plaats van een abstract antwoord. Onder de aanwijzingstoets van artikel 3,
@@ -681,27 +727,78 @@ hypothetische groep wordt beweerd.
 
 ### 18. Vennootschapsrechtelijke constructies lopen hier gewoon omheen
 
-**Het bezwaar, in zijn sterkste vorm.** Elk mechanisme in deze verordening veronderstelt een moment waarop waarde zichtbaar wordt, en het vennootschapsrecht bestaat om dat moment te verplaatsen. Een hypergeautomatiseerde onderneming is de ideale ontsnappingskunstenaar: zij heeft weinig kapitaal nodig, dus hoeft zij nooit naar de beurs; zij genereert kasstroom, dus kan zij haar oprichters decennialang uitbetalen via dividenden, herfinancieringen met vreemd vermogen en selectieve inkoop van eigen aandelen, terwijl de warrant eeuwig sluimert. Moet zij uiteindelijk toch handelen, dan handelt zij in een kapitaalstructuur waarin de Reserve niet zit: preferente aandelen van seed tot serie G met liquidatiepreferenties van twee- en driemaal, zodat een verkoop alles aan de preferente houders uitkeert en de drie procent gewone aandelen van de Reserve exact niets waard is. Nadert de trigger alsnog, dan splitst de groep zich: modelgewichten, trainingsinfrastructuur en gebruikersbestand verhuizen naar een niet-genoteerde zusteronderneming, en wat naar de beurs gaat is een Europese etalage met lage marges. Helpt dat niet, dan zet een bevriend privaat kredietfonds in een preventieve herstructurering schuld om in eigen vermogen, wordt het oude eigen vermogen bij rechterlijke beslissing weggevaagd, en bezitten dezelfde mensen de volgende ochtend dezelfde modellen via een nieuwe vennootschap. Ondertussen worden de aandelen die de Reserve wel houdt in moedermaatschappijen uit derde landen aan de bron belast tegen tarieven die zij niet kan terugvorderen, want een supranationaal lichaam dat nergens is gevestigd, heeft geen verdrag om zich op te beroepen. Elk hiervan is gangbare praktijk, geen misbruik; het instrument is een omzettingsgebeurtenis in een wereld die veertig jaar heeft geleerd gebeurtenissen te vermijden.
+**Het bezwaar, in zijn sterkste vorm.** Elk mechanisme in deze verordening
+veronderstelt een moment waarop waarde zichtbaar wordt, en het
+vennootschapsrecht bestaat om dat moment te verplaatsen. Een
+hypergeautomatiseerde onderneming is de ideale ontsnappingskunstenaar: zij
+heeft weinig kapitaal nodig, dus hoeft zij nooit naar de beurs; zij
+genereert kasstroom, dus kan zij haar oprichters decennialang uitbetalen via
+dividenden, herfinancieringen met vreemd vermogen en selectieve inkoop van
+eigen aandelen, terwijl de warrant eeuwig sluimert. Moet zij uiteindelijk
+toch handelen, dan handelt zij in een kapitaalstructuur waarin de Reserve
+niet zit: preferente aandelen van seed tot serie G met
+liquidatiepreferenties van twee- en driemaal, zodat een verkoop alles aan de
+preferente houders uitkeert en de drie procent gewone aandelen van de
+Reserve exact niets waard is. Nadert de trigger alsnog, dan splitst de groep
+zich: modelgewichten, trainingsinfrastructuur en gebruikersbestand verhuizen
+naar een niet-genoteerde zusteronderneming, en wat naar de beurs gaat is een
+Europese etalage met lage marges. Helpt dat niet, dan zet een bevriend
+privaat kredietfonds in een preventieve herstructurering schuld om in eigen
+vermogen, wordt het oude eigen vermogen bij rechterlijke beslissing
+weggevaagd, en bezitten dezelfde mensen de volgende ochtend dezelfde
+modellen via een nieuwe vennootschap. Ondertussen worden de aandelen die de
+Reserve wel houdt in moedermaatschappijen uit derde landen aan de bron
+belast tegen tarieven die zij niet kan terugvorderen, want een
+supranationaal lichaam dat nergens is gevestigd, heeft geen verdrag om zich
+op te beroepen. Elk hiervan is gangbare praktijk, geen misbruik; het
+instrument is een verzilveringsmoment in een wereld die veertig jaar heeft
+geleerd gebeurtenissen te vermijden.
 
 **Wat eraan klopt.** Alles. Een instrument dat aan één trigger hangt, wordt omzeild door mensen die beroepshalve structureren, en een verordening die dat alleen in haar overwegingen erkent, heeft het punt al toegegeven. De antwoorden hieronder zijn toevoegingen die het dossier niet had; zij komen uit externe toetsing en het memorandum zegt dat.
 
 **Het antwoord dat het instrument moet geven.** Sluit de timing, de rangorde, de perimeter en de uitgang, en wees eerlijk waar de afsluiting gedeeltelijk is.
 
-Eerst de timing: de warrant wacht niet langer op een verkoop. Artikel 5, lid 3, laat hem in aandelen omzetten wanneer de onttrekking ten gunste van aandeelhouders over drie opeenvolgende jaren 25 % van de omzet uit de gedekte activiteit overschrijdt, het punt waarop privé blijven een manier is geworden om zichzelf te betalen in plaats van te bouwen; en in elk geval op de zevende verjaardag van de uitgifte, wat de onderneming ook doet of nalaat. Een onderneming mag nog altijd voor eeuwig privé blijven. Zij mag niet langer privé blijven én zichzelf uitbetalen.
+Eerst de timing: de warrant wacht niet langer op een verkoop. Artikel 5, lid 3, laat hem in aandelen omzetten wanneer de onttrekking ten gunste van aandeelhouders over drie opeenvolgende jaren 25 % van de omzet uit de gedekte activiteit overschrijdt, het punt waarop niet-beursgenoteerd blijven een manier is geworden om zichzelf te betalen in plaats van te bouwen; en in elk geval op de zevende verjaardag van de uitgifte, wat de onderneming ook doet of nalaat. Een onderneming mag nog altijd voor eeuwig niet-beursgenoteerd blijven. Zij mag niet langer niet-beursgenoteerd blijven én zichzelf uitbetalen.
 
 Dan de rangorde: artikel 5, lid 4, onder b), geeft de Reserve aandelen die voor dividenden en voor de opbrengst van elke verkoop of liquidatie gelijk in rang staan met de gunstigst gerangschikte klasse die na de aanwijzing is gecreëerd, en anders met de gewone aandelen. Drie procent van een gewone tranche achter een driemaal participerende preferentie is geen drie procent van iets, en het instrument zegt nu welke drie procent het bedoelt, zonder de preferentie af te nemen die beleggers vóór de aanwijzing daadwerkelijk hebben betaald. Artikel 5, lid 10, maakt elke constructie die de Reserve lager plaatst, tegenover de Reserve niet-inroepbaar, en laat haar tussen de partijen zelf in stand.
 
-Dan de perimeter: artikel 5, lid 11, verplicht de verkrijger een eigen warrant uit te geven wanneer geautomatiseerde activa naar een verbonden of gemeenschappelijk gecontroleerde entiteit gaan of onder zakelijke voorwaarden vertrekken, en laat de overdragende onderneming gebonden voor wat zij behoudt. Het totaal over de aangewezen onderneming en elke verkrijger samen is beperkt tot het genoemde percentage van hun gezamenlijke kapitaal, zodat het sluiten van deze route niet kan omslaan in een vermenigvuldiger voor een groep die zichzelf opsplitst. Artikel 2, punt 14, benoemt wat niet de deur uit mag: modelparameters, trainings- en inferentie-infrastructuur, datasets, de intellectuele eigendom waarvan de dienst afhangt. Dit is de opvolgingslogica van de concentratiecontrole, geen uitvinding.
+Dan de perimeter: artikel 5, lid 11, verplicht de verkrijger een eigen
+warrant uit te geven wanneer geautomatiseerde activa naar een verbonden of
+gemeenschappelijk gecontroleerde entiteit gaan of tegen minder dan zakelijke
+voorwaarden vertrekken, en laat de overdragende onderneming gebonden voor
+wat zij behoudt. Het totaal over de aangewezen onderneming en elke
+verkrijger samen is beperkt tot het genoemde percentage van hun gezamenlijke
+kapitaal, zodat het sluiten van deze route niet kan omslaan in een
+vermenigvuldiger voor een groep die zichzelf opsplitst. Artikel 2, punt 14,
+benoemt wat niet de deur uit mag: modelparameters, trainings- en inferentie-
+infrastructuur, datasets, de intellectuele eigendom waarvan de dienst
+afhangt. Dit is de opvolgingslogica van de concentratiecontrole, geen
+uitvinding.
 
 Dan de uitgang: artikel 5, lid 12, laat de verplichting opnieuw aanhechten wanneer de geautomatiseerde activa uit een insolventie of een herstructurering krachtens richtlijn (EU) 2019/1023 tevoorschijn komen bij een entiteit die wordt gecontroleerd door dezelfde personen of waarin zij de meerderheid van de economische rechten houden, en verplicht tot uitgifte van een nieuwe warrant binnen drie maanden. Een echte mislukking doet het belang van de Reserve nog steeds tenietgaan, zoals dat van elke aandeelhouder, want de Reserve is eigenaar en eigenaars dragen dat. Wat zij niet doet, is de versie zegenen waarin de eigenaars overleven en alleen de verplichting sterft.
 
 Eén route werd door de raadsman gehandhaafd, en het instrument laat haar bewust open. Een onderneming mag zwaar lenen bij geldschieters die met niemand verbonden zijn, hun marktrente betalen en bij de eindtermijn minder waard zijn dan zonder schuld. Dat is geen onttrekking en de definitie moet niet doen alsof: het geld gaat naar vreemden, niet naar ingewijden, en de oprichters worden precies in dezelfde verhouding armer als de Reserve. Elke aandeelhouder in een onderneming met schuld bezit een kleinere aanspraak op een grotere balans, en een instrument dat 3 % van het eigen vermogen neemt, kan niet ook eisen dat dat vermogen onbezwaard blijft. Wat dit dossier niet mag doen, is dat verwarren met de routes hierboven, waar waarde verdwijnt naar zakken die dezelfde zakken zijn. Hefboomwerking is een risico dat de Reserve als eigenaar draagt; onttrekking is een overdracht die de verordening stopt.
 
-En het eerlijke gedeeltelijke antwoord: bronbelasting. Een Unieverordening kan de Reserve geen verdragsvoordeel verlenen dat een derde land niet heeft gegeven, en een lichaam dat nergens is gevestigd, kan aan de bron worden belast tegen het volledige wettelijke tarief. Twee antwoorden zijn geschreven en geschrapt. De Commissie opdragen met derde landen te onderhandelen zou een bevoegdheid gebieden die artikel 218 VWEU elders belegt. De Reserve toestaan haar bezit zo te routeren dat het tarief daalt, zou verdragsshopping schrijven in een instrument waarvan de hele stelling is dat kapitaal breed moet worden bezeten en moet betalen wat het verschuldigd is; de vijandige raadsman had de kop al klaarliggen, en terecht. Wat overblijft is artikel 8, lid 5: de Reserve publiceert jaarlijks de belasting die zij niet kon terugvorderen, en de Commissie legt daarover verantwoording af in het verslag van artikel 14. Dat is een kleiner antwoord dan het probleem, en het is het eerlijke. Een lek dat jaarlijks wordt gerapporteerd, is een lek waarop de campagne kan worden beoordeeld; een lek dat niemand meet, groeit alleen maar.
+En het eerlijke gedeeltelijke antwoord: bronbelasting. Een Unieverordening
+kan de Reserve geen verdragsvoordeel verlenen dat een derde land niet heeft
+gegeven, en een lichaam dat nergens is gevestigd, kan aan de bron worden
+belast tegen het volledige wettelijke tarief. Twee antwoorden zijn
+geschreven en geschrapt. De Commissie opdragen met derde landen te
+onderhandelen zou ingrijpen in een bevoegdheid die artikel 218 VWEU elders
+belegt. De Reserve toestaan haar bezit zo te routeren dat het tarief daalt,
+zou verdragsmisbruik schrijven in een instrument waarvan de hele stelling is
+dat kapitaal breed moet worden bezeten en moet betalen wat het verschuldigd
+is; de vijandige raadsman had de kop al klaarliggen, en terecht. Wat
+overblijft is artikel 8, lid 5: de Reserve publiceert jaarlijks de belasting
+die zij niet kon terugvorderen, en de Commissie legt daarover verantwoording
+af in het verslag van artikel 14. Dat is een kleiner antwoord dan het
+probleem, en het is het eerlijke. Een lek dat jaarlijks wordt gerapporteerd,
+is een lek waarop de campagne kan worden beoordeeld; een lek dat niemand
+meet, groeit alleen maar.
 
-**Ontwerpconsequentie.** DC-35: omzetting bij onttrekking en na verloop van tijd, niet alleen bij een verkoop. DC-36: de aandelen van de Reserve staan gelijk in rang met de gunstigste klasse die na de aanwijzing is gecreëerd, waarbij eerdere preferenties onaangetast blijven, en achterstellende constructies zijn niet-inroepbaar tegenover de Reserve. DC-37: de verkrijger geeft een eigen warrant uit op haar eigen kapitaal; de overdrager blijft gebonden voor de geautomatiseerde activa die zij behoudt, en het totaal over hen samen overschrijdt nooit het genoemde percentage van hun gezamenlijke kapitaal. DC-38: niet-terugvorderbare bronbelasting wordt jaarlijks gepubliceerd; het instrument draagt de Reserve niet op haar bezit zo in te richten dat deze wordt verminderd. DC-39: de verplichting hecht opnieuw aan wanneer dezelfde eigenaars de activa uit een herstructurering terugkrijgen.
+**Ontwerpconsequentie.** DC-35: verzilvering bij onttrekking en na verloop van tijd, niet alleen bij een verkoop. DC-36: de aandelen van de Reserve staan gelijk in rang met de gunstigste klasse die na de aanwijzing is gecreëerd, waarbij eerdere preferenties onaangetast blijven, en achterstellende constructies zijn niet-inroepbaar tegenover de Reserve. DC-37: de verkrijger geeft een eigen warrant uit op haar eigen kapitaal; de overdrager blijft gebonden voor de geautomatiseerde activa die zij behoudt, en het totaal over hen samen overschrijdt nooit het genoemde percentage van hun gezamenlijke kapitaal. DC-38: niet-terugvorderbare bronbelasting wordt jaarlijks gepubliceerd; het instrument draagt de Reserve niet op haar bezit zo in te richten dat deze wordt verminderd. DC-39: de verplichting hecht opnieuw aan wanneer dezelfde eigenaars de activa uit een herstructurering terugkrijgen.
 
-### 19. Zweden probeerde dit en kreeg het niet eens wetgevend rond
+### 19. Zweden probeerde dit en kreeg het wetgevingstraject niet eens voltooid
 
 **Het bezwaar, in zijn sterkste vorm.** Dit mechanisme is niet nieuw en het
 heeft al gefaald, in het ene land dat het het meest waarschijnlijk had
@@ -714,59 +811,59 @@ uitgifte van nieuw eigen vermogen aan een collectieve houder, afgewikkeld
 in aandelen in plaats van contanten, geijkt op de eigen voorspoed van de
 onderneming.
 
-Het overleefde zijn eigen opstelling niet. Tegen de tijd dat de Riksdag in
-1983 wetgeving aannam, was de verplichte aandelenuitgifte al opgegeven en
+Het overleefde zijn eigen totstandkoming niet. Tegen de tijd dat de Riksdag
+in 1983 wetgeving aannam, was de verplichte aandelenuitgifte al opgegeven en
 vervangen door een heffing op winsten en op de loonsom, in totaal aan een
 maximum gebonden en beperkt tot een belang van ten hoogste 8 % in elke
 afzonderlijke onderneming. Het ontwerp veranderde, onder politieke druk en
 vóór de inwerkingtreding, in precies datgene waarvan dit memorandum in
 artikel 8 en bezwaar 2 volhoudt dat dit instrument het niet is: een
-belasting. Vervolgens mobiliseerde het Zweedse bedrijfsleven tegen zelfs
+belasting. Vervolgens mobiliseerde het Zweedse bedrijfsleven zelfs tegen
 deze verwaterde versie op een schaal zonder moderne evenknie, met een
 demonstratie op 4 oktober 1983 die tussen de 75 000 en 100 000 mensen trok
 waar de organisatoren er 5 000 hadden verwacht, en herhaalde dat jaarlijks
-totdat een regeringswisseling de fondsen in 1991 afschafte, tegen
-nauwelijks weerstand van de beweging die ze had voorgesteld.
+totdat een regeringswisseling de fondsen in 1991 afschafte, tegen nauwelijks
+weerstand van de beweging die ze had voorgesteld.
 
 De lezing is onvriendelijk en zij ligt open voor iedereen die het dossier
 kent. In de meest vakbondsvriendelijke ontwikkelde economie ter wereld, op
 het hoogtepunt van de macht van de georganiseerde arbeid, met een
 welwillende regering, bleek de verplichte uitgifte van eigen vermogen aan
-een collectief fonds niet te wetgeven, veranderde zij al in de
-ontwerpfase in een fiscale maatregel, en werd zij binnen acht jaar
-afgeschaft door de eerste regering die dat wilde. Een opsteller die dit
-niet weet, heeft het huiswerk niet gedaan. Een opsteller die het weet en
-het weglaat, verbergt het.
+een collectief fonds niet in wetgeving te kunnen worden omgezet, veranderde
+zij al in de ontwerpfase in een fiscale maatregel, en werd zij binnen acht
+jaar afgeschaft door de eerste regering die dat wilde. Een opsteller die dit
+niet weet, heeft het huiswerk niet gedaan. Een opsteller die het weet en het
+weglaat, verbergt het.
 
-**Wat eraan klopt.** Vrijwel alles, als geschiedenis. Het mechanisme
-behoort tot dezelfde familie. De omzetting naar een heffing is reëel en is
-het scherpste beschikbare bewijs voor de kwalificatieaanval van bezwaar 2,
-want zij toont ervaren wetgevers die naar het fiscale instrument grijpen
-zodra het instrument van eigen vermogen politiek onmogelijk wordt. De
-afschaffing van 1991 is een echt voorbeeld van de plundering waartegen dit
-instrument hoofdstuk VI opstelt, en zij hoort naast Polen, Spanje en
-Ierland in de bewijsbasis thuis, in plaats van te worden weggelaten omdat
-zij ongelegen komt. De mobilisatie is een reële voorspelling van wat er
-gebeurt wanneer kapitaal een voorstel van dit type leest als een
-overdracht van zeggenschap.
+**Wat eraan klopt.** Vrijwel alles, als geschiedenis. Het mechanisme behoort
+tot dezelfde familie. De omzetting naar een heffing is reëel en is het
+scherpste beschikbare bewijs voor de kwalificatieaanval van bezwaar 2, want
+zij toont ervaren wetgevers die naar het fiscale instrument grijpen zodra
+het instrument van eigen vermogen politiek onmogelijk wordt. De afschaffing
+van 1991 is een echt voorbeeld van de plundering waartegen dit instrument in
+hoofdstuk VI bescherming biedt, en zij hoort naast Polen, Spanje en Ierland
+in de bewijsbasis thuis, in plaats van te worden weggelaten omdat zij
+ongelegen komt. De mobilisatie is een reële voorspelling van wat er gebeurt
+wanneer kapitaal een voorstel van dit type leest als een overdracht van
+zeggenschap.
 
 **Het antwoord dat het instrument moet geven.** Drie verschillen, elk
 gekoppeld aan een specifieke reden waarom het Zweedse ontwerp faalde, en
 geen ervan is cosmetisch.
 
 Ten eerste, het eindpunt. Meidners fondsen waren ontworpen om zonder grens
-te blijven groeien totdat de zeggenschap van eigenaar wisselde, en de
-auteur zelf zei dat; dat was het doel, geen bijverschijnsel. Dit instrument
-neemt eenmalig 3 % van het volledig verwaterde kapitaal, per aanwijzing,
-waarbij het totaal over een onderneming en elke verkrijger samen begrensd
-is op datzelfde percentage krachtens artikel 5, lid 11, en artikel 7, lid
-2. Er loopt geen weg van dit instrument naar zeggenschap, want de
-rekenkunde staat er geen toe. Een tegenstander die iets anders beweert,
-betoogt tegen een ander voorstel.
+te blijven groeien totdat de zeggenschap van eigenaar wisselde, en de auteur
+zelf zei dat; dat was het doel, geen bijverschijnsel. Dit instrument neemt
+eenmalig 3 % van het volledig verwaterde kapitaal, per aanwijzing, waarbij
+het totaal over een onderneming en elke verkrijger samen begrensd is op
+datzelfde percentage krachtens artikel 5, lid 11, en artikel 7, lid 2. Er
+loopt geen weg van dit instrument naar zeggenschap, want de rekenkunde staat
+er geen toe. Een tegenstander die iets anders beweert, bestrijdt een ander
+voorstel.
 
 Ten tweede, zeggenschap. De Zweedse fondsen hadden stemrecht, en zij werden
 bestuurd door de vakbonden. De wetenschappelijke literatuur over de
-nederlaag is eenduidig dat de mobilisatie ging over wie de ondernemingen
+nederlaag is er eenduidig over dat de mobilisatie ging over wie de ondernemingen
 zou besturen, niet over het geld, en het plafond van 8 % was zelf al een
 poging om die vrees te beantwoorden. De Reserve houdt stemrechtloze
 aandelen krachtens artikel 5, lid 4, onder a), het is haar bij artikel 9
@@ -781,8 +878,8 @@ arbeidersbeweging, waardoor zij een partijkwestie werden in een
 tweepartijenstrijd. De uitkeringen van dit instrument komen krachtens
 artikel 10 gelijkelijk toe aan iedere burger van de Unie, inclusief de
 aandeelhouders en de werknemers van de aangewezen ondernemingen zelf. Dat
-maakt verzet niet onmogelijk. Het maakt het lastiger om een 'zij tegen
-wij' te tekenen.
+maakt verzet niet onmogelijk. Het maakt het lastiger om een 'wij-
+zij'-tegenstelling te schetsen.
 
 Wat dit dossier niet beweert, is dat de verschillen de politieke economie
 veilig maken. Dat doen zij niet. De eerlijke positie is dat Zweden laat
@@ -841,7 +938,7 @@ loyaliteitsaandelen of welke andere scheiding van bezit en zeggenschap ook.
 Het instrument duldt de wig niet alleen; het bekrachtigt haar, in een
 verordening, namens 450 miljoen mensen.
 
-**Wat het juist ziet.** De mechanische bewering is exact waar en dit dossier
+**Wat eraan klopt.** De mechanische bewering is exact waar en dit dossier
 moet niet doen alsof dat anders ligt: stemrechtloze aandelen verhogen het
 relatieve stemgewicht van elk stemgerechtigd aandeel, en die verhoging is
 hier echt. Ging de diagnose over wie ondernemingen bestuurt in plaats van
@@ -852,7 +949,7 @@ kant op beantwoorden.
 **Het antwoord dat het instrument moet geven.** Niet dat dit de verkeerde
 bril is. Een eerdere versie van deze passage noemde de bestuurslezing een
 categoriefout, omdat de aanspraak van het instrument verdelend van aard is.
-Vier reviewpoorten verwierpen dat in dezelfde bewoordingen, en zij hadden
+Vier toetsingspoorten verwierpen dat in dezelfde bewoordingen, en zij hadden
 gelijk: een instrument dat bij elke onderneming die het raakt de verhouding
 tussen kasstroomrechten en zeggenschapsrechten verandert, is in zijn werking
 een bestuursinstrument, wat het in zijn bedoeling ook is, en het wordt
@@ -906,36 +1003,37 @@ beargumenteerd op grond van een verwijzing die dit dossier nog niet heeft
 geverifieerd; zij voegt zich bij de raakvlakken met het acquis die al op de
 lijst vóór indiening staan.
 
-**Ontwerpgevolg.** De aanspraak van het instrument is verdelend en geen
-wijziging geeft de Reserve stemrecht zonder zichzelf als een ander instrument
-te verdedigen, maar het bestuurseffect wordt erkend en verdedigd in plaats
-van weggesproken (DC-43). Het relatieve stemeffect op bestaande houders wordt
-met zijn omvang vermeld, en de vergelijking met inkoop blijft beperkt tot de
-omvang, met de ongelijksoortigheid in dezelfde adem erbij (DC-44).
+**Ontwerpconsequentie.** De aanspraak van het instrument is verdelend en geen
+wijziging geeft de Reserve stemrecht zonder zichzelf als een ander
+instrument te verdedigen, maar het bestuurseffect wordt erkend en verdedigd
+in plaats van weggewuifd (DC-43). Het relatieve stemeffect op bestaande
+houders wordt met zijn omvang vermeld, en de vergelijking met inkoop blijft
+beperkt tot de omvang, met de ongelijksoortigheid in dezelfde adem erbij
+(DC-44).
 
 
 ### 21. Waarom drie procent, en niet één, of tien
 
-**Het bezwaar, in zijn sterkste vorm.** Het getal wordt gesteld. Nergens in
-dit dossier wordt het afgeleid. Artikel 52, lid 1, van het Handvest staat een
-beperking van het eigendomsrecht alleen toe waar zij noodzakelijk is en
+**Het bezwaar, in zijn sterkste vorm.** Het getal wordt geponeerd. Nergens
+in dit dossier wordt het afgeleid. Artikel 52, lid 1, van het Handvest staat
+een beperking van het eigendomsrecht alleen toe waar zij noodzakelijk is en
 werkelijk beantwoordt aan een doel van algemeen belang, en noodzakelijkheid
 is nu juist de vraag die een kaal getal niet kan beantwoorden: haalt drie
 procent het doel, dan is één procent het minder ingrijpende middel en
-sneuvelt de maatregel; haalt één procent het niet, dan heeft het dossier niet
-aangetoond waarom drie dat wel doet. De toetsende rechter zal de wetgever
-vragen zijn werk te tonen, zoals hij dat in elke noemenswaardige
-evenredigheidszaak heeft gevraagd, en dit dossier zal hem een rond getal
-aanreiken dat comfortabel onder het niveau ligt waarop het verwijt "u
-nationaliseert ze" gemakkelijk te maken wordt. Dat is een politieke ijking in
-het pak van een juridische, en de Juridische Dienst van de Commissie ziet het
-bij eerste lezing. Elk ander getal in het instrument is ergens aan
-vastgemaakt: de drempels in artikel 3 aan meetbare grootheden, de uiterste
-termijn van zeven jaar aan het waargenomen verloop tussen aanwijzing en
-realisatie. Het ene getal dat bepaalt hoeveel er wordt genomen, is nergens
-aan vastgemaakt.
+sneuvelt de maatregel; haalt één procent het niet, dan heeft het dossier
+niet aangetoond waarom drie dat wel doet. De toetsende rechter zal de
+wetgever vragen zijn onderbouwing inzichtelijk te maken, zoals hij dat in
+elke noemenswaardige evenredigheidszaak heeft gevraagd, en dit dossier zal
+hem een rond getal aanreiken dat comfortabel onder het niveau ligt waarop
+het verwijt "u nationaliseert ze" gemakkelijk te maken wordt. Dat is een
+politieke ijking in het gewaad van een juridische, en de Juridische Dienst
+van de Commissie ziet het bij eerste lezing. Elk ander getal in het
+instrument is ergens aan vastgemaakt: de drempels in artikel 3 aan meetbare
+grootheden, de uiterste termijn van zeven jaar aan het waargenomen verloop
+tussen aanwijzing en realisatie. Het ene getal dat bepaalt hoeveel er wordt
+genomen, is nergens aan vastgemaakt.
 
-**Wat het juist ziet.** Alles. Dit is het zwakste dragende punt van het
+**Wat eraan klopt.** Alles. Dit is het zwakste dragende punt van het
 dossier, en geen enkele kwaliteit van redactie elders herstelt het. Het zou
 erger dan nutteloos zijn om het hier te beantwoorden met een afleiding die is
 bedacht om bij een reeds gekozen getal te passen: dat is precies de
@@ -997,23 +1095,23 @@ ligt ruim onder elk aannemelijk ontnemingsplafond. Onder een plafond liggen
 is een evenredigheidsargument, geen noodzakelijkheidsargument, en dit
 dossier zal het ene niet als het andere verkleden.
 
-Die reparatie is nu uitgevoerd, en deze passage legt zowel de reparatie
-als haar eerlijke grens vast. Artikel 1, lid 2, formuleert het doel als
-een eigendomspositie: een tegoed per burger van de orde van zes maanden
-mediaan equivalent besteedbaar inkomen in de Unie, in constante prijzen,
-binnen een generatie na de eerste aanwijzingen. Op het gepubliceerde model
-en de gewijzigde aanwijzingstoets van artikel 3, lid 2, onder b), bedraagt
-de samengetelde aangewezen waarde op cijfers van augustus 2026 ongeveer
-EUR 20 biljoen (evidence/designation-count.md), en het tegoed per
-volwassene binnen een generatie ongeveer EUR 8 400 bij drie procent,
-EUR 5 600 bij twee en EUR 2 800 bij één (evidence/sizing-the-ask.md). Zes
-maanden mediaan equivalent besteedbaar inkomen is van de orde van
-EUR 9 000. Drie procent is daarmee het kleinste gehele percentage dat het
-gestelde doel kan benaderen, één procent kan dat aantoonbaar niet, en de
-noodzakelijkheidstoets van artikel 52, lid 1, heeft voor het eerst een
-grootheid om aan te toetsen, gepubliceerd, reproduceerbaar, en opnieuw
-bezien bij elk verslag onder artikel 14, waar dezelfde bepaling die het
-percentage op grond van het bewijs kan verhogen het ook kan verlagen.
+Die reparatie is nu uitgevoerd, en deze passage legt zowel de reparatie als
+haar eerlijke grens vast. Artikel 1, lid 2, formuleert het doel als een
+eigendomspositie: een tegoed per burger van de orde van zes maanden mediaan
+equivalent besteedbaar inkomen in de Unie, in constante prijzen, binnen een
+generatie na de eerste aanwijzingen. Op het gepubliceerde model en de
+gewijzigde aanwijzingstoets van artikel 3, lid 2, onder b), bedraagt de
+samengetelde aangewezen waarde op cijfers van augustus 2026 ongeveer EUR 20
+biljoen (evidence/designation-count.md), en het tegoed per volwassene binnen
+een generatie ongeveer EUR 8 400 bij drie procent, EUR 5 600 bij twee en EUR
+2 800 bij één (evidence/sizing-the-ask.md). Zes maanden mediaan equivalent
+besteedbaar inkomen is van de orde van EUR 9 000. Drie procent is daarmee
+het kleinste gehele percentage dat het gestelde doel kan benaderen, één
+procent kan dat aantoonbaar niet, en de noodzakelijkheidstoets van artikel
+52, lid 1, heeft voor het eerst een maatstaf waaraan kan worden getoetst,
+gepubliceerd, reproduceerbaar, en opnieuw bezien bij elk verslag onder
+artikel 14, waar dezelfde bepaling die het percentage op grond van het
+bewijs kan verhogen het ook kan verlagen.
 
 De eerlijke grens is de cirkelredenering die een beoordelaar zal aanwijzen
 en die dit dossier als eerste noemt: bij een lineair model is elk paar van
@@ -1025,7 +1123,7 @@ en doel, geen doel dat zichzelf afleidt, en dat heeft geen enkel
 instrument. Wat dit dossier niet langer doet, is een percentage stellen
 zonder enig doel.
 
-**Ontwerpgevolg.** Het percentage wordt afgeleid als het kleinste gehele
+**Ontwerpconsequentie.** Het percentage wordt afgeleid als het kleinste gehele
 getal dat verenigbaar is met het in artikel 1, lid 2, gestelde doel, op
 een gepubliceerd en reproduceerbaar model, en de cirkelredenering die in de
 keuze van het doel besloten ligt wordt genoemd in plaats van verhuld
@@ -1052,7 +1150,7 @@ schendt, zakt voor de review, hoe goed het proza ook is.
 | DC-8 | Minimumnormen, geen uniforme machinerie | 3 |
 | DC-9 | Verplichting nooit omzetbaar in een heffing op geldstromen | 4 |
 | DC-10 | Aanknoping bij markttoegang, niet bij vestiging | 5, 17 |
-| DC-11 | Personeelsconsolidatie naar wezen boven vorm | 5 |
+| DC-11 | Personeelsconsolidatie waarbij de economische realiteit prevaleert boven de vorm | 5 |
 | DC-12 | Verzilvering bij gebeurtenissen; geen doorlopende waardering | 6 |
 | DC-13 | Permanent stemrechtloze economische belangen | 6, 16 |
 | DC-14 | Dividend gecommuniceerd als klein beginnend en samengesteld aangroeiend | 6 |
@@ -1076,7 +1174,7 @@ schendt, zakt voor de review, hoe goed het proza ook is.
 | DC-32 | Economische deelneming is het maximum: geen zeggenschapsrecht, veto of bestuursprivilege hecht aan de belangen van de Reserve, bindend voor dit instrument en ieder die het wijzigt, zonder te doen alsof het een toekomstige wetgever bindt | 16 |
 | DC-33 | Voor ondernemingen onder derdelandsrecht is de warrant een resultaatsverplichting als markttoegangsvoorwaarde, nooit een terzijdestelling van buitenlands vennootschapsrecht | 17 |
 | DC-34 | Geen instantie tussen waardering en rechter; correctie achteraf en de transactie wacht nooit | 6 |
-| DC-35 | Omzetting bij onttrekking en na verloop van tijd, niet alleen bij een verkoop | 18 |
+| DC-35 | Verzilvering bij onttrekking en na verloop van tijd, niet alleen bij een verkoop | 18 |
 | DC-36 | De aandelen van de Reserve staan gelijk in rang met de gunstigste klasse die na de aanwijzing is gecreëerd, waarbij eerdere preferenties onaangetast blijven; achterstellende constructies zijn niet-inroepbaar tegenover de Reserve | 18 |
 | DC-37 | De verkrijger geeft een eigen warrant uit op haar eigen kapitaal; de overdrager blijft gebonden voor wat zij behoudt, en het totaal over hen samen overschrijdt nooit het genoemde percentage van hun gezamenlijke kapitaal | 18 |
 | DC-38 | Niet-terugvorderbare bronbelasting jaarlijks gepubliceerd; de Reserve wordt niet opgedragen haar bezit zo in te richten dat deze wordt verminderd | 18 |

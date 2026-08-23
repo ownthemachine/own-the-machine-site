@@ -269,8 +269,8 @@ incidencia depende de ello.
 
 ### 5. Las empresas designadas se marcharán, o nunca vendrán
 
-**La objeción, en su formulación más sólida.** El informe Draghi ya concede
-el terreno: es demasiado tarde para que la UE desarrolle competidores
+**La objeción, en su formulación más sólida.** El informe Draghi ya cede
+terreno: es demasiado tarde para que la UE desarrolle competidores
 sistemáticos de los grandes proveedores estadounidenses de nube; el mercado
 TIC estadounidense crece al 12,7 % frente al 4,1 % de Alemania; solo cuatro
 de las cincuenta mayores tecnológicas del mundo son europeas. Añádase una
@@ -323,26 +323,44 @@ logrado colocando el activo enteramente fuera del alcance de los ciudadanos.
 instrumento, más difícil que la base jurídica.
 
 **La respuesta que el instrumento debe dar.** El warrant permanece latente
-hasta la cristalización, ya sea en un evento de liquidez (salida a
-bolsa, cambio de control o venta secundaria cualificada) o, conforme al
-artículo 5, apartado 3, cuando la extracción a favor de los accionistas
-supera la cuota indicada de la facturación de la actividad cubierta o han transcurrido
-siete años desde la emisión, lo que ocurra primero. Hasta entonces no requiere valoración, no paga nada
-y no vota nada; en el evento se convierte al precio del evento, sin
-discrecionalidad. Esto coincide con la propia ventana del libro (reclamar la
-participación mientras el activo se forma, cristalizar cuando el mercado le
-pone precio) y elimina de un solo movimiento los problemas de valoración y
-de gobernanza: la reserva mantiene intereses económicos sin derecho de voto,
-permanentemente, por ley, aceptando deliberadamente el coste de Bebchuk
-porque la alternativa, una participación con voto político en cada gran
-empresa, es peor. El dividendo de los primeros años se financia con
-cristalizaciones, no con las tenencias, y el memorando debe decir con
-claridad que el dividendo empieza pequeño y se capitaliza, al estilo
-noruego, y que cualquiera que prometa otra cosa no somos nosotros. Dos
-tercios del fondo de Noruega son rendimiento compuesto; el argumento honesto
-es la regla, no el primer cheque.
+hasta la cristalización, ya sea en un evento de liquidez (salida a bolsa,
+cambio de control o venta secundaria cualificada) o, conforme al artículo 5,
+apartado 3, cuando la extracción a favor de los accionistas supere la cuota
+indicada de la facturación de la actividad cubierta o hayan transcurrido
+siete años desde la emisión, lo que ocurra antes. Hasta entonces no requiere
+valoración, no paga nada y no vota nada; en el evento se convierte al precio
+del evento, sin discrecionalidad. Esto coincide con la propia ventana del
+libro (reclamar la participación mientras el activo se forma, cristalizar
+cuando el mercado le pone precio) y elimina de un solo movimiento los
+problemas de valoración y de gobernanza: la reserva mantiene intereses
+económicos sin derecho de voto, permanentemente, por ley, aceptando
+deliberadamente el coste de Bebchuk porque la alternativa, una participación
+con voto político en cada gran empresa, es peor. El dividendo de los
+primeros años se financia con cristalizaciones, no con las tenencias, y el
+memorando debe decir con claridad que el dividendo empieza pequeño y se
+capitaliza, al estilo noruego, y que quien prometa otra cosa no habla en
+nuestro nombre. Dos tercios del fondo de Noruega son rendimiento compuesto;
+el argumento honesto es la regla, no el primer cheque.
 
-Se ha considerado y descartado un refinamiento. Se sostiene que las valoraciones de empresas privadas de rápido crecimiento son lo bastante volátiles como para que las disputas sobre la razón de dilución empantanen el instrumento en litigios, y que por ello debería intercalarse un arbitraje vinculante acelerado entre el valorador y los tribunales. El instrumento ya responde al problema al que apunta la propuesta, y la propuesta costaría más de lo que ahorra. El artículo 6, apartado 5, dispone que una impugnación no suspende ni el evento de liquidez ni la suscripción, y el artículo 6, apartado 4, corrige después una valoración errónea en ambos sentidos, de modo que una disputa no retrasa a nadie: ese es el patrón del Derecho de resolución, donde el litigio avanza junto a la transacción y no a través de ella. Cuando el propio evento fija un precio, el artículo 6, apartado 2, convierte la valoración en aritmética sobre ese precio en lugar de en una opinión sobre él, que es justo por donde entraría la volatilidad. Y una instancia arbitral cuyo laudo vinculara a las partes chocaría con el artículo 47 de la Carta sobre el acceso a un tribunal y con los límites a la atribución de apreciaciones discrecionales a organismos de la Unión; una instancia cuyo laudo no las vinculara añadiría una fase sin suprimir ninguna.
+Se ha considerado y descartado un refinamiento. Se sostiene que las
+valoraciones de empresas privadas de rápido crecimiento son lo bastante
+volátiles como para que las disputas sobre la ratio de dilución empantanen
+el instrumento en litigios, y que por ello debería intercalarse un arbitraje
+vinculante acelerado entre el valorador y los tribunales. El instrumento ya
+responde al problema al que apunta la propuesta, y la propuesta costaría más
+de lo que ahorra. El artículo 6, apartado 5, dispone que una impugnación no
+suspende ni el evento de liquidez ni la suscripción, y el artículo 6,
+apartado 4, corrige después una valoración errónea en ambos sentidos, de
+modo que una disputa no retrasa a nadie: ese es el patrón del Derecho de
+resolución, donde el litigio avanza junto a la transacción y no a través de
+ella. Cuando el propio evento fija un precio, el artículo 6, apartado 2,
+convierte la valoración en aritmética sobre ese precio en lugar de en una
+opinión sobre él, que es justo por donde entraría la volatilidad. Y una
+instancia arbitral cuyo laudo vinculara a las partes chocaría con el
+artículo 47 de la Carta sobre el acceso a un tribunal y con los límites a la
+atribución de facultades discrecionales a organismos de la Unión; una
+instancia cuyo laudo no las vinculara añadiría una fase sin suprimir
+ninguna.
 
 **Consecuencia de diseño.** DC-12: cristalización activada por eventos, sin
 valoración continua. DC-13: intereses económicos permanentemente sin derecho
@@ -395,7 +413,7 @@ concentración de la propiedad y mecanismo, nunca declive de la participación
 salarial. DC-16: el memorando presenta el valor del instrumento en AMBOS
 futuros, con llegada y sin llegada.
 
-### 8. Los mejores microdatos no inculpan a la IA
+### 8. Los mejores microdatos no señalan a la IA
 
 **La objeción, en su formulación más sólida.** Humlum y Vestergaard, con
 registros daneses que cubren veinticinco mil trabajadores: efectos nulos
@@ -451,11 +469,11 @@ se lo llevó todo. El NPRF irlandés, lo más parecido a esta propuesta que ha
 construido un Estado de la UE, fue liquidado para un rescate bancario antes
 de cumplir una década de su creación. Hasta la propia Unión anunció InvestAI
 por 200 000 millones y reprogramó fondos existentes para escenificarlo. El
-historial de los Estados europeos dejando en paz grandes bolsas de capital
-de los ciudadanos es pobre, y una bolsa mayor es un premio mayor. Estonia
-añade el caso especular: dados a la vez el derecho y la salida, un cuarto
-del fondo se marchó en un mes, y quienes salieron ganaban menos que la
-mediana.
+historial de los Estados europeos a la hora de dejar en paz grandes bolsas
+de capital de los ciudadanos es pobre, y una bolsa mayor es un premio mayor.
+Estonia añade el caso especular: dados a la vez el derecho y la salida, un
+cuarto del fondo se marchó en un mes, y quienes salieron ganaban menos que
+la mediana.
 
 **Lo que acierta.** Esta es la tesis del propio capítulo 10 del libro
 devuelta como objeción, y es el argumento político más fuerte del
@@ -504,17 +522,15 @@ que operaría este Reglamento se mueve a un ritmo que la economía subyacente
 no reconoce. Una reserva ciudadana gestionada a ese ritmo cristalizaría los
 warrants con años de retraso y no distribuiría nada durante una década.
 
-**Lo que acierta.** El historial de desembolsos es condenatorio con
-exactitud, y el memorando no gana nada discutiéndolo.
+**Lo que acierta.** El historial de desembolsos es de una exactitud
+demoledora, y el memorando no gana nada discutiéndolo.
 
 **La respuesta que el instrumento debe dar.** No poner ninguna maquinaria de
-gasto de la Unión en la ruta crítica. La obligación corre directamente de
-las empresas designadas a la reserva: los warrants se emiten por ministerio
-de la ley al cruzarse los umbrales, cristalizan por ministerio de la ley en
-los eventos, y la tarea de la reserva es la custodia y la distribución, no
+gasto de la Unión en la ruta crítica. La obligación vincula directamente a las empresas designadas con la reserva: los warrants se emiten por ministerio
+de la ley al cruzarse los umbrales, cristalizan por ministerio de la ley al concurrir los hechos causantes, y la tarea de la reserva es la custodia y la distribución, no
 la contratación pública. Nada necesita construirse, licitarse ni
-desembolsarse para que el instrumento funcione; el contraste con InvestAI es
-el diseño, no una vergüenza para él.
+desembolsarse para que el instrumento funcione; el contraste con InvestAI
+obedece al diseño, no supone un desmérito.
 
 **Consecuencia de diseño.** DC-24: obligaciones autoejecutivas por
 ministerio de la ley; ninguna maquinaria de subvenciones, licitaciones o
@@ -545,16 +561,15 @@ reales británicos se estancaron durante aproximadamente medio siglo después
 de Watt mientras la producción se disparaba, y la ampliación llegó a través
 de los sindicatos, el sufragio y la legislación fabril, no solo de los
 precios; quienes vivieron dentro de la pausa no recuperaron esas décadas, y
-quien poseía la mina no esperó. Un instrumento reclamado en la puerta es la
-diferencia entre atravesar la pausa con un activo o sin él. Segundo, el
-stock y el flujo son preguntas distintas: el consumo más barato y la riqueza
+quien poseía la mina no esperó. Un instrumento exigido de entrada es la
+diferencia entre atravesar la pausa con un activo o sin él. Segundo, el stock y el flujo son cuestiones distintas: el consumo más barato y la riqueza
 concentrada son compatibles, y la zona del euro demuestra actualmente la
 combinación, con un empleo récord junto a una distribución de la propiedad
 de ochenta y tres contra dos. El dividendo no obstaculiza la difusión; añade
 un canal de propiedad junto al canal de los precios.
 
 **Consecuencia de diseño.** DC-25: el memorando afirma el excedente del
-consumidor y presenta el instrumento como aditivo a él, nunca como
+consumidor y presenta el instrumento como un complemento de este, nunca como
 corrección de una falsedad.
 
 ### 12. Un dividendo no compra ni estatus ni propósito
@@ -564,8 +579,8 @@ reajustan frente a cualquier transferencia universal: dele más a todo el
 mundo y la casa de la calle adecuada costará más. Y la renta sin trabajo
 resuelve el alquiler, no la tarde del martes: la estructura, la posición y
 la pertenencia que el empleo proporciona como subproducto no están en manos
-de la reserva. La propuesta promete de más sobre lo que la renta del capital
-puede hacer por una persona desplazada.
+de la reserva. La propuesta exagera lo que la renta del capital puede hacer
+por una persona desplazada.
 
 **Lo que acierta. CONCEDIDA en su totalidad.** Estos son los propios
 capítulos 11 y 13 del libro, y vinculan a su reglamento exactamente igual
@@ -581,7 +596,7 @@ propuesta.
 **Consecuencia de diseño.** DC-26: un considerando explícito de alcance y
 límites.
 
-### 13. Esto es una renta básica universal con pasos extra
+### 13. Esto es una renta básica universal con rodeos innecesarios
 
 **La objeción, en su formulación más sólida.** Retírense las finanzas
 corporativas y un ciudadano recibe un pago periódico e incondicional de un
@@ -642,11 +657,44 @@ fuente de financiación, donde es necesaria.
 
 ### 15. Un euro al año es un insulto, no una política
 
-**La objeción, en su formulación más sólida.** Haga funcionar el propio simulador del instrumento con supuestos prudentes y pagará a un ciudadano uno o dos euros al año durante su primera década. Ninguna persona razonable valora eso; ningún votante hace campaña por ello; ningún periodista resiste el titular. El aparato es grotescamente desproporcionado respecto de lo que entrega: un nuevo organismo de la Unión, un régimen de designación, maquinaria de valoración, comitología, multas de hasta el 10 % de la facturación mundial, todo para entregar menos que el precio de un café. Peor aún: la doctrina de honestidad del proyecto prohíbe prometer más. Una iniciativa que, por sus propias reglas, debe decir a cada firmante "no notará nada durante veinte años" ha elegido un mensaje con el que ninguna campaña de masas ha ganado jamás. Una renta básica promete al menos el alquiler.
+**La objeción, en su formulación más sólida.** Si se ejecuta el propio
+simulador del instrumento con supuestos prudentes, este pagará a un
+ciudadano uno o dos euros al año durante su primera década. Ninguna persona
+razonable valora eso; ningún votante hace campaña por ello; ningún
+periodista resiste el titular. El aparato es grotescamente desproporcionado
+respecto de lo que entrega: un nuevo organismo de la Unión, un régimen de
+designación, maquinaria de valoración, comitología, multas de hasta el 10 %
+de la facturación mundial, todo para entregar menos que el precio de un
+café. Peor aún: la doctrina de honestidad del proyecto prohíbe prometer más.
+Una iniciativa que, por sus propias reglas, debe decir a cada firmante "no
+notará nada durante veinte años" ha elegido un mensaje con el que ninguna
+campaña de masas ha ganado jamás. Una renta básica promete al menos el
+alquiler.
 
-**Lo que acierta.** El flujo inicial es realmente pequeño, y la campaña tiene estructuralmente prohibido inflarlo. El riesgo de recogida es real: las recompensas diferidas pierden ante las inmediatas en cada puerta.
+**Lo que acierta.** El flujo inicial es realmente pequeño, y la campaña
+tiene estructuralmente prohibido inflarlo. El riesgo en la recogida de
+firmas es real: en el puerta a puerta, la recompensa diferida pierde ante la
+inmediata.
 
-**La respuesta que el instrumento debe dar.** En tres partes. Primero, la pequeñez es calibración, no fracaso: el tamaño del instrumento sigue por construcción el tamaño del fenómeno. El tres por ciento de poco es poco, detraído de casi nadie, y en ese mundo el artículo 14, apartado 3, obliga a la Comisión a constatar que la premisa no se cumplió y a proponer su modificación o derogación; un dividendo permanentemente pequeño es la activación de la condición de falsación, no una política renqueante. El dividendo solo es pequeño en el mundo en que el problema también lo es. Segundo, el derecho solo puede comprarse pronto. La paga danesa congelada de 4 368 DKK de 1978, dinero irrisorio entonces, vale hoy 119 506 DKK; dos tercios del fondo noruego son rendimiento compuesto, no petróleo. El otro calendario, reclamar la parte cuando las ganancias son visibles y los propietarios están atrincherados, es expropiación y políticamente imposible. El euro compra el certificado, y el certificado es la cuestión. Tercero, el patrimonio acumulado supera al flujo: con los mismos supuestos prudentes, hacia el año treinta la Reserva sostiene unos 400 EUR de capital propio detrás de cada ciudadano, antes de que ningún reparto anual impresione. Una campaña que muestra el reparto sin la participación describe mal su propio instrumento.
+**La respuesta que el instrumento debe dar.** En tres partes. Primero, la
+pequeñez es calibración, no fracaso: el tamaño del instrumento sigue por
+construcción el tamaño del fenómeno. El tres por ciento de poco es poco,
+detraído de casi nadie, y en ese mundo el artículo 14, apartado 3, obliga a
+la Comisión a constatar que la premisa no se cumplió y a proponer su
+modificación o derogación; un dividendo permanentemente pequeño es la
+activación de la condición de falsación, no una política renqueante. El
+dividendo solo es pequeño en el mundo en que el problema también lo es.
+Segundo, el derecho solo puede comprarse pronto. La paga danesa congelada de
+4 368 DKK de 1978, dinero irrisorio entonces, vale hoy 119 506 DKK; dos
+tercios del fondo noruego son rendimiento compuesto, no petróleo. El otro
+calendario, reclamar la parte cuando las ganancias son visibles y los
+propietarios están atrincherados, es expropiación y políticamente imposible.
+El euro compra el certificado, y el certificado es la cuestión. Tercero, el
+patrimonio acumulado supera al flujo: con los mismos supuestos prudentes,
+hacia el año treinta la Reserva acumula unos 400 EUR de capital propio por
+cada ciudadano, antes de que ningún reparto anual impresione. Una campaña
+que muestra el reparto sin la participación describe mal su propio
+instrumento.
 
 **Consecuencia de diseño.** Esta objeción es la razón de ser de DC-14 (nunca abrir con una cifra de los primeros años), de que el artículo 14, apartado 3, lleve explícita la condición de falsación y de que el anexo II reparta rentas y nunca principal. Añade dos reglas mecánicas propias: allí donde se muestre un importe de reparto por ciudadano, figura al lado la participación por ciudadano en la Reserva (DC-31); y allí donde el importe distribuible de un año fuera demasiado pequeño para justificar la transferencia, el intervalo se alarga en lugar de que el dinero desaparezca, sujeto a un mínimo imperativo de un reparto cada tres años y al deber de publicar lo que no se pagó (DC-40). El umbral es una proporción respecto del coste de efectuar el pago, no una cifra: una cifra en un anexo envejece, y regala un titular a quien lo busque.
 
@@ -658,7 +706,7 @@ fuente de financiación, donde es necesaria.
 
 **La respuesta que el instrumento debe dar.** La línea de las acciones de oro condena una sola cosa: los derechos especiales de control desproporcionados respecto de la inversión, topes de voto, minorías de bloqueo, vetos de aprobación, puestos en el consejo, el aparato con el que un Estado dirige una empresa que no posee. El instrumento construye el inverso exacto, en los artículos y no en promesas. La participación de la Reserva no lleva nunca derecho de voto (artículos 5, apartado 4, letra a), y 9, apartado 1, letra a)); ninguna presencia en el consejo (artículo 9, apartado 1, letra b)); ninguna instrucción (artículo 9, apartado 1, letra c)); ninguna adquisición más allá del warrant y de la diversificación indexada (artículo 9, apartado 1, letra d)); ni apalancamiento ni derivados que la conviertan en actor estratégico (artículo 9, apartado 1, letras e) a g)). Lo que queda es participación puramente económica, la posición de cualquier accionista minoritario pasivo, la que el fondo noruego mantiene a escala comparable en las sociedades cotizadas europeas sin que jamás se haya planteado un asunto del artículo 63. A lo que la jurisprudencia exige de toda restricción que pretenda subsistir, el instrumento da respuesta en su propio texto: no discriminación (trato idéntico a empresas de la Unión y de terceros países conforme al artículo 3), un interés general imperioso enunciado en los considerandos, y proporcionalidad sostenida por el 3 % fijo, la valoración independiente e impugnable por separado (artículos 5, apartado 9, 6 y 7) y la ponderación del artículo 52, apartado 1. Y a diferencia de cada acción de oro anulada, esto no es un Estado miembro reservándose influencia nacional contra la integración: es una regla uniforme de la Unión para todo el mercado interior, y su propia uniformidad elimina la divergencia que crearían los regímenes nacionales de participación. Lo que queda en limpio, y hay que reconocerlo con honestidad, es que una dilución futura obligatoria es en sí un coste que los inversores incorporarán al precio; la objeción 4 lo cifra, y la proporcionalidad, no la negación, es la defensa.
 
-**Consecuencia de diseño.** La regla del no voto permanente de DC-13 y las prohibiciones de conducta del artículo 9 son la respuesta de la ley a esta objeción. Lo que no pueden hacer es vincular a una legislatura futura, y este memorando no finge lo contrario: los trabajos preparatorios del artículo 12, apartado 3, dejan constancia de que vincular a legislaturas futuras no superó los filtros en una ronda anterior, y un intento, el 21 de agosto de 2026, de dar a la regla fuerza operativa en ese apartado se abandonó porque el letrado hostil prefería mantenerla, leyéndola como un mandato de Derecho de la Unión que despojaría a la Reserva de los derechos de clase protectores que le otorga el artículo 5, apartado 4, letra b). Lo que subsiste es una regla de diseño que vincula a este instrumento y a quien lo modifique: la participación económica es el máximo, y ningún derecho de control, veto o privilegio de gobernanza se vincula a las participaciones de la Reserva (DC-32). Es un compromiso que el texto cumple, no un cerrojo que el texto pueda imponer.
+**Consecuencia de diseño.** La regla del no voto permanente de DC-13 y las prohibiciones de conducta del artículo 9 son la respuesta de la ley a esta objeción. Lo que no pueden hacer es vincular al legislador futuro, y este memorando no finge lo contrario: los trabajos preparatorios del artículo 12, apartado 3, dejan constancia de que vincular a legislaturas futuras no superó los filtros en una ronda anterior, y un intento, el 21 de agosto de 2026, de dar a la regla fuerza operativa en ese apartado se abandonó porque el letrado hostil prefería mantenerla, leyéndola como un mandato de Derecho de la Unión que despojaría a la Reserva de los derechos de clase protectores que le otorga el artículo 5, apartado 4, letra b). Lo que subsiste es una regla de diseño que vincula a este instrumento y a quien lo modifique: la participación económica es el máximo, y ningún derecho de control, veto o privilegio de gobernanza se vincula a las participaciones de la Reserva (DC-32). Es un compromiso que el texto cumple, no un cerrojo que el texto pueda imponer.
 
 ### 17. Se está confiscando capital de empresas que Europa no gobierna
 
@@ -708,19 +756,53 @@ conjunto designado en lugar de afirmarse sobre uno hipotético.
 
 **La objeción, en su formulación más sólida.** Todo mecanismo de este Reglamento presupone un momento en que el valor se hace visible, y el Derecho de sociedades existe para desplazar ese momento. Una empresa hiperautomatizada es la escapista ideal: necesita poco capital, luego nunca tiene que salir a bolsa; genera caja, luego puede pagar a sus fundadores durante décadas mediante dividendos, recapitalizaciones apalancadas y recompras selectivas de acciones, mientras el warrant duerme para siempre. Si al final debe operar, opera en una estructura de capital donde la Reserva no está: acciones preferentes desde la ronda semilla hasta la serie G, con preferencias de liquidación de dos y tres veces, de modo que una venta reparte todo entre los preferentes y el tres por ciento de ordinarias de la Reserva no vale exactamente nada. Si aun así se acerca el desencadenante, el grupo se escinde: pesos de los modelos, infraestructura de entrenamiento y base de usuarios migran a una hermana no cotizada, y lo que sale a bolsa es un escaparate europeo de margen bajo. Si nada de eso basta, un fondo de deuda privada amistoso convierte deuda en capital en una reestructuración preventiva, el capital antiguo queda extinguido por resolución judicial, y las mismas personas poseen los mismos modelos a la mañana siguiente a través de una sociedad nueva. Entretanto, las acciones que la Reserva sí posee en matrices de terceros países tributan en la fuente a tipos que no puede recuperar, porque un organismo supranacional residente en ninguna parte no tiene convenio que invocar. Cada uno de estos montajes es práctica ordinaria, no abuso; el instrumento es un evento de cristalización en un mundo que lleva cuarenta años aprendiendo a evitar los eventos.
 
-**Lo que acierta.** Todo. Un instrumento que pende de un único desencadenante será rodeado por quienes estructuran para vivir, y un reglamento que solo lo reconoce en sus considerandos ya ha concedido el punto. Las respuestas que siguen son añadidos que el expediente no tenía; provienen de una revisión externa y el memorando lo dice.
+**Lo que acierta.** Todo. Un instrumento que pende de un único
+desencadenante será rodeado por quienes se dedican profesionalmente a la
+estructuración societaria, y un reglamento que solo lo reconoce en sus
+considerandos ya ha concedido el punto. Las respuestas que siguen son
+añadidos que el expediente no tenía; provienen de una revisión externa y el
+memorando lo dice.
 
 **La respuesta que el instrumento debe dar.** Cerrar el calendario, el rango, el perímetro y la salida, y ser honesto donde el cierre sea parcial.
 
-Primero el calendario: el warrant ya no espera una venta. El artículo 5, apartado 3, lo hace cristalizar cuando la extracción a favor de los accionistas durante tres ejercicios consecutivos supera el 25 % de la facturación de la actividad cubierta, que es el punto en el que seguir siendo privada se ha convertido en una forma de pagarse a sí misma en lugar de construir; y en todo caso en el séptimo aniversario de la emisión, haga o deje de hacer lo que sea la empresa. Una empresa aún puede seguir siendo privada para siempre. Ya no puede seguir siendo privada y además pagarse.
+Primero el calendario: el warrant ya no espera una venta. El artículo 5,
+apartado 3, lo hace cristalizar cuando la extracción a favor de los
+accionistas durante tres ejercicios consecutivos supera el 25 % de la
+facturación de la actividad cubierta, que es el punto en el que seguir
+siendo privada se ha convertido en una forma de pagarse a sí misma en lugar
+de construir; y en todo caso en el séptimo aniversario de la emisión, haga
+lo que haga la empresa. Una empresa aún puede seguir siendo privada para
+siempre. Ya no puede seguir siendo privada y además pagarse.
 
-Después el rango: el artículo 5, apartado 4, letra b), otorga a la Reserva acciones que se sitúan, para dividendos y para el producto de cualquier venta o liquidación, en igualdad de rango con la clase mejor situada entre las creadas tras la designación, y en su defecto con las ordinarias. El tres por ciento de un tramo ordinario situado detrás de una preferencia participativa de tres veces no es el tres por ciento de nada, y el instrumento dice ahora de qué tres por ciento habla, sin retirar a los inversores la preferencia que efectivamente pagaron antes de la designación. El artículo 5, apartado 10, hace inoponible a la Reserva todo montaje que la posponga, dejándolo válido entre las partes.
+Después el rango: el artículo 5, apartado 4, letra b), otorga a la Reserva
+acciones que se sitúan, para dividendos y para el producto de cualquier
+venta o liquidación, en igualdad de rango con la clase mejor situada entre
+las creadas tras la designación, y en su defecto con las ordinarias. El tres
+por ciento de un tramo ordinario situado detrás de una preferencia de
+liquidación participativa del triple no es el tres por ciento de nada, y el
+instrumento dice ahora de qué tres por ciento habla, sin retirar a los
+inversores la preferencia que efectivamente pagaron antes de la designación.
+El artículo 5, apartado 10, hace inoponible a la Reserva toda
+reestructuración cuya finalidad o efecto principal sea situarla por debajo
+del rango que ese apartado le asigna, dejándola válida entre las partes.
 
 Después el perímetro: el artículo 5, apartado 11, obliga al adquirente a emitir su propio warrant cuando activos automatizados pasan a una entidad vinculada o bajo control común, o salen en condiciones distintas de las de plena competencia, y deja al transmitente obligado por lo que conserva. El conjunto entre la empresa designada y cada adquirente está limitado al porcentaje enunciado de su capital combinado, de modo que cerrar esta vía no pueda convertirse en un multiplicador para un grupo que se divide a sí mismo. El artículo 2, punto 14, nombra lo que no puede salir por la puerta: parámetros de los modelos, infraestructura de entrenamiento e inferencia, conjuntos de datos, la propiedad intelectual de la que depende el servicio. Esta es la lógica de sucesión del control de concentraciones, no una invención.
 
 Por último la salida: el artículo 5, apartado 12, vuelve a vincular la obligación cuando los activos automatizados emergen de una insolvencia o de una reestructuración conforme a la Directiva (UE) 2019/1023 en una entidad controlada por las mismas personas o en la que estas ostentan la mayoría de los derechos económicos, y exige emitir un nuevo warrant en tres meses. Un fracaso genuino sigue extinguiendo la participación de la Reserva, como la de cualquier accionista, porque la Reserva es propietaria y los propietarios lo soportan. Lo que no hace es bendecir la versión en que los propietarios sobreviven y solo muere la obligación.
 
-Una vía la ha conservado el letrado, y el instrumento la deja deliberadamente abierta. Una empresa puede endeudarse fuertemente con prestamistas que no son parientes de nadie, pagarles interés de mercado y llegar al plazo final valiendo menos de lo que habría valido sin deuda. Eso no es extracción y la definición no debe fingir lo contrario: el dinero va a extraños, no a personas de dentro, y los fundadores se empobrecen exactamente en la misma proporción que la Reserva. Todo accionista de una sociedad apalancada posee un derecho menor sobre un balance mayor, y un instrumento que toma el 3 % del capital no puede además exigir que ese capital quede libre de cargas. Lo que el expediente no debe hacer es confundir esto con las vías anteriores, donde el valor sale hacia bolsillos que son los mismos bolsillos. El apalancamiento es un riesgo que la Reserva asume como propietaria; la extracción es una transferencia que el Reglamento detiene.
+Una vía la ha conservado el letrado, y el instrumento la deja
+deliberadamente abierta. Una empresa puede endeudarse fuertemente con
+prestamistas no vinculados, pagarles interés de mercado y llegar al plazo
+final valiendo menos de lo que habría valido sin deuda. Eso no es extracción
+y la definición no debe fingir lo contrario: el dinero va a extraños, no a
+personas de dentro, y los fundadores se empobrecen exactamente en la misma
+proporción que la Reserva. Todo accionista de una sociedad apalancada posee
+un derecho menor sobre un balance mayor, y un instrumento que toma el 3 %
+del capital no puede además exigir que ese capital quede libre de cargas. Lo
+que el expediente no debe hacer es confundir esto con las vías anteriores,
+donde el valor sale hacia bolsillos que son los mismos bolsillos. El
+apalancamiento es un riesgo que la Reserva asume como propietaria; la
+extracción es una transferencia que el Reglamento detiene.
 
 Y la respuesta parcial honesta: la retención en la fuente. Un reglamento de la Unión no puede conferir a la Reserva un beneficio convencional que un tercer país no haya otorgado, y a un organismo no residente en ningún lugar se le puede aplicar la retención al tipo legal pleno. Se redactaron y se suprimieron dos respuestas. Ordenar a la Comisión negociar con terceros países habría mandado sobre una prerrogativa que el artículo 218 TFUE sitúa en otra parte. Permitir a la Reserva encaminar sus participaciones para rebajar el tipo habría escrito el treaty shopping en un instrumento cuya tesis entera es que el capital debe estar ampliamente repartido y pagar lo que debe; el letrado hostil ya tenía preparado el titular, y con razón. Lo que subsiste es el artículo 8, apartado 5: la Reserva publica cada año el impuesto que no pudo recuperar, y la Comisión responde de ello en el informe del artículo 14. Es una respuesta menor que el problema, y es la honesta. Una fuga que se declara cada año es una fuga por la que se puede juzgar a la campaña; una fuga que nadie mide solo crece.
 
@@ -736,7 +818,7 @@ acciones por valor del 20 % de su beneficio anual a favor de fondos de
 titularidad colectiva, año tras año, hasta que esos fondos poseyeran la
 mayoría de las acciones. Ese es el mecanismo de este instrumento: una
 emisión obligatoria de capital nuevo a favor de un titular colectivo,
-liquidada en acciones y no en efectivo, calibrada sobre la propia
+desembolsada en acciones y no en efectivo, calibrada sobre la propia
 prosperidad de la empresa.
 
 No sobrevivió ni a su propia redacción. Cuando el Riksdag legisló en 1983,
@@ -759,20 +841,19 @@ mundo, en el apogeo del poder del movimiento obrero organizado, con un
 gobierno afín, la emisión obligatoria de capital a un fondo colectivo
 resultó imposible de legislar, se convirtió en una medida fiscal durante la
 propia redacción y fue derogada en ocho años por el primer gobierno que lo
-quiso. Quien redacta sin conocer esto no ha hecho la lectura. Quien lo
-conoce y lo omite lo está ocultando.
+quiso. Quien redacta sin conocer esto no se ha documentado debidamente.
+Quien lo conoce y lo omite lo está ocultando.
 
 **Lo que acierta.** Casi todo, como historia. El mecanismo es de la misma
-familia. La conversión en un gravamen es real y es la prueba más
-contundente disponible para el ataque de la objeción 2 sobre la
-calificación jurídica, porque muestra a legisladores experimentados
-recurriendo al instrumento fiscal cuando el instrumento de capital se
-volvió políticamente imposible. La abolición de 1991 es un caso genuino del
-saqueo contra el que este instrumento redacta el capítulo VI, y su lugar
-está junto a Polonia, España e Irlanda en la base de evidencia, en vez de
-omitirse por resultar incómoda. La movilización es una predicción real de
-lo que ocurre cuando el capital interpreta una propuesta de este tipo como
-una transferencia de control.
+familia. La conversión en un gravamen es real y es la prueba más contundente
+disponible para el ataque de la objeción 2 sobre la calificación jurídica,
+porque muestra a legisladores experimentados recurriendo al instrumento
+fiscal cuando el instrumento de capital se volvió políticamente imposible.
+La abolición de 1991 es un caso genuino del saqueo frente al cual este
+instrumento articula el capítulo VI, y su lugar está junto a Polonia, España
+e Irlanda en la base de evidencia, en vez de omitirse por resultar incómoda.
+La movilización es una predicción real de lo que ocurre cuando el capital
+interpreta una propuesta de este tipo como una transferencia de control.
 
 **La respuesta que el instrumento debe dar.** Tres diferencias, cada una de
 las cuales corresponde a una razón concreta por la que el diseño sueco
@@ -810,13 +891,13 @@ Lo que este expediente no afirma es que las diferencias hagan segura la
 economía política. No la hacen. La posición honesta es que Suecia
 demuestra que el mecanismo solo puede legislarse si es visiblemente
 acotado, visiblemente carente de poder en cuanto al control y visiblemente
-universal en a quién paga, y que una propuesta que falle en cualquiera de
+universal en cuanto a sus beneficiarios, y que una propuesta que falle en cualquiera de
 esos tres extremos tiene una vía documentada hacia el fracaso. Este
 instrumento está redactado para satisfacer los tres a la vez, y la
 objeción 4 ya cuantifica el riesgo político residual en lugar de negarlo.
 
 **Consecuencia de diseño.** DC-41: el instrumento debe ser acotado, sin
-votos ni derechos de control, y universal en a quién paga, los tres a la
+votos ni derechos de control, y universal en cuanto a sus beneficiarios, los tres a la
 vez, porque el precedente sueco demuestra que fallar en cualquiera de ellos
 basta para perder. La palabra que hay que evitar es pasiva. La Reserva sí
 hace valer derechos: el artículo 5, apartado 4, letra b), fija su rango, y
@@ -836,7 +917,7 @@ asalariados pertenecen a la base de evidencia como precedente de saqueo y a
 este expediente como objeción, enunciados antes de que un adversario los
 enuncie.
 
-### 20. Tomar las acciones sin voto entrega el control a quienes usted señaló como el problema
+### 20. Tomar las acciones sin voto entrega el control a quienes se señalaron como el problema
 
 **La objeción, en su versión más fuerte.** El instrumento toma el tres por
 ciento del valor económico y ninguno de los votos. Esa aritmética no es
@@ -850,9 +931,10 @@ accionista permanentemente sin voto de Europa y ensanchando, en cada empresa
 cubierta, precisamente la cuña entre derechos al flujo de caja y derechos de
 control que la investigación sobre gobierno corporativo identifica como el
 predictor más fiable de la expropiación de minoritarios y de una gestión sin
-rendición de cuentas. Los fundadores de las empresas de frontera ya ostentan
-el control mediante estructuras de doble clase de acciones sobre
-participaciones económicas minoritarias. Esto les da más, gratis, por ley.
+rendición de cuentas. Los fundadores de las empresas en la frontera
+tecnológica ya ostentan el control mediante estructuras de doble clase de
+acciones sobre participaciones económicas minoritarias. Esto les da más,
+gratis, por ley.
 
 El punto de legitimación es peor que la aritmética. Una vez que la propia
 Unión acepta el capital sin voto como la forma que adopta la participación de
@@ -869,15 +951,15 @@ tratara de quién dirige las empresas en lugar de quién recibe los
 rendimientos del capital, el instrumento estaría respondiendo a una pregunta
 que no formuló, y además la estaría respondiendo en la dirección equivocada.
 
-**La respuesta que el instrumento debe dar.** No que esta sea la lente
-equivocada. Un borrador anterior de este pasaje llamaba error de categoría a
-la lectura en clave de gobierno corporativo, porque la pretensión del
+**La respuesta que el instrumento debe dar.** No porque este prisma sea
+erróneo. Un borrador anterior de este pasaje llamaba error de categoría a la
+lectura en clave de gobierno corporativo, porque la pretensión del
 instrumento es distributiva. Cuatro controles de revisión lo rechazaron en
 los mismos términos, y tenían razón: un instrumento que altera la relación
 entre derechos al flujo de caja y derechos de control en cada empresa que
 toca es, por su efecto, un instrumento de gobierno corporativo, sea cual sea
-su intención, y se le juzga con razón por sus efectos. La respuesta que sigue
-admite el efecto y defiende la elección.
+su intención, y se le juzga con razón por sus efectos. La respuesta que
+sigue admite el efecto y defiende la elección.
 
 La elección era entre tres posiciones y el expediente ha tomado la menos
 mala. Una Reserva con votos proporcionales a su participación es un
@@ -909,18 +991,18 @@ que es cuánto se mueve realmente el peso de voto de una acción restante.
 Sobre la legitimación, la objeción da en el blanco y solo se responde en
 parte. Las acciones sin voto no son un invento de este instrumento: el
 derecho de sociedades de la Unión las permite desde hace décadas y todos los
-Estados miembros las contemplan, de modo que la Reserva toma una clase que el
-mercado ya negocia. Pero la Unión lleva un tiempo legislando en sentido
+Estados miembros las contemplan, de modo que la Reserva toma una clase que
+el mercado ya negocia. Pero la Unión lleva un tiempo legislando en sentido
 contrario, añadiendo salvaguardias en torno a las estructuras de voto
 múltiple precisamente porque la separación entre propiedad y control se
 entiende como un peligro, y un reglamento que planta un bloque
 permanentemente sin voto en cada empresa cubierta encaja mal junto a eso. La
-formulación honesta es que el instrumento gasta parte de la autoridad de la
-Unión en la proposición de que la participación económica sin control es una
-forma legítima de propiedad, y que ese precio es real. Se paga
-deliberadamente, porque la alternativa es una Unión que ostenta votos en las
-empresas que regula, y este expediente prefiere defender una cuña antes que
-eso.
+formulación honesta es que el instrumento compromete parte de la autoridad
+de la Unión en defender la tesis de que la participación económica sin
+control es una forma legítima de propiedad, y que ese precio es real. Se
+paga deliberadamente, porque la alternativa es una Unión que ostenta votos
+en las empresas que regula, y este expediente prefiere defender una cuña
+antes que eso.
 
 La interacción precisa con la legislación de la Unión sobre estructuras de
 voto múltiple queda consignada como un punto de interfaz abierto con el
@@ -996,12 +1078,12 @@ palabras del instrumento.
 El defecto, por tanto, no está en esta exposición de motivos y no puede
 repararse aquí. Está en el artículo 1. Un instrumento que interfiere en el
 artículo 17 de la Carta y enuncia su objetivo de forma cualitativa ha dejado
-al requisito de necesidad sin nada con que medirse, y ninguna cantidad de
-argumentación sobre el tres por ciento lo sustituye. O el objetivo adquiere
-una cantidad frente a la cual pueda medirse un porcentaje, o la defensa al
-amparo del artículo 52, apartado 1, descansa solo en el requisito de
-proporcionalidad, que únicamente pregunta si la carga es excesiva y al que la
-respuesta es el techo y no el suelo.
+al requisito de necesidad sin nada con que medirse, y por más que se
+argumente en torno al tres por ciento, nada suple esa carencia. O el
+objetivo adquiere una cantidad frente a la cual pueda medirse un porcentaje,
+o la defensa al amparo del artículo 52, apartado 1, descansa solo en el
+requisito de proporcionalidad, que únicamente pregunta si la carga es
+excesiva y al que la respuesta es el techo y no el suelo.
 
 El techo es donde la defensa del expediente se sitúa hoy honestamente. Un
 porcentaje lo bastante grande como para despojar a los tenedores existentes
@@ -1053,8 +1135,7 @@ porcentaje sin objetivo alguno.
 **Consecuencia de diseño.** El porcentaje se deriva como el menor entero
 compatible con el objetivo enunciado en el artículo 1, apartado 2,
 sobre un modelo publicado y reproducible, y la circularidad inherente a la
-elección del objetivo se enuncia en lugar de ocultarse (DC-45). El
-artículo 1, apartado 2, porta el objetivo cuantificado, evaluado en
+elección del objetivo se enuncia en lugar de ocultarse (DC-45). El artículo 1, apartado 2, incorpora el objetivo cuantificado, evaluado en
 cada informe del artículo 14 en ambos sentidos, y la derivación se revisa
 cuando el conjunto designado o el modelo cambian (DC-46).
 
@@ -1090,14 +1171,14 @@ suspende la revisión con independencia de su prosa.
 | DC-22 | Derechos individuales no susceptibles de renuncia ni embargo; cantidades repartidas en propiedad y heredables | 9, 13 |
 | DC-23 | Resistencia al saqueo enunciada como fricción, nunca como imposibilidad | 9 |
 | DC-24 | Autoejecutivo por ministerio de la ley; sin maquinaria de programas | 10 |
-| DC-25 | Excedente del consumidor afirmado; instrumento aditivo a él | 11 |
+| DC-25 | Excedente del consumidor afirmado; instrumento un complemento de este | 11 |
 | DC-26 | Considerando explícito de alcance y límites | 12 |
 | DC-27 | La distinción con la RBU descansa en la forma jurídica | 13 |
 | DC-28 | Novedad solo en la fuente de financiación; cauces existentes para la entrega | 14 |
 | DC-29 | Injerencia limitada en la ejecución al porcentaje enunciado; valoración independiente e impugnable por separado; control judicial | 1 |
 | DC-30 | Los elementos esenciales (hecho generador, propiedad de la reserva, derecho, injerencia) en los artículos, nunca delegados | 1 |
 | DC-31 | Allí donde se muestre un importe de reparto por ciudadano, figura al lado la participación por ciudadano en la Reserva | 15 |
-| DC-32 | La participación económica es el máximo: ningún derecho de control, veto o privilegio de gobernanza se vincula a las participaciones de la Reserva, lo que vincula a este instrumento y a quien lo modifique, sin fingir vincular a una legislatura futura | 16 |
+| DC-32 | La participación económica es el máximo: ningún derecho de control, veto o privilegio de gobernanza se vincula a las participaciones de la Reserva, lo que vincula a este instrumento y a quien lo modifique, sin fingir vincular al legislador futuro | 16 |
 | DC-33 | Para las empresas bajo Derecho de un tercer país, el warrant es una obligación de resultado como condición de acceso al mercado, nunca una exclusión del Derecho de sociedades extranjero | 17 |
 | DC-34 | Ninguna instancia entre la valoración y los tribunales; corrección a posteriori y la transacción nunca espera | 6 |
 | DC-35 | Cristalización por extracción y por tiempo, no solo por venta | 18 |
@@ -1106,12 +1187,12 @@ suspende la revisión con independencia de su prosa.
 | DC-38 | Retención en la fuente no recuperable publicada anualmente; no se ordena a la Reserva organizar sus participaciones para reducirla | 18 |
 | DC-39 | La obligación se vuelve a vincular cuando los mismos propietarios recuperan los activos de una reestructuración | 18 |
 | DC-40 | Bajo un umbral de minimis el intervalo de reparto se alarga; nunca se convierte en razón para no pagar | 15 |
-| DC-41 | Acotado, sin votos ni derechos de control, y universal en a quién paga: los fondos suecos de los asalariados demuestran que fallar en cualquiera de los tres basta para perder. La Reserva sí hace valer derechos en cuanto al rango y frente a la subordinación; lo que nunca adquiere son votos, puestos en el consejo ni voz alguna en la gestión | 19 |
+| DC-41 | Acotado, sin votos ni derechos de control, y universal en cuanto a sus beneficiarios: los fondos suecos de los asalariados demuestran que fallar en cualquiera de los tres basta para perder. La Reserva sí hace valer derechos en cuanto al rango y frente a la subordinación; lo que nunca adquiere son votos, puestos en el consejo ni voz alguna en la gestión | 19 |
 | DC-42 | Los fondos de los asalariados se enuncian aquí como objeción y en la base de evidencia como precedente de saqueo, antes de que un adversario los enuncie | 19 |
 | DC-43 | La pretensión es distributiva y ninguna modificación da votos a la Reserva sin defenderse como un instrumento distinto; el efecto sobre el gobierno corporativo de los tenedores restantes se admite y se defiende, nunca se niega como lente equivocada | 20 |
 | DC-44 | El efecto relativo sobre el voto de los tenedores existentes se expone con su magnitud y no se deja al cálculo de un adversario, y toda comparación con recompras queda acotada a la magnitud, señalando al mismo tiempo sus diferencias | 20 |
 | DC-45 | El porcentaje es el menor entero compatible con el objetivo del artículo 1, apartado 2, derivado sobre un modelo publicado y reproducible; la circularidad de la elección del objetivo se enuncia, nunca se oculta | 21 |
-| DC-46 | El artículo 1, apartado 2, porta el objetivo cuantificado, evaluado en cada informe del artículo 14 en ambos sentidos; la derivación se revisa cuando el conjunto designado o el modelo cambian | 21 |
+| DC-46 | El artículo 1, apartado 2, incorpora el objetivo cuantificado, evaluado en cada informe del artículo 14 en ambos sentidos; la derivación se revisa cuando el conjunto designado o el modelo cambian | 21 |
 
 ## Estado
 

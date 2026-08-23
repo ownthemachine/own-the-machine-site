@@ -7,7 +7,7 @@ status: gate-reviewed
 # Was gegen diese Verordnung spricht
 
 Verfasst zuerst, vor jedem einzelnen Artikel, nach der Disziplin, die dieses
-Projekt geerbt hat: Wenn das Instrument diese Datei nicht übersteht,
+Projekt geerbt hat: Wenn das Instrument diese Akte nicht übersteht,
 korrigieren wir das Instrument, nicht die Prosa. Jeder Einwand wird in seiner
 stärksten Form dargestellt, mit seinen besten Quellen. Jeder endet mit der
 Konsequenz, die er dem Entwurf auferlegt. Die Konsequenzen summieren sich zur
@@ -312,25 +312,25 @@ bloß möglich, und die Sorge um die Wettbewerbsfähigkeit ist der stärkste
 politische Gegenwind in Brüssel in diesem Jahrzehnt.
 
 **Die Antwort, die das Instrument geben muss.** Die Pflicht knüpft an den
-Verkauf in den Binnenmarkt an, nicht an den Standort darin, genau wie DMA und
-DSGVO anknüpfen. Der empirische Befund seither ist, dass die Gatekeeper die
-Benennung hingenommen haben und geblieben sind, weil 450 Millionen
+Verkauf in den Binnenmarkt an, nicht an den Standort darin, genau wie DMA
+und DSGVO anknüpfen. Der empirische Befund seither ist, dass die Gatekeeper
+die Benennung hingenommen haben und geblieben sind, weil 450 Millionen
 einkommensstarke Verbraucher nicht optional sind; die DMA-Untersuchungen zu
 AWS und Azure haben keinen Rückzug hervorgebracht, sondern Compliance-Teams.
 Auf Gestaltung antwortet die Konsolidierung: Schwellenwerte werden auf
 gruppenkonsolidierten Zahlen berechnet, einschließlich ausgelagerter Arbeit
 nach wirtschaftlicher Substanz, mit der Beweislast beim Unternehmen, das
-Gegenteil zu zeigen. Und das ehrliche Zugeständnis: An der Marge wird manche
+Gegenteil zu zeigen. Und das ehrliche Zugeständnis: Im Grenzfall wird manche
 Investition anderswohin ausweichen, was ein realer Preis ist, im Memorandum
 abzuwägen gegen die dokumentierten Kosten der Alternative, nämlich dass sich
 die Gewinne ohnehin vollständig außerhalb Europas konzentrieren. Die
 Synergy-Geschichte ist das Beweisstück: Europa hat darauf verzichtet, seinen
-Cloudmarkt zur Offenheit zu regulieren, und seine Anbieter fielen unreguliert
-von 29 % auf 15 % ihres eigenen Heimatmarkts.
+Cloudmarkt auf Offenheit hin zu regulieren, und seine Anbieter fielen
+unreguliert von 29 % auf 15 % ihres eigenen Heimatmarkts.
 
 **Konsequenz für den Entwurf.** DC-10: Anknüpfung an den Marktzugang, nicht
 an die Niederlassung. DC-11: Gruppenkonsolidierung mit
-Substanz-vor-Form-Regeln für den Personalbestand.
+Regeln der wirtschaftlichen Betrachtungsweise für den Personalbestand.
 
 ### 6. Warrants auf Privatunternehmen: nicht bewertbar, nicht stimmberechtigt, nicht verkäuflich
 
@@ -349,26 +349,26 @@ Vermögen dem Zugriff der Bürgerinnen und Bürger gänzlich entzogen wird.
 **Was daran richtig ist.** Alles. Dies ist das schwerste Entwurfsproblem des
 Instruments, schwerer als die Rechtsgrundlage.
 
-**Die Antwort, die das Instrument geben muss.** Der Warrant ruht, bis
-Kristallisation eintritt, sei es bei einem Liquiditätsereignis
-(Börsengang, Kontrollwechsel oder qualifizierter Sekundärverkauf) oder,
-nach Artikel 5 Absatz 3, wenn die Entnahme zugunsten der Anteilseigner
-den genannten Anteil des Umsatzes aus der erfassten Tätigkeit
-übersteigt oder seit der Ausgabe sieben Jahre vergangen sind, je
-nachdem, was zuerst eintritt. Bis dahin verlangt er keine Bewertung, zahlt
-nichts und stimmt nicht ab; beim Ereignis wandelt er zum Ereignispreis, ohne
-Ermessen. Das entspricht dem Fenster des Buches selbst (den Anteil
-beanspruchen, während das Vermögen entsteht; realisieren, wenn der Markt es
-bepreist) und beseitigt das Bewertungs- und das Governance-Problem in einem
-Zug: Die Reserve hält stimmrechtslose wirtschaftliche Beteiligungen,
-dauerhaft, kraft Gesetzes, und nimmt die Bebchuk-Kosten bewusst in Kauf, weil
-die Alternative, eine politisch abgestimmte Beteiligung an jedem großen
-Unternehmen, schlimmer wäre. Die Dividende der frühen Jahre wird aus
-Realisierungen finanziert, nicht aus Beständen, und das Memorandum muss klar
-sagen, dass die Dividende klein beginnt und sich aufzinst, nach norwegischem
-Muster, und dass, wer anderes verspricht, nicht für uns spricht. Zwei Drittel des
-norwegischen Fonds sind aufgezinste Rendite; das ehrliche Versprechen ist die
-Regel, nicht der erste Scheck.
+**Die Antwort, die das Instrument geben muss.** Der Warrant ruht bis zur
+Realisierung, sei es bei einem Liquiditätsereignis (Börsengang,
+Kontrollwechsel oder qualifizierter Sekundärverkauf) oder, nach Artikel 5
+Absatz 3, wenn die Entnahme zugunsten der Anteilseigner den genannten Anteil
+des Umsatzes aus der erfassten Tätigkeit übersteigt oder seit der Ausgabe
+sieben Jahre vergangen sind, je nachdem, was zuerst eintritt. Bis dahin
+verlangt er keine Bewertung, zahlt nichts und stimmt nicht ab; beim Ereignis
+wandelt er zum Ereignispreis, ohne Ermessen. Das entspricht dem Fenster des
+Buches selbst (den Anteil beanspruchen, während das Vermögen entsteht;
+realisieren, wenn der Markt es bepreist) und beseitigt das Bewertungs- und
+das Governance-Problem in einem Zug: Die Reserve hält stimmrechtslose
+wirtschaftliche Beteiligungen, dauerhaft, kraft Gesetzes, und nimmt die
+Bebchuk-Kosten bewusst in Kauf, weil die Alternative, eine politisch
+ausgeübte Stimmrechtsbeteiligung an jedem großen Unternehmen, schlimmer
+wäre. Die Dividende der frühen Jahre wird aus Realisierungen finanziert,
+nicht aus Beständen, und das Memorandum muss klar sagen, dass die Dividende
+niedrig ansetzt und über den Zinseszinseffekt anwächst, nach norwegischem
+Muster, und dass, wer anderes verspricht, nicht für uns spricht. Zwei
+Drittel des norwegischen Fonds sind aufgezinste Rendite; das ehrliche
+Versprechen ist die Regel, nicht die erste Auszahlung.
 
 Eine Verfeinerung wurde erwogen und verworfen. Es wird vorgetragen, Bewertungen schnell wachsender privater Unternehmen seien volatil genug, dass Streitigkeiten über das Verwässerungsverhältnis das Instrument in Prozessen versanden ließen, und dass deshalb ein beschleunigtes verbindliches Schiedsverfahren zwischen den Bewerter und die Gerichte gehöre. Das Instrument beantwortet das Problem, auf das der Vorschlag zielt, bereits, und der Vorschlag würde mehr kosten, als er einspart. Artikel 6 Absatz 5 bestimmt, dass eine Anfechtung weder das Liquiditätsereignis noch die Zeichnung aufschiebt, und Artikel 6 Absatz 4 korrigiert eine fehlerhafte Bewertung im Nachhinein in beide Richtungen, sodass ein Streit niemanden aufhält: das ist das Muster des Abwicklungsrechts, in dem der Rechtsstreit neben der Transaktion läuft und nicht quer durch sie. Wo das Ereignis selbst einen Preis setzt, macht Artikel 6 Absatz 2 die Bewertung zu einer reinen Rechenoperation anhand dieses Preises statt zu einem Werturteil darüber, und genau dort träte Volatilität sonst ein. Und eine Schiedsinstanz, deren Spruch die Parteien bände, stieße auf Artikel 47 der Charta über den Zugang zu einem Gericht und auf die Grenzen der Übertragung von Ermessensbeurteilungen auf Einrichtungen der Union; eine Instanz, deren Spruch sie nicht bände, fügte eine Stufe hinzu, ohne eine zu beseitigen.
 
@@ -486,7 +486,7 @@ Aussteiger verdienten unter dem Median.
 
 **Was daran richtig ist.** Das ist die These aus Kapitel 10 des Buches
 selbst, als Einwand zurückgereicht, und es ist das stärkste politische
-Argument in dieser Datei. Die Plünderung ist kein Randrisiko; nach
+Argument in dieser Akte. Die Plünderung ist kein Randrisiko; nach
 europäischer Bilanz ist sie der Regelfall.
 
 **Die Antwort, die das Instrument geben muss.** Gegen die tatsächlichen
@@ -499,7 +499,7 @@ Schutzbestimmungen bleiben einer ausdrücklichen Gesetzesänderung vorbehalten,
 begleitet von einer veröffentlichten unabhängigen Bewertung der Wirkung auf
 die Inhaber; eine Verordnung kann künftigen Gesetzgebern keine
 Abstimmungsschwellen oder Fristen vorschreiben, und das Gegenteil zu
-behaupten würde den Kritikern den leichtesten Spott der Datei liefern. Gegen
+behaupten würde den Kritikern den leichtesten Spott der Akte liefern. Gegen
 Irland: keinerlei Notfallklausel, denn die Plünderung des NPRF war nach
 dessen eigenen Notstandsbestimmungen rechtmäßig. Gegen Estland: Der laufende
 Anspruch ist weder verzichtbar noch gegen Zahlung ablösbar, sodass es
@@ -524,24 +524,23 @@ Plünderungsresistenz wird als Reibung ausgewiesen, nie als Unmöglichkeit.
 ### 10. Die EU kann nicht einmal auszahlen, was sie ankündigt
 
 **Der Einwand, in aller Schärfe.** Die Ausschreibung für die KI-Gigafabriken
-öffnete achtzehn Monate nach der 200-Milliarden-Ankündigung; der Bau ist ab
+startete achtzehn Monate nach der 200-Milliarden-Ankündigung; der Bau ist ab
 2027 versprochen; die Sovereign-Cloud-Ausschreibung der Kommission vergab
 180 Millionen, gegenüber 33,7 Milliarden eines einzigen Hyperscalers in
 Spanien. Der institutionelle Stoffwechsel, der diese Verordnung betreiben
-würde, bewegt sich in einem Tempo, das die zugrunde liegende Wirtschaft nicht
-kennt. Eine Bürgerreserve in diesem Tempo würde Warrants Jahre zu spät
+würde, bewegt sich in einem Tempo, das die zugrunde liegende Wirtschaft
+nicht kennt. Eine Bürgerreserve in diesem Tempo würde Warrants Jahre zu spät
 realisieren und ein Jahrzehnt lang nichts ausschütten.
 
 **Was daran richtig ist.** Die Auszahlungsbilanz ist zutreffend vernichtend,
 und das Memorandum gewinnt nichts, wenn es sie bestreitet.
 
-**Die Antwort, die das Instrument geben muss.** Keine Ausgabenmaschinerie der
-Union auf den kritischen Pfad legen. Die Pflicht läuft unmittelbar von den
-benannten Unternehmen zur Reserve: Warrants entstehen kraft Gesetzes beim
-Überschreiten der Schwellenwerte, realisieren sich kraft Gesetzes bei
-Ereignissen, und die Aufgabe der Reserve ist Verwahrung und Ausschüttung,
-nicht Beschaffung. Nichts muss gebaut, ausgeschrieben oder ausgezahlt werden,
-damit das Instrument funktioniert; der Kontrast zu InvestAI ist das
+**Die Antwort, die das Instrument geben muss.** Keine Ausgabenmaschinerie
+der Union auf den kritischen Pfad setzen. Die Pflicht läuft unmittelbar von
+den benannten Unternehmen zur Reserve: Warrants entstehen kraft Gesetzes
+beim Überschreiten der Schwellenwerte, gelangen kraft Gesetzes bei Eintritt der Ereignisse zur Realisierung, und die Aufgabe der Reserve ist Verwahrung und Ausschüttung,
+nicht Beschaffung. Nichts muss gebaut, ausgeschrieben oder ausgezahlt
+werden, damit das Instrument funktioniert; der Kontrast zu InvestAI ist das
 Entwurfsprinzip, nicht seine Blamage.
 
 **Konsequenz für den Entwurf.** DC-24: selbstvollziehende Pflichten kraft
@@ -567,18 +566,19 @@ der Hauptkanal, über den Technik den Lebensstandard gehoben hat. Das Buch
 räumt es ein; das Memorandum muss es auch.
 
 **Die Antwort, die das Instrument geben muss.** Zwei Tatsachen stehen neben
-der Diffusionsgeschichte, ohne ihr zu widersprechen. Erstens die Verzögerung:
-Die britischen Reallöhne stagnierten nach Watt rund ein halbes Jahrhundert,
-während die Produktion explodierte, und die Verbreiterung kam durch
-Gewerkschaften, Wahlrecht und Fabrikgesetze, nicht durch Preise allein; die
-Menschen, die in dieser Pause lebten, bekamen die Jahrzehnte nicht zurück,
-und wem die Grube gehörte, der wartete nicht. Ein an der Tür beanspruchtes
-Instrument ist der Unterschied zwischen einer Pause mit und einer Pause ohne
-Vermögenswert. Zweitens sind Bestand und Strom verschiedene Fragen:
-Günstigerer Konsum und konzentriertes Vermögen sind vereinbar, und der
-Euroraum führt die Kombination gerade vor, mit Rekordbeschäftigung neben
-einer Eigentumsverteilung von dreiundachtzig zu zwei. Die Dividende behindert
-die Diffusion nicht; sie stellt neben den Preiskanal einen Eigentumskanal.
+der Diffusionsgeschichte, ohne ihr zu widersprechen. Erstens die
+Verzögerung: Die britischen Reallöhne stagnierten nach Watt rund ein halbes
+Jahrhundert, während die Produktion explodierte, und die Verbreiterung kam
+durch Gewerkschaften, Wahlrecht und Fabrikgesetze, nicht durch Preise
+allein; die Menschen, die in dieser Pause lebten, bekamen die Jahrzehnte
+nicht zurück, und wem die Grube gehörte, der wartete nicht. Ein von
+vornherein geltend gemachtes Instrument ist der Unterschied zwischen einer
+Pause mit und einer Pause ohne Vermögenswert. Zweitens sind Bestands- und
+Stromgrößen verschiedene Fragen: Günstigerer Konsum und konzentriertes
+Vermögen sind vereinbar, und der Euroraum führt die Kombination gerade vor,
+mit Rekordbeschäftigung neben einer Eigentumsverteilung von dreiundachtzig
+zu zwei. Die Dividende behindert die Diffusion nicht; sie stellt neben den
+Preiskanal einen Eigentumskanal.
 
 **Konsequenz für den Entwurf.** DC-25: Das Memorandum bejaht die
 Konsumentenrente und positioniert das Instrument als deren Ergänzung, nie als
@@ -586,7 +586,7 @@ Korrektur einer Unwahrheit.
 
 ### 12. Eine Dividende stiftet weder Status noch Sinn
 
-**Der Einwand, in aller Schärfe.** Positionsgüter verteuern sich gegen jeden
+**Der Einwand, in aller Schärfe.** Positionsgüter verteuern sich bei jedem
 universellen Transfer: Gib allen mehr, und das Haus in der richtigen Straße
 kostet mehr. Und Einkommen ohne Arbeit zahlt die Miete, nicht den
 Dienstagnachmittag: Struktur, Ansehen und Zugehörigkeit, die Erwerbsarbeit
@@ -618,7 +618,7 @@ sammeln. Die Warrant-Maschinerie ist Komplexität, hinzugefügt, um einen
 Transfer als Rendite zu verkleiden.
 
 **Was daran richtig ist.** Die Zahlung ist tatsächlich bedingungslos und
-universell, und die Familienähnlichkeit am Punkt des Empfangs ist real.
+universell, und die Familienähnlichkeit ist auf Empfängerseite real.
 
 **Die Antwort, die das Instrument geben muss.** Der Unterschied liegt nicht
 im Empfangen, sondern im Rechtsstand. Eine Leistung ist ein Strom aus dem
@@ -628,22 +628,22 @@ auf den Namen der Bürgerin, vererbbar, gespeist aus Erträgen von
 Vermögenswerten, die die Bürgerinnen und Bürger gemeinsam besitzen. Polen
 konnte Kontoanteile per Gesetz streichen, gerade weil sie Forderungen gegen
 den Staat selbst waren; Dänemarks LD zahlt seit sechsundvierzig Jahren, weil
-er Marktvermögen auf Konten mit Namen hält. Der Leitspruch ist die Antwort in
+er Marktvermögen auf personalisierten Konten hält. Der Leitspruch ist die Antwort in
 sechs Worten: Kapital für alle, die Dividende folgt. Die Reihenfolge ist das
 Argument.
 
-**Konsequenz für den Entwurf.** DC-27 (verstärkt DC-22): benannte, vererbbare
-Einzelkonten, damit der Grundeinkommensvergleich an der Rechtsform scheitert,
+**Konsequenz für den Entwurf.** DC-27 (verstärkt DC-22): personalisierte, vererbbare Einzelkonten, damit der Grundeinkommensvergleich an der Rechtsform scheitert,
 nicht an der Rhetorik.
 
 ### 14. Renten leisten das schon, man nutze sie
 
-**Der Einwand, in aller Schärfe.** Europa besitzt die Maschinerie für breites
-Kapitaleigentum bereits: Die Niederlande haben gerade 605 Milliarden in
-individuelle beitragsorientierte Ansprüche überführt, Schwedens Prämienrente
-hat sich seit 2000 mit real 5,35 % verzinst, und der amerikanische Fall
-zeigt, wie Altersvorsorgekonten Aktienbesitz ohne jeden gesetzlichen Warrant
-auf 58 % der Haushalte ausgebreitet haben. Baut die Renten aus, statt Neuheiten zu erfinden.
+**Der Einwand, in aller Schärfe.** Europa besitzt die Maschinerie für
+breites Kapitaleigentum bereits: Die Niederlande haben gerade 605 Milliarden
+in individuelle beitragsorientierte Ansprüche überführt, Schwedens
+Prämienrente hat sich seit 2000 mit real 5,35 % verzinst, und der
+amerikanische Fall zeigt, wie Altersvorsorgekonten Aktienbesitz ohne jeden
+gesetzlichen Warrant auf 58 % der Haushalte ausgeweitet haben. Baut die
+Renten aus, statt Neuheiten zu erfinden.
 
 **Was daran richtig ist.** Die Auszahlungsschienen existieren, funktionieren
 und genießen Vertrauen, und jeder Entwurf, der sie ignoriert, ist
@@ -671,9 +671,30 @@ Finanzierungsquelle beschränkt, wo sie nötig ist.
 
 **Der Einwand, in aller Schärfe.** Lässt man den eigenen Simulator des Instruments mit vorsichtigen Annahmen laufen, zahlt er einer Bürgerin im ersten Jahrzehnt ein, zwei Euro im Jahr. Kein vernünftiger Mensch misst dem Wert bei; kein Wähler macht dafür Wahlkampf; kein Journalist widersteht der Schlagzeile. Der Apparat steht in einem grotesken Missverhältnis zu seinem Ertrag: eine neue Einrichtung der Union, ein Benennungsregime, Bewertungsmaschinerie, Komitologie, Geldbußen bis zu 10 % des weltweiten Umsatzes, alles, um weniger als den Preis eines Kaffees zu liefern. Schlimmer noch: die Ehrlichkeitsdoktrin des Projekts verbietet, mehr zu versprechen. Eine Initiative, die jeder Unterzeichnerin nach ihren eigenen Regeln sagen muss „davon werden Sie zwanzig Jahre lang nichts spüren", hat eine Botschaft gewählt, mit der noch keine Massenkampagne gewonnen wurde. Ein Grundeinkommen verspricht wenigstens die Miete.
 
-**Was daran richtig ist.** Der frühe Fluss ist wirklich klein, und die Kampagne darf ihn strukturell nicht aufblähen. Das Sammelrisiko ist real: aufgeschobene Belohnungen verlieren an jeder Haustür gegen sofortige.
+**Was daran richtig ist.** Der anfängliche Mittelzufluss ist wirklich klein,
+und die Kampagne darf ihn strukturell nicht aufblähen. Das Sammelrisiko ist
+real: aufgeschobene Belohnungen verlieren an jeder Haustür gegen sofortige.
 
-**Die Antwort, die das Instrument geben muss.** In drei Teilen. Erstens ist die Kleinheit Kalibrierung, kein Scheitern: die Größe des Instruments folgt konstruktionsbedingt der Größe des Phänomens. Drei Prozent von wenig sind wenig, fast niemandem genommen, und in dieser Welt verpflichtet Artikel 14 Absatz 3 die Kommission, das Scheitern der Prämisse festzustellen und Änderung oder Aufhebung vorzuschlagen; eine dauerhaft kleine Dividende ist das Greifen der Falsifikationsbedingung, kein Hinken der Politik. Die Dividende ist nur in der Welt klein, in der auch das Problem klein ist. Zweitens lässt sich der Anspruch nur früh erwerben. Die 1978 eingefrorene Einzahlung eines dänischen Arbeitnehmers von 4 368 DKK, damals belangloses Geld, ist heute 119 506 DKK wert; zwei Drittel des norwegischen Fonds sind Zinseszins, nicht Öl. Der andere Zeitpunkt, den Anteil einzufordern, wenn die Gewinne sichtbar und die Eigentümer sich festgesetzt haben, ist Enteignung und politisch unmöglich. Der Euro kauft das Zertifikat, und auf das Zertifikat kommt es an. Drittens läuft der Bestand dem Fluss voraus: unter denselben vorsichtigen Annahmen steht die Reserve im dreißigsten Jahr mit rund 400 EUR an eigenem Kapital hinter jeder Bürgerin, bevor eine einzige Jahresausschüttung beeindruckt. Eine Kampagne, die die Ausschüttung ohne den Anteil zeigt, beschreibt ihr eigenes Instrument falsch.
+**Die Antwort, die das Instrument geben muss.** In drei Teilen. Erstens ist
+die Kleinheit Kalibrierung, kein Scheitern: die Größe des Instruments folgt
+konstruktionsbedingt der Größe des Phänomens. Drei Prozent von wenig sind
+wenig, fast niemandem genommen, und in dieser Welt verpflichtet Artikel 14
+Absatz 3 die Kommission, das Scheitern der Prämisse festzustellen und
+Änderung oder Aufhebung vorzuschlagen; eine dauerhaft kleine Dividende ist
+das Greifen der Falsifikationsbedingung, kein politisches Versagen. Die
+Dividende ist nur in der Welt klein, in der auch das Problem klein ist.
+Zweitens lässt sich der Anspruch nur früh erwerben. Die 1978 eingefrorene
+Einzahlung eines dänischen Arbeitnehmers von 4 368 DKK, damals belangloses
+Geld, ist heute 119 506 DKK wert; zwei Drittel des norwegischen Fonds sind
+Zinseszins, nicht Öl. Der andere Zeitpunkt, den Anteil einzufordern, wenn
+die Gewinne sichtbar und die Eigentümer sich festgesetzt haben, ist
+Enteignung und politisch unmöglich. Der Euro kauft das Zertifikat, und auf
+das Zertifikat kommt es an. Drittens läuft der Vermögensbestand dem
+Zahlungsstrom voraus: unter denselben vorsichtigen Annahmen steht die
+Reserve im dreißigsten Jahr mit rund 400 EUR an eigenem Kapital hinter jeder
+Bürgerin, bevor eine einzige Jahresausschüttung beeindruckt. Eine Kampagne,
+die die Ausschüttung ohne den Anteil zeigt, beschreibt ihr eigenes
+Instrument falsch.
 
 **Konsequenz für den Entwurf.** Dieser Einwand ist der Grund für DC-14 (nie mit einer Zahl der Anfangsjahre einsteigen), dafür, dass Artikel 14 Absatz 3 die Falsifikationsbedingung ausdrücklich enthält, und dafür, dass Anhang II Erträge ausschüttet und nie Substanz. Er fügt zwei eigene mechanische Regeln hinzu: wo ein Auszahlungsbetrag je Bürgerin gezeigt wird, steht der Anteil je Bürgerin an der Reserve daneben (DC-31); und wo der ausschüttbare Betrag eines Jahres zu klein wäre, um die Überweisung zu lohnen, verlängert sich das Intervall, statt dass das Geld verschwindet, vorbehaltlich einer harten Untergrenze von einer Ausschüttung in jedem Dreijahreszeitraum und einer Pflicht, zu veröffentlichen, was nicht gezahlt wurde (DC-40). Der Schwellenwert ist ein Verhältnis zu den Kosten der Zahlung, keine feste Zahl: Eine Zahl in einem Anhang veraltet und liefert jedem, der eine Schlagzeile sucht, sie frei Haus.
 
@@ -685,7 +706,21 @@ Finanzierungsquelle beschränkt, wo sie nötig ist.
 
 **Die Antwort, die das Instrument geben muss.** Die Linie der goldenen Aktien verurteilt eines: besondere Kontrollrechte über die Beteiligung hinaus, Stimmrechtsdeckel, Sperrminoritäten, Zustimmungsvetos, Organsitze, das Instrumentarium, mit dem ein Staat ein Unternehmen lenkt, das ihm nicht gehört. Das Instrument baut das exakte Gegenteil, in den Artikeln und nicht in Beteuerungen. Der Anteil der Reserve trägt niemals ein Stimmrecht (Artikel 5 Absatz 4 Buchstabe a und Artikel 9 Absatz 1 Buchstabe a); keine Vertretung in Organen (Artikel 9 Absatz 1 Buchstabe b); keine Weisungen (Artikel 9 Absatz 1 Buchstabe c); keine Erwerbe jenseits des Warrants und indexartiger Streuung (Artikel 9 Absatz 1 Buchstabe d); weder Hebel noch Derivate, die sie zu einem strategischen Akteur machen würden (Artikel 9 Absatz 1 Buchstaben e bis g). Was bleibt, ist reine wirtschaftliche Beteiligung, die Position jedes passiven Minderheitsaktionärs, und es ist die Position, die der norwegische Fonds in vergleichbarer Größenordnung bei europäischen börsennotierten Unternehmen hält, ohne dass je ein Verfahren nach Artikel 63 angestrengt worden wäre. Was die Rechtsprechung von jeder Beschränkung verlangt, die bestehen bleibt, beantwortet das Instrument unmittelbar im Text: Diskriminierungsfreiheit (identische Behandlung von Unions- und Drittlandsunternehmen nach Artikel 3), ein zwingendes Allgemeininteresse in den Erwägungsgründen und Verhältnismäßigkeit, getragen von den festen 3 %, der unabhängigen, gesondert anfechtbaren Bewertung (Artikel 5 Absatz 9, 6 und 7) und der Abwägung nach Artikel 52 Absatz 1. Und anders als jede kassierte goldene Aktie ist dies kein Mitgliedstaat, der sich nationalen Einfluss gegen die Integration vorbehält: es ist eine einheitliche Unionsregel für den gesamten Binnenmarkt, und gerade ihre Einheitlichkeit beseitigt die Divergenz, die nationale Beteiligungsregime schaffen würden. Der ehrliche Rest ist, dass eine verpflichtende künftige Verwässerung selbst ein Kostenfaktor ist, den Investoren einpreisen; Einwand 4 beziffert ihn, und Verhältnismäßigkeit, nicht Leugnung, ist die Verteidigung.
 
-**Konsequenz für den Entwurf.** Die dauerhafte Stimmrechtslosigkeit von DC-13 und die Verhaltensverbote des Artikels 9 sind die rechtliche Antwort auf diesen Einwand. Was sie nicht können, ist eine künftige Gesetzgebung zu binden, und dieses Memorandum tut nicht so, als könnten sie es: Die Entstehungsgeschichte des Artikels 12 Absatz 3 hält fest, dass die Bindung künftiger Gesetzgebung in einer früheren Runde die Prüfstufen nicht bestand, und ein Versuch am 21. August 2026, der Regel in jenem Absatz operative Wirkung zu verleihen, wurde aufgegeben, weil der gegnerische Rechtsbeistand sie lieber stehen ließ und darin einen unionsrechtlichen Befehl las, der Reserve die schützenden Gattungsrechte zu entziehen, die ihr Artikel 5 Absatz 4 Buchstabe b gibt. Was bleibt, ist eine Entwurfsregel, die dieses Instrument und jeden, der es ändert, bindet: Wirtschaftliche Beteiligung ist das Maximum, und kein Kontrollrecht, Veto oder Governance-Privileg knüpft an die Beteiligungen der Reserve an (DC-32). Es ist eine Zusage, die der Text einhält, kein Schloss, das der Text auferlegen kann.
+**Konsequenz für den Entwurf.** Die dauerhafte Stimmrechtslosigkeit von
+DC-13 und die Verhaltensverbote des Artikels 9 sind die rechtliche Antwort
+auf diesen Einwand. Was sie nicht können, ist eine künftige Gesetzgebung zu
+binden, und dieses Memorandum tut nicht so, als könnten sie es: Die
+Entstehungsgeschichte des Artikels 12 Absatz 3 hält fest, dass die Bindung
+künftiger Gesetzgebung in einer früheren Runde die Prüfstufen nicht bestand,
+und ein Versuch am 21. August 2026, der Regel in jenem Absatz operative
+Wirkung zu verleihen, wurde aufgegeben, weil der gegnerische Rechtsbeistand
+sie lieber vorhanden sah und daraus eine unionsrechtliche Vorgabe herauslas,
+der Reserve die schützenden Gattungsrechte zu entziehen, die ihr Artikel 5
+Absatz 4 Buchstabe b gibt. Was bleibt, ist eine Entwurfsregel, die dieses
+Instrument und jeden, der es ändert, bindet: Wirtschaftliche Beteiligung ist
+das Maximum, und kein Kontrollrecht, Veto oder Governance-Privileg knüpft an
+die Beteiligungen der Reserve an (DC-32). Es ist eine Zusage, die der Text
+einhält, kein Schloss, das der Text auferlegen kann.
 
 ### 17. Ihr greift nach Anteilen an Unternehmen, über die Europa nicht bestimmt
 
@@ -732,25 +767,85 @@ werden.
 
 ### 18. Gesellschaftsrechtliche Gestaltung wird das alles einfach umgehen
 
-**Der Einwand, in aller Schärfe.** Jeder Mechanismus dieser Verordnung setzt einen Zeitpunkt voraus, an dem Wert sichtbar wird, und das Gesellschaftsrecht besteht dazu, diesen Zeitpunkt zu verschieben. Ein hyperautomatisiertes Unternehmen ist der ideale Entfesselungskünstler: Es braucht wenig Kapital, muss also nie an die Börse; es erwirtschaftet Liquidität, kann seine Gründer also jahrzehntelang über Dividenden, fremdfinanzierte Rekapitalisierungen und gezielte Aktienrückkäufe auszahlen, während der Warrant auf ewig ruht. Muss es am Ende doch handeln, handelt es in einer Kapitalstruktur, in der die Reserve nicht sitzt: Vorzugsaktien von der Seed- bis zur Serie G mit zwei- und dreifachen Liquidationspräferenzen, sodass ein Verkauf alles an die Vorzugsinhaber verteilt und die drei Prozent Stammaktien der Reserve exakt nichts wert sind. Naht der Auslöser dennoch, spaltet sich die Gruppe: Modellgewichte, Trainingsinfrastruktur und Nutzerbasis wandern zu einer nicht notierten Schwester, und was an die Börse geht, ist ein europäisches Schaufenster mit dünner Marge. Hilft auch das nicht, wandelt ein befreundeter Private-Credit-Fonds in einem präventiven Restrukturierungsverfahren Schulden in Eigenkapital, das alte Eigenkapital wird durch Gerichtsbeschluss ausgelöscht, und dieselben Leute besitzen am nächsten Morgen dieselben Modelle über eine neue Gesellschaft. Unterdessen werden die Anteile, die die Reserve an Drittstaatsmüttern hält, an der Quelle mit Sätzen besteuert, die sie nicht zurückfordern kann, denn eine supranationale Einrichtung ohne Ansässigkeit hat kein Abkommen, auf das sie sich berufen könnte. Jedes davon ist übliche Praxis, kein Missbrauch; das Instrument ist ein Kristallisationsereignis in einer Welt, die vierzig Jahre gelernt hat, Ereignisse zu vermeiden.
+**Der Einwand, in aller Schärfe.** Jeder Mechanismus dieser Verordnung setzt
+einen Zeitpunkt voraus, an dem Wert sichtbar wird, und das
+Gesellschaftsrecht besteht dazu, diesen Zeitpunkt zu verschieben. Ein
+hyperautomatisiertes Unternehmen ist der ideale Entfesselungskünstler: Es
+braucht wenig Kapital, muss also nie an die Börse; es erwirtschaftet
+Liquidität, kann seine Gründer also jahrzehntelang über Dividenden,
+fremdfinanzierte Rekapitalisierungen und gezielte Aktienrückkäufe auszahlen,
+während der Warrant auf ewig ruht. Muss es am Ende doch handeln, handelt es
+in einer Kapitalstruktur, in der die Reserve nicht sitzt: Vorzugsaktien von
+der Seed- bis zur Serie G mit zwei- und dreifachen Liquidationspräferenzen,
+sodass ein Verkauf alles an die Vorzugsinhaber verteilt und die drei Prozent
+Stammaktien der Reserve exakt nichts wert sind. Naht der Auslöser dennoch,
+spaltet sich die Gruppe: Modellgewichte, Trainingsinfrastruktur und
+Nutzerbasis wandern zu einer nicht notierten Schwester, und was an die Börse
+geht, ist ein europäisches Schaufenster mit dünner Marge. Hilft auch das
+nicht, wandelt ein befreundeter Private-Credit-Fonds in einem präventiven
+Restrukturierungsverfahren Schulden in Eigenkapital, das alte Eigenkapital
+wird durch Gerichtsbeschluss ausgelöscht, und dieselben Leute besitzen am
+nächsten Morgen dieselben Modelle über eine neue Gesellschaft. Unterdessen
+werden die Anteile, die die Reserve an Drittstaatsmüttern hält, an der
+Quelle mit Sätzen besteuert, die sie nicht zurückfordern kann, denn eine
+supranationale Einrichtung ohne Ansässigkeit hat kein Abkommen, auf das sie
+sich berufen könnte. Jedes davon ist übliche Praxis, kein Missbrauch; das
+Instrument ist ein Realisierungsereignis in einer Welt, die vierzig Jahre
+gelernt hat, Ereignisse zu vermeiden.
 
 **Was daran richtig ist.** Alles. Ein Instrument, das an einem einzigen Auslöser hängt, wird von Leuten umgangen, die beruflich gestalten, und eine Verordnung, die das nur in ihren Erwägungsgründen einräumt, hat den Punkt bereits eingeräumt. Die Antworten unten sind Ergänzungen, die die Akte nicht hatte; sie stammen aus externer Prüfung, und das Memorandum sagt das.
 
-**Die Antwort, die das Instrument geben muss.** Zeitpunkt, Rang, Perimeter und Ausgang schließen, und ehrlich sein, wo der Verschluss unvollständig bleibt.
+**Die Antwort, die das Instrument geben muss.** Zeitpunkt, Rang, Perimeter
+und Ausgang schließen, und ehrlich sein, wo der Verschluss unvollständig
+bleibt.
 
-Zuerst der Zeitpunkt: Der Warrant wartet nicht mehr auf einen Verkauf. Artikel 5 Absatz 3 lässt ihn kristallisieren, wenn die Entnahme zugunsten der Anteilseigner über drei aufeinanderfolgende Geschäftsjahre 25 % des Umsatzes aus der erfassten Tätigkeit übersteigt, also dort, wo Privatbleiben zur Art geworden ist, sich selbst zu bezahlen, statt zu bauen; und in jedem Fall am siebten Jahrestag der Ausgabe, was das Unternehmen auch tut oder unterlässt. Ein Unternehmen darf weiterhin für immer privat bleiben. Es darf nicht mehr privat bleiben und sich zugleich auszahlen.
+Zuerst der Zeitpunkt: Der Warrant wartet nicht mehr auf einen Verkauf.
+Artikel 5 Absatz 3 führt zu seiner Realisierung, wenn die Entnahme zugunsten
+der Anteilseigner über drei aufeinanderfolgende Geschäftsjahre 25 % des
+Umsatzes aus der erfassten Tätigkeit übersteigt, also dort, wo das
+Verbleiben in privater Hand dazu dient, sich selbst auszuzahlen, statt das
+Unternehmen aufzubauen; und in jedem Fall am siebten Jahrestag der Ausgabe,
+was das Unternehmen auch tut oder unterlässt. Ein Unternehmen darf weiterhin
+für immer privat bleiben. Es darf nicht mehr privat bleiben und sich
+zugleich auszahlen.
 
-Dann der Rang: Artikel 5 Absatz 4 Buchstabe b gibt der Reserve Aktien, die für Dividenden und für den Erlös jedes Verkaufs oder jeder Liquidation gleichrangig mit der bestgestellten Klasse unter den nach der Benennung geschaffenen Klassen stehen, sonst mit den Stammaktien. Drei Prozent einer Stammtranche hinter einer dreifach partizipierenden Präferenz sind drei Prozent von nichts, und das Instrument sagt nun, welche drei Prozent es meint, ohne den Anlegern die Präferenz zu nehmen, die sie vor der Benennung tatsächlich bezahlt haben. Artikel 5 Absatz 10 macht eine nachrangig stellende Gestaltung gegenüber der Reserve unwirksam und lässt sie zwischen den Beteiligten bestehen.
+Dann der Rang: Artikel 5 Absatz 4 Buchstabe b gibt der Reserve Aktien, die
+für Dividenden und für den Erlös jedes Verkaufs oder jeder Liquidation
+gleichrangig mit der bestgestellten Klasse unter den nach der Benennung
+geschaffenen Klassen stehen, sonst mit den Stammaktien. Drei Prozent einer
+Stammtranche hinter einer dreifach partizipierenden Präferenz sind drei
+Prozent von nichts, und das Instrument sagt nun, welche drei Prozent es
+meint, ohne den Anlegern die Präferenz zu nehmen, die sie vor der Benennung
+tatsächlich bezahlt haben. Artikel 5 Absatz 10 macht jede Umstrukturierung,
+deren Hauptzweck oder Hauptwirkung darin besteht, die Reserve unter den ihr
+durch jenen Absatz zugewiesenen Rang zu setzen, gegenüber der Reserve
+unwirksam und lässt sie zwischen den Beteiligten bestehen.
 
 Dann der Perimeter: Artikel 5 Absatz 11 verpflichtet den Erwerber, einen eigenen Warrant auszugeben, wenn automatisierte Vermögenswerte an ein verbundenes oder gemeinsam beherrschtes Unternehmen gehen oder nicht zu Fremdvergleichsbedingungen abfließen, und der Übertragende bleibt für das gebunden, was er behält. Die Summe über das erfasste Unternehmen und jeden Erwerber hinweg ist auf den genannten Prozentsatz ihres gemeinsamen Kapitals begrenzt, sodass das Schließen dieses Wegs nicht zu einem Vervielfacher für eine Gruppe werden kann, die sich selbst aufteilt. Artikel 2 Nummer 14 benennt, was nicht aus der Tür getragen werden darf: Modellparameter, Trainings- und Inferenzinfrastruktur, Datensätze, das geistige Eigentum, von dem der Dienst abhängt. Das ist die Nachfolgelogik der Fusionskontrolle, keine Erfindung.
 
 Zuletzt der Ausgang: Artikel 5 Absatz 12 knüpft die Verpflichtung erneut an, wenn die automatisierten Vermögenswerte aus einer Insolvenz oder einer Restrukturierung nach der Richtlinie (EU) 2019/1023 in einer Einheit auftauchen, die von denselben Personen beherrscht wird oder in der diese die Mehrheit der wirtschaftlichen Rechte halten, und verlangt die Ausgabe eines neuen Warrants binnen drei Monaten. Ein echtes Scheitern lässt die Beteiligung der Reserve weiterhin untergehen, wie die jedes Anteilseigners, denn die Reserve ist Eigentümerin und Eigentümer tragen das. Was sie nicht tut, ist die Fassung segnen, in der die Eigentümer überleben und nur die Verpflichtung stirbt.
 
+Und die ehrliche Teilantwort: die Quellenbesteuerung. Eine Unionsverordnung
+kann der Reserve keinen Abkommensvorteil verschaffen, den ein Drittstaat
+nicht gewährt hat, und eine nirgends ansässige Einrichtung kann zum vollen
+gesetzlichen Satz an der Quelle besteuert werden. Zwei Antworten wurden
+geschrieben und gestrichen. Die Kommission anzuweisen, mit Drittstaaten zu
+verhandeln, hätte ein Vorrecht befohlen, das Artikel 218 AEUV anderswo
+verortet. Der Reserve zu gestatten, ihre Beteiligungen zur Senkung des
+Satzes über Zwischengesellschaften zu strukturieren, hätte Abkommensshopping
+in ein Instrument geschrieben, dessen ganze These lautet, Kapital solle
+breit gehalten werden und zahlen, was es schuldet; der gegnerische
+Rechtsbeistand hatte die Schlagzeile bereits parat, und zu Recht. Was
+bleibt, ist Artikel 8 Absatz 5: Die Reserve veröffentlicht jährlich die
+Steuer, die sie nicht zurückfordern konnte, und die Kommission verantwortet
+das im Bericht nach Artikel 14. Das ist eine kleinere Antwort als das
+Problem, und es ist die ehrliche. Ein Leck, das jährlich gemeldet wird, ist
+ein Leck, an dem die Kampagne gemessen werden kann; ein Leck, das niemand
+misst, wächst nur.
+
 Einen Weg hat der Rechtsbeistand bewahrt, und das Instrument lässt ihn bewusst offen. Ein Unternehmen darf sich bei Kreditgebern, die mit niemandem verbunden sind, hoch verschulden, ihnen Marktzins zahlen und am Stichtag weniger wert sein, als es ohne Schulden wäre. Das ist keine Entnahme, und die Definition sollte nicht so tun: Das Geld geht an Fremde, nicht an Insider, und die Gründer werden in genau demselben Verhältnis ärmer wie die Reserve. Jeder Anteilseigner eines verschuldeten Unternehmens hält einen kleineren Anspruch auf eine größere Bilanz, und ein Instrument, das 3 % des Eigenkapitals nimmt, kann nicht zusätzlich verlangen, dass dieses Eigenkapital unbelastet bleibt. Was die Akte nicht tun darf, ist dies mit den obigen Wegen zu verwechseln, bei denen Wert in Taschen abfließt, die dieselben Taschen sind. Hebelwirkung ist ein Risiko, das die Reserve als Eigentümerin trägt; Entnahme ist eine Übertragung, die die Verordnung stoppt.
 
-Und die ehrliche Teilantwort: die Quellenbesteuerung. Eine Unionsverordnung kann der Reserve keinen Abkommensvorteil verschaffen, den ein Drittstaat nicht gewährt hat, und eine nirgends ansässige Einrichtung kann zum vollen gesetzlichen Satz an der Quelle besteuert werden. Zwei Antworten wurden geschrieben und gestrichen. Die Kommission anzuweisen, mit Drittstaaten zu verhandeln, hätte ein Vorrecht befohlen, das Artikel 218 AEUV anderswo verortet. Der Reserve zu gestatten, ihre Beteiligungen zur Senkung des Satzes zu leiten, hätte Abkommensshopping in ein Instrument geschrieben, dessen ganze These lautet, Kapital solle breit gehalten werden und zahlen, was es schuldet; der gegnerische Rechtsbeistand hatte die Schlagzeile bereits parat, und zu Recht. Was bleibt, ist Artikel 8 Absatz 5: Die Reserve veröffentlicht jährlich die Steuer, die sie nicht zurückfordern konnte, und die Kommission verantwortet das im Bericht nach Artikel 14. Das ist eine kleinere Antwort als das Problem, und es ist die ehrliche. Ein Leck, das jährlich gemeldet wird, ist ein Leck, an dem die Kampagne gemessen werden kann; ein Leck, das niemand misst, wächst nur.
-
-**Konsequenz für den Entwurf.** DC-35: Kristallisation bei Entnahme und nach Zeit, nicht nur beim Verkauf. DC-36: Die Aktien der Reserve stehen gleichrangig mit der bestgestellten Klasse unter den nach der Benennung geschaffenen Klassen, wobei frühere Präferenzen unberührt bleiben, und nachrangig stellende Gestaltungen sind gegenüber der Reserve unwirksam. DC-37: Der Erwerber gibt einen eigenen Warrant auf sein eigenes Kapital aus; der Übertragende bleibt für die automatisierten Vermögenswerte gebunden, die er behält, und die Summe über beide hinweg übersteigt nie den genannten Prozentsatz ihres gemeinsamen Kapitals. DC-38: Nicht erstattungsfähige Quellensteuer wird jährlich veröffentlicht; das Instrument weist die Reserve nicht an, ihre Beteiligungen so zu gestalten, dass diese sich mindert. DC-39: Die Verpflichtung knüpft erneut an, wenn dieselben Eigentümer die Vermögenswerte aus einer Restrukturierung zurückerhalten.
+**Konsequenz für den Entwurf.** DC-35: Realisierung bei Entnahme und nach Zeit, nicht nur beim Verkauf. DC-36: Die Aktien der Reserve stehen gleichrangig mit der bestgestellten Klasse unter den nach der Benennung geschaffenen Klassen, wobei frühere Präferenzen unberührt bleiben, und nachrangig stellende Gestaltungen sind gegenüber der Reserve unwirksam. DC-37: Der Erwerber gibt einen eigenen Warrant auf sein eigenes Kapital aus; der Übertragende bleibt für die automatisierten Vermögenswerte gebunden, die er behält, und die Summe über beide hinweg übersteigt nie den genannten Prozentsatz ihres gemeinsamen Kapitals. DC-38: Nicht erstattungsfähige Quellensteuer wird jährlich veröffentlicht; das Instrument weist die Reserve nicht an, ihre Beteiligungen so zu gestalten, dass diese sich mindert. DC-39: Die Verpflichtung knüpft erneut an, wenn dieselben Eigentümer die Vermögenswerte aus einer Restrukturierung zurückerhalten.
 
 ### 19. Schweden hat es versucht und konnte es nicht einmal gesetzlich regeln
 
@@ -762,7 +857,7 @@ Jahr für Jahr neue Aktien im Wert von 20 % ihres Jahresgewinns an gemeinsam
 gehaltene Fonds auszugeben, bis diese Fonds eine Mehrheit der Aktien
 hielten. Das ist der Mechanismus dieses Instruments: eine verpflichtende
 Ausgabe neuen Eigenkapitals an eine kollektive Halterin, in Aktien statt in
-bar beglichen, kalibriert am eigenen Wohlstand des Unternehmens.
+bar beglichen, bemessen an der eigenen Ertragskraft des Unternehmens.
 
 Er überlebte nicht einmal seinen eigenen Entwurf. Als der Riksdag 1983
 gesetzgeberisch tätig wurde, war die Pflicht zur Aktienausgabe bereits
@@ -786,8 +881,8 @@ einer wohlgesinnten Regierung, erwies sich die verpflichtende Ausgabe von
 Eigenkapital an einen kollektiven Fonds als nicht gesetzgebungsfähig,
 wandelte sich noch im Entwurfsstadium in eine fiskalische Maßnahme und wurde
 binnen acht Jahren von der ersten Regierung aufgehoben, die das wollte. Wer
-das nicht weiß, hat als Verfasser die Lektüre nicht getan. Wer es weiß und
-es wegzulassen wählt, verbirgt es.
+das nicht weiß, hat als Verfasser die einschlägigen Quellen nicht gelesen.
+Wer es weiß und sich entscheidet, es wegzulassen, verbirgt es.
 
 **Was daran richtig ist.** Fast alles davon, als Geschichte. Der Mechanismus
 gehört zur selben Familie. Die Umwandlung in eine Abgabe ist real und der
@@ -805,25 +900,26 @@ jeder auf einen bestimmten Grund verweist, aus dem der schwedische Entwurf
 scheiterte, und keiner davon ist kosmetisch.
 
 Erstens der Endpunkt. Meidners Fonds waren darauf angelegt, sich unbegrenzt
-anzusammeln, bis das Eigentum die Hand wechselte, und ihr Urheber sagte das
-selbst; das war der Zweck, kein Nebeneffekt. Dieses Instrument nimmt
+anzusammeln, bis das Eigentum den Besitzer wechselte, und ihr Urheber sagte
+das selbst; das war der Zweck, kein Nebeneffekt. Dieses Instrument nimmt
 einmalig 3 % des voll verwässerten Kapitals, je Benennung, wobei die Summe
 über ein Unternehmen und jede Erwerberin hinweg nach Artikel 5 Absatz 11 und
 Artikel 7 Absatz 2 auf denselben Prozentsatz gedeckelt ist. Von diesem
-Instrument führt kein Weg zur Kontrolle, weil die Arithmetik keinen
-zulässt. Ein Gegner, der anderes behauptet, argumentiert gegen einen
-anderen Vorschlag.
+Instrument führt kein Weg zur Kontrolle, weil die Arithmetik keinen zulässt.
+Ein Gegner, der anderes behauptet, argumentiert gegen einen anderen
+Vorschlag.
 
 Zweitens die Kontrolle. Die schwedischen Fonds stimmten ab, und sie wurden
 von den Gewerkschaften geführt. Die Forschung zur Niederlage ist sich einig,
 dass es der Mobilisierung um die Frage ging, wer die Unternehmen lenken
 würde, und nicht ums Geld, und die Obergrenze von 8 % selbst war ein
 Versuch, dieser Furcht zu begegnen. Die Reserve hält stimmrechtslose Aktien
-nach Artikel 5 Absatz 4 Buchstabe a, ist nach Artikel 9 verboten, Einfluss
-zu suchen oder auszuüben, und DC-32 macht wirtschaftliche Beteiligung zum
-Höchstmaß. Die Wählerschaft, die 1983 möglich machte, waren Arbeitgeber, die
-glaubten, in Raten verstaatlicht zu werden. Diese Überzeugung lässt sich
-über ein Instrument, das nicht abstimmen kann, nicht bilden.
+nach Artikel 5 Absatz 4 Buchstabe a; nach Artikel 9 ist es ihr untersagt,
+Einfluss zu suchen oder auszuüben, und DC-32 macht wirtschaftliche
+Beteiligung zum Höchstmaß. Die Wählerschaft, die 1983 möglich machte, waren
+Arbeitgeber, die glaubten, in Raten verstaatlicht zu werden. Diese
+Überzeugung lässt sich über ein Instrument, das nicht abstimmen kann, nicht
+bilden.
 
 Drittens die Begünstigten. Die schwedischen Fonds kamen einer
 Arbeiterbewegung zugute, was sie zu einer Parteifrage in einem
@@ -853,8 +949,8 @@ stellende Gestaltungen ihr gegenüber unwirksam, und ein Gegner wird das
 alles Mögliche nennen, nur nicht passiv. Der vertretbare Anspruch ist enger
 gefasst: Die Reserve hält keine Stimmrechte, beruft niemanden und hat kein
 Mitspracherecht bei der Führung des Unternehmens. Selbst das ist nicht das
-Ende. Der gegnerische Rechtsbeistand macht den weiteren Punkt, dass ein
-Rang, den das Unternehmen nicht nachrangig stellen kann, beschränkt, wie es
+Ende. Der gegnerische Rechtsbeistand wendet ergänzend ein, dass ein Rang,
+den das Unternehmen nicht nachrangig stellen kann, beschränkt, wie es
 Sanierungs- oder Vorzugskapital aufnimmt, da neues Geld gewöhnlich Vorrang
 verlangt, und nennt das der Sache nach ein Veto über die Kapitalstruktur. Es
 ist kein Governance-Recht, und Artikel 5 Absatz 10 lässt die Vereinbarung
@@ -876,7 +972,7 @@ Euro eigenen Geldes ist gestiegen, um etwa drei Prozent, und die Union hat
 sie ihnen gegeben. Eine Akte, deren Befund lautet, das Eigentum an
 produktivem Kapital sei zu schmal, antwortet damit, den größten dauerhaft
 stimmrechtslosen Anteilseigner Europas zu schaffen und in jedem erfassten
-Unternehmen genau jenen Keil zwischen Zahlungsstromrechten und
+Unternehmen genau jenen Keil zwischen Vermögensrechten und
 Kontrollrechten zu verbreitern, den die Forschung zur Unternehmensführung als
 den verlässlichsten Prädiktor für die Ausbeutung von Minderheiten und für
 Leitung ohne Rechenschaft ausweist. Die Gründer der Spitzenunternehmen halten
@@ -905,7 +1001,7 @@ falsche Blickwinkel sei. Ein früherer Entwurf dieser Passage nannte die
 Governance-Lesart einen Kategorienfehler, weil der Anspruch des Instruments
 verteilungsbezogen sei. Vier Prüfstufen haben das mit denselben Worten
 verworfen, und sie hatten recht: ein Instrument, das in jedem Unternehmen,
-das es berührt, das Verhältnis von Zahlungsstromrechten zu Kontrollrechten
+das es berührt, das Verhältnis von Vermögensrechten zu Kontrollrechten
 verändert, ist in seiner Wirkung ein Governance-Instrument, was immer es der
 Absicht nach ist, und es wird zu Recht an seinen Wirkungen gemessen. Die
 Antwort unten räumt die Wirkung ein und verteidigt die Wahl.
@@ -931,12 +1027,12 @@ Größenordnung laufen bei den von diesem Instrument erfassten Unternehmen
 routinemäßig, ohne dass jemand sie eine Übertragung von Kontrolle nennt.
 Dieser Vergleich wird für die Größe angeboten und für nichts sonst, und er
 hält nicht stand, wenn man ihn weitertreibt: ein Rückkauf ist freiwillig,
-wird gegen Gegenleistung ausgeführt und gibt gerade jenen Inhabern Geld
-zurück, deren Gewicht steigt, während dies verpflichtend ist, zum Nennwert
-gezeichnet wird und ihnen nichts zurückgibt. Die Prüfer hatten recht, dass
-beides nicht wesensgleich ist. Gleich sind sie in dem einen Punkt, für den
-der Absatz sie verwendet, nämlich wie stark sich das Stimmgewicht eines
-verbleibenden Anteils tatsächlich verschiebt.
+erfolgt entgeltlich und gibt gerade jenen Inhabern Geld zurück, deren
+Gewicht steigt, während dies verpflichtend ist, zum Nennwert gezeichnet wird
+und ihnen nichts zurückgibt. Die Prüfer hatten recht, dass beides nicht
+wesensgleich ist. Gleich sind sie in dem einen Punkt, für den der Absatz sie
+verwendet, nämlich wie stark sich das Stimmgewicht eines verbleibenden
+Anteils tatsächlich verschiebt.
 
 Zur Legitimation trifft der Einwand und wird nur zum Teil beantwortet.
 Stimmrechtslose Anteile sind keine Erfindung dieses Instruments: das
@@ -979,16 +1075,17 @@ tatsächlich entspricht, und die Erforderlichkeit ist genau die Frage, die
 eine nackte Zahl nicht beantworten kann: erreicht drei Prozent das Ziel, so
 ist ein Prozent das mildere Mittel und die Maßnahme fällt; erreicht ein
 Prozent es nicht, so hat die Akte nicht gezeigt, warum drei es tun. Das
-prüfende Gericht wird den Gesetzgeber auffordern, seine Arbeit vorzuzeigen,
-wie es das in jeder nennenswerten Verhältnismäßigkeitssache getan hat, und
-diese Akte wird ihm eine runde Zahl reichen, die bequem unterhalb der
-Schwelle liegt, ab der sich der Vorwurf „Sie verstaatlichen sie" leicht
-erheben lässt. Das ist eine politische Eichung im Gewand einer rechtlichen,
-und der Juristische Dienst der Kommission wird dies schon bei der ersten
-Durchsicht erkennen. Jede andere Zahl im Instrument ist an etwas gebunden:
-die Schwellen in Artikel 3 an messbare Größen, die Höchstfrist von sieben
-Jahren an den beobachteten Abstand zwischen Benennung und Realisierung. Die
-eine Zahl, die bestimmt, wie viel genommen wird, ist an nichts gebunden.
+prüfende Gericht wird den Gesetzgeber auffordern, seine Herleitung
+darzulegen, wie es das in jeder nennenswerten Verhältnismäßigkeitssache
+getan hat, und diese Akte wird ihm eine runde Zahl reichen, die bequem
+unterhalb der Schwelle liegt, ab der sich der Vorwurf „Sie verstaatlichen
+sie" leicht erheben lässt. Das ist eine politische Eichung im Gewand einer
+rechtlichen, und der Juristische Dienst der Kommission wird dies schon bei
+der ersten Durchsicht erkennen. Jede andere Zahl im Instrument ist an etwas
+gebunden: die Schwellen in Artikel 3 an messbare Größen, die Höchstfrist von
+sieben Jahren an den beobachteten Abstand zwischen Benennung und
+Realisierung. Die eine Zahl, die bestimmt, wie viel genommen wird, ist an
+nichts gebunden.
 
 **Was daran zutrifft.** Alles. Dies ist der schwächste tragende Punkt der
 Akte, und keine Redaktionsqualität an anderer Stelle repariert ihn. Es wäre
@@ -1006,33 +1103,33 @@ so steht, wie er steht.
 Das veröffentlichte Modell ist linear im Prozentsatz. Die Rechenweise des
 Anhangs II, wie sie im Simulator der Kampagnenseite umgesetzt ist, lässt das
 Kapital der Reserve wachsen, indem sie jedem fällig werdenden Strom den
-Prozentsatz des Bezugsrechts hinzufügt, und jede Ausschüttung stromabwärts
+Prozentsatz des Bezugsrechts hinzufügt, und jede nachgelagerte Ausschüttung
 ist ein Bruchteil dieses Kapitals. Eine Verdopplung des Prozentsatzes
 verdoppelt die Dividende an jedem Horizont, eine Halbierung halbiert sie,
-exakt, in jedem Szenario, das der Simulator anbietet. Die Berechnung steht in
-evidence/warrant-percentage.md und jede und jeder kann sie nachrechnen. Es
-gibt weder Schwelle noch Knick noch Sprung irgendwo auf der Kurve, was
+exakt, in jedem Szenario, das der Simulator anbietet. Die Berechnung steht
+in evidence/warrant-percentage.md und jede und jeder kann sie nachrechnen.
+Es gibt weder Schwelle noch Knick noch Sprung irgendwo auf der Kurve, was
 bedeutet, dass es keinen Prozentsatz gibt, ab dem das Instrument zu wirken
 beginnt und unterhalb dessen es das nicht tut.
 
 Das ist tödlich für die naheliegende Verteidigung. Erforderlichkeit nach
 Artikel 52 Absatz 1 fragt, ob ein milderes Mittel das Ziel erreichen würde.
-Ist das Ziel jenes des Artikels 1, die Beteiligung der Bürgerinnen und Bürger
-an dem von hyperautomatisierten Unternehmen geschaffenen Kapitalwert, dann
-erreicht ein Prozent es, und ein Zehntelprozent ebenfalls, weil jedes davon
-Beteiligung hervorbringt und der Artikel keine Menge nennt, die diese
+Ist das Ziel jenes des Artikels 1, die Beteiligung der Bürgerinnen und
+Bürger an dem von hyperautomatisierten Unternehmen geschaffenen Kapitalwert,
+dann erreicht ein Prozent es, und ein Zehntelprozent ebenfalls, weil jedes
+davon Beteiligung hervorbringt und der Artikel keine Menge nennt, die diese
 Beteiligung erreichen müsste. Ein Gegner muss nicht einmal vortragen, drei
 Prozent seien zu viel. Er muss nur feststellen, dass eine kleinere Zahl das
-erklärte Ziel erreicht, und die Erforderlichkeitsprüfung fällt an den eigenen
-Worten des Instruments.
+erklärte Ziel erreicht, und die Erforderlichkeitsprüfung scheitert an den
+eigenen Formulierungen des Instruments.
 
 Der Mangel liegt also nicht in dieser Begründung und ist hier nicht zu
 beheben. Er liegt in Artikel 1. Ein Instrument, das in Artikel 17 der Charta
 eingreift und sein Ziel qualitativ formuliert, hat der
 Erforderlichkeitsprüfung nichts gelassen, woran sie gemessen werden könnte,
-und kein Maß an Argumentation über drei Prozent ersetzt das. Entweder erhält
-das Ziel eine Menge, an der ein Prozentsatz gemessen werden kann, oder die
-Verteidigung nach Artikel 52 Absatz 1 ruht allein auf der
+und keine noch so ausführliche Argumentation über drei Prozent ersetzt das.
+Entweder erhält das Ziel eine Menge, an der ein Prozentsatz gemessen werden
+kann, oder die Verteidigung nach Artikel 52 Absatz 1 ruht allein auf der
 Verhältnismäßigkeitsprüfung, die nur fragt, ob die Last übermäßig ist, und
 auf die die Antwort die Obergrenze und nicht die Untergrenze ist.
 
@@ -1056,26 +1153,25 @@ Entziehungsgrenze. Unter einer Obergrenze zu liegen ist ein Argument der
 Verhältnismäßigkeit und keines der Erforderlichkeit, und diese Akte wird das
 eine nicht als das andere verkleiden.
 
-Diese Reparatur ist nun erfolgt, und diese Passage hält sowohl die
-Reparatur als auch ihre ehrliche Grenze fest. Artikel 1 Absatz 2
-formuliert das Ziel als Eigentumsposition: ein Guthaben je Bürgerin und
-Bürger in der Größenordnung von sechs Monaten des medianen
-Nettoäquivalenzeinkommens in der Union, in konstanten Preisen, innerhalb
-einer Generation nach den ersten Benennungen. Auf dem veröffentlichten
-Modell und der geänderten Benennungsprüfung des Artikels 3 Absatz 2
-Buchstabe b beträgt der zusammengefasste benannte Wert nach den Zahlen
-vom August 2026 rund 20 Billionen EUR (evidence/designation-count.md)
-und das Guthaben je erwachsener Person innerhalb einer Generation etwa
-8 400 EUR bei drei Prozent, 5 600 bei zwei und 2 800 bei einem
-(evidence/sizing-the-ask.md). Sechs Monate des medianen
-Nettoäquivalenzeinkommens liegen in der Größenordnung von 9 000 EUR.
-Drei Prozent ist damit der kleinste ganzzahlige Prozentsatz, der das
-erklärte Ziel erreichen kann, ein Prozent kann es offenkundig nicht, und
-die Erforderlichkeitsprüfung des Artikels 52 Absatz 1 hat zum ersten Mal
-eine Größe, an der sie messen kann, veröffentlicht, nachrechenbar und bei
-jedem Bericht nach Artikel 14 erneut geprüft, wo dieselbe Klausel, die
-den Prozentsatz auf der Grundlage der Belege anheben könnte, ihn auch
-senkt.
+Diese Reparatur ist nun erfolgt, und diese Passage hält sowohl die Reparatur
+als auch ihre ehrliche Grenze fest. Artikel 1 Absatz 2 formuliert das Ziel
+als Eigentumsposition: ein Guthaben je Bürgerin und Bürger in der
+Größenordnung von sechs Monaten des medianen Nettoäquivalenzeinkommens in
+der Union, in konstanten Preisen, innerhalb einer Generation nach den ersten
+Benennungen. Nach dem veröffentlichten Modell und der geänderten
+Benennungsprüfung des Artikels 3 Absatz 2 Buchstabe b beträgt der
+zusammengefasste benannte Wert nach den Zahlen vom August 2026 rund 20
+Billionen EUR (evidence/designation-count.md) und das Guthaben je
+erwachsener Person innerhalb einer Generation etwa 8 400 EUR bei drei
+Prozent, 5 600 bei zwei und 2 800 bei einem (evidence/sizing-the-ask.md).
+Sechs Monate des medianen Nettoäquivalenzeinkommens liegen in der
+Größenordnung von 9 000 EUR. Drei Prozent ist damit der kleinste ganzzahlige
+Prozentsatz, der das erklärte Ziel erreichen kann, ein Prozent kann es
+offenkundig nicht, und die Erforderlichkeitsprüfung des Artikels 52 Absatz 1
+hat zum ersten Mal eine Größe, an der sie messen kann, veröffentlicht,
+nachrechenbar und bei jedem Bericht nach Artikel 14 erneut geprüft, wo
+dieselbe Klausel, die den Prozentsatz auf der Grundlage der Belege anheben
+könnte, ihn auch senkt.
 
 Die ehrliche Grenze ist der Zirkel, den ein Prüfer benennen wird und den
 diese Akte zuerst nennt: bei einem linearen Modell ist jedes Paar aus
@@ -1093,7 +1189,7 @@ ist, auf einem veröffentlichten, nachrechenbaren Modell, und der Zirkel,
 der in der Wahl des Ziels liegt, wird benannt statt verdeckt (DC-45).
 Artikel 1 Absatz 2 trägt das quantifizierte Ziel, das in jedem Bericht
 nach Artikel 14 in beide Richtungen geprüft wird, und die Herleitung wird
-überprüft, sobald sich die benannte Gruppe oder das Modell bewegt
+überprüft, sobald sich der Kreis der benannten Unternehmen oder die Modellannahmen ändern
 (DC-46).
 
 
@@ -1138,7 +1234,7 @@ verletzt, fällt in der Prüfung durch, ganz gleich, wie seine Prosa lautet.
 | DC-32 | Wirtschaftliche Beteiligung ist das Maximum: Kein Kontrollrecht, Veto oder Governance- Privileg knüpft an die Beteiligungen der Reserve an, bindend für dieses Instrument und jeden, der es ändert, ohne vorzugeben, eine künftige Gesetzgebung zu binden | 16 |
 | DC-33 | Für Unternehmen unter Drittstaatsrecht ist der Warrant eine Ergebnispflicht als Marktzugangsbedingung, niemals eine Verdrängung ausländischen Gesellschaftsrechts | 17 |
 | DC-34 | Keine Instanz zwischen Bewertung und Gericht; Korrektur im Nachhinein, und die Transaktion wartet nie | 6 |
-| DC-35 | Kristallisation bei Entnahme und nach Zeit, nicht nur beim Verkauf | 18 |
+| DC-35 | Realisierung bei Entnahme und nach Zeit, nicht nur beim Verkauf | 18 |
 | DC-36 | Die Aktien der Reserve stehen gleichrangig mit der bestgestellten Klasse unter den nach der Benennung geschaffenen Klassen, wobei frühere Präferenzen unberührt bleiben; nachrangig stellende Gestaltungen sind gegenüber der Reserve unwirksam | 18 |
 | DC-37 | Der Erwerber gibt einen eigenen Warrant auf sein eigenes Kapital aus; der Übertragende bleibt für das gebunden, was er behält, und die Summe über beide hinweg übersteigt nie den genannten Prozentsatz ihres gemeinsamen Kapitals | 18 |
 | DC-38 | Nicht erstattungsfähige Quellensteuer jährlich veröffentlicht; die Reserve wird nicht angewiesen, ihre Beteiligungen so zu gestalten, dass diese sich mindert | 18 |
@@ -1149,24 +1245,23 @@ verletzt, fällt in der Prüfung durch, ganz gleich, wie seine Prosa lautet.
 | DC-43 | Der Anspruch ist verteilungsbezogen und keine Änderung gibt der Reserve Stimmen, ohne sich als anderes Instrument zu verteidigen; die Governance-Wirkung auf verbleibende Inhaber wird eingeräumt und verteidigt, nie in Abrede gestellt | 20 |
 | DC-44 | Die relative Stimmwirkung auf vorhandene Inhaber wird mit ihrer Größe genannt und nicht dem Gegner zur Berechnung überlassen, und jeder Vergleich mit Rückkäufen bleibt auf die Größe beschränkt, die Ungleichartigkeit daneben genannt | 20 |
 | DC-45 | Der Prozentsatz ist die kleinste ganze Zahl, die mit dem Ziel des Artikels 1 Absatz 2 vereinbar ist, hergeleitet auf einem veröffentlichten, nachrechenbaren Modell; der Zirkel in der Wahl des Ziels wird benannt, nie verdeckt | 21 |
-| DC-46 | Artikel 1 Absatz 2 trägt das quantifizierte Ziel, in jedem Bericht nach Artikel 14 in beide Richtungen geprüft; die Herleitung wird überprüft, sobald sich die benannte Gruppe oder das Modell bewegt | 21 |
+| DC-46 | Artikel 1 Absatz 2 trägt das quantifizierte Ziel, in jedem Bericht nach Artikel 14 in beide Richtungen geprüft; die Herleitung wird überprüft, sobald sich der Kreis der benannten Unternehmen oder die Modellannahmen ändern | 21 |
 
 ## Status
 
 Einwände sind OFFEN, bis die Artikel sie beantworten, vorbehaltlich der
-nachstehenden Ausnahmen; Einwand 12 ist durch die Zweckbestimmung
+nachstehenden Ausnahmen; Einwand 12 ist durch den Anwendungsbereich
 EINGERÄUMT. Einwand 18 wurde am 21. August 2026 aufgrund einer externen
-Überprüfung von Wegen der Unternehmensstrukturierung um das Instrument
-herum hinzugefügt. Anders als die Einwände 16 und 17 fand er die
-Antworten nicht bereits in den Artikeln: Er beschreibt fünf Wege. Vier
-davon sind nun durch Änderungen der Artikel 2 und 5 geschlossen. Der
-fünfte, die Quellensteuer, gab Anlass zu einer Änderung des Artikels 8,
-ist aber nicht geschlossen, und die Antwort auf jenen Einwand sagt das
-selbst: Veröffentlichung ist eine kleinere Antwort als das Problem. Ein sechster Punkt, die
-Kreditaufnahme zu Fremdvergleichsbedingungen, wurde erwogen und
-bewusst offengelassen, weil er nicht die Entnahme ist, um die es dem
-Einwand geht. Es ist der erste Einwand in dieser Datei, dessen Antwort
-geschrieben statt zitiert werden musste.
+Überprüfung von Wegen der Unternehmensstrukturierung um das Instrument herum
+hinzugefügt. Anders als die Einwände 16 und 17 fand er die Antworten nicht
+bereits in den Artikeln: Er beschreibt fünf Wege. Vier davon sind nun durch
+Änderungen der Artikel 2 und 5 geschlossen. Der fünfte, die Quellensteuer,
+gab Anlass zu einer Änderung des Artikels 8, ist aber nicht geschlossen, und
+die Antwort auf jenen Einwand sagt das selbst: Veröffentlichung ist eine
+kleinere Antwort als das Problem. Ein sechster Punkt, die Kreditaufnahme zu
+Fremdvergleichsbedingungen, wurde erwogen und bewusst offengelassen, weil er
+nicht die Entnahme ist, um die es dem Einwand geht. Es ist der erste Einwand
+in dieser Akte, dessen Antwort geschrieben statt zitiert werden musste.
 
 Die Einwände 16 und 17 wurden am
 20. August 2026 aufgrund einer externen Anfechtung hinzugefügt (die
