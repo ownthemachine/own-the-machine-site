@@ -31,14 +31,15 @@ aux entreprises d'émettre des warrants sur actions au profit d'une réserve
 publique constitue une privation de propriété. L'article 17 de la Charte des
 droits fondamentaux protège le droit de posséder, d'utiliser et de disposer
 des biens acquis légalement, et n'autorise la privation de propriété que
-pour cause d'utilité publique, dans des cas et conditions prévus par une
-loi et moyennant en temps utile une juste indemnité. Un warrant obligatoire
+pour cause d'utilité publique, dans des cas et conditions prévus par une loi
+et moyennant en temps utile une juste indemnité. Un warrant obligatoire
 dilue les actionnaires existants sans aucune indemnité ; la dilution est
 précisément le but. L'article 345 TFUE ajoute que les traités ne préjugent
 en rien le régime de la propriété dans les États membres. La Cour a
 considérablement restreint la portée de l'article 345, mais une lecture
-hostile du service juridique dispose d'amples munitions, et les
-actionnaires des entreprises concernées plaideront dès le premier jour.
+hostile du service juridique dispose d'arguments juridiques substantiels, et
+les actionnaires des entreprises concernées contesteront la mesure dès son
+entrée en vigueur.
 
 **Là où elle voit juste.** Une obligation de warrant transfère bel et bien
 de la valeur des actionnaires existants vers la réserve. Prétendre que la
@@ -62,9 +63,36 @@ nationales. Savoir si cette contrepartie est suffisante est le plus grand
 risque juridique du projet, et la porte de contrôle 1 existe pour le mettre
 à l'épreuve.
 
-Deux fondements juridiques ont leur place dans ce dossier, parce qu'un lecteur hostile les invoquera et parce que chacun est moins univoque qu'il n'y paraît. Le premier est la règle de Strasbourg selon laquelle une privation sans une somme raisonnablement en rapport avec la valeur du bien est normalement disproportionnée (James et autres c. Royaume-Uni, 1986). Le même arrêt juge, dans le même temps, que des objectifs légitimes d'intérêt public, et expressément des mesures de réforme économique ou des mesures visant à une plus grande justice sociale, peuvent justifier un remboursement inférieur à la pleine valeur marchande. C'est sur ce précédent que cet instrument doit être défendu, et il est disponible à ses propres conditions plutôt qu'en dépit d'elles : une dilution de 3 % cristallisant à un moment de gain réalisé, calibrée sur un découplage entre la production et le travail, est une mesure de réforme économique s'il en est.
+Deux fondements juridiques ont leur place dans ce dossier, parce qu'un
+lecteur hostile les invoquera et parce que chacun est moins univoque qu'il
+n'y paraît. Le premier est la règle de Strasbourg selon laquelle une
+privation sans une somme raisonnablement en rapport avec la valeur du bien
+est normalement disproportionnée (James et autres c. Royaume-Uni, 1986). Le
+même arrêt juge, dans le même temps, que des objectifs légitimes d'intérêt
+public, et expressément des mesures de réforme économique ou des mesures
+visant à une plus grande justice sociale, peuvent justifier un remboursement
+inférieur à la pleine valeur marchande. C'est sur ce précédent que cet
+instrument doit être défendu, et il s'applique selon ses termes mêmes, et
+non à titre d'exception : une dilution de 3 % cristallisant à un moment de
+gain réalisé, calibrée sur un découplage entre la production et le travail,
+est une mesure de réforme économique s'il en est.
 
-Le second est l'article 345 TFUE. Il dispose que les traités ne préjugent en rien le régime de la propriété dans les États membres, et la lecture hostile veut qu'un transfert obligatoire de 3 % de la valeur des entreprises privées soit une socialisation partielle que l'Union ne saurait décréter. Cette lecture se trompe de destinataire. L'article 345 préserve la liberté des États membres de choisir entre propriété publique et privée face aux traités ; il n'est pas une charte d'immunité de la propriété contre la législation de l'Union, ce que régit l'article 17 de la Charte et ce à quoi le présent mémorandum répond au titre de l'article 52, paragraphe 1. La Cour a interprété l'article 345 de manière stricte dans ce sens précis, jugeant qu'un régime de propriété choisi par un État membre demeure soumis aux libertés fondamentales (Essent, C-105/12 à C-107/12). L'instrument laisse le régime de propriété de chaque État membre exactement tel qu'il l'a trouvé : les actions souscrites sont des actions ordinaires de droit national des sociétés, détenues par un propriétaire sans droits particuliers, et aucune règle nationale sur qui peut posséder quoi n'est écartée.
+Le second est l'article 345 TFUE. Il dispose que les traités ne préjugent en
+rien le régime de la propriété dans les États membres, et la lecture hostile
+veut qu'un transfert obligatoire de 3 % de la valeur des entreprises privées
+soit une socialisation partielle que l'Union ne saurait décréter. Cette
+lecture vise le mauvais destinataire. L'article 345 préserve la liberté des
+États membres de choisir entre propriété publique et privée face aux traités
+; il n'est pas une charte d'immunité de la propriété contre la législation
+de l'Union, ce que régit l'article 17 de la Charte et ce à quoi le présent
+mémorandum répond au titre de l'article 52, paragraphe 1. La Cour a
+interprété l'article 345 de manière stricte dans ce sens précis, jugeant
+qu'un régime de propriété choisi par un État membre demeure soumis aux
+libertés fondamentales (Essent, C-105/12 à C-107/12). L'instrument laisse le
+régime de propriété de chaque État membre exactement tel qu'il l'a trouvé :
+les actions souscrites sont des actions ordinaires de droit national des
+sociétés, détenues par un propriétaire sans droits particuliers, et aucune
+règle nationale sur qui peut posséder quoi n'est écartée.
 
 Les recherches de rédaction (18 août) ont arrêté l'architecture à retenir :
 la BRRD est le modèle validé par la jurisprudence pour toute atteinte au
@@ -93,13 +121,12 @@ sociale, et peut être restreinte dans l'intérêt général lorsque la
 restriction est proportionnée et laisse intacte la substance du droit
 (Hauer 44/79 ; Bosphorus C-84/95). La restriction opérée par cet
 instrument est quantifiée, liée à l'événement et préserve la substance
-par construction, ce que ces arrêts exigent du législateur de démontrer.
+par construction, ce que ces arrêts exigent que le législateur démontre.
 
 **Conséquence de conception.** DC-1 : warrant prospectif sur la création de
 valeur future à des événements définis, jamais de transfert rétroactif
 d'actions existantes. DC-2 : seuils élevés, consolidés au niveau du groupe.
-DC-3 : passivité, et cristallisation uniquement à des événements
-statutaires définis, jamais à un événement discrétionnaire ou politique,
+DC-3 : passivité, et cristallisation uniquement à des événements définis par la loi, jamais à un événement discrétionnaire ou politique,
 inscrites dans l'instrument lui-même.
 
 ### 2. C'est un impôt, et l'Union ne peut pas le lever ainsi
@@ -1075,7 +1102,7 @@ Les articles sont rédigés à l'aune de ce tableau. Un projet qui viole une DC
 |---|---|---|
 | DC-1 | Warrants prospectifs sur la valeur future ; jamais de transfert rétroactif | 1 |
 | DC-2 | Seuils élevés, objectifs, consolidés au niveau du groupe | 1, 5, 17 |
-| DC-3 | Passivité inscrite dans la loi ; cristallisation uniquement à des événements statutaires définis, jamais à un événement discrétionnaire ou politique | 1, 6 |
+| DC-3 | Passivité inscrite dans la loi ; cristallisation uniquement à des événements définis par la loi, jamais à un événement discrétionnaire ou politique | 1, 6 |
 | DC-4 | Aucun flux monétaire en provenance des entreprises ; instruments uniquement | 2, 4 |
 | DC-5 | Les distributions sont des revenus de propriété de la réserve | 2 |
 | DC-6 | Organisation en couches divisibles pour un enregistrement partiel de l'ICE | 2 |

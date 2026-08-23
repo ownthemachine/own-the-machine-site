@@ -28,18 +28,17 @@ project.
 
 **Het bezwaar, in zijn sterkste vorm.** Een wettelijke verplichting voor
 ondernemingen om aandelenwarrants uit te geven aan een publieke reserve
-ontneemt eigendom. Artikel 17 van het Handvest van de grondrechten
-beschermt het recht om rechtmatig verkregen eigendom te bezitten, te
-gebruiken en erover te beschikken, en staat ontneming alleen toe in het
-algemeen belang, in de gevallen en onder de voorwaarden waarin de wet
-voorziet, en tegen een billijke vergoeding die tijdig wordt betaald. Een
-verplichte warrant verwatert bestaande aandeelhouders zonder enige
-vergoeding; die verwatering is juist de bedoeling. Artikel 345 VWEU voegt
-daaraan toe dat de Verdragen de regeling van het eigendomsrecht in de
-lidstaten onverlet laten. Het Hof heeft artikel 345 aanzienlijk ingeperkt,
-maar een vijandige lezing door de Juridische Dienst heeft ruim materiaal,
-en aandeelhouders van getroffen ondernemingen zullen vanaf dag één
-procederen.
+ontneemt eigendom. Artikel 17 van het Handvest van de grondrechten beschermt
+het recht om rechtmatig verkregen eigendom te bezitten, te gebruiken en
+erover te beschikken, en staat ontneming alleen toe in het algemeen belang,
+in de gevallen en onder de voorwaarden waarin de wet voorziet, en tegen een
+billijke vergoeding die tijdig wordt betaald. Een verplichte warrant
+verwatert het belang van bestaande aandeelhouders zonder enige vergoeding;
+die verwatering is juist de bedoeling. Artikel 345 VWEU voegt daaraan toe
+dat de Verdragen de regeling van het eigendomsrecht in de lidstaten onverlet
+laten. Het Hof heeft artikel 345 aanzienlijk ingeperkt, maar een vijandige
+lezing door de Juridische Dienst heeft ruim materiaal, en aandeelhouders van
+getroffen ondernemingen zullen vanaf dag één procederen.
 
 **Wat eraan klopt.** Een warrantverplichting draagt wel degelijk waarde
 over van bestaande aandeelhouders naar de reserve. Doen alsof verwatering
@@ -63,7 +62,20 @@ zevenentwintig nationale experimenten. Of die tegenprestatie volstaat, is
 het grootste juridische risico van het project, en toetsingspoort 1
 bestaat om dat te testen.
 
-Twee gezaghebbende bronnen horen in dit dossier thuis, omdat een vijandige lezer ze zal aanvoeren en omdat elk minder eenzijdig is dan zij op het eerste gezicht lijkt. De eerste is de regel van Straatsburg dat een ontneming zonder een bedrag dat redelijkerwijs verband houdt met de ontnomen waarde, normaal gesproken onevenredig is (James e.a. tegen het Verenigd Koninkrijk, 1986). Hetzelfde arrest oordeelt, in dezelfde adem, dat legitieme doelstellingen van algemeen belang, en uitdrukkelijk maatregelen van economische hervorming of maatregelen die grotere sociale rechtvaardigheid beogen, een vergoeding beneden de volle marktwaarde kunnen rechtvaardigen. Dat is het gezag waaronder dit instrument moet worden bepleit, en het is beschikbaar op zijn eigen voorwaarden en niet ondanks die voorwaarden: een verwatering van 3 % die op een moment van gerealiseerde winst in aandelen wordt omgezet, geijkt op een ontkoppeling van productie en arbeid, is bij uitstek een maatregel van economische hervorming.
+Twee gezaghebbende bronnen horen in dit dossier thuis, omdat een vijandige
+lezer ze zal aanvoeren en omdat elk minder eenzijdig is dan zij op het
+eerste gezicht lijkt. De eerste is de regel van Straatsburg dat een
+ontneming zonder een bedrag dat redelijkerwijs verband houdt met de ontnomen
+waarde, normaal gesproken onevenredig is (James e.a. tegen het Verenigd
+Koninkrijk, 1986). Hetzelfde arrest oordeelt, in dezelfde adem, dat
+legitieme doelstellingen van algemeen belang, en uitdrukkelijk maatregelen
+van economische hervorming of maatregelen die grotere sociale
+rechtvaardigheid beogen, een vergoeding beneden de volle marktwaarde kunnen
+rechtvaardigen. Dat is de rechtspraak waarop dit instrument moet worden
+bepleit, en zij is toepasbaar op haar eigen merites en niet als uitzondering
+daarop: een verwatering van 3 % die op een moment van gerealiseerde winst in
+aandelen wordt omgezet, geijkt op een ontkoppeling van productie en arbeid,
+is bij uitstek een maatregel van economische hervorming.
 
 De tweede is artikel 345 VWEU. Dat bepaalt dat de Verdragen de regeling van het eigendomsrecht in de lidstaten onverlet laten, en de vijandige lezing luidt dat een verplichte overdracht van 3 % van de waarde van particuliere ondernemingen een gedeeltelijke socialisatie is die de Unie niet mag decreteren. Die lezing vergist zich in de geadresseerde. Artikel 345 beschermt de vrijheid van de lidstaten om te kiezen tussen publiek en particulier eigendom tegen de Verdragen; het is geen vrijbrief voor eigendom tegenover Uniewetgeving, want dat is wat artikel 17 van het Handvest beheerst en waarop dit memorandum onder artikel 52, lid 1, antwoordt. Het Hof heeft artikel 345 juist in die richting restrictief uitgelegd en geoordeeld dat een door een lidstaat gekozen eigendomsregeling onderworpen blijft aan de fundamentele vrijheden (Essent, C-105/12 tot en met C-107/12). Het instrument laat het eigendomsstelsel van elke lidstaat precies zoals het dat aantrof: de ingeschreven aandelen zijn gewone aandelen naar nationaal vennootschapsrecht, gehouden door een eigenaar zonder bijzondere rechten, en geen nationale regel over wie wat mag bezitten wordt opzijgezet.
 
@@ -78,9 +90,35 @@ met een onafhankelijke, afzonderlijk aanvechtbare waardering. Eén aanpassing is
 de BRRD is insolventie, en een permanent stelsel kan niet leunen op
 crisisredeneringen (Dowling C-41/15). Het onderscheid moet worden benoemd in plaats van verdoezeld: bankenafwikkeling verwatert aandeelhouders wier aandelen in het contrafeitelijke faillissement niets waard zouden zijn, terwijl deze ondernemingen gezonde, lopende bedrijven zijn waarvan de aandelen veel waard zijn. De BRRD is daarom overgenomen vanwege haar mechaniek, niet vanwege haar rechtvaardiging, en dit dossier doet niet alsof; de rechtvaardiging is die in James en in Hauer, en zij staat of valt met evenredigheid in plaats van met een crisis die zich niet voordoet.
 
-Eén verder gezag verdient een precieze formulering, want los geformuleerd zou het niets waard zijn. In Sky Österreich (C-283/11, 22 januari 2013) hield de Grote kamer van het Hof een Uniemaatregel in stand die houders van exclusieve uitzendrechten verplichtte concurrenten toegang te geven voor korte nieuwsverslagen, tegen een vergoeding die was begrensd tot de rechtstreeks gemaakte extra kosten, wat onder de marktprijs ligt. De rechthebbenden waren solvabel, er was geen crisis en geen contrafeitelijke insolventie. **Die zaak is beslist onder artikel 16 van het Handvest, de vrijheid van ondernemerschap, en niet onder artikel 17.** Zij is geen gezag voor een ontneming van eigen vermogen, en dit dossier biedt haar niet als zodanig aan; vijandige raadslieden zouden gerechtigd zijn elk zodanig gebruik ervan te ontmantelen, en zouden dat met genoegen doen.
+Nog één precedent verdient een precieze formulering, want los geformuleerd
+zou het niets waard zijn. In Sky Österreich (C-283/11, 22 januari 2013)
+hield de Grote kamer van het Hof een Uniemaatregel in stand die houders van
+exclusieve uitzendrechten verplichtte concurrenten toegang te geven voor
+korte nieuwsverslagen, tegen een vergoeding die was begrensd tot de
+rechtstreeks gemaakte extra kosten, wat onder de marktprijs ligt. De
+rechthebbenden waren solvabel, er was geen crisis en geen contrafeitelijke
+insolventie. **Die zaak is beslist onder artikel 16 van het Handvest, de
+vrijheid van ondernemerschap, en niet onder artikel 17.** Zij vormt geen
+grondslag voor een ontneming van eigen vermogen, en dit dossier biedt haar
+niet als zodanig aan; vijandige raadslieden zouden gerechtigd zijn elk
+zodanig gebruik ervan te ontmantelen, en zouden dat met genoegen doen.
 
-Wat de zaak wel draagt, is smaller en niettemin bruikbaar. Dit instrument raakt zowel artikel 16 als artikel 17, want een onderneming verplichten aandelen uit te geven die zij niet uit eigen keuze uitgeeft, is een inmenging in de bedrijfsvoering, en de Juridische Dienst van de Commissie zal beide zien. Op dat onderdeel is Sky Österreich rechtstreeks van toepassing, en zij zegt drie dingen: de vrijheid van artikel 16 is niet onbegrensd maar moet worden bezien in relatie tot haar maatschappelijke functie; de Uniewetgever mag de vergoeding onder de marktwaarde vaststellen wanneer het algemeen belang dat vereist; en de toets is de gewone toets van artikel 52, lid 1. De oudere rechtspraak steunt dezelfde lezing van bedrijfsbelangen, die geen bescherming genieten als loutere commerciële verwachtingen van toekomstige winst (Nold 4/73). Booker Aquaculture (C-20/00 en C-64/00) wordt soms in dezelfde adem aangehaald, en dit dossier steunt daar niet op: die zaak betrof de vernietiging van ziek vee onder een diergezondheidsregeling, een rechtvaardiging op grond van een noodsituatie voor de volksgezondheid die dit instrument niet kan inroepen.
+Wat de zaak wel draagt, is smaller en niettemin bruikbaar. Dit instrument
+raakt zowel artikel 16 als artikel 17, want een onderneming verplichten
+aandelen uit te geven die zij niet uit eigen keuze uitgeeft, is een
+inmenging in de bedrijfsvoering, en de Juridische Dienst van de Commissie
+zal beide zien. Op dat onderdeel is Sky Österreich rechtstreeks van
+toepassing, en zij zegt drie dingen: de vrijheid van artikel 16 is niet
+onbegrensd maar moet worden bezien in relatie tot haar maatschappelijke
+functie; de Uniewetgever mag de vergoeding onder de marktwaarde vaststellen
+wanneer het algemeen belang dat vereist; en de toets is de gewone toets van
+artikel 52, lid 1. De oudere rechtspraak steunt dezelfde lezing van
+bedrijfsbelangen, die geen bescherming genieten als loutere commerciële
+verwachtingen van toekomstige winst (Nold 4/73). Booker Aquaculture (C-20/00
+en C-64/00) wordt soms in dezelfde adem aangehaald, en dit dossier steunt
+daar niet op: die zaak betrof de vernietiging van ziek vee onder een
+diergezondheidsregeling, een rechtvaardiging op grond van een algemene
+noodsituatie die dit instrument niet kan inroepen.
 
 Het onderdeel van artikel 17 rust daarom nog steeds waar het rustte, op James en op Hauer, en de eerlijke vaststelling is dat geen enkele beslissing een permanente, niet-crisisgebonden, onvergoede verwatering van eigen vermogen van een gezonde onderneming aan de juiste kant van artikel 17 plaatst. Dat is het grootste juridische risico van het project en het wordt als zodanig benoemd in het antwoord hierboven. Onze ondergrens ligt daarom in de
 uitvoering, niet in een vergelijkingsscenario: de inmenging kan bij de

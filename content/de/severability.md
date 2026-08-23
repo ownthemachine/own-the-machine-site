@@ -155,7 +155,7 @@ Präzedenzfall der Vermögensteuer: Der Kampf ist für den Rat gedacht,
 
 ## Was das kostet und warum es das wert ist
 
-Die Schichtung ist ein Zugeständnis im Voraus, und feindselige Leser werden
+Die Schichtung ist ein Zugeständnis im Voraus, und gegnerische Leser werden
 sie als Mangel an Zuversicht zitieren. Die Alternative ist ein Monolith, der
 als Ganzes an seiner schwächsten Stelle stirbt, und genau so sind die
 meisten Umverteilungsvorschläge auf Unionsebene gestorben. Die eigene

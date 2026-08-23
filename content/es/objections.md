@@ -59,7 +59,20 @@ veintisiete experimentos nacionales. Si esa contraprestación es suficiente
 constituye el mayor riesgo jurídico del proyecto, y el control 1 existe para
 ponerlo a prueba.
 
-Dos autoridades jurisprudenciales tienen su lugar en este expediente, porque un lector hostil las invocará y porque cada una es menos unívoca de lo que parece a primera vista. La primera es la regla de Estrasburgo según la cual una privación sin una suma razonablemente relacionada con el valor del bien objeto de privación es normalmente desproporcionada (James y otros contra el Reino Unido, 1986). La misma sentencia sostiene, a renglón seguido, que los objetivos legítimos de interés público, y expresamente las medidas de reforma económica o las dirigidas a lograr una mayor justicia social, pueden justificar un reembolso inferior al pleno valor de mercado. Esa es la jurisprudencia con arreglo a la cual hay que defender este instrumento, y está disponible en sus propios términos y no a pesar de ellos: una dilución del 3 % que cristaliza en un momento de ganancia realizada, calibrada sobre un desacoplamiento entre la producción y el trabajo, es una medida de reforma económica si alguna lo es.
+Dos precedentes jurisprudenciales tienen su lugar en este expediente, porque
+un lector hostil los invocará y porque cada uno es menos unívoco de lo que
+parece a primera vista. La primera es la regla de Estrasburgo según la cual
+una privación sin una suma razonablemente relacionada con el valor del bien
+objeto de privación es normalmente desproporcionada (James y otros contra el
+Reino Unido, 1986). La misma sentencia sostiene, a renglón seguido, que los
+objetivos legítimos de interés público, y expresamente las medidas de
+reforma económica o las dirigidas a lograr una mayor justicia social, pueden
+justificar un reembolso inferior al pleno valor de mercado. Esa es la
+jurisprudencia con arreglo a la cual hay que defender este instrumento, y
+está disponible en sus propios términos y no a pesar de ellos: una dilución
+del 3 % que cristaliza en un momento de ganancia realizada, calibrada sobre
+un desacoplamiento entre la producción y el trabajo, es una medida de
+reforma económica en toda regla.
 
 La segunda es el artículo 345 TFUE. Dispone que los Tratados no prejuzgan en modo alguno el régimen de la propiedad en los Estados miembros, y la lectura hostil sostiene que una transferencia obligatoria del 3 % del valor de las empresas privadas es una socialización parcial que la Unión no puede decretar. Esa lectura se equivoca de destinatario. El artículo 345 preserva frente a los Tratados la libertad de los Estados miembros de elegir entre propiedad pública y privada; no es un salvoconducto de la propiedad frente a la legislación de la Unión, que es lo que rige el artículo 17 de la Carta y a lo que este memorando responde conforme al artículo 52, apartado 1. El Tribunal ha leído el artículo 345 de manera estricta precisamente en ese sentido, al declarar que un régimen de propiedad elegido por un Estado miembro sigue sujeto a las libertades fundamentales (Essent, C-105/12 a C-107/12). El instrumento deja el régimen de propiedad de cada Estado miembro exactamente como lo encontró: las acciones suscritas son acciones ordinarias de Derecho nacional de sociedades, en manos de un propietario sin derechos especiales, y ninguna norma nacional sobre quién puede poseer qué queda desplazada.
 
@@ -69,14 +82,20 @@ el capital por acto legislativo (Kotnik C-526/14, Ledra C-8/15 P, Aeris
 Invest C-535/22 P), y el instrumento adopta su maquinaria: un considerando
 honesto sobre la injerencia que cita el artículo 17 de la Carta, un
 considerando completo de proporcionalidad conforme al artículo 52, apartado
-1, de la Carta, y una salvaguardia de ejecución cuantificada con
-valoración independiente e impugnable por separado. Una adaptación es
-obligatoria: el contrafactual de la BRRD es la insolvencia, y un régimen
-permanente no puede apoyarse en razonamientos de crisis (Dowling C-41/15).
-La distinción debe enunciarse en lugar de difuminarse: la resolución bancaria diluye a accionistas cuyas acciones no valdrían nada en la insolvencia contrafáctica, mientras que estas empresas son negocios sanos y en funcionamiento cuyas acciones valen mucho. La BRRD se toma, por tanto, por su maquinaria y no por su justificación, y este expediente no finge lo contrario; la justificación es la de James y la de Hauer, y se sostiene o cae por la proporcionalidad y no por una crisis que no se está produciendo.
+1, de la Carta, y una salvaguardia de ejecución cuantificada con valoración
+independiente e impugnable por separado. Una adaptación es obligatoria: el
+contrafactual de la BRRD es la insolvencia, y un régimen permanente no puede
+apoyarse en razonamientos de crisis (Dowling C-41/15). La distinción debe
+enunciarse en lugar de difuminarse: la resolución bancaria diluye a
+accionistas cuyas acciones no valdrían nada en la insolvencia contrafáctica,
+mientras que estas empresas son negocios sanos y en funcionamiento cuyas
+acciones valen mucho. La BRRD se toma, por tanto, por su maquinaria y no por
+su justificación, y este expediente no finge lo contrario; la justificación
+es la de James y la de Hauer, y prosperará o decaerá en función de la
+proporcionalidad y no por una crisis que no se está produciendo.
 
-Conviene enunciar con precisión una autoridad jurisprudencial más, porque
-enunciada con vaguedad no valdría nada. En Sky Österreich (C-283/11, 22 de
+Conviene enunciar con precisión un precedente jurisprudencial más, porque
+enunciado con vaguedad no valdría nada. En Sky Österreich (C-283/11, 22 de
 enero de 2013) la Gran Sala confirmó una medida de la Unión que exigía a los
 titulares de derechos exclusivos de radiodifusión conceder a sus
 competidores acceso para breves reportajes informativos, con una
@@ -90,40 +109,38 @@ desmontar cualquier uso de ese tipo, y disfrutaría haciéndolo.
 
 Lo que sí aporta es más estrecho y sigue siendo útil. Este instrumento
 incide tanto en el artículo 16 como en el artículo 17, porque obligar a una
-empresa a emitir acciones que no eligió emitir es una injerencia en la
-conducción de su actividad, y el Servicio Jurídico de la Comisión verá
-ambas. En ese plano Sky Österreich es directamente pertinente, y dice tres
-cosas: la libertad del artículo 16 no es absoluta, sino que debe apreciarse
-en relación con su función social; el legislador de la Unión puede fijar
-una contraprestación inferior al valor de mercado cuando el interés público
-lo exija; y el criterio es el ordinario del artículo 52, apartado 1. La
+empresa a emitir acciones que no eligió emitir es una injerencia en el
+ejercicio de su actividad, y el Servicio Jurídico de la Comisión verá ambas.
+En ese plano Sky Österreich es directamente pertinente, y dice tres cosas:
+la libertad del artículo 16 no es absoluta, sino que debe apreciarse en
+relación con su función social; el legislador de la Unión puede fijar una
+contraprestación inferior al valor de mercado cuando el interés público lo
+exija; y el criterio es el ordinario del artículo 52, apartado 1. La
 jurisprudencia más antigua respalda la misma lectura de los intereses
 empresariales, que no gozan de protección como meras expectativas
 comerciales de beneficios futuros (Nold 4/73). Booker Aquaculture (C-20/00 y
 C-64/00) se cita a veces junto a ella, y este expediente no se apoya en ese
 asunto: se refería a la destrucción de existencias enfermas bajo un régimen
-de sanidad animal, una justificación de emergencia de salud pública que
-este instrumento no puede invocar.
+de sanidad animal, una justificación de emergencia de salud pública que este
+instrumento no puede invocar.
 
 El plano del artículo 17 descansa por tanto donde descansaba, en James y en
 Hauer, y la afirmación honesta es que ningún asunto resuelto sitúa una
 dilución de capital permanente, ajena a toda crisis y sin compensación, de
 una empresa sana, del lado correcto del artículo 17. Ese es el mayor riesgo
 jurídico del proyecto, y se enuncia como tal en la respuesta anterior.
-Nuestro suelo está, por tanto, en la ejecución y
-no en un contrafáctico:
-la injerencia nunca puede exceder en la ejecución el 3 % enunciado, su
-precio lo fija el propio evento de liquidez mediante una valoración
-independiente e impugnable por separado, y ninguna aplicación del
-instrumento puede tomar más que la injerencia que nombra. La doctrina
-subyacente es más antigua que todo esto: en el ordenamiento de la Unión
-la propiedad no es una prerrogativa ilimitada sino que se protege en su
-función social, y puede restringirse en interés general cuando la
-restricción es proporcionada y deja intacta la esencia del derecho
-(Hauer 44/79; Bosphorus C-84/95). La restricción de este instrumento
-está cuantificada, ligada al evento y preserva la esencia por
-construcción, que es lo que esos asuntos exigen demostrar al
-legislador.
+Nuestra línea de defensa radica, por tanto, en la ejecución y no en un
+escenario contrafáctico: la injerencia nunca puede exceder en la ejecución
+el 3 % enunciado, su precio lo fija el propio evento de liquidez mediante
+una valoración independiente e impugnable por separado, y ninguna aplicación
+del instrumento puede tomar más que la injerencia que nombra. La doctrina
+subyacente es más antigua que todo esto: en el ordenamiento de la Unión la
+propiedad no es una prerrogativa ilimitada sino que se protege en su función
+social, y puede restringirse en interés general cuando la restricción es
+proporcionada y deja intacta la esencia del derecho (Hauer 44/79; Bosphorus
+C-84/95). La restricción de este instrumento está cuantificada, ligada al
+evento y preserva la esencia por construcción, que es lo que esos asuntos
+exigen demostrar al legislador.
 
 **Consecuencia de diseño.** DC-1: warrant prospectivo sobre la creación
 futura de valor en eventos definidos, nunca transferencia retroactiva de
