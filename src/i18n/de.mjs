@@ -5,6 +5,7 @@ export default {
   code: 'de', name: 'Deutsch',
   chrome: {
     law: 'Das Gesetz', objections: 'Einwände', ledger: 'Hauptbuch',
+    faq: 'Fragen',
     join: 'Mitmachen',
     simulator: 'Simulator', evidence: 'Belege', about: 'Über das Projekt',
     skip: 'Zum Inhalt springen',
@@ -141,6 +142,21 @@ export default {
   about: {
     title: 'Über das Projekt', eyebrow: 'Wer, warum und nach welchen Regeln',
     description: 'Wer dahintersteht, das erklärte Interesse, die Prüfstufen, und wie diese Kampagne mit Ihren Daten umgeht.',
+  },
+  faq: {
+    title: 'Fragen, die wirklich gestellt werden', eyebrow: 'Die kurzen Antworten, die langen einen Klick entfernt',
+    description: 'Bekommen Sie Geld, ist das eine Steuer, wer zahlt, können Politiker den Fonds plündern, und was, wenn KI klein bleibt.',
+  },
+  press: {
+    title: 'Für die Presse', eyebrow: 'Fakten, Stand, Standardtext und Kontakt',
+    description: 'Was Own the Machine ist, die Zahlen, auf die es ankommt, der ehrliche Stand, und wie man den Menschen dahinter erreicht.',
+  },
+  sign: {
+    title: 'Wie das Unterzeichnen abläuft', eyebrow: 'Noch nichts zu unterzeichnen; so würde es gehen',
+    description: 'Wo Europäische Bürgerinitiativen wirklich unterzeichnet werden, wer unterzeichnen darf, und was Ihr Land abfragt.',
+    stageLabel: 'Stand',
+    stageNone: 'Es wurde nichts eingereicht, und nirgendwo werden Unterschriften gesammelt, von niemandem. Wer heute Daten für diese Initiative sammelt, ist nicht wir.',
+    stageRegistered: 'Eine Fassung ist registriert. Unterzeichnet wird ausschließlich auf dem offiziellen System der Europäischen Kommission, auf das diese Seite verweist, niemals hier.',
   },
   brief: {
     title: 'Der Vorschlag auf einer Seite', eyebrow: 'Kurzfassung',

@@ -4,6 +4,7 @@ export default {
   code: 'nl', name: 'Nederlands',
   chrome: {
     law: 'De wet', objections: 'Bezwaren', ledger: 'Grootboek',
+    faq: 'Vragen',
     join: 'Meedoen',
     simulator: 'Simulator', evidence: 'Bewijs', about: 'Over',
     skip: 'Naar de inhoud',
@@ -140,6 +141,21 @@ export default {
   about: {
     title: 'Over', eyebrow: 'Wie, waarom, en onder welke regels',
     description: 'Wie hierachter zit, het gemelde belang, de poorten, en hoe deze campagne met je gegevens omgaat.',
+  },
+  faq: {
+    title: 'Vragen die mensen echt stellen', eyebrow: 'De korte antwoorden, met de lange op één klik',
+    description: 'Krijg je geld, is het een belasting, wie betaalt, kunnen politici het plunderen, en wat als AI klein blijft.',
+  },
+  press: {
+    title: 'Voor de pers', eyebrow: 'Feiten, status, standaardtekst en contact',
+    description: 'Wat Own the Machine is, de cijfers die ertoe doen, de eerlijke status, en hoe je de persoon erachter bereikt.',
+  },
+  sign: {
+    title: 'Hoe ondertekenen werkt', eyebrow: 'Nog niets te ondertekenen; zo zou het gaan',
+    description: 'Waar Europese burgerinitiatieven echt worden ondertekend, wie mag tekenen, en wat jouw land vraagt.',
+    stageLabel: 'Stand van zaken',
+    stageNone: 'Er is niets ingediend en nergens worden handtekeningen verzameld, door niemand. Wie vandaag gegevens verzamelt voor dit initiatief, is ons niet.',
+    stageRegistered: 'Een versie is geregistreerd. Ondertekenen gebeurt alleen op het officiële systeem van de Europese Commissie, waarnaar deze pagina verwijst, nooit hier.',
   },
   brief: {
     title: 'Het voorstel op één pagina', eyebrow: 'Beknopte samenvatting',

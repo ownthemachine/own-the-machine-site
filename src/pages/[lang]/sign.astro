@@ -1,0 +1,9 @@
+---
+import Sign from '../../components/screens/Sign.astro';
+
+export function getStaticPaths() {
+  return ['nl', 'fr', 'de', 'es'].map((lang) => ({ params: { lang } }));
+}
+const { lang } = Astro.params;
+---
+<Sign lang={lang} />

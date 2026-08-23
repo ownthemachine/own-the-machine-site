@@ -53,6 +53,9 @@ const SITE_PAGES = {
   versions: 'content/en/versions.md',
   join: 'content/en/join.md',
   brief: 'content/en/brief.md',
+  faq: 'content/en/faq.md',
+  press: 'content/en/press.md',
+  sign: 'content/en/sign.md',
 };
 
 const PARA_TOLERANCE = 0.12; // 12 %, for legitimate paragraphing differences

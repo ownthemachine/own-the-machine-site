@@ -1,0 +1,24 @@
+---
+import Base from '../../layouts/Base.astro';
+import LangBanner from '../LangBanner.astro';
+import law from '../../generated/law.json';
+import { dict } from '../../lib/i18n.mjs';
+interface Props { lang: string }
+const { lang } = Astro.props;
+const t = dict(lang);
+const doc = law.faq[lang] || law.faq.en;
+const isLocal = Boolean(law.faq[lang]);
+---
+<Base title={t.faq.title} lang={lang} description={t.faq.description}>
+  <p class="eyebrow">{t.faq.eyebrow}</p>
+  <h1>{t.faq.title}</h1>
+  <LangBanner lang={lang} doc={law.faq[lang]} />
+
+  <div class="prose" lang={isLocal ? lang : 'en'} set:html={doc.html} />
+</Base>
+
+<style>
+  h1 { font-size: 1.7rem; margin: 0.4rem 0 1.2rem; }
+  .prose :global(h2) { font-size: 1.25rem; }
+  .prose :global(li) { margin-bottom: 0.5rem; }
+</style>

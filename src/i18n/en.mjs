@@ -4,6 +4,7 @@ export default {
   code: 'en', name: 'English',
   chrome: {
     law: 'The law', objections: 'Objections', ledger: 'Ledger',
+    faq: 'FAQ',
     join: 'Take part',
     simulator: 'Simulator', evidence: 'Evidence', about: 'About',
     skip: 'Skip to content',
@@ -140,6 +141,21 @@ export default {
   about: {
     title: 'About', eyebrow: 'Who, why, and under what rules',
     description: 'Who is behind this, the declared interest, the gates, and how this campaign treats your data.',
+  },
+  faq: {
+    title: 'Questions people actually ask', eyebrow: 'The short answers, with the long ones one click away',
+    description: 'Do you get money, is it a tax, who pays, can politicians raid it, and what happens if AI stays small.',
+  },
+  press: {
+    title: 'For press', eyebrow: 'Facts, status, boilerplate and contact',
+    description: 'What Own the Machine is, the numbers that matter, its honest status, and how to reach the person behind it.',
+  },
+  sign: {
+    title: 'How signing works', eyebrow: 'Nothing to sign yet; here is how it would work',
+    description: 'Where European Citizens\u2019 Initiatives are really signed, who can sign, and what your country asks for.',
+    stageLabel: 'Stage',
+    stageNone: 'Nothing has been filed and no signature is being collected anywhere, by anyone. Anyone collecting data for this initiative today is not us.',
+    stageRegistered: 'A version is registered. Signing happens only on the European Commission\u2019s official system, linked from this page, never here.',
   },
   brief: {
     title: 'The proposal in one page', eyebrow: 'Executive brief',

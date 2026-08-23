@@ -5,6 +5,7 @@ export default {
   code: 'es', name: 'Español',
   chrome: {
     law: 'La ley', objections: 'Objeciones', ledger: 'Libro mayor',
+    faq: 'Preguntas',
     join: 'Participar',
     simulator: 'Simulador', evidence: 'Pruebas', about: 'Acerca de',
     skip: 'Ir al contenido',
@@ -141,6 +142,21 @@ export default {
   about: {
     title: 'Acerca de', eyebrow: 'Quién, por qué y bajo qué reglas',
     description: 'Quién está detrás, el interés declarado, las puertas, y cómo trata esta campaña sus datos.',
+  },
+  faq: {
+    title: 'Las preguntas que la gente hace de verdad', eyebrow: 'Las respuestas cortas, con las largas a un clic',
+    description: 'Si recibe dinero, si es un impuesto, quién paga, si los políticos pueden saquear el fondo, y qué pasa si la IA se queda pequeña.',
+  },
+  press: {
+    title: 'Para la prensa', eyebrow: 'Hechos, estado, texto estándar y contacto',
+    description: 'Qué es Own the Machine, las cifras que importan, su estado honesto, y cómo llegar a la persona que está detrás.',
+  },
+  sign: {
+    title: 'Cómo funciona la firma', eyebrow: 'Nada que firmar todavía; así funcionaría',
+    description: 'Dónde se firman de verdad las iniciativas ciudadanas europeas, quién puede firmar, y qué pide su país.',
+    stageLabel: 'Situación',
+    stageNone: 'No se ha presentado nada y no se recogen firmas en ningún sitio, por nadie. Quien hoy recoja datos para esta iniciativa no somos nosotros.',
+    stageRegistered: 'Hay una versión registrada. Se firma únicamente en el sistema oficial de la Comisión Europea, enlazado desde esta página, nunca aquí.',
   },
   brief: {
     title: 'La propuesta en una página', eyebrow: 'Resumen ejecutivo',

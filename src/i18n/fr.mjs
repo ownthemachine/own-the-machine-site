@@ -4,6 +4,7 @@ export default {
   code: 'fr', name: 'Français',
   chrome: {
     law: 'La loi', objections: 'Objections', ledger: 'Grand livre',
+    faq: 'Questions',
     join: 'Participer',
     simulator: 'Simulateur', evidence: 'Preuves', about: 'À propos',
     skip: 'Aller au contenu',
@@ -140,6 +141,21 @@ export default {
   about: {
     title: 'À propos', eyebrow: 'Qui, pourquoi, et sous quelles règles',
     description: 'Qui est derrière ce projet, l’intérêt déclaré, les portes, et comment cette campagne traite vos données.',
+  },
+  faq: {
+    title: 'Les questions que les gens posent vraiment', eyebrow: 'Les réponses courtes, les longues à un clic',
+    description: 'Recevez-vous de l\u2019argent, est-ce un impôt, qui paie, les politiques peuvent-ils piller le fonds, et si l\u2019IA reste petite.',
+  },
+  press: {
+    title: 'Pour la presse', eyebrow: 'Faits, état, texte type et contact',
+    description: 'Ce qu\u2019est Own the Machine, les chiffres qui comptent, son état honnête, et comment joindre la personne derrière.',
+  },
+  sign: {
+    title: 'Comment se signe une initiative', eyebrow: 'Rien à signer encore ; voici comment cela se passerait',
+    description: 'Où se signent réellement les initiatives citoyennes européennes, qui peut signer, et ce que demande votre pays.',
+    stageLabel: 'Situation',
+    stageNone: 'Rien n\u2019a été déposé et aucune signature n\u2019est recueillie où que ce soit, par qui que ce soit. Quiconque collecte aujourd\u2019hui des données pour cette initiative n\u2019est pas nous.',
+    stageRegistered: 'Une version est enregistrée. La signature se fait uniquement sur le système officiel de la Commission européenne, lié depuis cette page, jamais ici.',
   },
   brief: {
     title: 'La proposition en une page', eyebrow: 'Note de synthèse',

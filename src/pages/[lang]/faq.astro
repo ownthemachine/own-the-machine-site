@@ -1,0 +1,9 @@
+---
+import Faq from '../../components/screens/Faq.astro';
+
+export function getStaticPaths() {
+  return ['nl', 'fr', 'de', 'es'].map((lang) => ({ params: { lang } }));
+}
+const { lang } = Astro.params;
+---
+<Faq lang={lang} />
