@@ -88,6 +88,32 @@ Deux éléments ne le sont pas, et une campagne sur la propriété européenne s
 
 Rien ici ne dépend du maintien de cet état. Le site est une compilation statique d'un dépôt public : il peut être reconstruit et servi n'importe où, par n'importe qui, en quelques minutes.
 
+## Où tourne la relecture
+
+Chaque verdict du registre a été produit par un modèle, et la
+puissance de calcul qui l'a produit relève elle aussi d'une
+juridiction. Jusqu'au 23 août 2026, les portes passaient par
+OpenRouter, un routeur américain. Elles passent désormais par le point
+d'accès européen de Requesty, sur des modèles hébergés dans l'Union
+sans aucune conservation des données, les projets n'étant ni conservés
+après l'appel ni utilisés pour l'entraînement.
+
+Le programme ne s'en remet pas à la parole donnée. Avant de dépenser
+le moindre jeton, il lit ce que le routeur consigne lui-même sur le
+lieu d'exécution du modèle et sur le sort du texte, et il refuse de
+démarrer si cette mention n'indique pas l'Union européenne, une
+conservation nulle et aucun usage pour l'entraînement. Ce qu'il a lu
+est inscrit dans le compte rendu de relecture, de sorte que chaque
+verdict porte la preuve et non l'assurance.
+
+Une distinction mérite de rester nette, car c'est celle dont traite
+cette proposition. Hébergé en Europe n'est pas conçu en Europe. Les
+modèles sont américains et tournent sur une infrastructure européenne
+soumise aux règles européennes, et parmi ceux que ce point d'accès
+propose, seul Mistral est un laboratoire européen. Une campagne qui
+demande à qui appartient la machine doit dire franchement qu'elle ne
+tourne pas encore sur une machine appartenant à l'Europe.
+
 ## Accessibilité
 
 Objectif : WCAG 2.1 AA, avec adoption anticipée des critères WCAG 2.2 sur

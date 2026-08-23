@@ -86,6 +86,31 @@ Dos partes no lo son, y una campaña sobre propiedad europea debe decir cuáles:
 
 Nada de esto depende de que siga siendo así. El sitio es una compilación estática de un repositorio público: puede reconstruirse y servirse en cualquier lugar, por cualquiera, en minutos.
 
+## Dónde se ejecuta la revisión
+
+Cada veredicto del registro lo produjo un modelo, y la capacidad de
+cálculo que lo produjo también tiene una jurisdicción. Hasta el 23 de
+agosto de 2026 las puertas pasaban por OpenRouter, un enrutador
+estadounidense. Ahora pasan por el punto de acceso europeo de
+Requesty, sobre modelos alojados en la Unión sin conservación alguna
+de datos, sin que los proyectos se guarden después de la llamada ni se
+utilicen para el entrenamiento.
+
+El programa no lo da por supuesto. Antes de gastar un solo token lee
+lo que el propio enrutador hace constar sobre dónde se ejecuta el
+modelo y qué ocurre con el texto, y se niega a arrancar si esa
+constancia no indica la Unión Europea, conservación nula y ningún uso
+para el entrenamiento. Lo que ha leído queda escrito en el acta de
+revisión, de modo que cada veredicto lleva la prueba y no la promesa.
+
+Conviene mantener nítida una distinción, porque es aquella de la que
+trata esta propuesta. Alojado en Europa no es construido en Europa.
+Los modelos son estadounidenses y se ejecutan sobre infraestructura
+europea bajo normas europeas, y de cuanto ofrece este punto de acceso
+solo Mistral es un laboratorio europeo. Una campaña sobre quién es
+dueño de la máquina debe decir con claridad que todavía no se ejecuta
+sobre una máquina de la que Europa sea dueña.
+
 ## Accesibilidad
 
 Objetivo: WCAG 2.1 AA, con los criterios de apariencia del foco y de tamaño

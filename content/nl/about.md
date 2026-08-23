@@ -86,6 +86,32 @@ Twee onderdelen zijn dat niet, en een campagne over Europees eigendom hoort te z
 
 Niets hier hangt ervan af dat dit zo blijft. De site is een statische build van een openbare repository: hij kan overal, door iedereen, binnen enkele minuten opnieuw worden gebouwd en uitgeleverd.
 
+## Waar de toetsing draait
+
+Elk oordeel in het register is door een model geproduceerd, en de
+rekenkracht die het produceerde heeft zelf ook een rechtsgebied. Tot
+23 augustus 2026 liepen de poorten via OpenRouter, een Amerikaanse
+router. Zij lopen nu via het Europese eindpunt van Requesty, op
+modellen die in de Unie worden gehost zonder enige gegevensbewaring,
+waarbij de ontwerpen na de aanroep niet worden bewaard en niet voor
+training worden gebruikt.
+
+De uitvoerder neemt dat niet op gezag aan. Voordat hij een token
+uitgeeft, leest hij de eigen vastlegging van de router over waar het
+model draait en wat er met de tekst gebeurt, en hij weigert te starten
+tenzij die vastlegging de Europese Unie, nul bewaring en geen gebruik
+voor training vermeldt. Wat hij las, wordt in het toetsingsverslag
+geschreven, zodat elk oordeel het bewijs draagt in plaats van de
+verzekering.
+
+Eén onderscheid verdient het scherp te blijven, omdat het het
+onderscheid is waarover dit voorstel gaat. In Europa gehost is niet in
+Europa gebouwd. De modellen zijn Amerikaans en draaien op Europese
+infrastructuur onder Europese regels, en van wat dit eindpunt aanbiedt
+is alleen Mistral een Europees laboratorium. Een campagne over wie de
+machine bezit, hoort ronduit te zeggen dat zij nog niet draait op een
+machine die Europa bezit.
+
 ## Toegankelijkheid
 
 Doel: WCAG 2.1 AA, met vroegtijdige overname van de WCAG 2.2-criteria

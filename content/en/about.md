@@ -113,6 +113,29 @@ Nothing here depends on any of that remaining true. The site is a
 static build of a public repository: it can be rebuilt and served from
 anywhere, by anyone, in minutes.
 
+## Where the review runs
+
+Every verdict in the ledger was produced by a model, and the compute
+that produced it has a jurisdiction of its own. Until 23 August 2026
+the gates ran through OpenRouter, an American router. They now run
+through Requesty's European endpoint, on models hosted in the Union
+under zero data retention, with the drafts neither kept after the call
+nor used for training.
+
+The runner does not take that on trust. Before it spends a token it
+reads the router's own record of where the model runs and what becomes
+of the text, and refuses to start unless that record says the European
+Union, zero retention and no training use. Whatever it read is written
+into the review record, so each verdict carries the evidence rather
+than the assurance.
+
+One distinction is worth keeping sharp, because it is the distinction
+this proposal is about. Hosted in Europe is not built in Europe. The
+models are American, running on European infrastructure under European
+rules, and of what this endpoint offers only Mistral is a European
+laboratory. A campaign about who owns the machine should say plainly
+that it does not yet run on one Europe owns.
+
 ## Accessibility
 
 Target: WCAG 2.1 AA, with the WCAG 2.2 focus-appearance and target-size

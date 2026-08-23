@@ -89,6 +89,32 @@ Zwei Teile sind es nicht, und eine Kampagne über europäisches Eigentum sollte 
 
 Nichts hier hängt davon ab, dass das so bleibt. Die Seite ist ein statischer Build eines öffentlichen Archivs: sie lässt sich überall, von allen, in Minuten neu bauen und ausliefern.
 
+## Wo die Prüfung läuft
+
+Jedes Urteil im Register wurde von einem Modell erzeugt, und die
+Rechenleistung, die es erzeugt hat, untersteht einer eigenen Rechtsordnung.
+Bis zum 23. August 2026 liefen die Prüfstufen über OpenRouter, einen
+amerikanischen Router. Sie laufen nun über den europäischen Endpunkt von
+Requesty, auf Modellen, die in der Union gehostet werden, ohne jede
+Datenspeicherung und ohne dass die Entwürfe nach dem Aufruf aufbewahrt oder
+zum Training verwendet werden.
+
+Das Programm verlässt sich darauf nicht. Bevor es ein Token ausgibt,
+liest es die eigene Angabe des Routers dazu, wo das Modell läuft und
+was mit dem Text geschieht, und es verweigert den Start, solange diese
+Angabe nicht die Europäische Union, keine Speicherung und keine
+Verwendung zum Training ausweist. Was es gelesen hat, wird in den
+Prüfbericht geschrieben, damit jedes Urteil den Beleg trägt und nicht
+die Zusicherung.
+
+Eine Unterscheidung sollte scharf bleiben, denn um sie geht es in
+diesem Vorschlag. In Europa gehostet ist nicht in Europa gebaut. Die
+Modelle sind amerikanisch und laufen auf europäischer Infrastruktur
+nach europäischen Regeln, und von dem, was dieser Endpunkt anbietet,
+ist allein Mistral ein europäisches Labor. Eine Kampagne darüber, wem
+die Maschine gehört, sollte offen sagen, dass sie noch nicht auf einer
+Maschine läuft, die Europa gehört.
+
 ## Barrierefreiheit
 
 Ziel: WCAG 2.1 AA, mit vorgezogener Übernahme der WCAG-2.2-Kriterien zu
