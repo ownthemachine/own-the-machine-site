@@ -21,7 +21,7 @@ Dies ist ein Vorschlag von Bürgerinnen und Bürgern. Er wird von der Europäisc
 
 Initiiert von David Vanheeswijck (Belgien). Die Entwurfsmethode nutzt
 kontradiktorische KI-Prüfung unter der Verantwortung des Herausgebers;
-jedes Urteil und jede Erledigung steht im [Hauptbuch](/law/ledger). Eine
+jedes Urteil und jede Erledigung steht im [Register](/law/ledger). Eine
 Organisatorengruppe von mindestens sieben Bürgerinnen und Bürgern aus
 sieben Mitgliedstaaten wird gebildet, wenn das Projekt seine eigenen
 Prüfstufen besteht.

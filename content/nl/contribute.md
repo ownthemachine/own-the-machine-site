@@ -8,7 +8,7 @@ Het ontwerp verbetert zoals open source verbetert: in het openbaar, per
 pull request, aan de hand van vooraf gestelde criteria. Drie repository's:
 
 - [own-the-machine](https://github.com/ownthemachine/own-the-machine):
-  de wet, de toelichting, het reviewgrootboek (CC BY-SA 4.0).
+  de wet, de toelichting, het reviewregister (CC BY-SA 4.0).
 - [own-the-machine-tools](https://github.com/ownthemachine/own-the-machine-tools):
   de toetsingspoorten en de linter (MIT).
 - [own-the-machine-site](https://github.com/ownthemachine/own-the-machine-site):

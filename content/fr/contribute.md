@@ -8,7 +8,7 @@ Le projet s'améliore comme s'améliore l'open source : en public, par pull
 request, au regard de critères énoncés. Trois dépôts :
 
 - [own-the-machine](https://github.com/ownthemachine/own-the-machine) :
-  la loi, son mémorandum, le grand livre des examens (CC BY-SA 4.0).
+  la loi, son mémorandum, le registre des examens (CC BY-SA 4.0).
 - [own-the-machine-tools](https://github.com/ownthemachine/own-the-machine-tools) :
   les portes de contrôle et le linter (MIT).
 - [own-the-machine-site](https://github.com/ownthemachine/own-the-machine-site) :

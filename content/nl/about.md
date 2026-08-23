@@ -20,7 +20,7 @@ Dit is een voorstel van burgers. Het wordt niet uitgegeven, onderschreven of get
 
 Geïnitieerd door David Vanheeswijck (België). De redactiemethode gebruikt
 AI-review op tegenspraak onder verantwoordelijkheid van de redacteur; elk
-oordeel en elke afdoening staat in het [grootboek](/law/ledger). Een
+oordeel en elke afdoening staat in het [register](/law/ledger). Een
 organisatorengroep van ten minste zeven burgers uit zeven lidstaten wordt
 gevormd als het project zijn eigen toetsingspoorten doorstaat.
 

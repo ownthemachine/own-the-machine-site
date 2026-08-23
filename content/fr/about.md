@@ -22,7 +22,7 @@ Ceci est une proposition de citoyens. Elle n'est ni publiée ni approuvée par l
 À l'initiative de David Vanheeswijck (Belgique). La méthode de rédaction
 recourt à un examen contradictoire par IA sous la responsabilité de
 l'éditeur ; chaque verdict et chaque suite donnée figurent au
-[grand livre](/law/ledger). Un groupe d'organisateurs d'au moins sept
+[registre](/law/ledger). Un groupe d'organisateurs d'au moins sept
 citoyens de sept États membres sera constitué si le projet franchit ses
 propres portes de contrôle.
 

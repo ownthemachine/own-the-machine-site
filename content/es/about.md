@@ -21,7 +21,7 @@ Esta es una propuesta de la ciudadanía. No está publicada por la Unión Europe
 
 Iniciado por David Vanheeswijck (Bélgica). El método de redacción emplea
 revisión contradictoria mediante IA bajo la responsabilidad del editor; cada
-veredicto y su resolución constan en el [libro mayor](/law/ledger). Se
+veredicto y su resolución constan en el [registro](/law/ledger). Se
 constituirá un grupo de organizadores de al menos siete ciudadanos de siete
 Estados miembros si el proyecto supera sus propios controles.
 

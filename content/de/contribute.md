@@ -9,7 +9,7 @@ Der Entwurf verbessert sich so, wie sich Open Source verbessert:
 Repositories:
 
 - [own-the-machine](https://github.com/ownthemachine/own-the-machine):
-  das Gesetz, sein Memorandum, das Hauptbuch der Prüfungen (CC BY-SA 4.0).
+  das Gesetz, sein Memorandum, das Register der Prüfungen (CC BY-SA 4.0).
 - [own-the-machine-tools](https://github.com/ownthemachine/own-the-machine-tools):
   die Prüfstufen und der Linter (MIT).
 - [own-the-machine-site](https://github.com/ownthemachine/own-the-machine-site):

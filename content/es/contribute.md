@@ -8,7 +8,7 @@ El borrador mejora como mejora el código abierto: en público, mediante pull
 request, contra criterios declarados. Tres repositorios:
 
 - [own-the-machine](https://github.com/ownthemachine/own-the-machine):
-  la ley, su memorando, el libro mayor de revisiones (CC BY-SA 4.0).
+  la ley, su memorando, el registro de revisiones (CC BY-SA 4.0).
 - [own-the-machine-tools](https://github.com/ownthemachine/own-the-machine-tools):
   los controles de revisión y el linter (MIT).
 - [own-the-machine-site](https://github.com/ownthemachine/own-the-machine-site):

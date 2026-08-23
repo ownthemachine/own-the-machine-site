@@ -70,6 +70,17 @@ node scripts/check-toc.mjs
 # while it still looks right in the other four. Printed and counted here.
 node scripts/check-brief.mjs
 
+# The chrome must speak the same language as the pages it points at. The
+# footer sitemap shipped with two invented words (Dutch Scheidbaarheid for a
+# page headed Deelbaarheid, German Trennbarkeit for Teilbarkeit), which no
+# structural check could see because every link resolved.
+node scripts/check-labels.mjs
+
+# And every page must still be reachable from every page, in every language:
+# cutting the nav from eight items to five is only an improvement if the
+# footer really carries what it dropped.
+node scripts/check-reach.mjs
+
 # The site has its own Scaleway project and its own deploy identity, so a
 # key that leaks can touch this bucket and nothing else in the account.
 SCW_PROFILE_NAME="${SCW_PROFILE_NAME:-own-the-machine}"
