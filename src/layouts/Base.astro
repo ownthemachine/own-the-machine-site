@@ -16,15 +16,43 @@ const { title, lang = 'en', noindex = false } = Astro.props;
 const t = dict(lang);
 const description = Astro.props.description || t.chrome.metaDescription;
 
+// Five, deliberately. The nav had grown to eight because the footer carried
+// no links at all, so every new page had only one route to it. The footer
+// below is now a full sitemap, which lets the primary nav carry only the
+// entry points a first-time reader needs: the text itself, the argument
+// against it, the numbers, the questions, and the one thing we ask.
 const nav = [
   ['/law', t.chrome.law],
   ['/law/objections', t.chrome.objections],
-  ['/faq', t.chrome.faq],
-  ['/law/ledger', t.chrome.ledger],
   ['/simulator', t.chrome.simulator],
-  ['/evidence', t.chrome.evidence],
-  ['/about', t.chrome.about],
+  ['/faq', t.chrome.faq],
   ['/join', t.chrome.join],
+];
+
+// Footer sitemap: everything reachable, grouped by why a reader is here.
+const footerGroups = [
+  [t.chrome.footNavFile, [
+    ['/law', t.chrome.law],
+    ['/law/recitals', t.chrome.recitals],
+    ['/law/objections', t.chrome.objections],
+    ['/law/explanatory-memorandum', t.chrome.explanatory],
+    ['/law/memorandum', t.chrome.severability],
+    ['/law/versions', t.chrome.versions],
+    ['/law/ledger', t.chrome.ledger],
+    ['/evidence', t.chrome.evidence],
+  ]],
+  [t.chrome.footNavUnderstand, [
+    ['/brief', t.chrome.brief],
+    ['/faq', t.chrome.faq],
+    ['/simulator', t.chrome.simulator],
+  ]],
+  [t.chrome.footNavAct, [
+    ['/join', t.chrome.join],
+    ['/sign', t.chrome.sign],
+    ['/press', t.chrome.press],
+    ['/contribute', t.chrome.contribute],
+    ['/about', t.chrome.about],
+  ]],
 ];
 // Path of this page with the locale prefix removed, for the switcher and
 // hreflang alternates.
@@ -184,6 +212,19 @@ const jsonLd = {
     </script>
     <footer>
       <hr class="rule-fine" />
+      <nav class="foot-nav" aria-label={t.chrome.footNavLabel}>
+        {footerGroups.map(([heading, items]) => (
+          <div class="foot-group">
+            <p class="foot-head">{heading}</p>
+            <ul>
+              {items.map(([itemHref, label]) => (
+                <li><a href={href(lang, itemHref)}>{label}</a></li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </nav>
+      <hr class="rule-fine" />
       <div class="foot-inner">
         <span class="foot-q"><em>{t.chrome.footerQuestion}</em></span>
         <span class="foot-meta">
@@ -208,6 +249,19 @@ const jsonLd = {
     font-size: 1rem; text-decoration: none;
   }
   .links { display: flex; gap: clamp(0.7rem, 2vw, 1.4rem); flex-wrap: wrap; align-items: baseline; }
+  .foot-nav {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+    gap: 1.6rem 2.4rem; padding: 1.6rem clamp(1rem, 4vw, 3rem) 0.4rem;
+  }
+  .foot-group ul { list-style: none; margin: 0; padding: 0; }
+  .foot-group li { margin: 0 0 0.3rem; }
+  .foot-head {
+    font-size: 0.7rem; letter-spacing: 0.09em; text-transform: uppercase;
+    color: var(--ink-soft); margin: 0 0 0.55rem;
+  }
+  .foot-group a { font-size: 0.88rem; text-decoration: none; color: var(--ink); }
+  .foot-group a:hover, .foot-group a:focus { text-decoration: underline; }
+  @media print { .foot-nav { display: none; } }
   .links a { font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; text-decoration: none; }
   .links a[aria-current="page"] { color: var(--seal-gold); }
   .langs { display: inline-flex; gap: 0.45rem; padding-left: 0.6rem; border-left: 1px solid var(--guilloche); }
