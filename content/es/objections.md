@@ -53,11 +53,11 @@ DMA), no como una confiscación de participaciones existentes. Segunda: debe
 aplicarse solo por encima de umbrales altos y objetivos, para que el control
 de proporcionalidad tenga a qué agarrarse. Tercera: debe llevar aparejada
 una contraprestación: la reserva es un tenedor pasivo y sin control, el
-warrant solo cristaliza en eventos de liquidez, y la empresa designada
-recibe la seguridad jurídica de un régimen único armonizado en lugar de
-veintisiete experimentos nacionales. Si esa contraprestación es suficiente
-constituye el mayor riesgo jurídico del proyecto, y el control 1 existe para
-ponerlo a prueba.
+warrant solo cristaliza en eventos de liquidez, y la empresa cubierta recibe
+la seguridad jurídica de un régimen único armonizado en lugar de veintisiete
+experimentos nacionales. Si esa contraprestación es suficiente constituye el
+mayor riesgo jurídico del proyecto, y el control 1 existe para ponerlo a
+prueba.
 
 Dos precedentes jurisprudenciales tienen su lugar en este expediente, porque
 un lector hostil los invocará y porque cada uno es menos unívoco de lo que
@@ -242,7 +242,7 @@ uniforme.
 incidencia del impuesto de sociedades es inequívoca: la incidencia legal y
 la económica difieren; una parte sustancial de las cargas societarias recae
 en trabajadores y consumidores. Una obligación de warrant eleva el coste de
-operar en Europa; las empresas designadas ajustan sus precios; el dividendo
+operar en Europa; las empresas cubiertas ajustan sus precios; el dividendo
 del ciudadano llega neto de los mayores precios que el propio ciudadano
 paga. El esquema es entonces una bomba circular con pérdida irrecuperable de
 eficiencia.
@@ -267,7 +267,7 @@ un warrant y no un gravamen.
 poder convertirse en una carga sobre flujos, porque la respuesta sobre la
 incidencia depende de ello.
 
-### 5. Las empresas designadas se marcharán, o nunca vendrán
+### 5. Las empresas cubiertas se marcharán, o nunca vendrán
 
 **La objeción, en su formulación más sólida.** El informe Draghi ya cede
 terreno: es demasiado tarde para que la UE desarrolle competidores
@@ -307,17 +307,17 @@ basadas en la primacía del fondo sobre la forma.
 
 ### 6. Los warrants sobre empresas no cotizadas no pueden valorarse, votarse ni venderse
 
-**La objeción, en su formulación más sólida.** La clase designada está
+**La objeción, en su formulación más sólida.** La clase cubierta está
 dominada por empresas no cotizadas. Una reserva con warrants sobre
 microgigantes no cotizados posee papel sin precio de mercado, sin liquidez y
 sin salida; o bien presiona por salidas a bolsa tempranas, distorsionando
 los mercados de capitales, o bien se sienta sobre derechos sin valorar
 durante una década y el dividendo que promete no puede pagarse. Entretanto,
-la cuestión de la gobernanza es una trampa en ambos sentidos: un
-megatenedor pasivo es el propietario endeble de la crítica de Bebchuk, y uno
-activo es un accionista soberano político en cada gran empresa. La HCAP
-griega muestra la sobrecorrección: el máximo blindaje frente a saqueos,
-logrado colocando el activo enteramente fuera del alcance de los ciudadanos.
+la cuestión de la gobernanza es una trampa en ambos sentidos: un megatenedor
+pasivo es el propietario endeble de la crítica de Bebchuk, y uno activo es
+un accionista soberano político en cada gran empresa. La HCAP griega muestra
+la sobrecorrección: el máximo blindaje frente a saqueos, logrado colocando
+el activo enteramente fuera del alcance de los ciudadanos.
 
 **Lo que acierta.** Todo. Este es el problema de diseño más difícil del
 instrumento, más difícil que la base jurídica.
@@ -526,11 +526,13 @@ warrants con años de retraso y no distribuiría nada durante una década.
 demoledora, y el memorando no gana nada discutiéndolo.
 
 **La respuesta que el instrumento debe dar.** No poner ninguna maquinaria de
-gasto de la Unión en la ruta crítica. La obligación vincula directamente a las empresas designadas con la reserva: los warrants se emiten por ministerio
-de la ley al cruzarse los umbrales, cristalizan por ministerio de la ley al concurrir los hechos causantes, y la tarea de la reserva es la custodia y la distribución, no
-la contratación pública. Nada necesita construirse, licitarse ni
-desembolsarse para que el instrumento funcione; el contraste con InvestAI
-obedece al diseño, no supone un desmérito.
+gasto de la Unión en la ruta crítica. La obligación vincula directamente a
+las empresas cubiertas con la reserva: los warrants se emiten por ministerio
+de la ley al cruzarse los umbrales, cristalizan por ministerio de la ley al
+concurrir los hechos causantes, y la tarea de la reserva es la custodia y la
+distribución, no la contratación pública. Nada necesita construirse,
+licitarse ni desembolsarse para que el instrumento funcione; el contraste
+con InvestAI obedece al diseño, no supone un desmérito.
 
 **Consecuencia de diseño.** DC-24: obligaciones autoejecutivas por
 ministerio de la ley; ninguna maquinaria de subvenciones, licitaciones o
@@ -700,7 +702,22 @@ instrumento.
 
 ### 16. Esto es una acción de oro, y el Tribunal anula las acciones de oro
 
-**La objeción, en su formulación más sólida.** Durante veinte años el Tribunal ha desmontado toda posición pública especial en el capital dentro del mercado interior. Comisión/Alemania (C-112/05) anuló la Ley Volkswagen porque los topes de voto y una minoría de bloqueo daban a los poderes públicos una influencia que excedía su inversión y disuadían así la inversión directa; las acciones de oro portuguesas, francesas, italianas, británicas y neerlandesas cayeron del mismo modo bajo el actual artículo 63 TFUE. Una Reserva instituida por la Unión que posee por ley el 3 % de cada empresa designada es una acción de oro con ropaje de reglamento: un accionista permanente, adosado al poder público, que ningún inversor eligió, plantado en la estructura de capital de cada empresa de frontera, y que disuade precisamente la inversión transfronteriza que el artículo 63 protege. La neutralidad del artículo 345 respecto de los regímenes de propiedad no salvó la Ley Volkswagen y no salvará esto. La disuasión no es hipotética: cada ronda de financiación de una empresa designada incorpora ya al precio una dilución futura obligatoria.
+**La objeción, en su formulación más sólida.** Durante veinte años el
+Tribunal ha desmontado toda posición pública especial en el capital dentro
+del mercado interior. Comisión/Alemania (C-112/05) anuló la Ley Volkswagen
+porque los topes de voto y una minoría de bloqueo daban a los poderes
+públicos una influencia que excedía su inversión y disuadían así la
+inversión directa; las acciones de oro portuguesas, francesas, italianas,
+británicas y neerlandesas cayeron del mismo modo bajo el actual artículo 63
+TFUE. Una Reserva instituida por la Unión que posee por ley el 3 % de cada
+empresa cubierta es una acción de oro con ropaje de reglamento: un
+accionista permanente, adosado al poder público, que ningún inversor eligió,
+plantado en la estructura de capital de cada empresa de frontera, y que
+disuade precisamente la inversión transfronteriza que el artículo 63
+protege. La neutralidad del artículo 345 respecto de los regímenes de
+propiedad no salvó la Ley Volkswagen y no salvará esto. La disuasión no es
+hipotética: cada ronda de financiación de una empresa cubierta incorpora ya
+al precio una dilución futura obligatoria.
 
 **Lo que acierta.** La dilución es real y los inversores la incorporarán al precio, y toda posición que confiera facultades de control caería exactamente como cayó Volkswagen. La jurisprudencia de las acciones de oro es la jurisprudencia de referencia para toda posición pública en el capital, y el instrumento debe redactarse contra ella, no esquivándola.
 
@@ -786,7 +803,18 @@ El artículo 5, apartado 10, hace inoponible a la Reserva toda
 reestructuración cuya finalidad o efecto principal sea situarla por debajo
 del rango que ese apartado le asigna, dejándola válida entre las partes.
 
-Después el perímetro: el artículo 5, apartado 11, obliga al adquirente a emitir su propio warrant cuando activos automatizados pasan a una entidad vinculada o bajo control común, o salen en condiciones distintas de las de plena competencia, y deja al transmitente obligado por lo que conserva. El conjunto entre la empresa designada y cada adquirente está limitado al porcentaje enunciado de su capital combinado, de modo que cerrar esta vía no pueda convertirse en un multiplicador para un grupo que se divide a sí mismo. El artículo 2, punto 14, nombra lo que no puede salir por la puerta: parámetros de los modelos, infraestructura de entrenamiento e inferencia, conjuntos de datos, la propiedad intelectual de la que depende el servicio. Esta es la lógica de sucesión del control de concentraciones, no una invención.
+Después el perímetro: el artículo 5, apartado 11, obliga al adquirente a
+emitir su propio warrant cuando activos automatizados pasan a una entidad
+vinculada o bajo control común, o salen en condiciones distintas de las de
+plena competencia, y deja al transmitente obligado por lo que conserva. El
+conjunto entre la empresa cubierta y cada adquirente está limitado al
+porcentaje enunciado de su capital combinado, de modo que cerrar esta vía no
+pueda convertirse en un multiplicador para un grupo que se divide a sí
+mismo. El artículo 2, punto 14, nombra lo que no puede salir por la puerta:
+parámetros de los modelos, infraestructura de entrenamiento e inferencia,
+conjuntos de datos, la propiedad intelectual de la que depende el servicio.
+Esta es la lógica de sucesión del control de concentraciones, no una
+invención.
 
 Por último la salida: el artículo 5, apartado 12, vuelve a vincular la obligación cuando los activos automatizados emergen de una insolvencia o de una reestructuración conforme a la Directiva (UE) 2019/1023 en una entidad controlada por las mismas personas o en la que estas ostentan la mayoría de los derechos económicos, y exige emitir un nuevo warrant en tres meses. Un fracaso genuino sigue extinguiendo la participación de la Reserva, como la de cualquier accionista, porque la Reserva es propietaria y los propietarios lo soportan. Lo que no hace es bendecir la versión en que los propietarios sobreviven y solo muere la obligación.
 

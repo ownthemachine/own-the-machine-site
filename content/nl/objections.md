@@ -46,21 +46,20 @@ geen waardeontneming is, zou oneerlijk zijn, en de toelichting mag dat
 niet doen.
 
 **Het antwoord dat het instrument moet geven.** Drie structurele keuzes,
-geen ervan vrijblijvend. Ten eerste moet de warrant worden opgesteld als
-een voorwaarde voor toegang tot de interne markt voor een afgebakende
-categorie ondernemingen, toekomstgericht en uniform, in de familie van
+geen ervan vrijblijvend. Ten eerste moet de warrant worden opgesteld als een
+voorwaarde voor toegang tot de interne markt voor een afgebakende categorie
+ondernemingen, toekomstgericht en uniform, in de familie van
 reguleringsverplichtingen die het Hof bij evenredigheid heeft aanvaard
 (kapitaalvereisten, universeledienstverplichtingen,
 poortwachtersverplichtingen uit de DMA), niet als een confiscatie van
 bestaand bezit. Ten tweede mag hij alleen gelden boven hoge, objectieve
-drempels, zodat de evenredigheidstoets houvast heeft. Ten derde moet er
-een tegenprestatie tegenover staan: de reserve is een passieve houder
-zonder zeggenschap, de warrant wordt pas verzilverd bij
-liquiditeitsgebeurtenissen, en de aangewezen onderneming krijgt de
-rechtszekerheid van één geharmoniseerd stelsel in plaats van
-zevenentwintig nationale experimenten. Of die tegenprestatie volstaat, is
-het grootste juridische risico van het project, en toetsingspoort 1
-bestaat om dat te testen.
+drempels, zodat de evenredigheidstoets houvast heeft. Ten derde moet er een
+tegenprestatie tegenover staan: de reserve is een passieve houder zonder
+zeggenschap, de warrant wordt pas verzilverd bij liquiditeitsgebeurtenissen,
+en de gedekte onderneming krijgt de rechtszekerheid van één geharmoniseerd
+stelsel in plaats van zevenentwintig nationale experimenten. Of die
+tegenprestatie volstaat, is het grootste juridische risico van het project,
+en toetsingspoort 1 bestaat om dat te testen.
 
 Twee gezaghebbende bronnen horen in dit dossier thuis, omdat een vijandige
 lezer ze zal aanvoeren en omdat elk minder eenzijdig is dan zij op het
@@ -229,13 +228,13 @@ pensioeninfrastructuur. DC-8: minimumnormen, geen uniforme machinerie.
 ### 4. Bedrijven wentelen de kosten af op consumenten, dus burgers betalen hun eigen dividend
 
 **Het bezwaar, in zijn sterkste vorm.** De literatuur over de afwenteling
-van vennootschapsbelasting is eenduidig: wie de last wettelijk draagt en
-wie haar economisch draagt, verschilt; een aanzienlijk deel van de lasten
-voor ondernemingen komt terecht bij werknemers en consumenten. Een
-warrantverplichting verhoogt de kosten van opereren in Europa; aangewezen
-ondernemingen passen hun prijzen aan; het dividend van de burger komt
-binnen na aftrek van de eigen hogere prijzen van diezelfde burger. Het
-stelsel is dan een rondpompmachine met welvaartsverlies.
+van vennootschapsbelasting is eenduidig: wie de last wettelijk draagt en wie
+haar economisch draagt, verschilt; een aanzienlijk deel van de lasten voor
+ondernemingen komt terecht bij werknemers en consumenten. Een
+warrantverplichting verhoogt de kosten van opereren in Europa; gedekte
+ondernemingen passen hun prijzen aan; het dividend van de burger komt binnen
+na aftrek van de eigen hogere prijzen van diezelfde burger. Het stelsel is
+dan een rondpompmachine met welvaartsverlies.
 
 **Wat eraan klopt.** Enige doorberekening van elke last is reëel, en nul
 afwenteling claimen zou amateuristisch zijn.
@@ -258,7 +257,7 @@ warrant is en geen heffing.
 omzetbaar zijn in een heffing op geldstromen, want het antwoord op het
 afwentelingsvraagstuk hangt ervan af.
 
-### 5. Aangewezen ondernemingen vertrekken, of komen nooit
+### 5. Gedekte ondernemingen vertrekken, of komen nooit
 
 **Het bezwaar, in zijn sterkste vorm.** Het rapport-Draghi geeft het terrein
 al prijs: het is te laat voor de EU om volwaardige uitdagers van de grote
@@ -297,14 +296,14 @@ vestiging. DC-11: groepsconsolidatie met personeelsregels waarbij de economische
 
 ### 6. Warrants op private ondernemingen: onwaardeerbaar, stemloos, onverkoopbaar
 
-**Het bezwaar, in zijn sterkste vorm.** De aangewezen categorie wordt
+**Het bezwaar, in zijn sterkste vorm.** De gedekte categorie wordt
 gedomineerd door niet-beursgenoteerde ondernemingen. Een reserve met
 warrants op private microreuzen houdt papier zonder marktprijs, zonder
 liquiditeit en zonder exit; ofwel dringt zij aan op vroege beursgangen en
 verstoort zo de kapitaalmarkten, ofwel zit zij tien jaar op ongewaardeerde
-aanspraken en kan het beloofde dividend niet worden betaald. Intussen is
-de bestuursvraag een val in beide richtingen: een passieve megahouder is
-de krachteloze eigenaar uit de kritiek van Bebchuk, en een actieve is een
+aanspraken en kan het beloofde dividend niet worden betaald. Intussen is de
+bestuursvraag een val in beide richtingen: een passieve megahouder is de
+krachteloze eigenaar uit de kritiek van Bebchuk, en een actieve is een
 politieke staatsaandeelhouder in elke grote onderneming. Het Griekse HCAP
 toont de overcorrectie: maximale bestendigheid tegen plunderingen, bereikt
 door het vermogen volledig buiten het bereik van burgers te plaatsen.
@@ -499,7 +498,7 @@ toelichting wint niets bij het betwisten ervan.
 
 **Het antwoord dat het instrument moet geven.** Zet geen
 bestedingsmachinerie van de Unie op het kritieke pad. De verplichting loopt
-rechtstreeks van aangewezen ondernemingen naar de reserve: warrants ontstaan
+rechtstreeks van gedekte ondernemingen naar de reserve: warrants ontstaan
 van rechtswege bij het overschrijden van de drempels, worden van rechtswege
 verzilverd bij gebeurtenissen, en de taak van de reserve is bewaring en
 uitkering, geen aanbesteding. Er hoeft niets te worden gebouwd, aanbesteed
@@ -671,7 +670,22 @@ verkeerd.
 
 ### 16. Dit is een gouden aandeel, en het Hof vernietigt gouden aandelen
 
-**Het bezwaar, in zijn sterkste vorm.** Twintig jaar lang heeft het Hof elke bijzondere publieke aandelenpositie in de interne markt ontmanteld. Commissie/Duitsland (C-112/05) vernietigde de Volkswagenwet omdat stemrechtplafonds en een blokkerende minderheid overheden invloed gaven die hun investering te boven ging en daarmee directe investeringen afschrikten; de Portugese, Franse, Italiaanse, Britse en Nederlandse gouden aandelen sneuvelden op dezelfde wijze onder het huidige artikel 63 VWEU. Een door de Unie opgerichte Reserve die krachtens de wet 3 % van elke aangewezen onderneming houdt, is een gouden aandeel in de gedaante van een verordening: een permanente, aan de staat verwante aandeelhouder die geen enkele belegger heeft gekozen, geplant in de kapitaalstructuur van elke grensverleggende onderneming, en die precies de grensoverschrijdende investeringen afschrikt die artikel 63 beschermt. De neutraliteit van artikel 345 ten aanzien van eigendomsstelsels redde de Volkswagenwet niet en zal dit niet redden. De afschrikking is niet hypothetisch: elke durfkapitaalronde van een aangewezen onderneming prijst voortaan een verplichte toekomstige verwatering in.
+**Het bezwaar, in zijn sterkste vorm.** Twintig jaar lang heeft het Hof elke
+bijzondere publieke aandelenpositie in de interne markt ontmanteld.
+Commissie/Duitsland (C-112/05) vernietigde de Volkswagenwet omdat
+stemrechtplafonds en een blokkerende minderheid overheden invloed gaven die
+hun investering te boven ging en daarmee directe investeringen afschrikten;
+de Portugese, Franse, Italiaanse, Britse en Nederlandse gouden aandelen
+sneuvelden op dezelfde wijze onder het huidige artikel 63 VWEU. Een door de
+Unie opgerichte Reserve die krachtens de wet 3 % van elke gedekte
+onderneming houdt, is een gouden aandeel in de gedaante van een verordening:
+een permanente, aan de staat verwante aandeelhouder die geen enkele belegger
+heeft gekozen, geplant in de kapitaalstructuur van elke grensverleggende
+onderneming, en die precies de grensoverschrijdende investeringen afschrikt
+die artikel 63 beschermt. De neutraliteit van artikel 345 ten aanzien van
+eigendomsstelsels redde de Volkswagenwet niet en zal dit niet redden. De
+afschrikking is niet hypothetisch: elke durfkapitaalronde van een gedekte
+onderneming prijst voortaan een verplichte toekomstige verwatering in.
 
 **Wat eraan klopt.** De verwatering is reëel en beleggers zullen haar inprijzen, en elke positie met rechten met een zeggenschapskarakter zou sneuvelen zoals Volkswagen sneuvelde. De gouden-aandelenrechtspraak is de maatgevende jurisprudentie voor elke publieke aandelenpositie, en het instrument moet met die rechtspraak als directe maatstaf worden ontworpen, niet eromheen.
 
@@ -766,14 +780,13 @@ Dan de perimeter: artikel 5, lid 11, verplicht de verkrijger een eigen
 warrant uit te geven wanneer geautomatiseerde activa naar een verbonden of
 gemeenschappelijk gecontroleerde entiteit gaan of tegen minder dan zakelijke
 voorwaarden vertrekken, en laat de overdragende onderneming gebonden voor
-wat zij behoudt. Het totaal over de aangewezen onderneming en elke
-verkrijger samen is beperkt tot het genoemde percentage van hun gezamenlijke
-kapitaal, zodat het sluiten van deze route niet kan omslaan in een
-vermenigvuldiger voor een groep die zichzelf opsplitst. Artikel 2, punt 14,
-benoemt wat niet de deur uit mag: modelparameters, trainings- en inferentie-
-infrastructuur, datasets, de intellectuele eigendom waarvan de dienst
-afhangt. Dit is de opvolgingslogica van de concentratiecontrole, geen
-uitvinding.
+wat zij behoudt. Het totaal over de gedekte onderneming en elke verkrijger
+samen is beperkt tot het genoemde percentage van hun gezamenlijke kapitaal,
+zodat het sluiten van deze route niet kan omslaan in een vermenigvuldiger
+voor een groep die zichzelf opsplitst. Artikel 2, punt 14, benoemt wat niet
+de deur uit mag: modelparameters, trainings- en inferentie- infrastructuur,
+datasets, de intellectuele eigendom waarvan de dienst afhangt. Dit is de
+opvolgingslogica van de concentratiecontrole, geen uitvinding.
 
 Dan de uitgang: artikel 5, lid 12, laat de verplichting opnieuw aanhechten wanneer de geautomatiseerde activa uit een insolventie of een herstructurering krachtens richtlijn (EU) 2019/1023 tevoorschijn komen bij een entiteit die wordt gecontroleerd door dezelfde personen of waarin zij de meerderheid van de economische rechten houden, en verplicht tot uitgifte van een nieuwe warrant binnen drie maanden. Een echte mislukking doet het belang van de Reserve nog steeds tenietgaan, zoals dat van elke aandeelhouder, want de Reserve is eigenaar en eigenaars dragen dat. Wat zij niet doet, is de versie zegenen waarin de eigenaars overleven en alleen de verplichting sterft.
 

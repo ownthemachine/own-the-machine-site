@@ -57,7 +57,7 @@ Beteiligungen. Zweitens darf er nur oberhalb hoher, objektiver
 Schwellenwerte greifen, damit die Verhältnismäßigkeitsprüfung tragfähig ist.
 Drittens muss ihm eine Gegenleistung gegenüberstehen: Die Reserve ist eine
 passive, nicht kontrollierende Halterin, der Warrant realisiert sich erst
-bei Liquiditätsereignissen, und das benannte Unternehmen erhält die
+bei Liquiditätsereignissen, und das erfasste Unternehmen erhält die
 Rechtssicherheit eines einzigen harmonisierten Regimes anstelle von
 siebenundzwanzig nationalen Experimenten. Ob diese Gegenleistung ausreicht,
 ist das größte einzelne Rechtsrisiko des Projekts, und Prüfstufe 1
@@ -267,11 +267,11 @@ einheitliche Maschinerie.
 **Der Einwand, in aller Schärfe.** Die Inzidenzliteratur zur
 Unternehmensbesteuerung ist eindeutig darin, dass rechtliche und ökonomische
 Inzidenz auseinanderfallen; ein erheblicher Teil der Unternehmenslasten
-landet bei Beschäftigten und Verbrauchern. Eine Warrant-Pflicht verteuert das
-Wirtschaften in Europa; die benannten Unternehmen passen ihre Preise an; die
-Bürgerdividende kommt abzüglich der von den Bürgerinnen und Bürgern selbst
-gezahlten höheren Preise an.
-Das System ist dann eine Umwälzpumpe mit Wohlfahrtsverlust.
+landet bei Beschäftigten und Verbrauchern. Eine Warrant-Pflicht verteuert
+das Wirtschaften in Europa; die erfassten Unternehmen passen ihre Preise an;
+die Bürgerdividende kommt abzüglich der von den Bürgerinnen und Bürgern
+selbst gezahlten höheren Preise an. Das System ist dann eine Umwälzpumpe mit
+Wohlfahrtsverlust.
 
 **Was daran richtig ist.** Eine gewisse Überwälzung jeder Last ist real, und
 null Inzidenz zu behaupten wäre dilettantisch.
@@ -294,7 +294,7 @@ keine Abgabe ist.
 niemals in eine laufende Abgabe umwandelbar sein, denn die Inzidenzantwort
 hängt daran.
 
-### 5. Die benannten Unternehmen gehen, oder sie kommen gar nicht erst
+### 5. Die erfassten Unternehmen gehen, oder sie kommen gar nicht erst
 
 **Der Einwand, in aller Schärfe.** Draghis Bericht räumt das Feld bereits: Es
 sei zu spät für die EU, systematische Herausforderer der großen
@@ -537,11 +537,12 @@ und das Memorandum gewinnt nichts, wenn es sie bestreitet.
 
 **Die Antwort, die das Instrument geben muss.** Keine Ausgabenmaschinerie
 der Union auf den kritischen Pfad setzen. Die Pflicht läuft unmittelbar von
-den benannten Unternehmen zur Reserve: Warrants entstehen kraft Gesetzes
-beim Überschreiten der Schwellenwerte, gelangen kraft Gesetzes bei Eintritt der Ereignisse zur Realisierung, und die Aufgabe der Reserve ist Verwahrung und Ausschüttung,
-nicht Beschaffung. Nichts muss gebaut, ausgeschrieben oder ausgezahlt
-werden, damit das Instrument funktioniert; der Kontrast zu InvestAI ist das
-Entwurfsprinzip, nicht seine Blamage.
+den erfassten Unternehmen zur Reserve: Warrants entstehen kraft Gesetzes
+beim Überschreiten der Schwellenwerte, gelangen kraft Gesetzes bei Eintritt
+der Ereignisse zur Realisierung, und die Aufgabe der Reserve ist Verwahrung
+und Ausschüttung, nicht Beschaffung. Nichts muss gebaut, ausgeschrieben oder
+ausgezahlt werden, damit das Instrument funktioniert; der Kontrast zu
+InvestAI ist das Entwurfsprinzip, nicht seine Blamage.
 
 **Konsequenz für den Entwurf.** DC-24: selbstvollziehende Pflichten kraft
 Gesetzes; keinerlei Zuschuss-, Vergabe- oder Programmmaschinerie im

@@ -48,16 +48,16 @@ mémorandum ne doit pas s'y risquer.
 
 **La réponse que l'instrument doit apporter.** Trois choix structurels,
 aucun facultatif. Premièrement, le warrant doit être rédigé comme une
-condition d'accès au marché unique pour une catégorie définie
-d'entreprises, prospective et uniforme, dans la famille des obligations
-réglementaires que la Cour a validées lorsqu'elles sont proportionnées
-(exigences de fonds propres, obligations de service universel, obligations
-des contrôleurs d'accès au titre du DMA), non comme une saisie de
-participations existantes. Deuxièmement, il ne doit s'appliquer qu'au-delà
-de seuils élevés et objectifs, pour que le contrôle de proportionnalité ait
-une prise. Troisièmement, il doit comporter une contrepartie : la réserve
-est un détenteur passif et non contrôlant, le warrant ne se cristallise
-qu'aux événements de liquidité, et l'entreprise désignée reçoit la sécurité
+condition d'accès au marché unique pour une catégorie définie d'entreprises,
+prospective et uniforme, dans la famille des obligations réglementaires que
+la Cour a validées lorsqu'elles sont proportionnées (exigences de fonds
+propres, obligations de service universel, obligations des contrôleurs
+d'accès au titre du DMA), non comme une saisie de participations existantes.
+Deuxièmement, il ne doit s'appliquer qu'au-delà de seuils élevés et
+objectifs, pour que le contrôle de proportionnalité ait une prise.
+Troisièmement, il doit comporter une contrepartie : la réserve est un
+détenteur passif et non contrôlant, le warrant ne se cristallise qu'aux
+événements de liquidité, et l'entreprise couverte reçoit la sécurité
 juridique d'un régime unique harmonisé à la place de vingt-sept expériences
 nationales. Savoir si cette contrepartie est suffisante est le plus grand
 risque juridique du projet, et la porte de contrôle 1 existe pour le mettre
@@ -222,14 +222,14 @@ machinerie uniforme.
 
 ### 4. Les entreprises répercuteront le coût sur les consommateurs, et les citoyens paieront leur propre dividende
 
-**L'objection, sous sa forme la plus forte.** La littérature sur
-l'incidence de l'impôt sur les sociétés est sans ambiguïté : l'incidence
-juridique et l'incidence économique diffèrent ; une part substantielle des
-charges pesant sur les entreprises retombe sur les travailleurs et les
-consommateurs. Une obligation de warrant renchérit le coût d'opérer en
-Europe ; les entreprises désignées ajustent leurs prix ; le dividende du
-citoyen arrive net de la hausse des prix payée par ce même citoyen. Le
-dispositif devient alors une pompe circulaire avec perte sèche.
+**L'objection, sous sa forme la plus forte.** La littérature sur l'incidence
+de l'impôt sur les sociétés est sans ambiguïté : l'incidence juridique et
+l'incidence économique diffèrent ; une part substantielle des charges pesant
+sur les entreprises retombe sur les travailleurs et les consommateurs. Une
+obligation de warrant renchérit le coût d'opérer en Europe ; les entreprises
+couvertes ajustent leurs prix ; le dividende du citoyen arrive net de la
+hausse des prix payée par ce même citoyen. Le dispositif devient alors une
+pompe circulaire avec perte sèche.
 
 **Là où elle voit juste.** Une part de répercussion de toute charge est
 réelle, et prétendre à une incidence nulle serait de l'amateurisme.
@@ -252,7 +252,7 @@ un warrant et non un prélèvement.
 jamais pouvoir se convertir en charge sur les flux, car la réponse sur
 l'incidence en dépend.
 
-### 5. Les entreprises désignées partiront, ou ne viendront jamais
+### 5. Les entreprises couvertes partiront, ou ne viendront jamais
 
 **L'objection, sous sa forme la plus forte.** Le rapport Draghi concède
 déjà le terrain : il est trop tard pour que l'UE développe des concurrents
@@ -294,7 +294,7 @@ règles d'effectifs fondées sur la substance plutôt que sur la forme.
 
 ### 6. Des warrants sur des sociétés non cotées ne peuvent être ni valorisés, ni assortis de droits de vote, ni vendus
 
-**L'objection, sous sa forme la plus forte.** La catégorie désignée est
+**L'objection, sous sa forme la plus forte.** La catégorie couverte est
 dominée par des entreprises non cotées. Une réserve détenant des warrants
 sur des micro-géants privés détient du papier sans prix de marché, sans
 liquidité et sans sortie ; soit elle pousse à des introductions en bourse
@@ -524,11 +524,14 @@ distribuerait rien pendant une décennie.
 juste titre, et le mémorandum ne gagne rien à le contester.
 
 **La réponse que l'instrument doit apporter.** Ne placer aucune machinerie
-de dépense de l'Union sur le chemin critique. L'obligation s'impose directement aux entreprises désignées au profit de la réserve : les warrants sont émis de plein
-droit au franchissement des seuils, se cristallisent de plein droit lors de la survenance des événements prévus, et la tâche de la réserve est la conservation et la
-distribution, non la passation de marchés. Rien ne doit être construit, mis
-en appel d'offres ou décaissé pour que l'instrument fonctionne ; le
-contraste avec InvestAI est délibéré, non un embarras.
+de dépense de l'Union sur le chemin critique. L'obligation s'impose
+directement aux entreprises couvertes au profit de la réserve : les warrants
+sont émis de plein droit au franchissement des seuils, se cristallisent de
+plein droit lors de la survenance des événements prévus, et la tâche de la
+réserve est la conservation et la distribution, non la passation de marchés.
+Rien ne doit être construit, mis en appel d'offres ou décaissé pour que
+l'instrument fonctionne ; le contraste avec InvestAI est délibéré, non un
+embarras.
 
 **Conséquence de conception.** DC-24 : des obligations auto-exécutoires de
 plein droit ; aucune machinerie de subvention, d'appel d'offres ou de
@@ -692,7 +695,23 @@ son propre instrument.
 
 ### 16. C'est une golden share, et la Cour annule les golden shares
 
-**L'objection, sous sa forme la plus forte.** Vingt années durant, la Cour a démantelé chaque position publique spéciale au capital dans le marché intérieur. Commission/Allemagne (C-112/05) a censuré la loi Volkswagen parce qu'un plafonnement des droits de vote et une minorité de blocage donnaient aux autorités publiques une influence excédant leur investissement et décourageaient ainsi l'investissement direct ; les golden shares portugaises, françaises, italiennes, britanniques et néerlandaises sont tombées de la même manière sous l'actuel article 63 TFUE. Une Réserve instituée par l'Union détenant de par la loi 3 % de chaque entreprise désignée est une golden share en habit de règlement : un actionnaire permanent, adossé à la puissance publique, qu'aucun investisseur n'a choisi, planté dans la structure de capital de chaque entreprise de pointe, et qui décourage précisément l'investissement transfrontière que l'article 63 protège. La neutralité de l'article 345 à l'égard des régimes de propriété n'a pas sauvé la loi Volkswagen et ne sauvera pas ceci. La dissuasion n'a rien d'hypothétique : chaque tour de table d'une entreprise désignée intègre désormais au prix une dilution future obligatoire.
+**L'objection, sous sa forme la plus forte.** Vingt années durant, la Cour a
+démantelé chaque position publique spéciale au capital dans le marché
+intérieur. Commission/Allemagne (C-112/05) a censuré la loi Volkswagen parce
+qu'un plafonnement des droits de vote et une minorité de blocage donnaient
+aux autorités publiques une influence excédant leur investissement et
+décourageaient ainsi l'investissement direct ; les golden shares
+portugaises, françaises, italiennes, britanniques et néerlandaises sont
+tombées de la même manière sous l'actuel article 63 TFUE. Une Réserve
+instituée par l'Union détenant de par la loi 3 % de chaque entreprise
+couverte est une golden share en habit de règlement : un actionnaire
+permanent, adossé à la puissance publique, qu'aucun investisseur n'a choisi,
+planté dans la structure de capital de chaque entreprise de pointe, et qui
+décourage précisément l'investissement transfrontière que l'article 63
+protège. La neutralité de l'article 345 à l'égard des régimes de propriété
+n'a pas sauvé la loi Volkswagen et ne sauvera pas ceci. La dissuasion n'a
+rien d'hypothétique : chaque tour de table d'une entreprise couverte intègre
+désormais au prix une dilution future obligatoire.
 
 **Là où elle voit juste.** La dilution est réelle et les investisseurs l'intégreront au prix, et toute position assortie de droits conférant une forme de contrôle tomberait exactement comme Volkswagen est tombée. La jurisprudence des golden shares est la jurisprudence de référence pour toute position publique au capital, et l'instrument doit être rédigé contre elle, non en la contournant.
 
@@ -802,7 +821,18 @@ Le calendrier d'abord : le warrant n'attend plus une vente. L'article 5, paragra
 
 Le rang ensuite : l'article 5, paragraphe 4, point b), donne à la Réserve des actions de rang égal, pour les dividendes et pour le produit de toute vente ou liquidation, à la classe la mieux placée parmi celles créées après la désignation, et à défaut aux actions ordinaires. Trois pour cent d'une tranche ordinaire placée derrière une préférence participative de trois fois ne sont trois pour cent de rien, et l'instrument dit désormais de quels trois pour cent il parle, sans retirer aux investisseurs la préférence qu'ils ont réellement payée avant la désignation. L'article 5, paragraphe 10, rend inopposable à la Réserve tout montage qui l'abaisse, en le laissant valable entre les parties.
 
-Le périmètre ensuite : l'article 5, paragraphe 11, oblige le cessionnaire à émettre son propre warrant lorsque des actifs automatisés passent à une entité liée ou communément contrôlée, ou quittent l'entreprise autrement qu'à des conditions de pleine concurrence, et laisse le cédant tenu pour ce qu'il conserve. Le cumul entre l'entreprise désignée et chaque cessionnaire est plafonné au pourcentage énoncé de leur capital combiné, de sorte que la fermeture de cette voie ne puisse devenir un multiplicateur pour un groupe qui se scinde lui-même. L'article 2, point 14, nomme ce qui ne peut sortir par la porte : paramètres des modèles, infrastructure d'entraînement et d'inférence, jeux de données, propriété intellectuelle dont le service dépend. C'est la logique de succession du contrôle des concentrations, non une invention.
+Le périmètre ensuite : l'article 5, paragraphe 11, oblige le cessionnaire à
+émettre son propre warrant lorsque des actifs automatisés passent à une
+entité liée ou communément contrôlée, ou quittent l'entreprise autrement
+qu'à des conditions de pleine concurrence, et laisse le cédant tenu pour ce
+qu'il conserve. Le cumul entre l'entreprise couverte et chaque cessionnaire
+est plafonné au pourcentage énoncé de leur capital combiné, de sorte que la
+fermeture de cette voie ne puisse devenir un multiplicateur pour un groupe
+qui se scinde lui-même. L'article 2, point 14, nomme ce qui ne peut sortir
+par la porte : paramètres des modèles, infrastructure d'entraînement et
+d'inférence, jeux de données, propriété intellectuelle dont le service
+dépend. C'est la logique de succession du contrôle des concentrations, non
+une invention.
 
 La sortie enfin : l'article 5, paragraphe 12, réattache l'obligation lorsque les actifs automatisés ressortent d'une insolvabilité ou d'une restructuration au titre de la directive (UE) 2019/1023 dans une entité contrôlée par les mêmes personnes ou dans laquelle elles détiennent la majorité des droits économiques, et impose l'émission d'un nouveau warrant dans les trois mois. Une défaillance véritable éteint toujours la participation de la Réserve, comme celle de tout actionnaire, car la Réserve est propriétaire et les propriétaires le supportent. Ce qu'elle ne fait pas, c'est bénir la version où les propriétaires survivent et où seule l'obligation meurt.
 
