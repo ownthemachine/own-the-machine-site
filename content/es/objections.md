@@ -818,6 +818,8 @@ invención.
 
 Por último la salida: el artículo 5, apartado 12, vuelve a vincular la obligación cuando los activos automatizados emergen de una insolvencia o de una reestructuración conforme a la Directiva (UE) 2019/1023 en una entidad controlada por las mismas personas o en la que estas ostentan la mayoría de los derechos económicos, y exige emitir un nuevo warrant en tres meses. Un fracaso genuino sigue extinguiendo la participación de la Reserva, como la de cualquier accionista, porque la Reserva es propietaria y los propietarios lo soportan. Lo que no hace es bendecir la versión en que los propietarios sobreviven y solo muere la obligación.
 
+Y la respuesta parcial honesta: la retención en la fuente. Un reglamento de la Unión no puede conferir a la Reserva un beneficio convencional que un tercer país no haya otorgado, y a un organismo no residente en ningún lugar se le puede aplicar la retención al tipo legal pleno. Se redactaron y se suprimieron dos respuestas. Ordenar a la Comisión negociar con terceros países habría mandado sobre una prerrogativa que el artículo 218 TFUE sitúa en otra parte. Permitir a la Reserva encaminar sus participaciones para rebajar el tipo habría escrito el treaty shopping en un instrumento cuya tesis entera es que el capital debe estar ampliamente repartido y pagar lo que debe; el letrado hostil ya tenía preparado el titular, y con razón. Lo que subsiste es el artículo 8, apartado 5: la Reserva publica cada año el impuesto que no pudo recuperar, y la Comisión responde de ello en el informe del artículo 14. Es una respuesta menor que el problema, y es la honesta. Una fuga que se declara cada año es una fuga por la que se puede juzgar a la campaña; una fuga que nadie mide solo crece.
+
 Una vía la ha conservado el letrado, y el instrumento la deja
 deliberadamente abierta. Una empresa puede endeudarse fuertemente con
 prestamistas no vinculados, pagarles interés de mercado y llegar al plazo
@@ -832,9 +834,19 @@ donde el valor sale hacia bolsillos que son los mismos bolsillos. El
 apalancamiento es un riesgo que la Reserva asume como propietaria; la
 extracción es una transferencia que el Reglamento detiene.
 
-Y la respuesta parcial honesta: la retención en la fuente. Un reglamento de la Unión no puede conferir a la Reserva un beneficio convencional que un tercer país no haya otorgado, y a un organismo no residente en ningún lugar se le puede aplicar la retención al tipo legal pleno. Se redactaron y se suprimieron dos respuestas. Ordenar a la Comisión negociar con terceros países habría mandado sobre una prerrogativa que el artículo 218 TFUE sitúa en otra parte. Permitir a la Reserva encaminar sus participaciones para rebajar el tipo habría escrito el treaty shopping en un instrumento cuya tesis entera es que el capital debe estar ampliamente repartido y pagar lo que debe; el letrado hostil ya tenía preparado el titular, y con razón. Lo que subsiste es el artículo 8, apartado 5: la Reserva publica cada año el impuesto que no pudo recuperar, y la Comisión responde de ello en el informe del artículo 14. Es una respuesta menor que el problema, y es la honesta. Una fuga que se declara cada año es una fuga por la que se puede juzgar a la campaña; una fuga que nadie mide solo crece.
-
-**Consecuencia de diseño.** DC-35: cristalización por extracción y por tiempo, no solo por venta. DC-36: las acciones de la Reserva se sitúan en igualdad de rango con la clase mejor situada entre las creadas tras la designación, sin afectar a las preferencias anteriores, y los montajes que las posponen son inoponibles a la Reserva. DC-37: el adquirente emite su propio warrant sobre su propio capital; el transmitente sigue obligado por los activos automatizados que conserva, y el conjunto entre ambos nunca supera el porcentaje enunciado de su capital combinado. DC-38: la retención en la fuente no recuperable se publica anualmente; el instrumento no ordena a la Reserva organizar sus participaciones para reducirla. DC-39: la obligación se vuelve a vincular cuando los mismos propietarios recuperan los activos de una reestructuración.
+**Consecuencia de diseño.** DC-35: cristalización por extracción y por
+tiempo, no solo por venta. DC-36: salvo la excepción de rescate, las
+acciones de la Reserva se sitúan en igualdad de rango con la clase mejor
+situada entre las creadas tras la designación, sin afectar a las
+preferencias anteriores, y los montajes que las posponen son inoponibles a
+la Reserva. DC-37: el adquirente emite su propio warrant sobre su propio
+capital; el transmitente sigue obligado por los activos automatizados que
+conserva, y el conjunto entre ambos nunca supera el porcentaje enunciado de
+su capital combinado. DC-38: la retención en la fuente no recuperable se
+publica anualmente; el instrumento no ordena a la Reserva organizar sus
+participaciones para reducirla. DC-39: la obligación se vuelve a vincular
+cuando los mismos propietarios recuperan los activos de una
+reestructuración.
 
 ### 19. Suecia lo intentó y ni siquiera pudo legislarlo
 
@@ -925,25 +937,32 @@ instrumento está redactado para satisfacer los tres a la vez, y la
 objeción 4 ya cuantifica el riesgo político residual en lugar de negarlo.
 
 **Consecuencia de diseño.** DC-41: el instrumento debe ser acotado, sin
-votos ni derechos de control, y universal en cuanto a sus beneficiarios, los tres a la
-vez, porque el precedente sueco demuestra que fallar en cualquiera de ellos
-basta para perder. La palabra que hay que evitar es pasiva. La Reserva sí
-hace valer derechos: el artículo 5, apartado 4, letra b), fija su rango, y
-el artículo 5, apartado 10, hace ineficaces frente a ella los montajes que
-la subordinan, y un adversario llamará a eso cualquier cosa menos pasiva.
-La afirmación defendible es más estrecha: la Reserva no tiene votos, no
-nombra a nadie y no tiene voz en la gestión de la empresa. Ni siquiera eso
-agota la cuestión. El letrado hostil añade que un rango que la empresa no
-puede subordinar condiciona cómo obtiene capital de rescate o preferente,
-puesto que el dinero nuevo normalmente exige prelación, y llama a eso, en
-sustancia, un veto sobre la estructura de capital. No es un derecho de
-gobernanza, y el artículo 5, apartado 10, deja el montaje eficaz entre las
-partes. Es, aun así, una restricción a la financiación que la palabra
-pasiva ocultaría, y la objeción 18 y el expediente de redacción la recogen
-ahora como una cuestión abierta y no resuelta. DC-42: los fondos de los
-asalariados pertenecen a la base de evidencia como precedente de saqueo y a
-este expediente como objeción, enunciados antes de que un adversario los
-enuncie.
+votos ni derechos de control, y universal en cuanto a sus beneficiarios, los
+tres a la vez, porque el precedente sueco demuestra que fallar en cualquiera
+de ellos basta para perder. La palabra que hay que evitar es pasiva. La
+Reserva sí hace valer derechos: el artículo 5, apartado 4, letra b), fija su
+rango, y el artículo 5, apartado 10, hace ineficaces frente a ella los
+montajes que la subordinan, y un adversario llamará a eso cualquier cosa
+menos pasiva. La afirmación defendible es más estrecha: la Reserva no tiene
+votos, no nombra a nadie y no tiene voz en la gestión de la empresa. Ni
+siquiera eso agota la cuestión. El letrado hostil añade que un rango que la
+empresa no puede subordinar condiciona cómo obtiene capital de rescate o
+preferente, puesto que el dinero nuevo normalmente exige prelación, y llama
+a eso, en sustancia, un veto sobre la estructura de capital. No es un
+derecho de gobernanza, y el artículo 5, apartado 10, deja el montaje eficaz
+entre las partes. Era, aun así, una restricción a la financiación que la
+palabra pasiva ocultaría, y ahora está respondida en el texto en lugar de
+arrastrada: el segundo párrafo del artículo 5, apartado 10, permite que
+dinero genuinamente nuevo tenga prioridad sobre la Reserva, en condiciones
+de plena competencia, aportado por personas sin vínculo con la empresa ni
+con quienes la controlan, mientras la empresa se halla en probabilidad de
+insolvencia o debe cumplir un requisito prudencial, y solo hasta el importe
+de la nueva aportación. Los rescatadores cobran antes que la Reserva; la
+prelación construida por encima del dinero nuevo sigue atrapada, porque ahí
+vive el abuso, y la carga de la prueba recae en la empresa. DC-42: los
+fondos de los asalariados pertenecen a la base de evidencia como precedente
+de saqueo y a este expediente como objeción, enunciados antes de que un
+adversario los enuncie.
 
 ### 20. Tomar las acciones sin voto entrega el control a quienes se señalaron como el problema
 
@@ -1210,7 +1229,7 @@ suspende la revisión con independencia de su prosa.
 | DC-33 | Para las empresas bajo Derecho de un tercer país, el warrant es una obligación de resultado como condición de acceso al mercado, nunca una exclusión del Derecho de sociedades extranjero | 17 |
 | DC-34 | Ninguna instancia entre la valoración y los tribunales; corrección a posteriori y la transacción nunca espera | 6 |
 | DC-35 | Cristalización por extracción y por tiempo, no solo por venta | 18 |
-| DC-36 | Las acciones de la Reserva se sitúan en igualdad de rango con la clase mejor situada entre las creadas tras la designación, sin afectar a las preferencias anteriores; los montajes que las posponen son inoponibles a la Reserva | 18 |
+| DC-36 | Salvo la excepción de rescate, las acciones de la Reserva se sitúan en igualdad de rango con la clase mejor situada entre las creadas tras la designación, sin afectar a las preferencias anteriores; los montajes que las posponen son inoponibles a la Reserva, salvo el dinero nuevo en condiciones de plena competencia de personas sin vínculo, en rescate, hasta el importe de la nueva aportación | 18 |
 | DC-37 | El adquirente emite su propio warrant sobre su propio capital; el transmitente sigue obligado por lo que conserva, y el conjunto entre ambos nunca supera el porcentaje enunciado de su capital combinado | 18 |
 | DC-38 | Retención en la fuente no recuperable publicada anualmente; no se ordena a la Reserva organizar sus participaciones para reducirla | 18 |
 | DC-39 | La obligación se vuelve a vincular cuando los mismos propietarios recuperan los activos de una reestructuración | 18 |

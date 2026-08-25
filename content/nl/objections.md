@@ -774,7 +774,17 @@ geleerd gebeurtenissen te vermijden.
 
 Eerst de timing: de warrant wacht niet langer op een verkoop. Artikel 5, lid 3, laat hem in aandelen omzetten wanneer de onttrekking ten gunste van aandeelhouders over drie opeenvolgende jaren 25 % van de omzet uit de gedekte activiteit overschrijdt, het punt waarop niet-beursgenoteerd blijven een manier is geworden om zichzelf te betalen in plaats van te bouwen; en in elk geval op de zevende verjaardag van de uitgifte, wat de onderneming ook doet of nalaat. Een onderneming mag nog altijd voor eeuwig niet-beursgenoteerd blijven. Zij mag niet langer niet-beursgenoteerd blijven én zichzelf uitbetalen.
 
-Dan de rangorde: artikel 5, lid 4, onder b), geeft de Reserve aandelen die voor dividenden en voor de opbrengst van elke verkoop of liquidatie gelijk in rang staan met de gunstigst gerangschikte klasse die na de aanwijzing is gecreëerd, en anders met de gewone aandelen. Drie procent van een gewone tranche achter een driemaal participerende preferentie is geen drie procent van iets, en het instrument zegt nu welke drie procent het bedoelt, zonder de preferentie af te nemen die beleggers vóór de aanwijzing daadwerkelijk hebben betaald. Artikel 5, lid 10, maakt elke constructie die de Reserve lager plaatst, tegenover de Reserve niet-inroepbaar, en laat haar tussen de partijen zelf in stand.
+Dan de rangorde: artikel 5, lid 4, onder b), geeft de Reserve aandelen die
+voor dividenden en voor de opbrengst van elke verkoop of liquidatie gelijk
+in rang staan met de gunstigst gerangschikte klasse die na de aanwijzing is
+gecreëerd, en anders met de gewone aandelen. Drie procent van een gewone
+tranche achter een driemaal participerende preferentie is geen drie procent
+van iets, en het instrument zegt nu welke drie procent het bedoelt, zonder
+de preferentie af te nemen die beleggers vóór de aanwijzing daadwerkelijk
+hebben betaald. Artikel 5, lid 10, maakt elke herstructurering waarvan het
+hoofddoel of een van de belangrijkste gevolgen is de Reserve onder de haar
+door dat lid toegewezen rang te plaatsen, tegenover de Reserve niet-
+inroepbaar, en laat haar tussen de partijen zelf in stand.
 
 Dan de perimeter: artikel 5, lid 11, verplicht de verkrijger een eigen
 warrant uit te geven wanneer geautomatiseerde activa naar een verbonden of
@@ -789,8 +799,6 @@ datasets, de intellectuele eigendom waarvan de dienst afhangt. Dit is de
 opvolgingslogica van de concentratiecontrole, geen uitvinding.
 
 Dan de uitgang: artikel 5, lid 12, laat de verplichting opnieuw aanhechten wanneer de geautomatiseerde activa uit een insolventie of een herstructurering krachtens richtlijn (EU) 2019/1023 tevoorschijn komen bij een entiteit die wordt gecontroleerd door dezelfde personen of waarin zij de meerderheid van de economische rechten houden, en verplicht tot uitgifte van een nieuwe warrant binnen drie maanden. Een echte mislukking doet het belang van de Reserve nog steeds tenietgaan, zoals dat van elke aandeelhouder, want de Reserve is eigenaar en eigenaars dragen dat. Wat zij niet doet, is de versie zegenen waarin de eigenaars overleven en alleen de verplichting sterft.
-
-Eén route werd door de raadsman gehandhaafd, en het instrument laat haar bewust open. Een onderneming mag zwaar lenen bij geldschieters die met niemand verbonden zijn, hun marktrente betalen en bij de eindtermijn minder waard zijn dan zonder schuld. Dat is geen onttrekking en de definitie moet niet doen alsof: het geld gaat naar vreemden, niet naar ingewijden, en de oprichters worden precies in dezelfde verhouding armer als de Reserve. Elke aandeelhouder in een onderneming met schuld bezit een kleinere aanspraak op een grotere balans, en een instrument dat 3 % van het eigen vermogen neemt, kan niet ook eisen dat dat vermogen onbezwaard blijft. Wat dit dossier niet mag doen, is dat verwarren met de routes hierboven, waar waarde verdwijnt naar zakken die dezelfde zakken zijn. Hefboomwerking is een risico dat de Reserve als eigenaar draagt; onttrekking is een overdracht die de verordening stopt.
 
 En het eerlijke gedeeltelijke antwoord: bronbelasting. Een Unieverordening
 kan de Reserve geen verdragsvoordeel verlenen dat een derde land niet heeft
@@ -809,7 +817,21 @@ probleem, en het is het eerlijke. Een lek dat jaarlijks wordt gerapporteerd,
 is een lek waarop de campagne kan worden beoordeeld; een lek dat niemand
 meet, groeit alleen maar.
 
-**Ontwerpconsequentie.** DC-35: verzilvering bij onttrekking en na verloop van tijd, niet alleen bij een verkoop. DC-36: de aandelen van de Reserve staan gelijk in rang met de gunstigste klasse die na de aanwijzing is gecreëerd, waarbij eerdere preferenties onaangetast blijven, en achterstellende constructies zijn niet-inroepbaar tegenover de Reserve. DC-37: de verkrijger geeft een eigen warrant uit op haar eigen kapitaal; de overdrager blijft gebonden voor de geautomatiseerde activa die zij behoudt, en het totaal over hen samen overschrijdt nooit het genoemde percentage van hun gezamenlijke kapitaal. DC-38: niet-terugvorderbare bronbelasting wordt jaarlijks gepubliceerd; het instrument draagt de Reserve niet op haar bezit zo in te richten dat deze wordt verminderd. DC-39: de verplichting hecht opnieuw aan wanneer dezelfde eigenaars de activa uit een herstructurering terugkrijgen.
+Eén route werd door de raadsman gehandhaafd, en het instrument laat haar bewust open. Een onderneming mag zwaar lenen bij geldschieters die met niemand verbonden zijn, hun marktrente betalen en bij de eindtermijn minder waard zijn dan zonder schuld. Dat is geen onttrekking en de definitie moet niet doen alsof: het geld gaat naar vreemden, niet naar ingewijden, en de oprichters worden precies in dezelfde verhouding armer als de Reserve. Elke aandeelhouder in een onderneming met schuld bezit een kleinere aanspraak op een grotere balans, en een instrument dat 3 % van het eigen vermogen neemt, kan niet ook eisen dat dat vermogen onbezwaard blijft. Wat dit dossier niet mag doen, is dat verwarren met de routes hierboven, waar waarde verdwijnt naar zakken die dezelfde zakken zijn. Hefboomwerking is een risico dat de Reserve als eigenaar draagt; onttrekking is een overdracht die de verordening stopt.
+
+**Ontwerpconsequentie.** DC-35: verzilvering bij onttrekking en na verloop
+van tijd, niet alleen bij een verkoop. DC-36: behoudens de
+reddingsuitzondering staan de aandelen van de Reserve gelijk in rang met de
+gunstigste klasse die na de aanwijzing is gecreëerd, waarbij eerdere
+preferenties onaangetast blijven, en achterstellende constructies zijn niet-
+inroepbaar tegenover de Reserve. DC-37: de verkrijger geeft een eigen
+warrant uit op haar eigen kapitaal; de overdrager blijft gebonden voor de
+geautomatiseerde activa die zij behoudt, en het totaal over hen samen
+overschrijdt nooit het genoemde percentage van hun gezamenlijke kapitaal.
+DC-38: niet-terugvorderbare bronbelasting wordt jaarlijks gepubliceerd; het
+instrument draagt de Reserve niet op haar bezit zo in te richten dat deze
+wordt verminderd. DC-39: de verplichting hecht opnieuw aan wanneer dezelfde
+eigenaars de activa uit een herstructurering terugkrijgen.
 
 ### 19. Zweden probeerde dit en kreeg het wetgevingstraject niet eens voltooid
 
@@ -918,12 +940,19 @@ raadslieden voeren verder aan dat een rang die de onderneming niet kan
 achterstellen, beperkt hoe zij noodlijdend of preferent kapitaal aantrekt,
 omdat nieuw geld doorgaans voorrang eist, en noemen dat feitelijk een veto
 over de kapitaalstructuur. Het is geen zeggenschapsrecht, en artikel 5, lid
-10, laat de constructie tussen de partijen zelf onverlet van kracht. Het is
-niettemin een beperking op financiering die het woord passief zou
-verhullen, en bezwaar 18 en het redactiedossier dragen dit nu als een open
-vraag in plaats van een uitgemaakte zaak. DC-42: de loontrekkersfondsen
-horen thuis in de bewijsbasis als plunderingsprecedent en in dit dossier
-als bezwaar, gesteld voordat een tegenstander het stelt.
+10, laat de constructie tussen de partijen zelf onverlet van kracht. Het was
+niettemin een beperking op financiering die het woord passief zou verhullen,
+en zij wordt nu in de tekst beantwoord in plaats van meegedragen: de tweede
+alinea van artikel 5, lid 10, laat werkelijk nieuw geld boven de Reserve
+rangschikken, tegen zakelijke voorwaarden, van personen zonder band met de
+onderneming en haar zeggenschapshouders, terwijl de onderneming in dreigende
+insolventie verkeert of aan een prudentieel vereiste moet voldoen, en
+uitsluitend tot het beloop van de nieuwe inbreng. Redders worden vóór de
+Reserve betaald; geconstrueerde voorrang boven het nieuwe geld blijft
+gevangen, want daar woont het misbruik, en de bewijslast ligt bij de
+onderneming. DC-42: de loontrekkersfondsen horen thuis in de bewijsbasis als
+plunderingsprecedent en in dit dossier als bezwaar, gesteld voordat een
+tegenstander het stelt.
 
 ### 20. De stemrechtloze aandelen nemen geeft zeggenschap aan juist de mensen die u het probleem noemde
 
@@ -1188,7 +1217,7 @@ schendt, zakt voor de review, hoe goed het proza ook is.
 | DC-33 | Voor ondernemingen onder derdelandsrecht is de warrant een resultaatsverplichting als markttoegangsvoorwaarde, nooit een terzijdestelling van buitenlands vennootschapsrecht | 17 |
 | DC-34 | Geen instantie tussen waardering en rechter; correctie achteraf en de transactie wacht nooit | 6 |
 | DC-35 | Verzilvering bij onttrekking en na verloop van tijd, niet alleen bij een verkoop | 18 |
-| DC-36 | De aandelen van de Reserve staan gelijk in rang met de gunstigste klasse die na de aanwijzing is gecreëerd, waarbij eerdere preferenties onaangetast blijven; achterstellende constructies zijn niet-inroepbaar tegenover de Reserve | 18 |
+| DC-36 | De aandelen van de Reserve staan gelijk in rang met de gunstigste klasse die na de aanwijzing is gecreëerd, waarbij eerdere preferenties onaangetast blijven; achterstellende constructies zijn niet-inroepbaar tegenover de Reserve, behoudens nieuw geld tegen zakelijke voorwaarden van onafhankelijke personen bij redding, tot het beloop van de nieuwe inbreng | 18 |
 | DC-37 | De verkrijger geeft een eigen warrant uit op haar eigen kapitaal; de overdrager blijft gebonden voor wat zij behoudt, en het totaal over hen samen overschrijdt nooit het genoemde percentage van hun gezamenlijke kapitaal | 18 |
 | DC-38 | Niet-terugvorderbare bronbelasting jaarlijks gepubliceerd; de Reserve wordt niet opgedragen haar bezit zo in te richten dat deze wordt verminderd | 18 |
 | DC-39 | De verplichting hecht opnieuw aan wanneer dezelfde eigenaars de activa uit een herstructurering terugkrijgen | 18 |

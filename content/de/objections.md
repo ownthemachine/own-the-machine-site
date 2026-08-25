@@ -846,7 +846,20 @@ misst, wächst nur.
 
 Einen Weg hat der Rechtsbeistand bewahrt, und das Instrument lässt ihn bewusst offen. Ein Unternehmen darf sich bei Kreditgebern, die mit niemandem verbunden sind, hoch verschulden, ihnen Marktzins zahlen und am Stichtag weniger wert sein, als es ohne Schulden wäre. Das ist keine Entnahme, und die Definition sollte nicht so tun: Das Geld geht an Fremde, nicht an Insider, und die Gründer werden in genau demselben Verhältnis ärmer wie die Reserve. Jeder Anteilseigner eines verschuldeten Unternehmens hält einen kleineren Anspruch auf eine größere Bilanz, und ein Instrument, das 3 % des Eigenkapitals nimmt, kann nicht zusätzlich verlangen, dass dieses Eigenkapital unbelastet bleibt. Was die Akte nicht tun darf, ist dies mit den obigen Wegen zu verwechseln, bei denen Wert in Taschen abfließt, die dieselben Taschen sind. Hebelwirkung ist ein Risiko, das die Reserve als Eigentümerin trägt; Entnahme ist eine Übertragung, die die Verordnung stoppt.
 
-**Konsequenz für den Entwurf.** DC-35: Realisierung bei Entnahme und nach Zeit, nicht nur beim Verkauf. DC-36: Die Aktien der Reserve stehen gleichrangig mit der bestgestellten Klasse unter den nach der Benennung geschaffenen Klassen, wobei frühere Präferenzen unberührt bleiben, und nachrangig stellende Gestaltungen sind gegenüber der Reserve unwirksam. DC-37: Der Erwerber gibt einen eigenen Warrant auf sein eigenes Kapital aus; der Übertragende bleibt für die automatisierten Vermögenswerte gebunden, die er behält, und die Summe über beide hinweg übersteigt nie den genannten Prozentsatz ihres gemeinsamen Kapitals. DC-38: Nicht erstattungsfähige Quellensteuer wird jährlich veröffentlicht; das Instrument weist die Reserve nicht an, ihre Beteiligungen so zu gestalten, dass diese sich mindert. DC-39: Die Verpflichtung knüpft erneut an, wenn dieselben Eigentümer die Vermögenswerte aus einer Restrukturierung zurückerhalten.
+**Konsequenz für den Entwurf.** DC-35: Realisierung bei Entnahme und nach
+Zeit, nicht nur beim Verkauf. DC-36: Vorbehaltlich der Rettungsausnahme
+stehen die Aktien der Reserve gleichrangig mit der bestgestellten Klasse
+unter den nach der Benennung geschaffenen Klassen, wobei frühere Präferenzen
+unberührt bleiben, und nachrangig stellende Gestaltungen sind gegenüber der
+Reserve unwirksam. DC-37: Der Erwerber gibt einen eigenen Warrant auf sein
+eigenes Kapital aus; der Übertragende bleibt für die automatisierten
+Vermögenswerte gebunden, die er behält, und die Summe über beide hinweg
+übersteigt nie den genannten Prozentsatz ihres gemeinsamen Kapitals. DC-38:
+Nicht erstattungsfähige Quellensteuer wird jährlich veröffentlicht; das
+Instrument weist die Reserve nicht an, ihre Beteiligungen so zu gestalten,
+dass diese sich mindert. DC-39: Die Verpflichtung knüpft erneut an, wenn
+dieselben Eigentümer die Vermögenswerte aus einer Restrukturierung
+zurückerhalten.
 
 ### 19. Schweden hat es versucht und konnte es nicht einmal gesetzlich regeln
 
@@ -955,9 +968,16 @@ den das Unternehmen nicht nachrangig stellen kann, beschränkt, wie es
 Sanierungs- oder Vorzugskapital aufnimmt, da neues Geld gewöhnlich Vorrang
 verlangt, und nennt das der Sache nach ein Veto über die Kapitalstruktur. Es
 ist kein Governance-Recht, und Artikel 5 Absatz 10 lässt die Vereinbarung
-zwischen den Beteiligten wirksam. Es ist gleichwohl eine Beschränkung der
-Finanzierung, die das Wort passiv verbergen würde, und Einwand 18 sowie das
-Entwurfsprotokoll führen sie nun als offene Frage statt als entschiedene.
+zwischen den Beteiligten wirksam. Es war gleichwohl eine Beschränkung der
+Finanzierung, die das Wort passiv verbergen würde, und sie ist nun im Text
+beantwortet statt mitgeführt: Der zweite Unterabsatz des Artikels 5 Absatz
+10 lässt wirklich neues Geld vor der Reserve rangieren, zu
+Fremdvergleichsbedingungen, von Personen ohne Verbindung zum Unternehmen und
+seinen Kontrollinhabern, während das Unternehmen sich in wahrscheinlicher
+Insolvenz befindet oder eine aufsichtsrechtliche Anforderung erfüllen muss,
+und nur bis zur Höhe der neuen Einlage. Retter werden vor der Reserve
+bezahlt; konstruierter Vorrang über das neue Geld hinaus bleibt erfasst,
+denn dort wohnt der Missbrauch, und die Beweislast liegt beim Unternehmen.
 DC-42: Die Lohnempfängerfonds gehören in die Beleglage als Präzedenzfall der
 Plünderung und in diese Akte als Einwand, ausgesprochen, bevor ein Gegner
 ihn ausspricht.
@@ -1236,7 +1256,7 @@ verletzt, fällt in der Prüfung durch, ganz gleich, wie seine Prosa lautet.
 | DC-33 | Für Unternehmen unter Drittstaatsrecht ist der Warrant eine Ergebnispflicht als Marktzugangsbedingung, niemals eine Verdrängung ausländischen Gesellschaftsrechts | 17 |
 | DC-34 | Keine Instanz zwischen Bewertung und Gericht; Korrektur im Nachhinein, und die Transaktion wartet nie | 6 |
 | DC-35 | Realisierung bei Entnahme und nach Zeit, nicht nur beim Verkauf | 18 |
-| DC-36 | Die Aktien der Reserve stehen gleichrangig mit der bestgestellten Klasse unter den nach der Benennung geschaffenen Klassen, wobei frühere Präferenzen unberührt bleiben; nachrangig stellende Gestaltungen sind gegenüber der Reserve unwirksam | 18 |
+| DC-36 | Die Aktien der Reserve stehen gleichrangig mit der bestgestellten Klasse unter den nach der Benennung geschaffenen Klassen, wobei frühere Präferenzen unberührt bleiben; nachrangig stellende Gestaltungen sind gegenüber der Reserve unwirksam, außer neues Geld zu Fremdvergleichsbedingungen von unverbundenen Personen in der Rettung, bis zur Höhe der neuen Einlage | 18 |
 | DC-37 | Der Erwerber gibt einen eigenen Warrant auf sein eigenes Kapital aus; der Übertragende bleibt für das gebunden, was er behält, und die Summe über beide hinweg übersteigt nie den genannten Prozentsatz ihres gemeinsamen Kapitals | 18 |
 | DC-38 | Nicht erstattungsfähige Quellensteuer jährlich veröffentlicht; die Reserve wird nicht angewiesen, ihre Beteiligungen so zu gestalten, dass diese sich mindert | 18 |
 | DC-39 | Die Verpflichtung knüpft erneut an, wenn dieselben Eigentümer die Vermögenswerte aus einer Restrukturierung zurückerhalten | 18 |

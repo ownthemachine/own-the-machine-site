@@ -819,7 +819,18 @@ dans un monde qui a passé quarante ans à apprendre à éviter les événements
 
 Le calendrier d'abord : le warrant n'attend plus une vente. L'article 5, paragraphe 3, le fait cristalliser lorsque les prélèvements au profit des actionnaires sur trois exercices consécutifs dépassent 25 % du chiffre d'affaires de l'activité couverte, seuil à partir duquel rester privé est devenu une manière de se payer plutôt que de construire ; et en tout état de cause au septième anniversaire de l'émission, quoi que l'entreprise fasse ou s'abstienne de faire. Une entreprise peut encore rester privée pour toujours. Elle ne peut plus rester privée et se payer.
 
-Le rang ensuite : l'article 5, paragraphe 4, point b), donne à la Réserve des actions de rang égal, pour les dividendes et pour le produit de toute vente ou liquidation, à la classe la mieux placée parmi celles créées après la désignation, et à défaut aux actions ordinaires. Trois pour cent d'une tranche ordinaire placée derrière une préférence participative de trois fois ne sont trois pour cent de rien, et l'instrument dit désormais de quels trois pour cent il parle, sans retirer aux investisseurs la préférence qu'ils ont réellement payée avant la désignation. L'article 5, paragraphe 10, rend inopposable à la Réserve tout montage qui l'abaisse, en le laissant valable entre les parties.
+Le rang ensuite : l'article 5, paragraphe 4, point b), donne à la Réserve
+des actions de rang égal, pour les dividendes et pour le produit de toute
+vente ou liquidation, à la classe la mieux placée parmi celles créées après
+la désignation, et à défaut aux actions ordinaires. Trois pour cent d'une
+tranche ordinaire placée derrière une préférence participative de trois fois
+ne sont trois pour cent de rien, et l'instrument dit désormais de quels
+trois pour cent il parle, sans retirer aux investisseurs la préférence
+qu'ils ont réellement payée avant la désignation. L'article 5, paragraphe
+10, rend inopposable à la Réserve toute restructuration dont l'objet
+principal ou l'un des effets principaux est de placer la Réserve sous le
+rang que ce paragraphe lui assigne, en le laissant valable entre les
+parties.
 
 Le périmètre ensuite : l'article 5, paragraphe 11, oblige le cessionnaire à
 émettre son propre warrant lorsque des actifs automatisés passent à une
@@ -835,20 +846,6 @@ dépend. C'est la logique de succession du contrôle des concentrations, non
 une invention.
 
 La sortie enfin : l'article 5, paragraphe 12, réattache l'obligation lorsque les actifs automatisés ressortent d'une insolvabilité ou d'une restructuration au titre de la directive (UE) 2019/1023 dans une entité contrôlée par les mêmes personnes ou dans laquelle elles détiennent la majorité des droits économiques, et impose l'émission d'un nouveau warrant dans les trois mois. Une défaillance véritable éteint toujours la participation de la Réserve, comme celle de tout actionnaire, car la Réserve est propriétaire et les propriétaires le supportent. Ce qu'elle ne fait pas, c'est bénir la version où les propriétaires survivent et où seule l'obligation meurt.
-
-Une route, le conseil l'a conservée et l'instrument la laisse délibérément
-ouverte. Une entreprise peut emprunter lourdement auprès de prêteurs
-strictement tiers, leur verser un intérêt de marché et valoir moins à
-l'échéance qu'elle n'aurait valu sans dette. Ce n'est pas un prélèvement et
-la définition ne doit pas prétendre le contraire : l'argent va à des tiers,
-non à des initiés, et les fondateurs s'appauvrissent exactement dans la même
-proportion que la Réserve. Tout actionnaire d'une société endettée détient
-une créance plus petite sur un bilan plus grand, et un instrument qui prend
-3 % du capital ne peut exiger en outre que ce capital reste libre de
-charges. Ce que le dossier ne doit pas faire, c'est confondre cela avec les
-voies décrites plus haut, où la valeur part vers des poches qui sont les
-mêmes poches. Le levier est un risque que la Réserve assume en tant que
-propriétaire ; le prélèvement est un transfert que le règlement arrête.
 
 Et la réponse partielle honnête : la retenue à la source. Un règlement de
 l'Union ne peut conférer à la Réserve un avantage conventionnel qu'un pays
@@ -867,7 +864,33 @@ une réponse plus petite que le problème, et c'est la réponse honnête. Une
 fuite déclarée chaque année est une fuite sur laquelle la campagne peut être
 jugée ; une fuite que personne ne mesure ne fait que croître.
 
-**Conséquence de conception.** DC-35 : cristallisation sur les prélèvements et sur le temps, non sur la seule vente. DC-36 : les actions de la Réserve prennent rang avec la classe la mieux placée parmi celles créées après la désignation, sans toucher aux préférences antérieures, et les montages subordonnants sont inopposables à la Réserve. DC-37 : le cessionnaire émet son propre warrant sur son propre capital ; le cédant reste tenu pour les actifs automatisés qu'il conserve, et le cumul entre eux ne dépasse jamais le pourcentage énoncé de leur capital combiné. DC-38 : la retenue à la source non récupérable est publiée annuellement ; l'instrument n'enjoint pas à la Réserve d'organiser ses participations pour la réduire. DC-39 : l'obligation se réattache lorsque les mêmes propriétaires récupèrent les actifs au sortir d'une restructuration.
+Une route, le conseil l'a conservée et l'instrument la laisse délibérément
+ouverte. Une entreprise peut emprunter lourdement auprès de prêteurs
+strictement tiers, leur verser un intérêt de marché et valoir moins à
+l'échéance qu'elle n'aurait valu sans dette. Ce n'est pas un prélèvement et
+la définition ne doit pas prétendre le contraire : l'argent va à des tiers,
+non à des initiés, et les fondateurs s'appauvrissent exactement dans la même
+proportion que la Réserve. Tout actionnaire d'une société endettée détient
+une créance plus petite sur un bilan plus grand, et un instrument qui prend
+3 % du capital ne peut exiger en outre que ce capital reste libre de
+charges. Ce que le dossier ne doit pas faire, c'est confondre cela avec les
+voies décrites plus haut, où la valeur part vers des poches qui sont les
+mêmes poches. Le levier est un risque que la Réserve assume en tant que
+propriétaire ; le prélèvement est un transfert que le règlement arrête.
+
+**Conséquence de conception.** DC-35 : cristallisation sur les prélèvements
+et sur le temps, non sur la seule vente. DC-36 : sous réserve de la
+dérogation de sauvetage, les actions de la Réserve prennent rang avec la
+classe la mieux placée parmi celles créées après la désignation, sans
+toucher aux préférences antérieures, et les montages subordonnants sont
+inopposables à la Réserve. DC-37 : le cessionnaire émet son propre warrant
+sur son propre capital ; le cédant reste tenu pour les actifs automatisés
+qu'il conserve, et le cumul entre eux ne dépasse jamais le pourcentage
+énoncé de leur capital combiné. DC-38 : la retenue à la source non
+récupérable est publiée annuellement ; l'instrument n'enjoint pas à la
+Réserve d'organiser ses participations pour la réduire. DC-39 : l'obligation
+se réattache lorsque les mêmes propriétaires récupèrent les actifs au sortir
+d'une restructuration.
 
 ### 19. La Suède a tenté cela, et n'a même pas réussi à le faire adopter
 
@@ -964,27 +987,33 @@ l'objection 4 intègre déjà le risque politique résiduel dans son prix,
 plutôt que de le nier.
 
 **Conséquence de conception.** DC-41 : l'instrument doit être borné, sans
-droit de vote ni droit de contrôle, et universel quant à ses
-bénéficiaires, les trois à la fois, car le précédent suédois montre qu'un
-manquement sur l'un d'eux suffit à perdre. Le mot à éviter est passif. La
-Réserve fait bien valoir des droits : l'article 5, paragraphe 4, point b),
-fixe son rang et l'article 5, paragraphe 10, rend inopposables à son
-égard les montages subordonnants, et un opposant qualifiera cela de tout
-sauf de passif. L'affirmation défendable est plus étroite : la Réserve ne
-détient aucun droit de vote, ne nomme personne, et n'a aucune voix dans la
-gestion de l'entreprise. Cela même ne clôt pas la question. Un conseil
-hostile fait valoir en outre qu'un rang que l'entreprise ne peut
-subordonner contraint la manière dont elle lève un capital de détresse ou
-de préférence, puisque l'argent frais exige normalement la préséance, et
-qualifie cela, en substance, de veto sur la structure du capital. Ce
-n'est pas un droit de gouvernance, et l'article 5, paragraphe 10, laisse
-le montage valable entre les parties qui y ont recours. C'est néanmoins
-une contrainte sur le financement que le mot passif dissimulerait, et
-l'objection 18 ainsi que les travaux préparatoires la portent désormais
-comme une question ouverte plutôt que tranchée. DC-42 : les fonds des
-salariés ont leur place dans la base de preuves comme précédent de
-ponction et dans ce dossier comme objection, énoncés avant qu'un
-opposant ne les énonce.
+droit de vote ni droit de contrôle, et universel quant à ses bénéficiaires,
+les trois à la fois, car le précédent suédois montre qu'un manquement sur
+l'un d'eux suffit à perdre. Le mot à éviter est passif. La Réserve fait bien
+valoir des droits : l'article 5, paragraphe 4, point b), fixe son rang et
+l'article 5, paragraphe 10, rend inopposables à son égard les montages
+subordonnants, et un opposant qualifiera cela de tout sauf de passif.
+L'affirmation défendable est plus étroite : la Réserve ne détient aucun
+droit de vote, ne nomme personne, et n'a aucune voix dans la gestion de
+l'entreprise. Cela même ne clôt pas la question. Un conseil hostile fait
+valoir en outre qu'un rang que l'entreprise ne peut subordonner contraint la
+manière dont elle lève un capital de détresse ou de préférence, puisque
+l'argent frais exige normalement la préséance, et qualifie cela, en
+substance, de veto sur la structure du capital. Ce n'est pas un droit de
+gouvernance, et l'article 5, paragraphe 10, laisse le montage valable entre
+les parties qui y ont recours. C'était néanmoins une contrainte sur le
+financement que le mot passif dissimulerait, et elle est désormais résolue
+dans le texte plutôt que portée : le deuxième alinéa de l'article 5,
+paragraphe 10, permet à de l'argent véritablement nouveau de primer la
+Réserve, dans des conditions de pleine concurrence, apporté par des
+personnes sans lien avec l'entreprise et ses contrôleurs, lorsque
+l'entreprise se trouve en probabilité d'insolvabilité ou doit satisfaire à
+une exigence prudentielle, et seulement à hauteur de l'apport nouveau. Les
+sauveteurs sont payés avant la Réserve ; la séniorité construite au-delà de
+l'argent nouveau reste saisie, car c'est là que loge l'abus, et la charge de
+la preuve pèse sur l'entreprise. DC-42 : les fonds des salariés ont leur
+place dans la base de preuves comme précédent de ponction et dans ce dossier
+comme objection, énoncés avant qu'un opposant ne les énonce.
 
 ### 20. Prendre les actions sans droit de vote confie le contrôle à ceux-là mêmes que vous désignez comme le problème
 
@@ -1252,7 +1281,7 @@ Les articles sont rédigés à l'aune de ce tableau. Un projet qui viole une DC
 | DC-33 | Pour les entreprises relevant du droit d'un pays tiers, le warrant est une obligation de résultat comme condition d'accès au marché, jamais une mise à l'écart du droit des sociétés étranger | 17 |
 | DC-34 | Aucune instance entre la valorisation et le juge ; correction a posteriori et la transaction n'attend jamais | 6 |
 | DC-35 | Cristallisation sur les prélèvements et sur le temps, non sur la seule vente | 18 |
-| DC-36 | Les actions de la Réserve prennent rang avec la classe la mieux placée parmi celles créées après la désignation, sans toucher aux préférences antérieures ; les montages subordonnants sont inopposables à la Réserve | 18 |
+| DC-36 | Les actions de la Réserve prennent rang avec la classe la mieux placée parmi celles créées après la désignation, sans toucher aux préférences antérieures ; les montages subordonnants sont inopposables à la Réserve, sauf l'argent nouveau apporté dans des conditions de pleine concurrence par des personnes sans lien, en sauvetage, à hauteur de l'apport nouveau | 18 |
 | DC-37 | Le cessionnaire émet son propre warrant sur son propre capital ; le cédant reste tenu pour ce qu'il conserve, et le cumul entre eux ne dépasse jamais le pourcentage énoncé de leur capital combiné | 18 |
 | DC-38 | Retenue à la source non récupérable publiée annuellement ; la Réserve n'est pas tenue d'organiser ses participations pour la réduire | 18 |
 | DC-39 | L'obligation se réattache lorsque les mêmes propriétaires récupèrent les actifs au sortir d'une restructuration | 18 |
