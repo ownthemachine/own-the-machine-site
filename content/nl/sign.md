@@ -50,8 +50,8 @@ handtekeningen sneuvelt altijd bij verificatie, dus ervaren organisatoren
 mikken ruim boven de lat. Van de initiatieven die sinds 2012 zijn
 geregistreerd, heeft ruwweg één op de negen haar gehaald. De initiatieven
 die haar haalden, werden gedragen door coalities met echte netwerken in veel
-landen, en daarom eisen de eigen poorten van dit project organisatoren en
-institutionele partners vóór enige indiening.
+landen, en daarom eisen de eigen toetsmomenten van dit project organisatoren
+en institutionele partners vóór enige indiening.
 
 ## Wat deze campagne tijdens een inzameling wel en niet zal doen
 

@@ -8,12 +8,12 @@ status: gate-reviewed
 
 Hoe het instrument uiteenvalt wanneer instellingen beginnen te snijden, en
 wat elke snede kost. Dit document is strategie, geen recht: het bindt de
-opstellers en de campagne, en de toetsingspoort voor laaggetrouwheid
-toetst de artikelen daaraan. Het bestaat omdat de staande bevinding
-van de rechtsgrondslagpoort reëel is: het zwaartepunt van het volledige
-instrument is betwistbaar, en het eerlijke antwoord is vooraf te weten
-welke delen op welke rechtsgrondslag rusten, en wat het verzoek wordt
-bij elke stap van het snoeien.
+opstellers en de campagne, en de laaggetrouwheidstoets toetst de artikelen
+daaraan. Het bestaat omdat de staande bevinding van de rechtsgrondslagtoets
+reëel is: het zwaartepunt van het volledige instrument is betwistbaar, en
+het eerlijke antwoord is vooraf te weten welke delen op welke
+rechtsgrondslag rusten, en wat het verzoek wordt bij elke stap van het
+snoeien.
 
 ## De vier lagen
 
@@ -30,12 +30,11 @@ die dat toestaat:
 > is losgekoppeld van werkgelegenheid, en mechanismen waardoor de winsten
 > van zulke productie breed in eigendom komen.
 
-Niets in laag 0 vereist een specifieke rechtsgrondslag, omdat zij vraagt
-om een beoordeling en een voorstel, en dat is wat een initiatief mag
-vragen. Registratie van laag 0 is de ondergrens van toetsingspoort 1: als
-de Commissie zelfs dit niet registreert, faalt de premisse van het
-project over het juridische kanaal en geldt het stopcriterium in
-campaign/GATES.md.
+Niets in laag 0 vereist een specifieke rechtsgrondslag, omdat zij vraagt om
+een beoordeling en een voorstel, en dat is wat een initiatief mag vragen.
+Registratie van laag 0 is de ondergrens van toetsmoment 1: als de Commissie
+zelfs dit niet registreert, faalt de premisse van het project over het
+juridische kanaal en geldt het stopcriterium in campaign/GATES.md.
 
 ### Laag 1: aanwijzing en transparantie (artikel 114 VWEU, comfortabel)
 
@@ -61,23 +60,22 @@ Artikelen 5 tot en met 7, 13 volledig, 15 en 17, met de
 vennootschapsrechtelijke afwijkingen en de waarderingsmachinerie;
 overwegingen 9 tot en met 20 en 29.
 
-De verplichting om de burgerkapitaalwarrant uit te geven, te verzilveren
-bij de eerste liquiditeitsgebeurtenis, bij onttrekking ten gunste van aandeelhouders
-boven het genoemde aandeel van de omzet uit de gedekte activiteit, of bij
-de termijn van zeven jaar sinds de uitgifte, wat zich het eerst voordoet,
-met de waarborgen naar BRRD-patroon. De zaak voor artikel 114: het neemt
-de prikkel weg voor uiteenlopende nationale heffingen en
-participatieregelingen (overweging
-1), harmoniseert de vennootschapsrechtelijke afwijkingen die de
-inschrijving nodig heeft, en verzekert het gelijke speelveld tussen
-ondernemingen uit de Unie en uit derde landen. De aanval
-(rechtsgrondslagpoort, eerste run): het zwaartepunt is herverdeling, geen
-marktopbouw, en artikel 114, lid 2, sluit fiscale bepalingen uit; de
-maatgevende zaak is Tobacco Advertising (C-376/98), die daadwerkelijke
-belemmeringen of merkbare verstoringen vereist, geen wenselijk beleid. De
-verdediging rust erop dat de niet-fiscale structuur echt is (de
-afscherming van artikel 8, afwikkeling uitsluitend in aandelen), niet
-slechts beweerd, en op de echtheid van het divergentiedossier van
+De verplichting om de burgerkapitaalwarrant uit te geven, te verzilveren bij
+de eerste liquiditeitsgebeurtenis, bij onttrekking ten gunste van
+aandeelhouders boven het genoemde aandeel van de omzet uit de gedekte
+activiteit, of bij de termijn van zeven jaar sinds de uitgifte, wat zich het
+eerst voordoet, met de waarborgen naar BRRD-patroon. De zaak voor artikel
+114: het neemt de prikkel weg voor uiteenlopende nationale heffingen en
+participatieregelingen (overweging 1), harmoniseert de
+vennootschapsrechtelijke afwijkingen die de inschrijving nodig heeft, en
+verzekert het gelijke speelveld tussen ondernemingen uit de Unie en uit
+derde landen. De aanval (rechtsgrondslagtoets, eerste run): het zwaartepunt
+is herverdeling, geen marktopbouw, en artikel 114, lid 2, sluit fiscale
+bepalingen uit; de maatgevende zaak is Tobacco Advertising (C-376/98), die
+daadwerkelijke belemmeringen of merkbare verstoringen vereist, geen
+wenselijk beleid. De verdediging rust erop dat de niet-fiscale structuur
+echt is (de afscherming van artikel 8, afwikkeling uitsluitend in aandelen),
+niet slechts beweerd, en op de echtheid van het divergentiedossier van
 overweging 1.
 
 Faalt de kwalificatie, dan verhuist deze laag naar artikel 352:
@@ -139,22 +137,21 @@ vastgelegd in de verslagen.
    de Commissie daaraan vasthoudt, de bijlage snoeit en niet het
    verzoek.
 
-   **Deze regel is een aanname, geen bevinding, en het is het eerste wat
-   toetsingspoort 1 moet toetsen.** De voorbereiding van het verzoek aan
-   het ECI Forum op 21 augustus 2026 bracht de tegengestelde lezing aan
-   het licht: dat de Commissie het geheel van een initiatief onderzoekt,
-   met inbegrip van de bijlage en een eventuele ontwerp-rechtshandeling,
-   en niet alleen de titel en de doelstellingen, en dat het formuleren
-   van een doelstelling als een verzoek om te beoordelen en voor te
-   stellen deze niet beschermt als het mechanisme waarnaar zij verwijst
-   een bevoegdheid vereist die de Unie niet heeft. Volgens die lezing
-   beschermt het bijvoegen van de verordening het verzoek niet, en kan
-   het juist verruimen wat wordt beoordeeld. Het punt wordt aan het ECI
-   Forum voorgelegd als vragen 2 en 3 van campaign/GATE1-LETTER.md. Als
-   het antwoord luidt dat de bijlage op dezelfde voet wordt beoordeeld
-   als het verzoek, verandert deze regel, en daarmee ook wat in het
-   registratieformulier komt, zodat hierop niets stroomafwaarts mag
-   worden gebouwd totdat het antwoord er is.
+**Deze regel is een aanname, geen bevinding, en het is het eerste wat
+toetsmoment 1 moet toetsen.** De voorbereiding van het verzoek aan het ECI
+Forum op 21 augustus 2026 bracht de tegengestelde lezing aan het licht: dat
+de Commissie het geheel van een initiatief onderzoekt, met inbegrip van de
+bijlage en een eventuele ontwerp-rechtshandeling, en niet alleen de titel en
+de doelstellingen, en dat het formuleren van een doelstelling als een
+verzoek om te beoordelen en voor te stellen deze niet beschermt als het
+mechanisme waarnaar zij verwijst een bevoegdheid vereist die de Unie niet
+heeft. Volgens die lezing beschermt het bijvoegen van de verordening het
+verzoek niet, en kan het juist verruimen wat wordt beoordeeld. Het punt
+wordt aan het ECI Forum voorgelegd als vragen 2 en 3 van
+campaign/GATE1-LETTER.md. Als het antwoord luidt dat de bijlage op dezelfde
+voet wordt beoordeeld als het verzoek, verandert deze regel, en daarmee ook
+wat in het registratieformulier komt, zodat hierop niets stroomafwaarts mag
+worden gebouwd totdat het antwoord er is.
 
 ## Wat dit kost en waarom het dat waard is
 

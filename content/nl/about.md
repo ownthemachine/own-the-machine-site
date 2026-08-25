@@ -22,7 +22,7 @@ Geïnitieerd door David Vanheeswijck (België). De redactiemethode gebruikt
 AI-review op tegenspraak onder verantwoordelijkheid van de redacteur; elk
 oordeel en elke afdoening staat in het [register](/law/ledger). Een
 organisatorengroep van ten minste zeven burgers uit zeven lidstaten wordt
-gevormd als het project zijn eigen toetsingspoorten doorstaat.
+gevormd als het project zijn eigen toetsmomenten doorstaat.
 
 ## Wie dit uitgeeft
 
@@ -41,13 +41,13 @@ het boek kan bereiken, en de auteur is dezelfde persoon, dus het belang
 bestaat of er nu een verwijzing is of niet. Het wordt hier vermeld om
 gewogen te worden, niet omdat het is wegontworpen.
 
-## De toetsingspoorten
+## De toetsmomenten
 
-De campagne vordert alleen via gepubliceerde toetsingspoorten met
-stopcriteria: peilingen naar de ontvankelijkheid voor registratie vóór de oprichting,
+De campagne vordert alleen via gepubliceerde toetsmomenten met stopcriteria:
+peilingen naar de ontvankelijkheid voor registratie vóór de oprichting,
 oprichting vóór de indiening, indiening vóór de inzameling van
-handtekeningen. Als een poort faalt, zal deze pagina dat zeggen en blijft
-de repository staan als publiek goed.
+handtekeningen. Als een toetsmoment faalt, zal deze pagina dat zeggen en
+blijft de repository staan als publiek goed.
 
 ## Financiering
 
@@ -58,10 +58,9 @@ betaling gewerkt.
 "Geen" zeggen zou het makkelijkste antwoord zijn, maar het is niet waar. Het
 kost geld om deze site draaiende te houden, en de initiatiefnemer betaalt
 dat persoonlijk: het domein, objectopslag en contentlevering bij Scaleway in
-Frankrijk, en de API-aanroepen die de toetsingspoorten verbruiken. Geen
-partij, stichting, vakbond, onderneming, overheidsinstantie of andere
-particulier heeft geld, diensten, werktijd of software aan deze campagne
-bijgedragen.
+Frankrijk, en de API-aanroepen die de toetsen verbruiken. Geen partij,
+stichting, vakbond, onderneming, overheidsinstantie of andere particulier
+heeft geld, diensten, werktijd of software aan deze campagne bijgedragen.
 
 Verordening (EU) 2019/788 verplicht een geregistreerd initiatief elke bron
 te noemen die in een jaar meer dan 500 EUR geeft, en die verklaring actueel
@@ -89,12 +88,11 @@ Niets hier hangt ervan af dat dit zo blijft. De site is een statische build van 
 ## Waar de toetsing draait
 
 Elk oordeel in het register is door een model geproduceerd, en de
-rekenkracht die het produceerde heeft zelf ook een rechtsgebied. Tot
-23 augustus 2026 liepen de poorten via OpenRouter, een Amerikaanse
-router. Zij lopen nu via het Europese eindpunt van Requesty, op
-modellen die in de Unie worden gehost zonder enige gegevensbewaring,
-waarbij de ontwerpen na de aanroep niet worden bewaard en niet voor
-training worden gebruikt.
+rekenkracht die het produceerde heeft zelf ook een rechtsgebied. Tot 23
+augustus 2026 liepen de toetsen via OpenRouter, een Amerikaanse router. Zij
+lopen nu via het Europese eindpunt van Requesty, op modellen die in de Unie
+worden gehost zonder enige gegevensbewaring, waarbij de ontwerpen na de
+aanroep niet worden bewaard en niet voor training worden gebruikt.
 
 De uitvoerder neemt dat niet op gezag aan. Voordat hij een token
 uitgeeft, leest hij de eigen vastlegging van de router over waar het

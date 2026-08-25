@@ -53,10 +53,9 @@ draait live in de simulator van de site.
 Een ontwerp. Er is niets ingediend bij de Europese Commissie, niets
 geregistreerd en nergens worden handtekeningen verzameld. Een vraag over
 registreerbaarheid ligt bij het Forum voor het Europees burgerinitiatief.
-Een initiatief zou wettelijk een groep van minstens zeven organisatoren
-uit zeven lidstaten vergen; die groep bestaat nog niet. Het project
-publiceert zijn poorten en afbreekcriteria en stopt openlijk als die
-falen.
+Een initiatief zou wettelijk een groep van minstens zeven organisatoren uit
+zeven lidstaten vergen; die groep bestaat nog niet. Het project publiceert
+zijn toetsmomenten en afbreekcriteria en stopt openlijk als die falen.
 
 ## Wat dit niet is
 

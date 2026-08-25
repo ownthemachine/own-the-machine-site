@@ -59,7 +59,7 @@ zeggenschap, de warrant wordt pas verzilverd bij liquiditeitsgebeurtenissen,
 en de gedekte onderneming krijgt de rechtszekerheid van één geharmoniseerd
 stelsel in plaats van zevenentwintig nationale experimenten. Of die
 tegenprestatie volstaat, is het grootste juridische risico van het project,
-en toetsingspoort 1 bestaat om dat te testen.
+en toetsmoment 1 bestaat om precies dat te toetsen.
 
 Twee gezaghebbende bronnen horen in dit dossier thuis, omdat een vijandige
 lezer ze zal aanvoeren en omdat elk minder eenzijdig is dan zij op het
@@ -154,9 +154,9 @@ terugkerende betaling aan iedere volwassene, gefinancierd uit een
 verplichting voor ondernemingen, oogt als een stelsel van belasten en
 herverdelen in een kostuum van ondernemingsfinanciering.
 
-**Wat eraan klopt.** De grens is reëel en de kwalificatiestrijd beslist
-over de ontvankelijkheid voor registratie. Dit is het bezwaar dat het volledige voorstel het
-meest waarschijnlijk doodt bij toetsingspoort 1.
+**Wat eraan klopt.** De grens is reëel en de kwalificatiestrijd beslist over
+de ontvankelijkheid voor registratie. Dit is het bezwaar dat het volledige
+voorstel het meest waarschijnlijk doodt bij toetsmoment 1.
 
 **Het antwoord dat het instrument moet geven.** De maatregel mag in geen
 enkel jaar geld afnemen van welke onderneming ook. Er stroomt in het
@@ -691,7 +691,20 @@ onderneming prijst voortaan een verplichte toekomstige verwatering in.
 
 **Het antwoord dat het instrument moet geven.** De gouden-aandelenlijn veroordeelt één ding: bijzondere zeggenschapsrechten die onevenredig zijn aan de investering, stemrechtplafonds, blokkerende minderheden, goedkeuringsveto's, bestuurszetels, het instrumentarium waarmee een staat een onderneming stuurt die hij niet bezit. Het instrument bouwt het exacte spiegelbeeld, in de artikelen en niet in geruststellingen. Het belang van de Reserve draagt nooit stemrecht (artikelen 5, lid 4, onder a), en 9, lid 1, onder a)); geen vertegenwoordiging in bestuursorganen (artikel 9, lid 1, onder b)); geen instructies (artikel 9, lid 1, onder c)); geen verwervingen buiten de warrant en indexmatige spreiding (artikel 9, lid 1, onder d)); geen hefboom of derivaten die haar tot strategische speler zouden maken (artikel 9, lid 1, onder e) tot en met g)). Wat overblijft is zuiver economische deelneming, de positie van elke passieve minderheidsaandeelhouder, en dat is de positie die het Noorse fonds op vergelijkbare schaal inneemt bij Europese beursgenoteerde ondernemingen zonder dat ooit een artikel 63-zaak is aangespannen. Wat de rechtspraak eist van elke beperking die standhoudt, beantwoordt het instrument uitdrukkelijk in de tekst zelf: non-discriminatie (identieke behandeling van Unie- en derdelandsondernemingen krachtens artikel 3), een dwingend algemeen belang in de overwegingen, en evenredigheid, gedragen door de vaste 3 %, de onafhankelijke en afzonderlijk aanvechtbare waardering (artikelen 5, lid 9, 6 en 7) en de afweging onder artikel 52, lid 1. En anders dan elk vernietigd gouden aandeel is dit geen lidstaat die zich nationale invloed tegen de integratie voorbehoudt: het is een uniforme Unieregel voor de gehele interne markt, en juist die uniformiteit neemt de divergentie weg die nationale deelnemingsregelingen zouden scheppen. Het eerlijke residu is dat een verplichte toekomstige verwatering zelf een kostenpost is die beleggers zullen inprijzen; bezwaar 4 becijfert haar, en evenredigheid, niet ontkenning, is het verweer.
 
-**Ontwerpconsequentie.** De permanente stemrechtloosheid van DC-13 en de gedragsverboden van artikel 9 zijn het juridische antwoord op dit bezwaar. Wat zij niet kunnen, is een toekomstige wetgever binden, en dit memorandum doet niet alsof: de redactiegeschiedenis van artikel 12, lid 3, vermeldt dat het binden van toekomstige wetgevers in een eerdere ronde niet door de poorten kwam, en een poging op 21 augustus 2026 om de regel in dat lid operationele kracht te geven, werd opgegeven omdat de vijandige raadsman de voorkeur gaf aan handhaving ervan en het las als een Unierechtelijk gebod dat de Reserve zou worden ontdaan van de beschermende klasserechten die artikel 5, lid 4, onder b), haar geeft. Wat overeind blijft is een ontwerpregel die dit instrument en ieder die het wijzigt bindt: economische deelneming is het maximum, en geen zeggenschapsrecht, veto of bestuursprivilege hecht aan de belangen van de Reserve (DC-32). Het is een toezegging die de tekst nakomt, geen slot dat de tekst kan opleggen.
+**Ontwerpconsequentie.** De permanente stemrechtloosheid van DC-13 en de
+gedragsverboden van artikel 9 zijn het juridische antwoord op dit bezwaar.
+Wat zij niet kunnen, is een toekomstige wetgever binden, en dit memorandum
+doet niet alsof: de redactiegeschiedenis van artikel 12, lid 3, vermeldt dat
+het binden van toekomstige wetgevers in een eerdere ronde de toetsen niet
+doorstond, en een poging op 21 augustus 2026 om de regel in dat lid
+operationele kracht te geven, werd opgegeven omdat de vijandige raadsman de
+voorkeur gaf aan handhaving ervan en het las als een Unierechtelijk gebod
+dat de Reserve zou worden ontdaan van de beschermende klasserechten die
+artikel 5, lid 4, onder b), haar geeft. Wat overeind blijft is een
+ontwerpregel die dit instrument en ieder die het wijzigt bindt: economische
+deelneming is het maximum, en geen zeggenschapsrecht, veto of
+bestuursprivilege hecht aan de belangen van de Reserve (DC-32). Het is een
+toezegging die de tekst nakomt, geen slot dat de tekst kan opleggen.
 
 ### 17. U eigent zich aandelen toe in ondernemingen waarover Europa niet gaat
 
@@ -991,12 +1004,12 @@ kant op beantwoorden.
 **Het antwoord dat het instrument moet geven.** Niet dat dit de verkeerde
 bril is. Een eerdere versie van deze passage noemde de bestuurslezing een
 categoriefout, omdat de aanspraak van het instrument verdelend van aard is.
-Vier toetsingspoorten verwierpen dat in dezelfde bewoordingen, en zij hadden
-gelijk: een instrument dat bij elke onderneming die het raakt de verhouding
-tussen kasstroomrechten en zeggenschapsrechten verandert, is in zijn werking
-een bestuursinstrument, wat het in zijn bedoeling ook is, en het wordt
-terecht op zijn werking beoordeeld. Het antwoord hieronder erkent dat effect
-en verdedigt de keuze.
+Vier toetsen verwierpen dat in dezelfde bewoordingen, en zij hadden gelijk:
+een instrument dat bij elke onderneming die het raakt de verhouding tussen
+kasstroomrechten en zeggenschapsrechten verandert, is in zijn werking een
+bestuursinstrument, wat het in zijn bedoeling ook is, en het wordt terecht
+op zijn werking beoordeeld. Het antwoord hieronder erkent dat effect en
+verdedigt de keuze.
 
 De keuze ging tussen drie posities en het dossier heeft de minst slechte
 genomen. Een Reserve met stemrecht naar rato van haar belang is een politiek
@@ -1246,15 +1259,14 @@ onttrekking is waar het bezwaar over gaat. Het is het eerste bezwaar in
 dit bestand waarvan het antwoord moest worden geschreven in plaats van
 geciteerd.
 
-Bezwaren 16 en 17 zijn op 20 augustus
-2026 toegevoegd naar aanleiding van een externe aanval (de
-gouden-aandelenlijn van artikel 63; de reikwijdteoverschrijding van de
-gevolgenleer); hun antwoorden stonden al in de artikelen 3, 5, lid 5,
-en 9, wat precies is waartoe het ontwerpen aan de hand van de tabel dient, en het
-residu dat zij toevoegen is DC-32 en DC-33. Bezwaar 1 draagt het grootste juridische
-risico en bezwaar 6 het grootste ontwerprisico. De ontvankelijkheidsbrief
-van toetsingspoort 1 opent nog steeds met de bezwaren 1 en 2, maar
-herijkt door het redactieonderzoek: registratie is de lagere horde (de
-"kennelijk buiten"-toets, gedeeltelijke registratie, het geregistreerde
-burgerinitiatief voor een vermogensbelasting), dus de brief test de
-kwalificatie voor de Raadsfase, niet voor het register.
+Bezwaren 16 en 17 zijn op 20 augustus 2026 toegevoegd naar aanleiding van
+een externe aanval (de gouden-aandelenlijn van artikel 63; de
+reikwijdteoverschrijding van de gevolgenleer); hun antwoorden stonden al in
+de artikelen 3, 5, lid 5, en 9, wat precies is waartoe het ontwerpen aan de
+hand van de tabel dient, en het residu dat zij toevoegen is DC-32 en DC-33.
+Bezwaar 1 draagt het grootste juridische risico en bezwaar 6 het grootste
+ontwerprisico. De ontvankelijkheidsbrief van toetsmoment 1 opent nog steeds
+met de bezwaren 1 en 2, maar herijkt door het redactieonderzoek: registratie
+is de lagere horde (de "kennelijk buiten"-toets, gedeeltelijke registratie,
+het geregistreerde burgerinitiatief voor een vermogensbelasting), dus de
+brief test de kwalificatie voor de Raadsfase, niet voor het register.

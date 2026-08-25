@@ -24,7 +24,7 @@ het ooit heeft getoetst.
 ## Drie dingen die helpen, in volgorde van gewicht
 
 **Bestrijd de tekst.** Dat is meer waard dan instemming, en er is geen goede
-tweede. Het ontwerp is bij elke poort aangevallen door vijandige review en
+tweede. Het ontwerp is bij elke toets aangevallen door vijandige review en
 door precies één mens, degene die het schreef. Elk bezwaar op deze site is
 door het project tegen zichzelf geschreven, een methode met een duidelijk
 plafond. Als u het gat vindt, is dat gat het antwoord dat dit dossier nodig
@@ -55,7 +55,7 @@ Europees Parlement tellen niet mee voor de zeven.
 
 Wat het **niet** betekent, althans nog niet:
 
-- **Het is geen verbintenis.** Dit project heeft openbare poorten met
+- **Het is geen verbintenis.** Dit project heeft openbare toetsmomenten met
   afbreekcriteria. Aan niemand wordt gevraagd organisator te zijn voordat de
   kwestie van de registreerbaarheid beantwoord is, en als het antwoord
   slecht is wordt het dossier gepubliceerd als modelwet en stopt het
