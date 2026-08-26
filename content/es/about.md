@@ -21,9 +21,9 @@ Esta es una propuesta de la ciudadanía. No está publicada por la Unión Europe
 
 Iniciado por David Vanheeswijck (Bélgica). El método de redacción emplea
 revisión contradictoria mediante IA bajo la responsabilidad del editor; cada
-veredicto y su resolución constan en el [registro](/law/ledger). Se
-constituirá un grupo de organizadores de al menos siete ciudadanos de siete
-Estados miembros si el proyecto supera sus propios controles.
+veredicto y su resolución constan en el [registro](/law/ledger). Se constituirá un
+grupo de organizadores de al menos siete ciudadanos de siete Estados
+miembros si el proyecto supera sus propios hitos.
 
 ## Quién publica esto
 
@@ -42,12 +42,12 @@ misma persona, de modo que el interés existe haya o no un enlace. Se
 declara aquí para que pueda ponderarse, no porque se haya eliminado por
 diseño.
 
-## Los controles
+## Los hitos
 
-La campaña avanza únicamente a través de controles publicados con criterios
-de abandono: sondeos de admisibilidad del registro antes de la constitución,
+La campaña avanza únicamente a través de hitos publicados con criterios de
+abandono: sondeos de admisibilidad del registro antes de la constitución,
 constitución antes de la presentación, presentación antes de la recogida de
-firmas. Si un control fracasa, esta página lo dirá y el repositorio
+firmas. Si un hito no se supera, esta página lo dirá y el repositorio
 permanecerá disponible como bien público.
 
 ## Financiación
@@ -59,10 +59,9 @@ cambio de remuneración.
 Decir «ninguna» sería la respuesta más cómoda y no sería cierta. Mantener
 este sitio cuesta algo y lo paga personalmente el promotor: el dominio, el
 almacenamiento de objetos y la distribución de contenido en Scaleway, en
-Francia, y las llamadas a la API que consumen los controles de revisión.
-Ningún partido, fundación, sindicato, empresa, organismo público ni otro
-particular ha aportado dinero, servicios, tiempo de trabajo ni software a
-esta campaña.
+Francia, y las llamadas a la API que consumen las rondas de revisión. Ningún
+partido, fundación, sindicato, empresa, organismo público ni otro particular
+ha aportado dinero, servicios, tiempo de trabajo ni software a esta campaña.
 
 El Reglamento (UE) 2019/788 obliga a una iniciativa registrada a declarar
 toda fuente que aporte más de 500 EUR al año y a mantener esa declaración
@@ -88,13 +87,12 @@ Nada de esto depende de que siga siendo así. El sitio es una compilación está
 
 ## Dónde se ejecuta la revisión
 
-Cada veredicto del registro lo produjo un modelo, y la capacidad de
-cálculo que lo produjo también tiene una jurisdicción. Hasta el 23 de
-agosto de 2026 las puertas pasaban por OpenRouter, un enrutador
-estadounidense. Ahora pasan por el punto de acceso europeo de
-Requesty, sobre modelos alojados en la Unión sin conservación alguna
-de datos, sin que los proyectos se guarden después de la llamada ni se
-utilicen para el entrenamiento.
+Cada veredicto del registro lo produjo un modelo, y la capacidad de cálculo
+que lo produjo también tiene una jurisdicción. Hasta el 23 de agosto de 2026
+las revisiones pasaban por OpenRouter, una pasarela estadounidense. Ahora
+pasan por el punto de acceso europeo de Requesty, sobre modelos alojados en
+la Unión sin conservación alguna de datos, sin que los borradores se
+conserven después de cada petición ni se utilicen para el entrenamiento.
 
 El programa no lo da por supuesto. Antes de gastar un solo token lee
 lo que el propio enrutador hace constar sobre dónde se ejecuta el

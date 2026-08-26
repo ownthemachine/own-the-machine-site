@@ -56,7 +56,7 @@ una contraprestación: la reserva es un tenedor pasivo y sin control, el
 warrant solo cristaliza en eventos de liquidez, y la empresa cubierta recibe
 la seguridad jurídica de un régimen único armonizado en lugar de veintisiete
 experimentos nacionales. Si esa contraprestación es suficiente constituye el
-mayor riesgo jurídico del proyecto, y el control 1 existe para ponerlo a
+mayor riesgo jurídico del proyecto, y el hito 1 existe para ponerlo a
 prueba.
 
 Dos precedentes jurisprudenciales tienen su lugar en este expediente, porque
@@ -163,9 +163,9 @@ periódico a cada adulto, financiado mediante una obligación impuesta a las
 empresas, parece un esquema de impuesto y transferencia disfrazado de
 finanzas corporativas.
 
-**Lo que acierta.** La frontera es real y la batalla por la calificación jurídica
-decide la admisibilidad del registro. Es la objeción con más probabilidades de acabar
-con la petición completa en el control 1.
+**Lo que acierta.** La frontera es real y la batalla por la calificación
+jurídica decide la admisibilidad del registro. Es la objeción con más
+probabilidades de acabar con la petición completa en el hito 1.
 
 **La respuesta que el instrumento debe dar.** La medida no debe detraer
 dinero alguno de ninguna empresa en ningún ejercicio. Ningún flujo de efectivo
@@ -1001,12 +1001,12 @@ que no formuló, y además la estaría respondiendo en la dirección equivocada.
 **La respuesta que el instrumento debe dar.** No porque este prisma sea
 erróneo. Un borrador anterior de este pasaje llamaba error de categoría a la
 lectura en clave de gobierno corporativo, porque la pretensión del
-instrumento es distributiva. Cuatro controles de revisión lo rechazaron en
-los mismos términos, y tenían razón: un instrumento que altera la relación
-entre derechos al flujo de caja y derechos de control en cada empresa que
-toca es, por su efecto, un instrumento de gobierno corporativo, sea cual sea
-su intención, y se le juzga con razón por sus efectos. La respuesta que
-sigue admite el efecto y defiende la elección.
+instrumento es distributiva. Cuatro rondas de revisión lo rechazaron en los
+mismos términos, y tenían razón: un instrumento que altera la relación entre
+derechos al flujo de caja y derechos de control en cada empresa que toca es,
+por su efecto, un instrumento de gobierno corporativo, sea cual sea su
+intención, y se le juzga con razón por sus efectos. La respuesta que sigue
+admite el efecto y defiende la elección.
 
 La elección era entre tres posiciones y el expediente ha tomado la menos
 mala. Una Reserva con votos proporcionales a su participación es un
@@ -1259,15 +1259,15 @@ deliberadamente abierto, porque no es la extracción de la que trata la
 objeción. Es la primera objeción de este expediente cuya respuesta hubo
 que escribir en lugar de citar.
 
-Las objeciones 16 y 17 se añadieron el 20
-de agosto de 2026 a raíz de una impugnación externa (la línea de las
-acciones de oro del artículo 63; el exceso de alcance de la doctrina de
-los efectos); sus respuestas ya estaban en los artículos 3, 5, apartado
-5, y 9, que es exactamente para lo que sirve redactar contra la tabla,
-y el residuo que añaden es DC-32 y DC-33. La objeción 1 concentra el mayor riesgo jurídico
-y la objeción 6 el mayor riesgo de diseño. La carta de admisibilidad del
-control 1 sigue encabezada por las objeciones 1 y 2, pero recalibradas por
-la investigación de redacción: el registro es el obstáculo menor (criterio
-de «manifiestamente fuera», registro parcial, la ICE registrada del impuesto
-sobre las grandes fortunas), de modo que la carta pone a prueba la
-calificación para la fase del Consejo, no para el registro.
+Las objeciones 16 y 17 se añadieron el 20 de agosto de 2026 a raíz de una
+impugnación externa (la línea de las acciones de oro del artículo 63; el
+exceso de alcance de la doctrina de los efectos); sus respuestas ya estaban
+en los artículos 3, 5, apartado 5, y 9, que es exactamente para lo que sirve
+redactar contra la tabla, y el residuo que añaden es DC-32 y DC-33. La
+objeción 1 concentra el mayor riesgo jurídico y la objeción 6 el mayor
+riesgo de diseño. La carta de admisibilidad del hito 1 sigue encabezada por
+las objeciones 1 y 2, pero recalibradas por la investigación de redacción:
+el registro es el obstáculo menor (criterio de «manifiestamente fuera»,
+registro parcial, la ICE registrada del impuesto sobre las grandes
+fortunas), de modo que la carta pone a prueba la calificación para la fase
+del Consejo, no para el registro.

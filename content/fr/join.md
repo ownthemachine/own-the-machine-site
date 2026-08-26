@@ -24,12 +24,13 @@ contradicteur public.
 ## Trois façons d'aider, par ordre d'utilité
 
 **Attaquez le texte.** Cela vaut mieux que l'accord, et de loin. Le projet a
-été attaqué à chaque porte par une relecture hostile et par exactement un
-être humain, celui qui l'a écrit. Chaque objection de ce site a été écrite
-par le projet contre lui-même, méthode dont le plafond est évident. Si vous
-trouvez la faille, c'est cette faille dont ce dossier a besoin. Ouvrez une
-[issue ou une pull request](https://github.com/ownthemachine/own-the-machine/issues) et l'argument est public dès la première
-phrase, là où toutes les personnes que le projet concerne peuvent le lire.
+été attaqué à chaque étape, par une relecture contradictoire et par
+exactement un être humain, celui qui l'a écrit. Chaque objection de ce site
+a été écrite par le projet contre lui-même, méthode dont le plafond est
+évident. Si vous trouvez la faille, c'est de cette faille que ce dossier a
+besoin. Ouvrez une [issue ou une pull request](https://github.com/ownthemachine/own-the-machine/issues) et l'argument est public
+dès la première phrase, là où toutes les personnes que le projet concerne
+peuvent le lire.
 
 **Soyez l'un des sept.** Si vous êtes citoyen de l'Union, en âge de voter
 aux élections européennes, et que vous envisageriez d'associer votre nom à
@@ -55,12 +56,12 @@ sept.
 
 Ce que cela ne veut **pas** dire, du moins pas encore :
 
-- **Ce n'est pas un engagement.** Ce projet a des portes de contrôle
-  publiées, assorties de critères d'abandon. Personne n'est invité à devenir
-  organisateur avant que la question de l'enregistrabilité ne soit tranchée,
-  et si la réponse est mauvaise le dossier est publié comme loi modèle et
-  l'initiative s'arrête. Dire que vous l'envisageriez ne vous coûte rien et
-  ne vous engage à rien.
+- **Ce n'est pas un engagement.** Ce projet a des jalons publiés, assortis
+  de critères d'abandon. Personne n'est invité à devenir organisateur avant
+  que la question de l'enregistrabilité ne soit tranchée, et si la réponse
+  est mauvaise le dossier est publié comme loi modèle et l'initiative
+  s'arrête. Dire que vous l'envisageriez ne vous coûte rien et ne vous
+  engage à rien.
 - **Ce n'est pas une approbation de chaque article.** Un organisateur dépose
   un texte ; il n'a pas à l'avoir écrit ni à l'approuver en tout point. Si
   vous ne le déposeriez qu'avec des modifications, c'est un message plus

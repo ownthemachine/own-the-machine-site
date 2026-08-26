@@ -1,6 +1,6 @@
 ---
 gate: initiator native-ear (David, 26 August), fidelity re-check on the delta
-target: content/nl/{about,contribute,join,press,sign,objections,severability}.md
+target: content/{nl,fr,de,es}, gate vocabulary corpus-wide
 date: 2026-08-26
 rounds: 2 (fidelity: PUBLISH first pass; initiator refinement same day)
 verdict: applied
@@ -55,3 +55,36 @@ campaign gates as *toetsmoment*; and every genuine legal test (*de toets
 van artikel 52, lid 1*, the "kennelijk buiten"-toets, the designation
 toets in the FAQ), which is exactly where the word belongs. One pleonasm
 introduced and removed in the same pass (*vijandig en op tegenspraak*).
+
+## The same question, asked of the other three languages
+
+The initiator's follow-up: does the same evaluation apply to fr/de/es? It
+did, by dedicated native-ear rounds on the gate vocabulary, and each
+language answered differently, which is itself the point:
+
+- **French** had the same disease as Dutch: *porte de contrôle* is a calque
+  (an access-control gate), and the corpus already knew the cure, because
+  press and sign had said **jalons** all along. Campaign gates -> jalons
+  (jalon 1, "Si un jalon n'est pas franchi"); the six review rounds ->
+  **relectures (contradictoires)**, the corpus's own word for review.
+- **German** was mostly healthy: *Prüfstufe* is a real word and stays for
+  the campaign's staged gates. The reviewer's finding was the double duty,
+  so the six review rounds are now **Prüfrunden**.
+- **Spanish** *control* was toneless and collided with a dozen legal uses
+  (control de proporcionalidad, cambio de control). Campaign gates ->
+  **hitos**; review rounds -> **rondas de revisión**; and the new about
+  section's *las puertas* line was this editor's own broken calque, now
+  "las revisiones ... una pasarela estadounidense".
+- Dutch got one bonus unification: stopcriteria -> **afbreekcriteria**.
+
+55 fixes; fidelity re-run per language on the delta caught, as always, the
+swap's debris: the French join sentence had lost one of its two attackers,
+and the Spanish about section had *proyectos* for drafts. One pre-existing
+French cleft error (*c'est cette faille dont*) fixed on the way. German:
+clean first pass.
+
+Recorded, not churned: FR *hostile* against *contradictoire* corpus-wide,
+ES *criterios de abandono* against the legal *desistimiento*, and the
+project's deliberate plain-style trope "this page will say so", which the
+German reviewer disliked and which stays because it is the project's voice
+in every language.

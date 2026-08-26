@@ -712,7 +712,7 @@ DC-13 und die Verhaltensverbote des Artikels 9 sind die rechtliche Antwort
 auf diesen Einwand. Was sie nicht können, ist eine künftige Gesetzgebung zu
 binden, und dieses Memorandum tut nicht so, als könnten sie es: Die
 Entstehungsgeschichte des Artikels 12 Absatz 3 hält fest, dass die Bindung
-künftiger Gesetzgebung in einer früheren Runde die Prüfstufen nicht bestand,
+künftiger Gesetzgebung in einer früheren Runde die Prüfrunden nicht bestand,
 und ein Versuch am 21. August 2026, der Regel in jenem Absatz operative
 Wirkung zu verleihen, wurde aufgegeben, weil der gegnerische Rechtsbeistand
 sie lieber vorhanden sah und daraus eine unionsrechtliche Vorgabe herauslas,
@@ -1020,7 +1020,7 @@ falsche Richtung.
 **Die Antwort, die das Instrument geben muss.** Nicht etwa, dass dies der
 falsche Blickwinkel sei. Ein früherer Entwurf dieser Passage nannte die
 Governance-Lesart einen Kategorienfehler, weil der Anspruch des Instruments
-verteilungsbezogen sei. Vier Prüfstufen haben das mit denselben Worten
+verteilungsbezogen sei. Vier Prüfrunden haben das mit denselben Worten
 verworfen, und sie hatten recht: ein Instrument, das in jedem Unternehmen,
 das es berührt, das Verhältnis von Vermögensrechten zu Kontrollrechten
 verändert, ist in seiner Wirkung ein Governance-Instrument, was immer es der

@@ -22,9 +22,8 @@ Ceci est une proposition de citoyens. Elle n'est ni publiée ni approuvée par l
 À l'initiative de David Vanheeswijck (Belgique). La méthode de rédaction
 recourt à un examen contradictoire par IA sous la responsabilité de
 l'éditeur ; chaque verdict et chaque suite donnée figurent au
-[registre](/law/ledger). Un groupe d'organisateurs d'au moins sept
-citoyens de sept États membres sera constitué si le projet franchit ses
-propres portes de contrôle.
+[registre](/law/ledger). Un groupe d'organisateurs d'au moins sept citoyens de sept
+États membres sera constitué si le projet franchit ses propres jalons.
 
 ## Qui publie ce site
 
@@ -43,13 +42,12 @@ d'atteindre le livre, et l'auteur est la même personne, de sorte que
 l'intérêt existe qu'un lien figure ou non. Il est déclaré ici pour être
 pesé, et non parce qu'il aurait été neutralisé par construction.
 
-## Les portes de contrôle
+## Les jalons
 
-La campagne n'avance qu'à travers des portes de contrôle publiées,
-assorties de critères d'abandon : sondages sur l'enregistrabilité avant la
-constitution, constitution avant le dépôt, dépôt avant la collecte. Si une
-porte échoue, cette page le dira et le dépôt restera en ligne comme bien
-public.
+La campagne n'avance qu'à travers des jalons publiés, assortis de critères
+d'abandon : sondages sur l'enregistrabilité avant la constitution,
+constitution avant le dépôt, dépôt avant la collecte. Si un jalon n'est pas
+franchi, cette page le dira et le dépôt restera en ligne comme bien public.
 
 ## Financement
 
@@ -60,10 +58,10 @@ n'a travaillé sur ce projet contre rémunération.
 Répondre « aucun » serait plus simple et ne serait pas vrai. Le
 fonctionnement de ce site a un coût, que l'initiateur assume personnellement
 : le nom de domaine, le stockage objet et la diffusion en périphérie chez
-Scaleway en France, ainsi que les appels d'API que consomment les portes de
-contrôle. Aucun parti, aucune fondation, aucun syndicat, aucune entreprise,
-aucun organisme public ni aucun autre particulier n'a apporté d'argent, de
-services, de temps de travail ou de logiciels à cette campagne.
+Scaleway en France, ainsi que les appels d'API que consomment les
+relectures. Aucun parti, aucune fondation, aucun syndicat, aucune
+entreprise, aucun organisme public ni aucun autre particulier n'a apporté
+d'argent, de services, de temps de travail ou de logiciels à cette campagne.
 
 Le règlement (UE) 2019/788 oblige une initiative enregistrée à déclarer
 toute source apportant plus de 500 EUR par an et à tenir cette déclaration à
@@ -90,13 +88,12 @@ Rien ici ne dépend du maintien de cet état. Le site est une compilation statiq
 
 ## Où tourne la relecture
 
-Chaque verdict du registre a été produit par un modèle, et la
-puissance de calcul qui l'a produit relève elle aussi d'une
-juridiction. Jusqu'au 23 août 2026, les portes passaient par
-OpenRouter, un routeur américain. Elles passent désormais par le point
-d'accès européen de Requesty, sur des modèles hébergés dans l'Union
-sans aucune conservation des données, les projets n'étant ni conservés
-après l'appel ni utilisés pour l'entraînement.
+Chaque verdict du registre a été produit par un modèle, et la puissance de
+calcul qui l'a produit relève elle aussi d'une juridiction. Jusqu'au 23 août
+2026, les relectures passaient par OpenRouter, un routeur américain. Elles
+passent désormais par le point d'accès européen de Requesty, sur des modèles
+hébergés dans l'Union sans aucune conservation des données, les projets
+n'étant ni conservés après l'appel ni utilisés pour l'entraînement.
 
 Le programme ne s'en remet pas à la parole donnée. Avant de dépenser
 le moindre jeton, il lit ce que le routeur consigne lui-même sur le

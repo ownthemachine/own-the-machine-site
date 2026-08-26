@@ -60,8 +60,7 @@ détenteur passif et non contrôlant, le warrant ne se cristallise qu'aux
 événements de liquidité, et l'entreprise couverte reçoit la sécurité
 juridique d'un régime unique harmonisé à la place de vingt-sept expériences
 nationales. Savoir si cette contrepartie est suffisante est le plus grand
-risque juridique du projet, et la porte de contrôle 1 existe pour le mettre
-à l'épreuve.
+risque juridique du projet, et le jalon 1 existe pour le mettre à l'épreuve.
 
 Deux fondements juridiques ont leur place dans ce dossier, parce qu'un
 lecteur hostile les invoquera et parce que chacun est moins univoque qu'il
@@ -145,7 +144,7 @@ de transfert déguisé en montage de finance d'entreprise.
 
 **Là où elle voit juste.** La frontière est réelle et la bataille de
 qualification décide de l'enregistrabilité. C'est l'objection la plus
-susceptible de tuer la demande complète à la porte de contrôle 1.
+susceptible de tuer la demande complète au jalon 1.
 
 **La réponse que l'instrument doit apporter.** La mesure ne doit prélever
 aucun argent sur aucune entreprise, quelle que soit l'année. Aucun flux
@@ -717,7 +716,21 @@ désormais au prix une dilution future obligatoire.
 
 **La réponse que l'instrument doit apporter.** La ligne des golden shares condamne une seule chose : les droits spéciaux de contrôle excédant l'investissement, plafonds de vote, minorités de blocage, vetos d'approbation, sièges au conseil, l'appareillage par lequel un État dirige une entreprise qu'il ne possède pas. L'instrument construit l'exact inverse, dans les articles et non dans des assurances. La participation de la Réserve ne porte jamais de droit de vote (articles 5, paragraphe 4, point a), et 9, paragraphe 1, point a)) ; aucune présence au conseil (article 9, paragraphe 1, point b)) ; aucune instruction (article 9, paragraphe 1, point c)) ; aucune acquisition au-delà du warrant et d'une diversification indicielle (article 9, paragraphe 1, point d)) ; ni levier ni dérivés qui en feraient un acteur stratégique (article 9, paragraphe 1, points e) à g)). Ce qui demeure est une participation purement économique, la position de tout actionnaire minoritaire passif, celle que le fonds norvégien détient à une échelle comparable dans les sociétés cotées européennes sans qu'aucune affaire au titre de l'article 63 n'ait jamais été portée. Ce que la jurisprudence exige de toute restriction qui survit, l'instrument y répond dans son texte même : la non-discrimination (traitement identique des entreprises de l'Union et des pays tiers au titre de l'article 3), un intérêt général impérieux énoncé dans les considérants, et la proportionnalité portée par les 3 % fixes, l'évaluation indépendante et contestable séparément (articles 5, paragraphe 9, 6 et 7) et la mise en balance de l'article 52, paragraphe 1. Et à la différence de chaque golden share censurée, il ne s'agit pas d'un État membre réservant une influence nationale contre l'intégration : c'est une règle uniforme de l'Union pour tout le marché intérieur, et son uniformité même supprime la divergence que créeraient des régimes nationaux de participation. Le résidu honnête est qu'une dilution future obligatoire est en soi un coût que les investisseurs intégreront au prix ; l'objection 4 le chiffre, et la proportionnalité, non le déni, est la défense.
 
-**Conséquence de conception.** La règle du non-vote permanent de DC-13 et les interdictions de conduite de l'article 9 constituent la réponse en droit à cette objection. Ce qu'elles ne peuvent pas faire, c'est lier une législature future, et ce mémorandum ne prétend pas le contraire : les travaux préparatoires de l'article 12, paragraphe 3, indiquent que lier les législatures futures n'a pas franchi les portes de contrôle lors d'une phase antérieure, et une tentative, le 21 août 2026, de donner à la règle une force opérante dans ce paragraphe a été abandonnée parce qu'un conseil hostile préférait la conserver, y lisant un commandement de droit de l'Union privant la Réserve des droits de catégorie protecteurs que lui accorde l'article 5, paragraphe 4, point b). Ce qui subsiste est une règle de conception qui lie cet instrument et quiconque le modifie : la participation économique est le maximum, et aucun droit de contrôle, veto ou privilège de gouvernance ne s'attache aux participations de la Réserve (DC-32). C'est un engagement que le texte tient, non un verrou que le texte peut imposer.
+**Conséquence de conception.** La règle du non-vote permanent de DC-13 et
+les interdictions de conduite de l'article 9 constituent la réponse en droit
+à cette objection. Ce qu'elles ne peuvent pas faire, c'est lier une
+législature future, et ce mémorandum ne prétend pas le contraire : les
+travaux préparatoires de l'article 12, paragraphe 3, indiquent que lier les
+législatures futures n'a pas passé les relectures lors d'une phase
+antérieure, et une tentative, le 21 août 2026, de donner à la règle une
+force opérante dans ce paragraphe a été abandonnée parce qu'un conseil
+hostile préférait la conserver, y lisant un commandement de droit de l'Union
+privant la Réserve des droits de catégorie protecteurs que lui accorde
+l'article 5, paragraphe 4, point b). Ce qui subsiste est une règle de
+conception qui lie cet instrument et quiconque le modifie : la participation
+économique est le maximum, et aucun droit de contrôle, veto ou privilège de
+gouvernance ne s'attache aux participations de la Réserve (DC-32). C'est un
+engagement que le texte tient, non un verrou que le texte peut imposer.
 
 ### 17. Vous saisissez le capital d'entreprises que l'Europe ne régit pas
 
@@ -1052,12 +1065,12 @@ question qu'il n'a pas posée, et y répondrait dans le mauvais sens.
 **La réponse que l'instrument doit donner.** Non pas que ce soit la mauvaise
 lunette. Une version antérieure de ce passage qualifiait la lecture en
 termes de gouvernance d'erreur de catégorie, au motif que la prétention de
-l'instrument est distributive. Quatre portes de contrôle l'ont rejetée dans
-les mêmes termes, et elles avaient raison : un instrument qui modifie le
-rapport entre droits aux flux et droits de contrôle dans chaque entreprise
-qu'il touche est, par son effet, un instrument de gouvernance, quelle que
-soit son intention, et c'est sur ses effets qu'il est jugé. La réponse ci-
-dessous concède l'effet et défend le choix.
+l'instrument est distributive. Quatre relectures l'ont rejetée dans les
+mêmes termes, et elles avaient raison : un instrument qui modifie le rapport
+entre droits aux flux et droits de contrôle dans chaque entreprise qu'il
+touche est, par son effet, un instrument de gouvernance, quelle que soit son
+intention, et c'est sur ses effets qu'il est jugé. La réponse ci- dessous
+concède l'effet et défend le choix.
 
 Le choix se faisait entre trois positions et le dossier a pris la moins
 mauvaise. Une Réserve dotée de voix proportionnelles à sa participation est
@@ -1318,9 +1331,9 @@ figuraient déjà aux articles 3, 5, paragraphe 5, et 9, ce qui est
 précisément l'objet de la rédaction au regard du tableau, et le résidu
 qu'elles ajoutent est DC-32 et DC-33. L'objection 1 porte le plus grand
 risque juridique et l'objection 6 le plus grand risque de conception. La
-lettre d'admissibilité de la porte de contrôle 1 s'ouvre toujours sur les
-objections 1 et 2, mais recalibrées par les recherches de rédaction :
-l'enregistrement est l'obstacle le plus bas (critère du « manifestement en
-dehors », enregistrement partiel, l'ICE enregistrée sur l'impôt sur la
-fortune), de sorte que la lettre teste la qualification pour l'étape du
-Conseil, pas pour le registre.
+lettre d'admissibilité du jalon 1 s'ouvre toujours sur les objections 1 et
+2, mais recalibrées par les recherches de rédaction : l'enregistrement est
+l'obstacle le plus bas (critère du « manifestement en dehors »,
+enregistrement partiel, l'ICE enregistrée sur l'impôt sur la fortune), de
+sorte que la lettre teste la qualification pour l'étape du Conseil, pas pour
+le registre.

@@ -8,12 +8,12 @@ status: gate-reviewed
 
 Wie das Instrument zerfällt, wenn Institutionen zu schneiden beginnen, und
 was jeder Schnitt kostet. Dieses Dokument ist Strategie, nicht Gesetz: Es
-bindet die Verfasser und die Kampagne, und die Prüfstufe zur Schichttreue
+bindet die Verfasser und die Kampagne, und die Prüfrunde zur Schichttreue
 misst die Artikel daran. Es existiert, weil der fortbestehende Befund der
-Prüfstufe zur Rechtsgrundlage real ist: Der Schwerpunkt des vollständigen
-Instruments ist angreifbar, und die ehrliche Antwort besteht darin, im Voraus
-zu wissen, welche Teile auf welcher Rechtsgrundlage stehen und was aus der
-Forderung bei jedem Beschneidungsschritt wird.
+Prüfrunde zur Rechtsgrundlage real ist: Der Schwerpunkt des vollständigen
+Instruments ist angreifbar, und die ehrliche Antwort besteht darin, im
+Voraus zu wissen, welche Teile auf welcher Rechtsgrundlage stehen und was
+aus der Forderung bei jedem Beschneidungsschritt wird.
 
 ## Die vier Schichten
 
@@ -62,23 +62,22 @@ Artikel 5 bis 7, 13 vollständig, 15, 17, mit den gesellschaftsrechtlichen
 Ausnahmen und der Bewertungsmaschinerie; Erwägungsgründe 9 bis 20, 29.
 
 Die Pflicht zur Ausgabe des Bürgerkapital-Warrants, der sich beim ersten
-Liquiditätsereignis, bei einer Entnahme zugunsten der Anteilseigner
-oberhalb des genannten Anteils des Umsatzes aus der erfassten Tätigkeit
-oder bei der Siebenjahresfrist realisiert, je nachdem, was zuerst
-eintritt, mit den Schutzvorkehrungen nach BRRD-Muster. Der Fall für
-Artikel 114: Er beseitigt den Anreiz zu
-divergierenden nationalen Abgaben und Beteiligungsmodellen
-(Erwägungsgrund 1), harmonisiert die gesellschaftsrechtlichen Ausnahmen,
-die die Zeichnung braucht, und sichert gleiche Wettbewerbsbedingungen
-zwischen Unions- und Drittstaatsunternehmen. Der Angriff (Prüfstufe zur
+Liquiditätsereignis, bei einer Entnahme zugunsten der Anteilseigner oberhalb
+des genannten Anteils des Umsatzes aus der erfassten Tätigkeit oder bei der
+Siebenjahresfrist realisiert, je nachdem, was zuerst eintritt, mit den
+Schutzvorkehrungen nach BRRD-Muster. Der Fall für Artikel 114: Er beseitigt
+den Anreiz zu divergierenden nationalen Abgaben und Beteiligungsmodellen
+(Erwägungsgrund 1), harmonisiert die gesellschaftsrechtlichen Ausnahmen, die
+die Zeichnung braucht, und sichert gleiche Wettbewerbsbedingungen zwischen
+Unions- und Drittstaatsunternehmen. Der Angriff (Prüfrunde zur
 Rechtsgrundlage, erster Durchlauf): Der Schwerpunkt sei Umverteilung, nicht
-Marktaufbau, und Artikel 114 Absatz 2 schließe fiskalische Bestimmungen
-aus; die maßgebliche Linie sei Tobacco Advertising (C-376/98), die
-tatsächliche Hindernisse oder spürbare Verzerrungen verlange, nicht eine
-wünschenswerte Politik. Die Verteidigung ruht darauf, dass die
-nichtfiskalische Struktur real ist (die Abschirmung des Artikels 8,
-Abwicklung ausschließlich in Anteilen), nicht bloß behauptet, und
-darauf, dass der Divergenzbefund des Erwägungsgrunds 1 echt ist.
+Marktaufbau, und Artikel 114 Absatz 2 schließe fiskalische Bestimmungen aus;
+die maßgebliche Linie sei Tobacco Advertising (C-376/98), die tatsächliche
+Hindernisse oder spürbare Verzerrungen verlange, nicht eine wünschenswerte
+Politik. Die Verteidigung ruht darauf, dass die nichtfiskalische Struktur
+real ist (die Abschirmung des Artikels 8, Abwicklung ausschließlich in
+Anteilen), nicht bloß behauptet, und darauf, dass der Divergenzbefund des
+Erwägungsgrunds 1 echt ist.
 
 Scheitert die Einordnung, wandert diese Schicht zu Artikel 352:
 Einstimmigkeit im Rat, Zustimmung des Parlaments. Das ist ein politischer

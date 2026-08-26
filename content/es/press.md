@@ -49,13 +49,13 @@ vivo en el simulador del sitio.
 
 ## La situación, sin rodeos
 
-Un borrador. No se ha presentado nada ante la Comisión Europea, no hay
-nada registrado y no se recogen firmas en ningún sitio. Hay una consulta
-sobre registrabilidad pendiente ante el Foro de la Iniciativa Ciudadana
-Europea. Una iniciativa exigiría legalmente un grupo de al menos siete
-organizadores residentes en siete Estados miembros; ese grupo aún no
-existe. El proyecto publica sus controles y criterios de abandono y se
-detiene públicamente si fallan.
+Un borrador. No se ha presentado nada ante la Comisión Europea, no hay nada
+registrado y no se recogen firmas en ningún sitio. Hay una consulta sobre
+registrabilidad pendiente ante el Foro de la Iniciativa Ciudadana Europea.
+Una iniciativa exigiría legalmente un grupo de al menos siete organizadores
+residentes en siete Estados miembros; ese grupo aún no existe. El proyecto
+publica sus hitos y criterios de abandono y se detiene públicamente si
+fallan.
 
 ## Lo que esto no es
 

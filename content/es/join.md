@@ -23,13 +23,13 @@ que discrepe en público lo ha puesto nunca a prueba.
 ## Tres cosas que ayudan, por orden de peso
 
 **Ataque el texto.** Vale más que el acuerdo, y no hay un segundo puesto
-cercano. El borrador ha sido atacado en cada control por revisión hostil y
-por exactamente un ser humano, el que lo escribió. Cada objeción de este
-sitio la ha escrito el proyecto contra sí mismo, un método con un techo
-evidente. Si encuentra el fallo, ese fallo es la respuesta que necesita este
-expediente. Abra una [incidencia o una pull request](https://github.com/ownthemachine/own-the-machine/issues) y el argumento
-será público desde la primera frase, donde puede leerlo todo aquel a quien
-el borrador concierne.
+cercano. El borrador ha sido atacado en cada ronda por revisión
+contradictoria y por exactamente un ser humano, el que lo escribió. Cada
+objeción de este sitio la ha escrito el proyecto contra sí mismo, un método
+con un techo evidente. Si encuentra el fallo, ese fallo es la respuesta que
+necesita este expediente. Abra una [incidencia o una pull request](https://github.com/ownthemachine/own-the-machine/issues) y el
+argumento será público desde la primera frase, donde puede leerlo todo aquel
+a quien el borrador concierne.
 
 **Sea una de las siete personas.** Si es ciudadano de la Unión, tiene edad
 para votar en las elecciones al Parlamento Europeo y se plantearía asociar
@@ -55,7 +55,7 @@ las siete.
 
 Lo que **no** significa, al menos todavía:
 
-- **No es un compromiso.** Este proyecto tiene controles publicados con
+- **No es un compromiso.** Este proyecto tiene hitos publicados con
   criterios de abandono. A nadie se le pide ser organizador antes de que se
   resuelva la cuestión de la registrabilidad, y si la respuesta es mala el
   expediente se publica como ley modelo y la iniciativa se detiene. Decir
@@ -65,8 +65,8 @@ Lo que **no** significa, al menos todavía:
   Si solo lo presentaría con cambios, ese mensaje es más útil que el
   acuerdo, y su sitio está en público, donde esos cambios pueden discutirse.
 - **No es una recaudación de fondos.** No hay nada a lo que donar. La
-  situación financiera está en la página [acerca de](/about) y consiste en
-  que no hay organización, ni cuenta, ni donaciones.
+  situación financiera está en la página [acerca de](/about) y consiste en que
+  no hay organización, ni cuenta, ni donaciones.
 
 ## Cómo decirlo
 

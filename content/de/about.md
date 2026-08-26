@@ -61,7 +61,7 @@ Vergütung daran gearbeitet.
 „Keine“ zu sagen wäre die bequemere Antwort, aber sie wäre unwahr. Der
 Betrieb dieser Seite kostet etwas, und der Initiator trägt diese Kosten
 privat: die Domain, Objektspeicher und Content-Auslieferung bei Scaleway in
-Frankreich sowie die API-Aufrufe, die die Prüfstufen auslösen. Keine Partei,
+Frankreich sowie die API-Aufrufe, die die Prüfrunden auslösen. Keine Partei,
 keine Stiftung, keine Gewerkschaft, kein Unternehmen, keine öffentliche
 Stelle und keine andere Privatperson hat Geld, Dienstleistungen, Arbeitszeit
 oder Software zu dieser Kampagne beigetragen.
@@ -93,7 +93,7 @@ Nichts hier hängt davon ab, dass das so bleibt. Die Seite ist ein statischer Bu
 
 Jedes Urteil im Register wurde von einem Modell erzeugt, und die
 Rechenleistung, die es erzeugt hat, untersteht einer eigenen Rechtsordnung.
-Bis zum 23. August 2026 liefen die Prüfstufen über OpenRouter, einen
+Bis zum 23. August 2026 liefen die Prüfrunden über OpenRouter, einen
 amerikanischen Router. Sie laufen nun über den europäischen Endpunkt von
 Requesty, auf Modellen, die in der Union gehostet werden, ohne jede
 Datenspeicherung und ohne dass die Entwürfe nach dem Aufruf aufbewahrt oder

@@ -24,7 +24,7 @@ dass ihn niemand, der ihm öffentlich widerspricht, je geprüft hat.
 ## Drei Dinge, die helfen, nach Gewicht geordnet
 
 **Greifen Sie den Text an.** Das ist mehr wert als Zustimmung, und nichts
-kommt dem auch nur nahe. Der Entwurf ist an jeder Prüfstufe angegriffen
+kommt dem auch nur nahe. Der Entwurf ist in jeder Prüfrunde angegriffen
 worden, von gegnerischer Begutachtung und von genau einem Menschen: dem, der
 ihn geschrieben hat. Jeder Einwand auf dieser Seite wurde vom Projekt gegen
 sich selbst geschrieben, eine Methode mit einer offensichtlichen Obergrenze.

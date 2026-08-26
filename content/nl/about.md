@@ -43,9 +43,9 @@ gewogen te worden, niet omdat het is wegontworpen.
 
 ## De toetsmomenten
 
-De campagne vordert alleen via gepubliceerde toetsmomenten met stopcriteria:
-peilingen naar de ontvankelijkheid voor registratie vóór de oprichting,
-oprichting vóór de indiening, indiening vóór de inzameling van
+De campagne vordert alleen via gepubliceerde toetsmomenten met
+afbreekcriteria: peilingen naar de ontvankelijkheid voor registratie vóór de
+oprichting, oprichting vóór de indiening, indiening vóór de inzameling van
 handtekeningen. Als een toetsmoment faalt, zal deze pagina dat zeggen en
 blijft de repository staan als publiek goed.
 

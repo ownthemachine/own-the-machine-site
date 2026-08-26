@@ -8,13 +8,12 @@ status: gate-reviewed
 
 Comment l'instrument se décompose quand les institutions commencent à
 tailler, et ce que chaque coupe coûte. Ce document est de la stratégie, pas
-du droit : il lie les rédacteurs et la campagne, et la porte de contrôle de
-fidélité aux couches examine les articles à son aune. Il existe parce que
-la conclusion constante de la porte de contrôle de la base juridique est
-réelle : le centre de gravité de l'instrument complet est contestable, et
-la réponse honnête consiste à savoir d'avance quelles parties reposent sur
-quelle base juridique, et ce que devient la demande à chaque étape de la
-taille.
+du droit : il lie les rédacteurs et la campagne, et la relecture de fidélité
+aux couches examine les articles à son aune. Il existe parce que la
+conclusion constante de la relecture de la base juridique est réelle : le
+centre de gravité de l'instrument complet est contestable, et la réponse
+honnête consiste à savoir d'avance quelles parties reposent sur quelle base
+juridique, et ce que devient la demande à chaque étape de la taille.
 
 ## Les quatre couches
 
@@ -33,10 +32,10 @@ qui l'autorise :
 
 Rien dans la couche 0 n'exige de base juridique particulière, car elle
 demande une évaluation et une proposition, ce qu'une initiative peut
-demander. L'enregistrement de la couche 0 est le plancher de la porte de
-contrôle 1 : si la Commission refuse d'enregistrer même cela, la prémisse
-du projet sur le canal juridique échoue et le critère d'abandon de
-campaign/GATES.md s'applique.
+demander. L'enregistrement de la couche 0 est le plancher du jalon 1 : si la
+Commission refuse d'enregistrer même cela, la prémisse du projet sur le
+canal juridique échoue et le critère d'abandon de campaign/GATES.md
+s'applique.
 
 ### Couche 1 : désignation et transparence (article 114 TFUE, confortable)
 
@@ -65,23 +64,22 @@ considérants 9 à 20 et 29.
 
 L'obligation d'émettre le warrant de capital citoyen, se cristallisant au
 premier événement de liquidité, à des prélèvements au profit des
-actionnaires dépassant la part indiquée du chiffre d'affaires de
-l'activité couverte, ou à la date butoir de sept ans, selon la première de
-ces éventualités, avec les garanties du modèle BRRD.
-L'argumentaire au titre de l'article 114 : il supprime l'incitation à des
-prélèvements et régimes de participation nationaux divergents (considérant
-1), harmonise les dérogations au droit des sociétés dont la souscription a
-besoin, et garantit l'égalité des conditions de concurrence entre
-entreprises de l'Union et de pays tiers. L'attaque (porte de contrôle de la
-base juridique, première passe) : le centre de gravité est la
-redistribution, non la construction du marché, et l'article 114, paragraphe
-2, exclut les dispositions fiscales ; la jurisprudence de référence est
-Tobacco Advertising (C-376/98), qui exige des obstacles réels ou des
-distorsions sensibles, non une politique souhaitable. La défense repose
-sur la réalité de la structure non fiscale (l'isolation prévue à
-l'article 8, un règlement en actions uniquement), pas sur son
-affirmation, ainsi que sur le caractère réel de l'historique de
-divergence du considérant 1.
+actionnaires dépassant la part indiquée du chiffre d'affaires de l'activité
+couverte, ou à la date butoir de sept ans, selon la première de ces
+éventualités, avec les garanties du modèle BRRD. L'argumentaire au titre de
+l'article 114 : il supprime l'incitation à des prélèvements et régimes de
+participation nationaux divergents (considérant 1), harmonise les
+dérogations au droit des sociétés dont la souscription a besoin, et garantit
+l'égalité des conditions de concurrence entre entreprises de l'Union et de
+pays tiers. L'attaque (relecture de la base juridique, première passe) : le
+centre de gravité est la redistribution, non la construction du marché, et
+l'article 114, paragraphe 2, exclut les dispositions fiscales ; la
+jurisprudence de référence est Tobacco Advertising (C-376/98), qui exige des
+obstacles réels ou des distorsions sensibles, non une politique souhaitable.
+La défense repose sur la réalité de la structure non fiscale (l'isolation
+prévue à l'article 8, un règlement en actions uniquement), pas sur son
+affirmation, ainsi que sur le caractère réel de l'historique de divergence
+du considérant 1.
 
 Si la qualification échoue, cette couche passe à l'article 352 : unanimité
 au Conseil, approbation du Parlement. C'est une montagne politique, et ce
@@ -140,22 +138,20 @@ public, au procès-verbal.
    suggéré, de sorte qu'un enregistrement partiel, si la Commission y
    tient, taille dans l'annexe et non dans la demande.
 
-   **Cette règle est une hypothèse, pas une conclusion, et c'est la
-   première chose que la porte de contrôle 1 doit vérifier.** La
-   préparation de la demande adressée à l'ECI Forum le 21 août 2026 a
-   fait apparaître la lecture contraire : que la Commission examine
-   l'ensemble d'une initiative, annexe et tout projet d'acte juridique
-   compris, et non le seul titre et les seuls objectifs, et que formuler
-   un objectif comme une demande d'évaluation et de proposition ne le
-   met pas à l'abri si le mécanisme qu'il vise a besoin d'une compétence
-   que l'Union n'a pas. Selon cette lecture, annexer le règlement ne
-   protège pas la demande et peut élargir ce qui est évalué. Le point
-   est soumis à l'ECI Forum comme les questions 2 et 3 de
-   campaign/GATE1-LETTER.md. Si la réponse est que l'annexe est évaluée
-   sur le même pied que la demande, cette règle change, et ce qui figure
-   dans le formulaire d'enregistrement change avec elle, de sorte que
-   rien en aval ne doit être bâti dessus tant que la réponse n'est pas
-   connue.
+**Cette règle est une hypothèse, pas une conclusion, et c'est la première
+chose que le jalon 1 doit vérifier.** La préparation de la demande adressée
+à l'ECI Forum le 21 août 2026 a fait apparaître la lecture contraire : que
+la Commission examine l'ensemble d'une initiative, annexe et tout projet
+d'acte juridique compris, et non le seul titre et les seuls objectifs, et
+que formuler un objectif comme une demande d'évaluation et de proposition ne
+le met pas à l'abri si le mécanisme qu'il vise a besoin d'une compétence que
+l'Union n'a pas. Selon cette lecture, annexer le règlement ne protège pas la
+demande et peut élargir ce qui est évalué. Le point est soumis à l'ECI Forum
+comme les questions 2 et 3 de campaign/GATE1-LETTER.md. Si la réponse est
+que l'annexe est évaluée sur le même pied que la demande, cette règle
+change, et ce qui figure dans le formulaire d'enregistrement change avec
+elle, de sorte que rien en aval ne doit être bâti dessus tant que la réponse
+n'est pas connue.
 
 ## Ce que cela coûte et pourquoi cela en vaut la peine
 

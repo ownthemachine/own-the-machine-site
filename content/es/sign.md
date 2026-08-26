@@ -45,15 +45,15 @@ serias planifican país por país.
 ## Por qué en la práctica hace falta más de un millón de firmas
 
 El listón legal es un millón de declaraciones de apoyo válidas en doce
-meses, con mínimos nacionales alcanzados en al menos siete Estados
-miembros, siendo cada mínimo aproximadamente el número de escaños del
-país en el Parlamento Europeo multiplicado por 750. Siempre hay firmas
-que no superan la verificación, así que los organizadores con experiencia
-apuntan bastante por encima del listón. De las iniciativas registradas
-desde 2012, aproximadamente una de cada nueve lo ha superado. Las que lo
-lograron iban sostenidas por coaliciones con redes reales en muchos
-países, y por eso los propios controles de este proyecto exigen
-organizadores y socios institucionales antes de cualquier presentación.
+meses, con mínimos nacionales alcanzados en al menos siete Estados miembros,
+siendo cada mínimo aproximadamente el número de escaños del país en el
+Parlamento Europeo multiplicado por 750. Siempre hay firmas que no superan
+la verificación, así que los organizadores con experiencia apuntan bastante
+por encima del listón. De las iniciativas registradas desde 2012,
+aproximadamente una de cada nueve lo ha superado. Las que lo lograron iban
+sostenidas por coaliciones con redes reales en muchos países, y por eso los
+propios hitos de este proyecto exigen organizadores y socios institucionales
+antes de cualquier presentación.
 
 ## Qué hará y qué no hará esta campaña durante una recogida
 

@@ -8,9 +8,9 @@ status: gate-reviewed
 
 Cómo se descompone el instrumento cuando las instituciones empiezan a
 recortar, y qué cuesta cada corte. Este documento es estrategia, no derecho:
-vincula a los redactores y a la campaña, y el control de fidelidad de capas
-coteja los artículos con él. Existe porque la conclusión vigente del
-control de base jurídica es real: el centro de gravedad del instrumento
+vincula a los redactores y a la campaña, y la revisión de fidelidad de capas
+coteja los artículos con él. Existe porque la conclusión vigente de la
+revisión de base jurídica es real: el centro de gravedad del instrumento
 completo es discutible, y la respuesta honesta es saber de antemano qué
 partes se sostienen sobre qué base jurídica, y en qué se convierte la
 petición en cada fase del recorte.
@@ -32,9 +32,9 @@ que lo permite:
 
 Nada en la capa 0 exige base jurídica particular alguna, porque pide una
 evaluación y una propuesta, que es lo que una iniciativa puede pedir. El
-registro de la capa 0 es el suelo del control 1: si la Comisión no registra
-ni siquiera esto, la premisa del proyecto sobre el canal jurídico fracasa y
-se aplica el criterio de abandono de campaign/GATES.md.
+registro de la capa 0 es el suelo del hito 1: si la Comisión no registra ni
+siquiera esto, la premisa del proyecto sobre el canal jurídico fracasa y se
+aplica el criterio de abandono de campaign/GATES.md.
 
 ### Capa 1: designación y transparencia (artículo 114 del TFUE, cómoda)
 
@@ -61,22 +61,21 @@ sociedades y la maquinaria de valoración; considerandos 9 a 20 y 29.
 
 La obligación de emitir el warrant de capital ciudadano, que cristaliza en
 el primer evento de liquidez, en la extracción a favor de los accionistas
-por encima de la cuota indicada de la facturación de la actividad
-cubierta o en el plazo límite de siete años, lo que ocurra primero, con
-las salvaguardias del patrón de la BRRD.
-El argumento del artículo 114: elimina el incentivo para gravámenes y
-regímenes de participación nacionales divergentes (considerando 1), armoniza
-las excepciones de derecho de sociedades que la suscripción necesita, y
-asegura la igualdad de condiciones entre empresas de la Unión y de terceros
-países. El ataque (control de base jurídica, primera pasada): el centro de
-gravedad es la redistribución, no la construcción del mercado, y el artículo
-114, apartado 2, excluye las disposiciones fiscales; la línea de
-jurisprudencia determinante es Tobacco Advertising (C-376/98), que
-exige obstáculos genuinos o distorsiones apreciables, no una política
-deseable. La defensa descansa en que la estructura no fiscal sea real
-(el aislamiento del artículo 8, la liquidación solo en acciones), no
-meramente afirmada, y en que el historial de divergencia del
-considerando 1 sea genuino.
+por encima de la cuota indicada de la facturación de la actividad cubierta o
+en el plazo límite de siete años, lo que ocurra primero, con las
+salvaguardias del patrón de la BRRD. El argumento del artículo 114: elimina
+el incentivo para gravámenes y regímenes de participación nacionales
+divergentes (considerando 1), armoniza las excepciones de derecho de
+sociedades que la suscripción necesita, y asegura la igualdad de condiciones
+entre empresas de la Unión y de terceros países. El ataque (revisión de base
+jurídica, primera pasada): el centro de gravedad es la redistribución, no la
+construcción del mercado, y el artículo 114, apartado 2, excluye las
+disposiciones fiscales; la línea de jurisprudencia determinante es Tobacco
+Advertising (C-376/98), que exige obstáculos genuinos o distorsiones
+apreciables, no una política deseable. La defensa descansa en que la
+estructura no fiscal sea real (el aislamiento del artículo 8, la liquidación
+solo en acciones), no meramente afirmada, y en que el historial de
+divergencia del considerando 1 sea genuino.
 
 Si la calificación jurídica fracasa, esta capa pasa al artículo 352: unanimidad en
 el Consejo, aprobación del Parlamento. Es una montaña política, y este
@@ -131,21 +130,19 @@ batalla está pensada para el Consejo, en público y con constancia en acta.
    el registro parcial, si la Comisión insiste en él, recorte el anexo y no
    la petición.
 
-   **Esta regla es una hipótesis, no una conclusión, y es lo primero que
-   el control 1 tiene que someter a prueba.** La preparación de la
-   solicitud al ECI Forum el 21 de agosto de 2026 sacó a la luz la
-   lectura contraria: que la Comisión examina la iniciativa en su
-   conjunto, incluidos el anexo y cualquier proyecto de acto jurídico, y
-   no solo el título y los objetivos, y que enmarcar un objetivo como una
-   petición de evaluación y propuesta no lo protege si el mecanismo al
-   que apunta necesita una competencia que la Unión no tiene. Según esa
-   lectura, anexar el Reglamento no protege la petición y puede ampliar
-   lo que se evalúa. El punto se plantea al ECI Forum como las preguntas
-   2 y 3 de campaign/GATE1-LETTER.md. Si la respuesta es que el anexo se
-   evalúa en pie de igualdad con la petición, esta regla cambia, y con
-   ella lo que se incluye en el formulario de registro, de modo que nada
-   aguas abajo debe construirse sobre ella hasta que llegue la
-   respuesta.
+**Esta regla es una hipótesis, no una conclusión, y es lo primero que el
+hito 1 tiene que someter a prueba.** La preparación de la solicitud al ECI
+Forum el 21 de agosto de 2026 sacó a la luz la lectura contraria: que la
+Comisión examina la iniciativa en su conjunto, incluidos el anexo y
+cualquier proyecto de acto jurídico, y no solo el título y los objetivos, y
+que enmarcar un objetivo como una petición de evaluación y propuesta no lo
+protege si el mecanismo al que apunta necesita una competencia que la Unión
+no tiene. Según esa lectura, anexar el Reglamento no protege la petición y
+puede ampliar lo que se evalúa. El punto se plantea al ECI Forum como las
+preguntas 2 y 3 de campaign/GATE1-LETTER.md. Si la respuesta es que el anexo
+se evalúa en pie de igualdad con la petición, esta regla cambia, y con ella
+lo que se incluye en el formulario de registro, de modo que nada aguas abajo
+debe construirse sobre ella hasta que llegue la respuesta.
 
 ## Lo que esto cuesta y por qué merece la pena
 
