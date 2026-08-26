@@ -2,7 +2,7 @@
 gate: initiator native-ear (David, 26 August), fidelity re-check on the delta
 target: content/nl/{about,contribute,join,press,sign,objections,severability}.md
 date: 2026-08-26
-rounds: 1 (fidelity: PUBLISH first pass)
+rounds: 2 (fidelity: PUBLISH first pass; initiator refinement same day)
 verdict: applied
 ---
 
@@ -40,3 +40,18 @@ Left as is, deliberately: French *porte de contrôle* and the German and
 Spanish renderings (*Prüfstufe*, *control*) were chosen by their own
 native-ear rounds and are natural in those languages; the defect was
 Dutch-specific.
+
+## Same-day refinement: toets -> beoordeling for the review gates
+
+The initiator's second reading: bare *toets* for the review gates still
+leans school-exam; the activity is reviewing, so the generic word is now
+**beoordeling** (the gates as rounds: *beoordelingsronde*), which is also
+what the chunk-E fidelity reviewer had proposed. Eight further spots.
+
+Kept, deliberately, after auditing every remaining bare *toets* in the
+corpus: the named gates as -toets (*rechtsgrondslagtoets*,
+*laaggetrouwheidstoets*), because they follow the legal-test pattern; the
+campaign gates as *toetsmoment*; and every genuine legal test (*de toets
+van artikel 52, lid 1*, the "kennelijk buiten"-toets, the designation
+toets in the FAQ), which is exactly where the word belongs. One pleonasm
+introduced and removed in the same pass (*vijandig en op tegenspraak*).

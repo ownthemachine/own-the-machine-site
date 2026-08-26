@@ -695,8 +695,8 @@ onderneming prijst voortaan een verplichte toekomstige verwatering in.
 gedragsverboden van artikel 9 zijn het juridische antwoord op dit bezwaar.
 Wat zij niet kunnen, is een toekomstige wetgever binden, en dit memorandum
 doet niet alsof: de redactiegeschiedenis van artikel 12, lid 3, vermeldt dat
-het binden van toekomstige wetgevers in een eerdere ronde de toetsen niet
-doorstond, en een poging op 21 augustus 2026 om de regel in dat lid
+het binden van toekomstige wetgevers in een eerdere ronde de beoordelingen
+niet doorstond, en een poging op 21 augustus 2026 om de regel in dat lid
 operationele kracht te geven, werd opgegeven omdat de vijandige raadsman de
 voorkeur gaf aan handhaving ervan en het las als een Unierechtelijk gebod
 dat de Reserve zou worden ontdaan van de beschermende klasserechten die
@@ -1004,12 +1004,12 @@ kant op beantwoorden.
 **Het antwoord dat het instrument moet geven.** Niet dat dit de verkeerde
 bril is. Een eerdere versie van deze passage noemde de bestuurslezing een
 categoriefout, omdat de aanspraak van het instrument verdelend van aard is.
-Vier toetsen verwierpen dat in dezelfde bewoordingen, en zij hadden gelijk:
-een instrument dat bij elke onderneming die het raakt de verhouding tussen
-kasstroomrechten en zeggenschapsrechten verandert, is in zijn werking een
-bestuursinstrument, wat het in zijn bedoeling ook is, en het wordt terecht
-op zijn werking beoordeeld. Het antwoord hieronder erkent dat effect en
-verdedigt de keuze.
+Vier beoordelingsrondes verwierpen dat in dezelfde bewoordingen, en zij
+hadden gelijk: een instrument dat bij elke onderneming die het raakt de
+verhouding tussen kasstroomrechten en zeggenschapsrechten verandert, is in
+zijn werking een bestuursinstrument, wat het in zijn bedoeling ook is, en
+het wordt terecht op zijn werking beoordeeld. Het antwoord hieronder erkent
+dat effect en verdedigt de keuze.
 
 De keuze ging tussen drie posities en het dossier heeft de minst slechte
 genomen. Een Reserve met stemrecht naar rato van haar belang is een politiek

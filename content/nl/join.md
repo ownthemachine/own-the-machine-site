@@ -24,9 +24,9 @@ het ooit heeft getoetst.
 ## Drie dingen die helpen, in volgorde van gewicht
 
 **Bestrijd de tekst.** Dat is meer waard dan instemming, en er is geen goede
-tweede. Het ontwerp is bij elke toets aangevallen door vijandige review en
-door precies één mens, degene die het schreef. Elk bezwaar op deze site is
-door het project tegen zichzelf geschreven, een methode met een duidelijk
+tweede. Het ontwerp is in elke beoordelingsronde op tegenspraak aangevallen,
+en door precies één mens, degene die het schreef. Elk bezwaar op deze site
+is door het project tegen zichzelf geschreven, een methode met een duidelijk
 plafond. Als u het gat vindt, is dat gat het antwoord dat dit dossier nodig
 heeft. Open een [issue of pull request](https://github.com/ownthemachine/own-the-machine/issues) en de discussie is vanaf de
 eerste zin openbaar, waar iedereen die het ontwerp aangaat het kan lezen.

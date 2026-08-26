@@ -58,7 +58,7 @@ betaling gewerkt.
 "Geen" zeggen zou het makkelijkste antwoord zijn, maar het is niet waar. Het
 kost geld om deze site draaiende te houden, en de initiatiefnemer betaalt
 dat persoonlijk: het domein, objectopslag en contentlevering bij Scaleway in
-Frankrijk, en de API-aanroepen die de toetsen verbruiken. Geen partij,
+Frankrijk, en de API-aanroepen die de beoordelingen verbruiken. Geen partij,
 stichting, vakbond, onderneming, overheidsinstantie of andere particulier
 heeft geld, diensten, werktijd of software aan deze campagne bijgedragen.
 
@@ -89,10 +89,10 @@ Niets hier hangt ervan af dat dit zo blijft. De site is een statische build van 
 
 Elk oordeel in het register is door een model geproduceerd, en de
 rekenkracht die het produceerde heeft zelf ook een rechtsgebied. Tot 23
-augustus 2026 liepen de toetsen via OpenRouter, een Amerikaanse router. Zij
-lopen nu via het Europese eindpunt van Requesty, op modellen die in de Unie
-worden gehost zonder enige gegevensbewaring, waarbij de ontwerpen na de
-aanroep niet worden bewaard en niet voor training worden gebruikt.
+augustus 2026 liepen de beoordelingen via OpenRouter, een Amerikaanse
+router. Zij lopen nu via het Europese eindpunt van Requesty, op modellen die
+in de Unie worden gehost zonder enige gegevensbewaring, waarbij de ontwerpen
+na de aanroep niet worden bewaard en niet voor training worden gebruikt.
 
 De uitvoerder neemt dat niet op gezag aan. Voordat hij een token
 uitgeeft, leest hij de eigen vastlegging van de router over waar het
