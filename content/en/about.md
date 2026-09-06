@@ -1,6 +1,6 @@
 ## What this is
 
-An open-source draft EU Regulation ensuring that citizens of the Union
+An open-source draft EU Regulation intended to let citizens of the Union
 participate in the capital value created by hyper-automated production,
 prepared as the basis for a possible European Citizens' Initiative. The
 legal text, its memorandum, its objections and every review verdict
@@ -23,7 +23,7 @@ project alone.
 Initiated by David Vanheeswijck (Belgium). The drafting method uses
 adversarial AI review under the editor's responsibility; every verdict
 and disposition is on the [ledger](/law/ledger). An organisers' group
-of at least seven citizens from seven Member States will be constituted
+of at least seven eligible EU citizens living in seven different Member States will be constituted
 if the project passes its own gates.
 
 ## Who publishes this
@@ -54,7 +54,10 @@ not because it has been designed away.
 
 The campaign proceeds only through published gates with kill criteria:
 registrability soundings before constitution, constitution before
-filing, filing before collection. If a gate fails, this page will say
+filing, registration before collection. Independent, non-binding Forum
+advice arrived on 27 August 2026; an ECI veteran responded on 5 September.
+Neither response constitutes registration or institutional approval.
+Organiser recruitment continues. If a gate fails, this page will say
 so and the repository stays up as a public good.
 
 ## Funding
@@ -65,9 +68,9 @@ any kind. Nobody has been paid, and nobody has worked on this for payment.
 Saying "none" would be the easier answer and it would not be true. This
 site costs something to run and the initiator pays it personally: the
 domain, object storage and edge delivery at Scaleway in France, and the API
-calls the review gates consume. No party, foundation, trade union, company,
-public body or other private person has contributed money, services, staff
-time or software to this campaign.
+calls the review gates consume. No campaign-specific third-party funding or support is recorded as of
+6 September 2026. Standard platform services on ordinary terms, including
+GitHub and Cloudflare, are disclosed below.
 
 Regulation (EU) 2019/788 obliges a registered initiative to name every
 source giving more than EUR 500 in a year and to keep that declaration
@@ -115,17 +118,21 @@ anywhere, by anyone, in minutes.
 
 ## Where the review runs
 
-Every verdict in the ledger was produced by a model, and the compute
+The automated gate verdicts are produced by models; external human feedback
+is recorded separately. The compute
 that produced it has a jurisdiction of its own. Until 23 August 2026
-the gates ran through OpenRouter, an American router. They now run
-through Requesty's European endpoint, on models hosted in the Union
-under zero data retention, with the drafts neither kept after the call
-nor used for training.
+the gates ran through OpenRouter, an American router. The pipeline uses Requesty's European endpoint. EU hosting, zero retention
+and no training use remain the default requirements. For the public or intended-for-publication, non-sensitive material
+Fable 5.1 reviews introduced on 6 September 2026, the editor permits the
+router-reported 30-day retention while retaining EU hosting and no training
+use. That exception excludes private correspondence, non-public personal data
+and sensitive unpublished material; public author attribution may appear.
 
 The runner does not take that on trust. Before it spends a token it
 reads the router's own record of where the model runs and what becomes
-of the text, and refuses to start unless that record says the European
-Union, zero retention and no training use. Whatever it read is written
+of the text, and refuses to start if the model is absent or fails the
+requirements selected for that run. Retention exceptions must be explicit;
+they do not change the default checks. Whatever it read is written
 into the review record, so each verdict carries the evidence rather
 than the assurance.
 

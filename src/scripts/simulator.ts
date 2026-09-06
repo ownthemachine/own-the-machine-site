@@ -1,11 +1,9 @@
 // The simulator island: the only interactive JavaScript on the site.
-// Implements Annex II arithmetic as amended 19 August 2026: real-capital
-// retention, three-year smoothing collar floored at 2 % of capital, no
-// leverage, everything in constant euros. Designated value crystallises
-// as a continuing flow: the first wave over ten years from the median
-// event lag, later cohorts growing at the chosen rate. Horizon: fifty
-// years, because a capital-preserving fund is misdescribed by its first
-// three decades.
+// Simplified Annex II scenarios: positive assumed returns and a three-year
+// smoothing collar floored at 2 % of capital. Actual costs, losses, payment
+// frequency and a separate real-capital retention calculation are omitted.
+// New stakes enter over ten years from the selected delay, followed by
+// continuing cohorts at the chosen growth rate. Horizon: fifty years.
 
 const ADULTS = 350e6;
 const VALUE_MULTIPLE = 14; // firm value as a multiple of covered revenue:
@@ -44,7 +42,7 @@ const $ = (id: string) => document.getElementById(id) as HTMLInputElement;
 const I18N = JSON.parse(document.getElementById('sim-i18n')!.textContent || '{}');
 const nfInt = new Intl.NumberFormat(I18N.lang || 'en', { maximumFractionDigits: 0 });
 const nfDec = new Intl.NumberFormat(I18N.lang || 'en', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
-const fmt = (v: number) => (v >= 10 ? nfInt.format(v) : nfDec.format(Math.max(v, 0.1)));
+const fmt = (v: number) => (v >= 10 ? nfInt.format(v) : nfDec.format(Math.max(v, 0)));
 
 function draw() {
   const inputs: Inputs = { revBn: +$('rev').value, lag: +$('lag').value, ret: +$('ret').value, growth: +$('growth').value };
@@ -103,8 +101,8 @@ document.getElementById('sceptic')!.addEventListener('click', () => {
 document.getElementById('reset')!.addEventListener('click', () => {
   $('rev').value = '1400'; $('lag').value = '7'; $('ret').value = '4'; $('growth').value = '5'; draw();
 });
-// Scenario input only, never premise: PwC/Goldman Sachs/McKinsey-class AI value
-// mapped to EU designated revenue; the disclaimer beside the chart names them.
+// Higher-growth scenario inputs are assumptions for exploration, not a forecast.
+// The labels disclose the continued addition of company stakes.
 document.getElementById('forecast')!.addEventListener('click', () => {
   $('rev').value = '3000'; $('lag').value = '5'; $('ret').value = '4'; $('growth').value = '8'; draw();
 });

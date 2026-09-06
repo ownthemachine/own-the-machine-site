@@ -253,7 +253,7 @@ const localiseLinks = (html, loc) => html.replace(
 // paragraph (and the "---" line before it, if any) wherever it appears,
 // English source and any localised copy alike, rather than leaning on
 // stripNotes, which would cut this file's first SECTION separator instead.
-const DRAFTING_NOTES = /\n(?:---\n)?\s*Drafting notes \(not part of the registration\)\.[\s\S]*$/;
+const DRAFTING_NOTES = /\n(?:---\n)?\s*(?:Drafting notes \(not part of the registration\)\.|<!-- drafting-notes -->)[\s\S]*$/;
 const cutDraftingNotes = (body) => body.replace(DRAFTING_NOTES, '').trim();
 
 const loadLocalized = (name, opts = {}) => {

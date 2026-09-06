@@ -1,83 +1,70 @@
 ## What this is
 
-Own the Machine is an open-source draft EU Regulation, prepared as the
-basis for a possible European Citizens' Initiative. It would require
-companies whose market value is at least eighty times their annual payroll,
-the signature of production decoupled from labour, to issue, once,
-non-voting shares worth 3 % of their capital to a European Citizens'
-Capital Reserve owned equally by every adult EU citizen. Nothing is payable
-in cash, nothing passes through any public budget, and the obligation
-falls due only when a company's own owners cash out.
+Own the Machine is an open-source draft EU Regulation accompanying a proposed
+European Citizens' Initiative. The proposed objectives ask the Commission to
+assess and propose mechanisms for citizens to participate in productivity
+gains from hyper-automated production. The detailed 3 % warrant mechanism is
+illustrative; nothing has been registered or adopted.
 
 ## Boilerplate, free to reuse
 
-Own the Machine is a citizens' draft EU Regulation that would give every
-EU adult an equal stake in the companies whose value comes from machines
-rather than people. Drafted in the open and adversarially reviewed, with
-every objection and every review verdict published, it is prepared as the
-basis for a possible European Citizens' Initiative. It is not endorsed by
-any EU institution. The full text, in five languages, is at
-ownthemachine.eu.
+Own the Machine proposes broader citizen participation in the gains of
+highly automated production. Its illustrative draft would create a common
+Reserve holding non-voting company shares and equal, non-transferable rights
+to distributions for EU citizens aged 18 or older. Payments would depend on
+available income and could be zero. The text, objections and review history
+are public at ownthemachine.eu. No EU institution endorses the initiative.
 
-## The numbers that matter
+## The numbers and their limits
 
-- Designation test: fair market value at least eighty times annual audited
-  payroll, plus EUR 75 billion of value or EUR 7,5 billion of EU turnover,
-  in at least three Member States, for two consecutive years.
-- Presumptively designated on August 2026 figures: roughly nine companies
-  worldwide, about EUR 20 trillion of combined value, spanning the United
-  States, Taiwan and, near the threshold, the EU itself.
-- The claim: 3 % per company, once, as non-voting shares, at the moment of
-  a listing, sale or equivalent cash-out.
-- The objective, written into the law: a stake per citizen of the order of
-  six months of median EU disposable income within a generation. 3 % is
-  the smallest whole percentage that reaches it on the published model.
-- Distributions start near zero by design and grow over decades; the
-  fund's capital is preserved by law before anything is paid.
+- The draft's rebuttable quantitative presumption combines EUR 75 billion
+  in value or EUR 7.5 billion in EU turnover, activity in at least three
+  Member States, and value at least eighty times worldwide labour
+  compensation, sustained for two financial years. Investigation can also
+  lead to designation below the thresholds.
+- A warrant is issued within three months of designation. It crystallises
+  at the first liquidity event, shareholder extraction exceeding 25 % of
+  covered turnover over three consecutive financial years, or the seven-year
+  backstop after issuance. Article 5 sets the precise conditions and cap.
+- The warrant entitles the Reserve to subscribe at nominal value for shares
+  representing 3 % of fully diluted capital. Share issuance is not cash
+  income available for immediate distribution.
+- The draft's capital objective is of the order of six months of median equivalised
+  disposable income in the EU per citizen within a generation. It is an objective,
+  not a guaranteed result; projections rely on uncertain assumptions about
+  company coverage, new stakes, returns and costs.
 
-Every figure above traces to a sourced, reproducible note in the public
-evidence base, and the model behind the projections runs live on the
-site's simulator.
+Use the current [evidence](/evidence) and [legal text](/law) for definitions
+and dated estimates. The simulator shows conditional scenarios, not a
+forecast, confidence interval or personal entitlement valuation.
 
-## Status, plainly
+## Status, as of 6 September 2026
 
-A draft. Nothing has been filed with the European Commission, nothing is
-registered, no signature is being collected anywhere. A registrability
-enquiry is pending with the European Citizens' Initiative Forum. An
-initiative would legally require a group of at least seven organisers
-resident in seven Member States; that group does not yet exist. The
-project publishes its gates and kill criteria and stops publicly if they
-fail.
+No filing, registration or signature collection. The ECI Forum supplied
+independent, non-binding advice on 27 August; an ECI veteran replied on
+5 September. Organiser recruitment and further scrutiny continue under the
+published gates. No constituted organising group is recorded. A statutory
+group needs eligible EU citizens living in seven different Member States,
+not necessarily seven different nationalities.
 
-## What this is not
+## Legal and practical limits
 
-- Not an EU document, and not endorsed, reviewed or published by any EU
-  institution.
-- Not a tax, a levy or a budget instrument: no cash, no treasury, no
-  public spending.
-- Not universal basic income: it builds property, and payments are the
-  income that property earns.
-- Not a fund with votes: the Reserve can never vote, take board seats or
-  direct any company.
-- Not a promise of quick money: payouts start near zero and take a
-  generation to become meaningful, and the site says so on every page
-  where it matters.
-
-## Attributable statement
-
-From David Vanheeswijck, initiator: "If automation really does take over
-most work, Europeans should own a share of what replaces them, and if it
-does not, this law is written to stand down. Either way the text is
-public, every attack on it is published, and anyone who finds the hole we
-missed improves the law by saying so."
+The design uses shares and keeps assets outside public budgets. Its possible
+fiscal classification and proposed Treaty bases remain contested; the Forum
+advice is not Commission approval. Legal protections against diversion cannot
+guarantee that future legislators never amend the rules. The Reserve would
+have no voting or management rights. The individual entitlement could not be
+sold, pledged or redeemed; payment would require registration with a national
+vehicle. Success as an ECI would secure consideration and a response, not
+automatic enactment of this Regulation.
 
 ## Assets and contact
 
-- Social preview images for every page, in five languages, are served
-  under ownthemachine.eu/og/ and may be reused in reporting.
-- The full draft is downloadable as PDF and EPUB from the
-  [law page](/law), pinned to a version identifier.
-- All text is CC BY-SA 4.0; the site and tools are open source.
-- Contact: [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu). One
-  person answers it; there is no press office yet, and same-day answers
-  are realistic.
+- Public text and source material are available without buying anything.
+  The initiator's interest in his book is disclosed on [about](/about).
+- Social preview images are available under ownthemachine.eu/og/ in the
+  five website languages.
+- PDF and EPUB downloads on the [law page](/law) identify the draft version.
+- Text is CC BY-SA 4.0; the website and tools are open source.
+- Contact: [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu).
+  David Vanheeswijck answers; there is no press office or guaranteed reply time.

@@ -1,65 +1,61 @@
-## First, the honest banner above this page
+## Current status
 
-Read the status box at the top. Today there is nothing to sign, anywhere,
-and anyone collecting signatures or data for this initiative today is not
-us. This page exists so that, if registration ever comes, a million people
-find the path already paved in their own language.
+No version is registered and there is nothing to sign for this initiative
+today. The status box and [versions](/law/versions) page carry the registration
+record. An expression of interest is not an official statement of support.
 
-## How signing a European Citizens' Initiative actually works
+## How signing works
 
-Signing never happens on this site. Every signature for every initiative
-is collected on the European Commission's own central online system, or on
-official paper forms, under Regulation (EU) 2019/788. Your data goes to
-the Commission and to your Member State's authorities for verification,
-and to nobody else, and this campaign never sees it. The official page for
-any initiative, and the only place to sign one, is
-[citizens-initiative.europa.eu](https://citizens-initiative.europa.eu/).
+If collection opens, this site will link to the initiative's page on the
+Commission's Central Online Collection System. That is the only online
+collection system for newly registered ECIs. Official paper forms are also
+permitted; this campaign has not opened paper collection. Follow the
+Commission's privacy information for the precise handling of signing data.
+This website will not host its own signature form.
 
 ## Who can sign
 
-Every EU citizen old enough to vote in European Parliament elections: 18
-in most Member States, lower in a few. You sign as a citizen of your
-country, wherever in the world you live. You can sign any initiative only
-once.
+EU citizens can sign once per initiative, wherever they live, if they meet
+the minimum signing age for their nationality. That is generally the age for
+European Parliament voting; some Member States allow ECI support from age
+16 separately. Consult the Commission's current
+[eligibility and data requirements](https://citizens-initiative.europa.eu/data-requirements_en).
+The draft fund's proposed age of 18 is separate from signing eligibility.
 
-## What you would need to enter
+## What information is needed
 
-It depends on your Member State, because verification is national. The
-Member States fall into two groups: about half verify against your name,
-address, date of birth and nationality, and the rest ask in addition for a
-personal identification number or an identity document number, for
-example from your national ID card or passport. The Commission's signing
-page shows the exact fields for your country before you type anything.
-This difference matters for a campaign, because asking for an ID number is
-a higher barrier, and it is why serious initiatives plan country by
-country.
+The official form specifies the information required for your Member State
+of nationality. This may include an identification-document number or
+personal identification number. Some countries support electronic identity.
+Use the official form's instructions; do not send identity documents to
+this campaign or put personal signing information in public discussions.
 
-## Why an initiative needs more than a million signatures in practice
+## What one million means
 
-The legal bar is one million valid statements of support within twelve
-months, with country minimums reached in at least seven Member States,
-each minimum being roughly the country's number of MEPs multiplied by 750.
-Some signatures always fail verification, so experienced organisers aim
-well above the bar. Of the initiatives registered since 2012, roughly one
-in nine has reached it. The ones that did were carried by coalitions with
-real networks in many countries, which is why this project's own gates
-require organisers and institutional partners before any filing.
+Success requires one million valid statements of support and minimum totals
+in at least seven Member States within the twelve-month collection period.
+For initiatives registered on or after 16 July 2024, thresholds are calculated
+using the total number of MEPs, currently 720: Belgium's is 15,840. Consult
+the [official threshold table](https://citizens-initiative.europa.eu/thresholds_en)
+for the current figures. Submitted counts remain subject to verification.
 
-## What this campaign will and will not do during collection
+Success leads to examination and a reasoned Commission response, not an
+automatic referendum result or adoption of the draft. The proposed
+[registration objectives](/law/registration) are the request; the Regulation
+illustrates a possible mechanism. See the
+[official process](https://citizens-initiative.europa.eu/how-it-works_en).
 
-If collection ever opens, this site will link to the official Commission
-signing page and nothing else: no signature form of its own, no petition,
-no email harvesting. The text people sign will be frozen and published
-beside the living draft, with every difference visible, under the rule
-already adopted on the [versions](/law/versions) page. Anything claiming
-to be this initiative that asks for your data anywhere else is not this
-initiative.
+## During collection
 
-## What you can do before any of that exists
+The registered text will be fixed and published beside the living draft,
+with differences visible under the [versions](/law/versions) rules. The
+Commission's system offers optional initiative updates after signing; the
+organisers can send these through that system without receiving subscribers'
+email addresses. This site's no-list policy is separate from that official
+option. Collection dates and the official link will appear only once confirmed.
 
-Read the [one-page summary](/brief), argue with the
-[objections](/law/objections), and if you would consider being one of the
-seven organisers, or connecting the project to an organisation with reach
-in your country, say so on the [take part](/join) page. A million
-signatures are collected by networks, and the network is what does not
-exist yet.
+## Before collection
+
+Read the [one-page summary](/brief), consider the [objections](/law/objections)
+and use [take part](/join) to ask questions or help organise. Nobody needs to
+buy the book, provide an identity document or pay to evaluate the proposal.

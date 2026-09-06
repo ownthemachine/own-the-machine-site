@@ -1,52 +1,48 @@
 ## The ask
 
-A Regulation of the European Parliament and of the Council requiring
-undertakings that cross a hyper-automation threshold to issue a non-voting
-warrant over 3 % of their fully diluted capital to a European Citizens'
-Capital Reserve, which pays an equal dividend to every adult citizen of the
-Union.
+We are preparing an initiative asking the Commission to assess and propose
+instruments for citizens to share in gains from hyper-automated production.
+The [registration objectives](/law/registration) are the request; the 3 %
+warrant Regulation illustrates one mechanism. Neither has been registered.
 
-## How it works
+## How the illustrative draft works
 
-- **Designation.** An undertaking is designated on published quantitative
-  criteria, never by name and never at anyone's discretion.
-- **The warrant.** Three per cent of fully diluted capital, non-voting,
-  subscribed at nominal value. No votes, no board seats, no say in
-  management.
-- **Crystallisation.** It is claimed only when the undertaking's own owners
-  realise value: a liquidity event, an extraction, or a seven-year long
-  stop. Nothing is payable in cash and nothing enters any public budget.
-- **The entitlement.** Every adult citizen holds an equal, personal,
-  non-transferable entitlement in the Reserve. No means test, no
-  application, no conditions.
+- **Designation.** The Commission assesses durable decoupling of production
+  from employment. Thresholds create a rebuttable presumption; investigation
+  can also lead to designation below them.
+- **Warrant.** Within three months of designation, a company issues a
+  non-voting warrant for shares representing 3 % of fully diluted capital,
+  subscribed at nominal value, subject to Article 5's cap.
+- **Triggers.** The first liquidity event, shareholder extraction above the
+  Article 5 threshold, or the seven-year backstop triggers subscription.
+  Settlement is in shares; it does not itself produce cash for payouts.
+- **Entitlement.** EU citizens aged 18 or older would share equally in
+  declared distributions. The right cannot be sold, pledged or redeemed.
+  No means test; registration with a national vehicle is needed for payment.
+  Available income determines distributions, which may be zero.
 
-## Legal basis, and what survives if part of it fails
+## Legal basis
 
-Articles 114 and 352 TFEU. The ask is drafted in severable layers so that
-partial registration under Article 6(4) of Regulation (EU) 2019/788 trims it
-rather than kills it: the designation regime stands on Article 114 alone,
-and the Reserve, which is the part needing Article 352 and unanimity, can
-fall without taking the rest with it.
+Articles 114 and 352 TFEU are proposed, contested bases. Article 352 requires
+unanimity. Registration would not approve the draft's legality or guarantee
+its adoption; partial registration may change what can proceed.
 
-## The objection that matters most
+## The central objection
 
-That this is a tax wearing corporate-finance clothes, and therefore Article
-113 and unanimity. The answer is that it takes an asset and not a flow, is
-payable in shares and never in cash, funds no budget, passes through no
-treasury and confers no revenue on the Union. The objection is stated at its
-strongest, and answered, as objection 2 of nineteen.
+The share obligation might be classified as a fiscal measure. Settlement in
+shares outside public budgets does not settle that question. The
+[objections](/law/objections) explain the challenge and the project's response.
+Protections against diversion cannot prevent all future legislative changes.
 
-## Status, stated plainly
+## Status: 6 September 2026
 
-A draft. Nothing has been filed with the Commission, nothing is registered
-and no signature is being collected anywhere. An admissibility request is
-with the ECI Forum, answer due 2 September 2026. There is no organisation,
-no bank account and no funding of any kind: the initiator pays the hosting
-personally.
+No filing, registration or signature collection. The Forum advised on
+27 August; an ECI veteran responded on 5 September. Both are independent
+feedback, not institutional approval. Recruitment continues. The initiator
+pays hosting and review costs; no organisation or donations are recorded.
 
-## What is being asked of you
+## Take part
 
-Not endorsement. A reading, and whatever objection it produces. Seven
-organisers resident in seven Member States are needed before any filing, and
-nobody is asked to commit to that while the registrability question is still
-open.
+Ask questions or help organise via [take part](/join), privately or publicly.
+Interest is not a signature or commitment to file. The statutory group needs
+eligible EU citizens living in seven Member States, not seven nationalities.

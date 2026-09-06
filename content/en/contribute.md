@@ -11,12 +11,14 @@ request, against stated criteria. Three repositories:
 ## The merge criteria
 
 Every change to the legal text must survive four tests: it claims
-assets, not flows; it reaches every citizen equally; it is raid-proof;
-and it claims the stake in time, at the moment gains crystallise.
+assets, not flows; it reaches every citizen equally; it does not weaken legal protection against diversion;
+and it establishes the claim while capital forms, before crystallisation.
 Mechanical constraints (the DC table in the
-[objections](/law/objections)) and six adversarial review gates apply
-before merge. A pull request that weakens a protection needs to say so
-in plain language.
+[objections](/law/objections)) apply before merge. Substantive changes run
+all six adversarial gates; prose changes run legal form and layer fidelity;
+editorial changes run the linter. Verdicts and editorial dispositions are
+recorded publicly. A pull request that weakens a protection does not merge
+under the published governance rules.
 
 ## Ways in
 
