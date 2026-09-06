@@ -14,7 +14,7 @@ warrant Regulation illustrates one mechanism. Neither has been registered.
   non-voting warrant for shares representing 3 % of fully diluted capital,
   subscribed at nominal value, subject to Article 5's cap.
 - **Triggers.** The first liquidity event, shareholder extraction above the
-  Article 5 threshold, or the seven-year backstop triggers subscription.
+  Article 5 threshold, or the seven-year long-stop triggers subscription.
   Settlement is in shares; it does not itself produce cash for payouts.
 - **Entitlement.** EU citizens aged 18 or older would share equally in
   declared distributions. The right cannot be sold, pledged or redeemed.

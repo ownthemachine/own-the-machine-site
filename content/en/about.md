@@ -123,8 +123,7 @@ is recorded separately. The compute
 that produced it has a jurisdiction of its own. Until 23 August 2026
 the gates ran through OpenRouter, an American router. The pipeline uses Requesty's European endpoint. EU hosting, zero retention
 and no training use remain the default requirements. For the public or intended-for-publication, non-sensitive material
-Fable 5.1 reviews introduced on 6 September 2026, the editor permits the
-router-reported 30-day retention while retaining EU hosting and no training
+Fable 5.1 reviews introduced on 6 September 2026, the editor may permit, explicitly for each run, the router-reported 30-day retention while retaining EU hosting and no training
 use. That exception excludes private correspondence, non-public personal data
 and sensitive unpublished material; public author attribution may appear.
 
