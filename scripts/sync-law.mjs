@@ -157,10 +157,15 @@ const recitals = marked.parse(recBody).replace(
 // The Treaty citation is one line of the preamble, above the numbered
 // recitals: a reader looking for the legal basis should not have to open
 // the recitals page and scan past the whereas clauses to find it.
-const citationMatch = recitalsRaw.match(
-  /^Having regard to the Treaty on the Functioning of the European Union.*$/m
-);
-const citation = citationMatch ? citationMatch[0].trim() : null;
+// It is matched as a whole paragraph and re-joined, so that hard-wrapping the
+// line (as the numbered recitals below it are wrapped) cannot silently
+// truncate a legal citation to its first line; and a match that does not
+// look like a citation fails the build rather than rendering half of one.
+const preamble = stripNotes(recitalsRaw).split(/\n\s*\n/).map((b) => b.replace(/\s*\n\s*/g, ' ').trim());
+const citation = preamble.find((b) => b.startsWith('Having regard to the Treaty on the Functioning of the European Union')) || null;
+if (citation !== null && !(/Article \d+/.test(citation) && citation.endsWith(','))) {
+  throw new Error(`sync-law: Treaty citation looks truncated or malformed: ${JSON.stringify(citation)}`);
+}
 
 // ---- annexes --------------------------------------------------------
 const annexDir = join(LAW, 'regulation', 'annexes');
