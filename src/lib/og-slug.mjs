@@ -8,6 +8,7 @@
 export const OG_PAGES = [
   { path: '/', slug: 'index', dictKey: 'home' },
   { path: '/law', slug: 'law', dictKey: 'lawIndex' },
+  { path: '/law/registration', slug: 'law-registration', dictKey: 'registration' },
   { path: '/law/objections', slug: 'law-objections', dictKey: 'objections' },
   { path: '/law/memorandum', slug: 'law-memorandum', dictKey: 'memorandum' },
   { path: '/law/ledger', slug: 'law-ledger', dictKey: 'ledger' },

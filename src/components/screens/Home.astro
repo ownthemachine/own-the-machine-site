@@ -15,6 +15,7 @@ const t = dict(lang);
     <p class="tagline">{t.home.tagline}</p>
     <div class="sealwrap" set:html={heroSeal({ size: 210 })} />
     <p class="ask">{t.home.ask}</p>
+    <p class="basis" set:html={fmt(t.home.basis, { REG: href(lang, '/law/registration') })} />
     <div class="cta no-print">
       <a class="btn btn-gold" href={href(lang, '/law')}>{t.home.ctaRead}</a>
       <a class="btn" href={href(lang, '/law/objections')}>{t.home.ctaObjections}</a>
@@ -47,6 +48,8 @@ const t = dict(lang);
   .tagline { font-family: var(--read); font-style: italic; color: var(--ink-soft); font-size: 1.1rem; }
   .sealwrap { display: flex; justify-content: center; margin: 1.6rem 0; }
   .ask { font-family: var(--read); font-size: 1.15rem; max-width: 36rem; margin: 0 auto 1.8rem; }
+  .basis { font-size: 0.9rem; color: var(--ink-soft); max-width: 36rem; margin: 0 auto 1.6rem; }
+  .basis :global(a) { color: var(--ink-soft); }
   .cta { display: flex; gap: 0.9rem; justify-content: center; flex-wrap: wrap; margin-bottom: 3rem; }
   .three { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 2rem; border-top: 1px solid var(--guilloche); padding-top: 2rem; }
   .three p { font-size: 0.95rem; margin-top: 0.5rem; }

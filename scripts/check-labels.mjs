@@ -30,6 +30,7 @@ const LABELS = {
   faq:          { section: 'faq', content: 'faq' },
   join:         { section: 'join', content: 'join' },
   explanatory:  { section: 'explanatory' },
+  registration: { section: 'registration' },
   severability: { section: 'memorandum', content: 'severability' },
   versions:     { section: 'versions', content: 'versions' },
   brief:        { section: 'brief', content: 'brief' },
