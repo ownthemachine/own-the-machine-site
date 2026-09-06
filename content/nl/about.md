@@ -1,119 +1,68 @@
 ---
-source: site/content/en/about.md
-source-commit: ecd56c3
-status: gate-reviewed
+source: content/en/about.md
+source-commit: 31760e8
+source-sha256: d26a03958b3cd7a1c90d06a1e7b324e91c30fc3b3ab9718068d590aac3e680bb
+status: machine-reviewed
 ---
 
 ## Wat dit is
 
-Een opensourceontwerp van een EU-verordening die verzekert dat burgers
-van de Unie delen in de kapitaalwaarde die hypergeautomatiseerde
-productie schept, voorbereid als basis voor een mogelijk Europees
-burgerinitiatief. De wettekst, de toelichting, de bezwaren en elk
-reviewoordeel staan in een openbare repository; deze site geeft ze weer.
+Een opensource-ontwerp van een EU-verordening bedoeld om burgers van de Unie te laten participeren in de kapitaalwaarde die wordt gecreëerd door hypergeautomatiseerde productie, opgesteld als basis voor een mogelijk Europees burgerinitiatief. De wettekst, de toelichting, de bezwaren en elk toetsingsoordeel bevinden zich in een openbare repository; deze site geeft ze weer.
 
-## Geen document van de EU
+## Geen EU-document
 
-Dit is een voorstel van burgers. Het wordt niet uitgegeven, onderschreven of getoetst door de Europese Unie, de Europese Commissie, het Europees Parlement of enige andere instelling, enig ander orgaan of enig bureau of agentschap van de Unie, is daaraan niet verbonden en heeft geen rechtskracht. Het is opgesteld volgens de conventies van de Uniewetgeving omdat een voorstel dat door die instellingen moet worden beoordeeld, hoort aan te komen in de vorm die zij lezen; die vorm is een handreiking aan de lezer, nooit een aanspraak op gezag. De site voert geen embleem van de EU, en het zegel dat zij wel voert, is uitsluitend van dit project.
+Dit is een burgervoorstel. Het is niet gepubliceerd door, goedgekeurd door, gelieerd aan of beoordeeld door de Europese Unie, de Europese Commissie, het Europees Parlement of enige andere instelling, orgaan, instantie of agentschap van de Unie. Het heeft geen rechtskracht. Het is opgesteld volgens de conventies van Uniewetgeving omdat een voorstel dat bedoeld is om door die instellingen te worden beoordeeld, moet aankomen in de vorm die zij hanteren; de vorm is een beleefdheid jegens de lezer, nooit een pretentie van gezag. De site voert geen EU-embleem, en het zegel dat er wel op staat behoort uitsluitend aan dit project toe.
 
 ## Wie
 
-Geïnitieerd door David Vanheeswijck (België). De redactiemethode gebruikt
-AI-review op tegenspraak onder verantwoordelijkheid van de redacteur; elk
-oordeel en elke afdoening staat in het [register](/law/ledger). Een
-organisatorengroep van ten minste zeven burgers uit zeven lidstaten wordt
-gevormd als het project zijn eigen toetsmomenten doorstaat.
+Geïnitieerd door David Vanheeswijck (België). De ontwerpmethode maakt gebruik van tegensprekelijke AI-beoordeling onder de verantwoordelijkheid van de redacteur; elk oordeel en elke beslissing staat in het [toetsingsregister](/law/ledger). Een groep van organisatoren van ten minste zeven in aanmerking komende EU-burgers die in zeven verschillende lidstaten wonen, zal worden gevormd als het project zijn eigen toetsingsfasen doorstaat.
 
-## Wie dit uitgeeft
+## Wie dit publiceert
 
-Verantwoordelijk voor deze site en voor het ontwerp dat zij weergeeft: David Vanheeswijck, België. Schrijf naar [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu); dat adres bereikt de redacteur, en alles van inhoudelijk belang over de tekst hoort in de openbaarheid thuis, als [issue of pull request](https://github.com/ownthemachine/own-the-machine) op de repository, waar het antwoord te lezen is voor iedereen die het ontwerp aangaat.
+Verantwoordelijk voor deze site en voor het ontwerp dat zij weergeeft: David Vanheeswijck, België. Schrijf naar [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu); dat adres bereikt de redacteur, en alles wat inhoudelijk is over de tekst hoort in de openbaarheid thuis, als een [issue of pull request](https://github.com/ownthemachine/own-the-machine) op de repository, waar het antwoord kan worden gelezen door iedereen die het ontwerp aangaat.
 
-Dezelfde persoon is de verwerkingsverantwoordelijke voor de weinige gegevens die deze site meebrengt, hieronder beschreven.
+Dezelfde persoon is de verwerkingsverantwoordelijke voor de weinige gegevens die deze site met zich meebrengt, zoals hieronder beschreven.
 
-## Belangenverklaring
+## Opgegeven belang
 
+Het ontwerp is voortgekomen uit een boek van de initiatiefnemer. De campagne ontvangt niets van de verkoop van het boek en linkt er niet naar, en elk argument hier kan worden gecontroleerd zonder iets te kopen. Dat is niet het hele verhaal. Aandacht voor deze campagne is aandacht die het boek kan bereiken, en de auteur is dezelfde persoon, dus het belang is reëel, ongeacht of er een link bestaat. Het wordt hier vermeld om te worden meegewogen, niet omdat het door de opzet van de campagne zou zijn uitgesloten.
 
-De tekst is voortgekomen uit een boek van de initiatiefnemer. De
-campagne ontvangt niets uit de verkoop van dat boek en verwijst er niet
-naar, en elk argument hier is te controleren zonder iets te kopen. Dat
-is niet het hele verhaal. Aandacht voor deze campagne is aandacht die
-het boek kan bereiken, en de auteur is dezelfde persoon, dus het belang
-bestaat of er nu een verwijzing is of niet. Het wordt hier vermeld om
-gewogen te worden, niet omdat het is wegontworpen.
+## De toetsingsfasen
 
-## De toetsmomenten
-
-De campagne vordert alleen via gepubliceerde toetsmomenten met
-afbreekcriteria: peilingen naar de ontvankelijkheid voor registratie vóór de
-oprichting, oprichting vóór de indiening, indiening vóór de inzameling van
-handtekeningen. Als een toetsmoment faalt, zal deze pagina dat zeggen en
-blijft de repository staan als publiek goed.
+De campagne verloopt uitsluitend via gepubliceerde fasen met stopcriteria: peiling van de registreerbaarheid vóór oprichting, oprichting vóór indiening, registratie vóór verzameling. Onafhankelijk, niet-bindend advies van het EBI-forum kwam binnen op 27 augustus 2026; iemand met ruime EBI-ervaring reageerde op 5 september. Geen van beide reacties vormt een registratie of institutionele goedkeuring. De werving van organisatoren loopt door. Als een fase niet wordt gehaald, zal deze pagina dat vermelden en blijft de repository online als een openbaar goed.
 
 ## Financiering
 
-Geen organisatie, geen bankrekening, geen giften en geen geld van derden in
-welke vorm dan ook. Niemand is betaald, en niemand heeft hieraan tegen
-betaling gewerkt.
+Geen organisatie, geen bankrekening, geen donaties en geen geld van derden van welke aard dan ook. Niemand is betaald en niemand heeft tegen betaling aan dit project gewerkt.
 
-"Geen" zeggen zou het makkelijkste antwoord zijn, maar het is niet waar. Het
-kost geld om deze site draaiende te houden, en de initiatiefnemer betaalt
-dat persoonlijk: het domein, objectopslag en contentlevering bij Scaleway in
-Frankrijk, en de API-aanroepen die de beoordelingen verbruiken. Geen partij,
-stichting, vakbond, onderneming, overheidsinstantie of andere particulier
-heeft geld, diensten, werktijd of software aan deze campagne bijgedragen.
+"Geen" zeggen zou het eenvoudigste antwoord zijn, maar het zou niet waar zijn. Deze site kost geld om te draaien en de initiatiefnemer betaalt dit persoonlijk: het domein, objectopslag en levering via edge-servers bij Scaleway in Frankrijk, en de API-aanroepen die de toetsingsfasen verbruiken. Er is per 6 september 2026 geen campagnespecifieke financiering of ondersteuning van derden opgetekend. Standaard platformdiensten onder gebruikelijke voorwaarden, waaronder GitHub en Cloudflare, worden hieronder vermeld.
 
-Verordening (EU) 2019/788 verplicht een geregistreerd initiatief elke bron
-te noemen die in een jaar meer dan 500 EUR geeft, en die verklaring actueel
-te houden zolang er handtekeningen worden verzameld. Die verplichting begint
-bij registratie. Deze verantwoording begint nu al, in campaign/FUNDING.md,
-waarin ook de vooraf vastgestelde regels staan over wat nooit zal worden
-aanvaard.
+Verordening (EU) 2019/788 verplicht een geregistreerd initiatief om elke bron te noemen die meer dan 500 EUR per jaar bijdraagt en om die verklaring actueel te houden zolang handtekeningen worden verzameld. De verplichting begint bij registratie. De verklaring begint nu, in campaign/FUNDING.md, waarin ook de vooraf vastgestelde regels staan over wat nooit zal worden geaccepteerd.
 
 ## Uw gegevens
 
-Deze site plaatst geen cookies, draait geen analysescripts en laadt niets van derden. Er is geen toestemmingsbanner omdat er niets is om mee in te stemmen.
+Deze site plaatst geen cookies, gebruikt geen analytische scripts en laadt niets van derden. Er is geen toestemmingsbanner omdat er niets is om toestemming voor te vragen.
 
-Wat er niettemin wordt verwerkt, onomwonden gezegd in plaats van weggeredeneerd: elke server die een verzoek beantwoordt, ziet het adres waarvandaan het kwam, dus houdt de host kortstondige technische logs bij, met inbegrip van IP-adressen, om de pagina's uit te leveren en misbruik af te weren. Meer is het niet; die logs worden voor niets anders gelezen, met niets gecombineerd, niet verkocht en niet gedeeld. Schakelt u op deze site tussen papier en plaat, dan wordt die keuze in de opslag van uw eigen browser geschreven en verlaat zij die nooit.
+Wat desalniettemin wordt verwerkt, nuchter vermeld in plaats van weggewuifd: elke server die een verzoek beantwoordt, ziet het adres waar het vandaan komt, dus de host houdt kortstondige technische logs bij, inclusief IP-adressen, om de pagina's te leveren en zich te verdedigen tegen misbruik. Dat is alles; die logs worden voor geen enkel ander doel gelezen, worden met niets gecombineerd, worden niet verkocht en worden niet gedeeld. Als u op deze site wisselt tussen papier en plaat, wordt die keuze opgeslagen in uw eigen browser en verlaat die nooit.
 
-Iedereen in de Unie mag vragen wat er over hem of haar wordt bewaard en kan een klacht indienen bij een toezichthoudende autoriteit; in België is dat de Gegevensbeschermingsautoriteit. Wanneer de ondertekening opengaat, gebeurt dat op het eigen verzamelsysteem van de Europese Commissie krachtens Verordening (EU) 2019/788, niet hier.
+Iedereen in de Unie kan vragen welke gegevens over hem of haar worden bewaard en kan een klacht indienen bij een toezichthoudende autoriteit; in België is dat de Gegevensbeschermingsautoriteit. Wanneer de ondertekening opent, gebeurt dit op het eigen verzamelsysteem van de Europese Commissie onder Verordening (EU) 2019/788, niet hier.
 
-## Waar deze site staat
+## Waar deze site zich bevindt
 
-De pagina's die u leest, staan in Scaleway Object Storage in de regio Parijs en worden vanaf het eigen netwerk van Scaleway uitgeleverd. Scaleway is een Frans bedrijf; de bestanden, de cache en het certificaat zijn Europees.
+De pagina's die u leest, worden opgeslagen in Scaleway Object Storage in de regio Parijs en geleverd via het eigen netwerk van Scaleway. Scaleway is een Frans bedrijf; de bestanden, de cache en het certificaat zijn Europees.
 
-Twee onderdelen zijn dat niet, en een campagne over Europees eigendom hoort te zeggen welke: de DNS van het domein wordt beantwoord door Cloudflare, een Amerikaans bedrijf, al loopt er geen pagina-inhoud doorheen, en de broncode-repository staat bij GitHub, eveneens Amerikaans. De enige uitzondering in de uitleveringsketen is www.ownthemachine.eu, dat naar deze site doorverwijst en zelf geen inhoud bevat.
+Twee onderdelen zijn dat niet, en een campagne over Europees eigendom moet duidelijk maken welke dat zijn: de DNS van het domein wordt afgehandeld door Cloudflare, een Amerikaans bedrijf, hoewel er geen pagina-inhoud doorheen gaat, en de broncode-repository wordt gehost op GitHub, eveneens Amerikaans. De enige uitzondering in het afleverpad is www.ownthemachine.eu, een doorverwijzing naar deze site die zelf geen inhoud bevat.
 
-Niets hier hangt ervan af dat dit zo blijft. De site is een statische build van een openbare repository: hij kan overal, door iedereen, binnen enkele minuten opnieuw worden gebouwd en uitgeleverd.
+Niets hier is ervan afhankelijk dat dit zo blijft. De site is een statische build van een openbare repository: deze kan binnen enkele minuten door iedereen, vanaf elke locatie worden herbouwd en gehost.
 
-## Waar de toetsing draait
+## Waar de toetsing plaatsvindt
 
-Elk oordeel in het register is door een model geproduceerd, en de
-rekenkracht die het produceerde heeft zelf ook een rechtsgebied. Tot 23
-augustus 2026 liepen de beoordelingen via OpenRouter, een Amerikaanse
-router. Zij lopen nu via het Europese eindpunt van Requesty, op modellen die
-in de Unie worden gehost zonder enige gegevensbewaring, waarbij de ontwerpen
-na de aanroep niet worden bewaard en niet voor training worden gebruikt.
+De geautomatiseerde oordelen in de toetsingsfasen worden gegenereerd door modellen; externe menselijke feedback wordt afzonderlijk geregistreerd. De rekenkracht die dit heeft geproduceerd, valt onder een eigen jurisdictie. Tot 23 augustus 2026 liepen de toetsingsfasen via OpenRouter, een Amerikaanse router. De pipeline maakt gebruik van het Europese eindpunt van Requesty. EU-hosting, geen bewaring van gegevens en geen gebruik voor trainingsdoeleinden blijven de standaardvereisten. Voor de op 6 september 2026 ingevoerde beoordelingen met Fable 5.1 van openbaar of voor publicatie bestemd, niet-gevoelig materiaal kan de redacteur de door de router gemelde bewaring van 30 dagen uitdrukkelijk per toetsingsronde toestaan, met behoud van EU-hosting en uitsluiting van trainingsgebruik. Die uitzondering geldt niet voor privécorrespondentie, niet-openbare persoonsgegevens en gevoelig niet-gepubliceerd materiaal; openbare naamsvermelding van de auteur kan voorkomen.
 
-De uitvoerder neemt dat niet op gezag aan. Voordat hij een token
-uitgeeft, leest hij de eigen vastlegging van de router over waar het
-model draait en wat er met de tekst gebeurt, en hij weigert te starten
-tenzij die vastlegging de Europese Unie, nul bewaring en geen gebruik
-voor training vermeldt. Wat hij las, wordt in het toetsingsverslag
-geschreven, zodat elk oordeel het bewijs draagt in plaats van de
-verzekering.
+Het runner-systeem vertrouwt hier niet blindelings op. Voordat het een token verbruikt, leest het de eigen opgave van de router over waar het model draait en wat er met de tekst gebeurt, en weigert het te starten als het model afwezig is of niet voldoet aan de voor die run geselecteerde vereisten. Uitzonderingen op de bewaartermijn moeten expliciet zijn; zij wijzigen de standaardcontroles niet. Alles wat is uitgelezen, wordt vastgelegd in het toetsingsdossier, zodat elk oordeel het bewijs bevat in plaats van louter een toezegging.
 
-Eén onderscheid verdient het scherp te blijven, omdat het het
-onderscheid is waarover dit voorstel gaat. In Europa gehost is niet in
-Europa gebouwd. De modellen zijn Amerikaans en draaien op Europese
-infrastructuur onder Europese regels, en van wat dit eindpunt aanbiedt
-is alleen Mistral een Europees laboratorium. Een campagne over wie de
-machine bezit, hoort ronduit te zeggen dat zij nog niet draait op een
-machine die Europa bezit.
+Eén onderscheid is belangrijk om scherp te houden, omdat dit precies het onderscheid is waar dit voorstel over gaat: gehost in Europa is niet gebouwd in Europa. De modellen zijn Amerikaans, draaiend op Europese infrastructuur onder Europese regels, en van wat dit eindpunt biedt, is alleen Mistral een Europees laboratorium. Een campagne over wie de machine bezit, moet ronduit zeggen dat zij nog niet draait op een machine die eigendom is van Europa.
 
 ## Toegankelijkheid
 
-Doel: WCAG 2.1 AA, met vroegtijdige overname van de WCAG 2.2-criteria
-voor focusweergave en doelgrootte. De site is volledig met het
-toetsenbord te bedienen en respecteert voorkeuren voor verminderde
-beweging. Een drempel gevonden?
-[Open een issue](https://github.com/ownthemachine/own-the-machine-site/issues).
+Doelstelling: WCAG 2.1 AA, waarbij de criteria voor focusweergave en doelgrootte van WCAG 2.2 vroegtijdig zijn overgenomen. De site is volledig via het toetsenbord te bedienen en respecteert voorkeuren voor verminderde beweging. Een barrière gevonden? [Open een issue](https://github.com/ownthemachine/own-the-machine-site/issues).

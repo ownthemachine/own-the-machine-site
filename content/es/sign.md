@@ -1,73 +1,72 @@
 ---
-source: site/content/en/sign.md
-source-commit: 2ac5f03
-status: gate-reviewed
+source: content/en/sign.md
+source-commit: 8d35a77
+source-sha256: f8155ec276eaeef8b5246a63a6ce45b44caaa8e84b8c7890754c403a43b5d472
+status: machine-reviewed
 ---
 
-## Primero, el aviso honesto que encabeza esta página
+## Estado actual
 
-Lea el recuadro de situación de arriba. Hoy no hay nada que firmar, en
-ningún sitio, y quien hoy recoja firmas o datos para esta iniciativa no
-somos nosotros. Esta página existe para que, si el registro llega algún
-día, un millón de personas encuentren el camino ya trazado en su propia
-lengua.
+Ninguna versión está registrada y hoy por hoy no hay nada que firmar en relación con
+esta iniciativa. El recuadro de estado y la página de [versiones](/law/versions) contienen
+el historial de registro. Una manifestación de interés no es una declaración oficial de
+apoyo.
 
-## Cómo se firma de verdad una iniciativa ciudadana europea
+## Cómo funciona la firma
 
-La firma nunca ocurre en este sitio. Todas las firmas de todas las
-iniciativas se recogen en el sistema central en línea de la propia
-Comisión Europea, o en formularios oficiales en papel, conforme al
-Reglamento (UE) 2019/788. Sus datos van a la Comisión y a las autoridades
-de su Estado miembro para su verificación, y a nadie más, y esta campaña
-no los ve nunca. La página oficial de cualquier iniciativa, y el único
-lugar donde firmarla, es
-[citizens-initiative.europa.eu](https://citizens-initiative.europa.eu/).
+Si se inicia la recogida, este sitio enlazará a la página de la iniciativa en el Sistema
+Central de Recogida en Línea de la Comisión. Es el único sistema de recogida por internet
+para las ICE recién registradas. También se admiten formularios oficiales en papel; esta
+campaña no ha abierto la recogida en papel. Consulte la información sobre privacidad de la
+Comisión para el tratamiento específico de los datos de firma. Este sitio web no alojará
+un formulario de firmas propio.
 
 ## Quién puede firmar
 
-Todo ciudadano de la UE con edad para votar en las elecciones al
-Parlamento Europeo: 18 años en la mayoría de los Estados miembros, menos
-en unos pocos. Usted firma como ciudadano de su país, viva donde viva en
-el mundo. Cada iniciativa solo puede firmarse una vez.
+Toda persona con ciudadanía de la UE puede firmar una vez por iniciativa, con
+independencia de su lugar de residencia, si cumple la edad mínima para firmar establecida para su nacionalidad. Por lo general es la edad para votar en las elecciones al Parlamento Europeo;
+algunos Estados miembros permiten apoyar ICE a partir de los 16 años con independencia de
+la edad electoral. Consulte los
+[requisitos de admisibilidad y datos](https://citizens-initiative.europa.eu/data-requirements_en)
+vigentes de la Comisión. La edad de 18 años contemplada en la propuesta del fondo es
+independiente de la edad requerida para firmar.
 
-## Qué tendría que introducir
+## Qué información se necesita
 
-Depende de su Estado miembro, porque la verificación es nacional. Los
-Estados miembros se dividen en dos grupos: aproximadamente la mitad
-verifica con su nombre, dirección, fecha de nacimiento y nacionalidad, y
-el resto pide además un número de identificación personal o el número de
-un documento de identidad, por ejemplo del DNI o del pasaporte. La página
-de firma de la Comisión muestra los campos exactos de su país antes de que
-usted escriba nada. Esta diferencia importa para una campaña, porque pedir
-un número de documento es una barrera más alta, y por eso las iniciativas
-serias planifican país por país.
+El formulario oficial detalla los datos exigidos para su Estado miembro de nacionalidad.
+Puede incluir un número de documento de identidad o un número de identificación personal.
+Algunos países admiten la identificación electrónica. Siga las instrucciones del
+formulario oficial; no envíe documentos de identidad a esta campaña ni comparta datos
+personales de firma en debates públicos.
 
-## Por qué en la práctica hace falta más de un millón de firmas
+## Qué significa alcanzar un millón
 
-El listón legal es un millón de declaraciones de apoyo válidas en doce
-meses, con mínimos nacionales alcanzados en al menos siete Estados miembros,
-siendo cada mínimo aproximadamente el número de escaños del país en el
-Parlamento Europeo multiplicado por 750. Siempre hay firmas que no superan
-la verificación, así que los organizadores con experiencia apuntan bastante
-por encima del listón. De las iniciativas registradas desde 2012,
-aproximadamente una de cada nueve lo ha superado. Las que lo lograron iban
-sostenidas por coaliciones con redes reales en muchos países, y por eso los
-propios hitos de este proyecto exigen organizadores y socios institucionales
-antes de cualquier presentación.
+El éxito exige un millón de declaraciones de apoyo válidas y alcanzar umbrales mínimos en
+al menos siete Estados miembros en el plazo de recogida de doce meses. Para las
+iniciativas registradas a partir del 16 de julio de 2024, los umbrales se calculan a partir
+del número total de diputados al Parlamento Europeo, actualmente 720: el de Bélgica es de
+15.840. Consulte la
+[tabla oficial de umbrales](https://citizens-initiative.europa.eu/thresholds_en) para ver
+las cifras actuales. Los cómputos presentados quedan sujetos a verificación.
 
-## Qué hará y qué no hará esta campaña durante una recogida
+El éxito da lugar a un examen y a una respuesta motivada de la Comisión, no a un resultado
+automático como el de un referéndum ni a la adopción del borrador. Los
+[objetivos de registro](/law/registration) propuestos constituyen la petición; el
+Reglamento ilustra un mecanismo posible. Consulte el
+[procedimiento oficial](https://citizens-initiative.europa.eu/how-it-works_en).
 
-Si la recogida se abre algún día, este sitio enlazará a la página oficial de
-firma de la Comisión y a nada más: sin formulario propio, sin petición, sin
-captación masiva de correos. El texto que la gente firme quedará congelado y
-publicado junto al borrador vivo, con cada diferencia a la vista, según la
-regla ya adoptada en la página [versiones](/law/versions). Todo lo que se presente
-como esta iniciativa y pida sus datos en otro lugar no es esta iniciativa.
+## Durante la recogida
 
-## Qué puede hacer antes de que todo eso exista
+El texto registrado quedará fijado y se publicará junto al borrador de trabajo, mostrando
+las diferencias conforme a las reglas de la sección de [versiones](/law/versions). El
+sistema de la Comisión ofrece la opción de recibir actualizaciones sobre la iniciativa tras
+firmar; los organizadores pueden remitirlas mediante dicho sistema sin acceder a las
+direcciones de correo electrónico de los suscriptores. La política de este sitio web de no
+crear listas es independiente de esa opción oficial. Las fechas de recogida y el enlace
+oficial solo se publicarán una vez confirmados.
 
-Lea el [resumen en una página](/brief), rebata las [objeciones](/law/objections) y, si se
-plantearía ser una de las siete personas organizadoras, o poner el proyecto
-en contacto con una organización con alcance en su país, dígalo en la página
-[participar](/join). Un millón de firmas las recogen las redes, y la red es lo
-que todavía no existe.
+## Antes de la recogida
+
+Lea el [resumen de una página](/brief), examine las [objeciones](/law/objections) y
+utilice [participe](/join) para plantear dudas o ayudar en la organización. Nadie necesita
+comprar el libro, facilitar un documento de identidad ni pagar para evaluar la propuesta.

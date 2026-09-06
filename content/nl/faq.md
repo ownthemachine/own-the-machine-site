@@ -1,111 +1,50 @@
 ---
-source: site/content/en/faq.md
-source-commit: 2ac5f03
-status: gate-reviewed
+source: content/en/faq.md
+source-commit: 31760e8
+source-sha256: d1acba7b811faa0b26723c276bc9f228550028f5f5c6d7ac6200f529e4636901
+status: machine-reviewed
 ---
 
 ## Wat is dit, in één zin?
 
-Een ontwerp van een EU-wet waaronder bedrijven waarvan de waarde
-overweldigend uit machines komt in plaats van uit mensen, eenmalig aandelen
-ter waarde van 3 % van zichzelf zouden uitgeven aan een fonds dat gelijk
-toebehoort aan elke volwassen EU-burger.
+Een voorstel waarmee burgers meedelen in de opbrengsten van sterk geautomatiseerde productie, voorzien van een illustratief ontwerp voor een EU-verordening die een gemeenschappelijk fonds opricht dat bedrijfsaandelen houdt en gelijke uitkeringen betaalt aan volwassen EU-burgers.
 
-## Krijg ik geld? Hoeveel, en wanneer?
+## Krijg ik geld? Hoeveel en wanneer?
 
-Uiteindelijk, en eerlijk gezegd: niet snel. Het fonds bouwt eerst een
-belang op en keert uit wat dat belang opbrengt, volgens de wet. Uitkeringen
-in de eerste jaren liggen met opzet dicht bij nul, omdat het fonds zijn
-kapitaal in stand moet houden voordat het iets uitkeert. Het doel dat in de
-wet staat, is dat het tegoed achter de aanspraak van elke burger binnen een
-generatie de orde van zes maanden mediaan besteedbaar inkomen bereikt. Op
-de eigen gepubliceerde aannames van de wet betekent dat jaarlijkse
-uitkeringen die van bijna niets groeien naar enkele honderden euro's over
-tientallen jaren, en veel meer alleen als automatisering de economie veel
-sterker verandert dan vandaag. De [simulator](/simulator) toont de eerlijke
-curve voor elke aanname die je kiest. Wie je snel geld belooft uit dit
-plan, misleidt je, en de wet zelf zegt dat ook.
+Er is vandaag geen uitkering om aan te vragen. Onder het ontwerp zou elke EU-burger van 18 jaar of ouder een gelijk recht hebben op uitkeringen zodra deze worden vastgesteld. De aanspraak kan niet worden verkocht, verpand of afgekocht; uitbetaling vereist registratie bij een nationaal vehikel. Bedragen hangen af van de gerealiseerde inkomsten van het fonds na kosten en na toepassing van de regels voor kapitaalbehoud, en kunnen nul zijn. De langetermijnkapitaaldoelstelling van het ontwerp is een streefdoel, geen gegarandeerd saldo of inkomen. De [simulator](/simulator) verkent aannames, waaronder aanhoudende nieuwe bedrijfsbelangen; hij is geen voorspelling van uw uitbetalingen. Artikel 10, lid 6, vereist een jaarlijkse uitkering wanneer het bedrag per houder tienmaal de gemiddelde uitbetalingskosten bereikt, en ten minste eenmaal in elk derde kalenderjaar met een positief uitkeerbaar bedrag. Kleine niet-uitbetaalde bedragen worden doorgeschoven; een uitbetaling in elk jaar is niet gegarandeerd.
 
 ## Is dit een belasting?
 
-Nee, en het verschil is het hele ontwerp. Een belasting neemt geld en stopt
-het in een overheidsbegroting, waar het wordt uitgegeven en elk jaar
-opnieuw wordt onderhandeld. Dit neemt nieuw uitgegeven aandelen, nooit
-geld, stopt ze in een fonds waar geen enkele overheidsbegroting aan kan
-komen, en dat fonds behoort rechtstreeks aan de burgers toe. Er loopt geen
-geld door enige schatkist. Een bedrijf betaalt helemaal niets totdat zijn
-eigen eigenaren verzilveren.
+Het ontwerp is opgezet als kapitaalparticipatie: ondernemingen die eronder vallen geven aandelen uit aan een gemeenschappelijke Reserve in plaats van bijdragen in contanten aan een openbare begroting te leveren. Of het EU-recht dit desalniettemin zou kwalificeren als een fiscale maatregel, is omstreden. Het onafhankelijke advies van het EBI-forum wijst op dat risico, en de [bezwaren](/law/objections) geven het argument en het antwoord van het project weer.
 
-## Welke bedrijven zouden betalen?
+## Welke bedrijven vallen hieronder?
 
-Alleen bedrijven die door een harde, gepubliceerde toets komen: minstens 75
-miljard euro waard, actief in minstens drie EU-landen, en minstens tachtig
-keer zoveel waard als wat zij hun mensen per jaar betalen. Dat laatste getal
-is het kenmerk van productie zonder mensen. Op de cijfers van vandaag komen
-wereldwijd ruwweg negen bedrijven erdoor, waaronder de grote AI-laboratoria
-en chipontwerpers. Je werkgever, je bakker en elk gewoon bedrijf, ook elk
-groot gewoon bedrijf, komen er niet bij in de buurt: zelfs de meest
-geautomatiseerde arbeidsintensieve bedrijven halen ongeveer dertig keer de
-loonsom. De groep groeit alleen als de machine-economie groeit.
+De Commissie zou beoordelen of de productie wezenlijk afhankelijk is van geautomatiseerde cognitieve systemen en duurzaam is ontkoppeld van werkgelegenheid. Een weerlegbaar vermoeden geldt wanneer aan de drempels van het ontwerp wordt voldaan: ten minste 7,5 miljard EUR aan jaarlijkse EU-omzet of 75 miljard EUR aan waarde, activiteit in ten minste drie lidstaten, en een waarde van ten minste tachtigmaal de wereldwijde arbeidsbeloning, aangehouden gedurende twee boekjaren. Een onderneming kan het vermoeden weerleggen. De Commissie kan na onderzoek ook een onderneming onder die drempels aanwijzen. De drempels zijn indicatoren, geen bewijs dat een bedrijf zonder mensen opereert.
 
-## Vernietigt dit banen, of jaagt het innovatie weg?
+## Kost dit banen of verdrijft dit innovatie?
 
-De prikkels wijzen de andere kant op. Een bedrijf ontsnapt aan de toets
-door mensen in dienst te nemen en te betalen, en dat is precies wat de wet
-toch al wil. Het is niets verschuldigd terwijl het bouwt, investeert en
-groeit, en deelt pas waarde op het moment dat zijn eigen eigenaren die
-waarde voor zichzelf in geld omzetten. De aanspraak is 3 % en komt precies
-één keer per bedrijf.
+Die effecten vereisen een onafhankelijke beoordeling. Een aandelenverplichting van 3 % zou investeringen, prijzen en bedrijfsbeslissingen kunnen beïnvloeden, zelfs zonder een heffing in contanten. Het ontwerp gebruikt arbeidsbeloning in zijn aanwijzingstoets en bevat antimisbruikbepalingen, waardoor het aannemen van meer personeel geen automatische vrijstelling oplevert. Het voorziet in monitoring en evaluatie; het kan niet beloven dat er geen ongewenste effecten zullen zijn.
 
-## Vertrekken bedrijven dan niet gewoon uit de EU?
+## Zullen bedrijven de EU simpelweg verlaten?
 
-De verplichting volgt uit verkopen aan Europeanen, niet uit gevestigd zijn
-in Europa. Een bedrijf uit Delaware of Singapore dat miljarden verdient op
-de EU-markt valt eronder; de EU verlaten betekent de 450 miljoen klanten
-van de EU opgeven, en 97 % van iets groots is meer waard dan 100 % van
-iets zonder hen. EU- en niet-EU-bedrijven worden identiek behandeld, dus
-er valt geen discriminatie aan te klagen, en de aandelen van het fonds
-dragen geen stemrecht, dus geen enkele overheid krijgt zeggenschap over
-wie dan ook.
+Het ontwerp is van toepassing op betrokken activiteiten op de interne markt, ongeacht waar een onderneming is gevestigd. Het verplaatsen van een hoofdkantoor zou op zichzelf de verplichting niet opheffen. Ondernemingen zouden nog steeds hun dienstverlening, investeringen of marktparticipatie kunnen wijzigen. Grensoverschrijdende handhaving en evenredigheid zijn omstreden kwesties; de omvang van de EU-markt beslecht deze niet.
 
-## Wie beheert het fonds? Kunnen politici het plunderen?
+## Wie beheert het fonds? Kunnen politici er een greep in doen?
 
-Niemand bestuurt er bedrijven mee: de aandelen van het fonds kunnen nooit
-stemmen, nooit bestuurszetels innemen en nooit enig bedrijf iets opdragen;
-dat staat in de wet en is een voorwaarde van het hele ontwerp. Wat
-plunderingen betreft: het ontwerp is geschreven door mensen die precies
-hebben bestudeerd hoe overheden pensioenfondsen hebben geplunderd in Polen
-en Hongarije en elders hebben afgebouwd, en het stelt daar aanspraken
-tegenover die persoonlijk eigendom zijn, geen begrotingsposten: zij kunnen
-niet worden afgepakt, omgeleid, door de staat beleend of aan een schatkist
-overgedragen. De [bezwarenpagina](/law/objections) zet de plunderingsgeschiedenis voluit
-uiteen, in haar sterkste vorm, voordat een tegenstander dat doet.
+De aandelen van de Reserve zouden geen stemrecht of zeggenschapsrechten verlenen. Artikel 12 verbiedt het doorsluizen van middelen naar openbare begrotingen en geeft rechthebbenden een rechtsgang. Dit zijn juridische waarborgen, geen garantie dat toekomstige wetgevers de wet niet kunnen wijzigen. De persoonlijke aanspraak is een recht op vastgestelde uitkeringen, niet een individueel afkoopbare portefeuille van bedrijfsaandelen.
 
-## En als AI klein blijft en de grote verandering nooit komt?
+## Wat als AI beperkt blijft en de transformatie uitblijft?
 
-Dan gebeurt er bijna niets, en dat is de bedoeling. De toets wijst bijna
-geen bedrijven aan in een wereld waarin waarde nog uit mensen komt, en de
-wet verplicht de Commissie om elke drie jaar het bewijs te toetsen en voor
-te stellen de regels af te bouwen als de premisse onjuist blijkt. Het
-instrument is gebouwd om ertoe te doen in de wereld waarin machines echt
-het meeste werk overnemen, en om te vervagen in de wereld waarin dat niet
-gebeurt. De economie die het zelf oplost, mag het zelf oplossen.
+Minder in aanmerking komende bedrijven of lagere rendementen kunnen leiden tot een klein fonds met weinig of geen inkomsten. Artikel 14 verplicht de Commissie om het bewijsmateriaal te beoordelen en, waar passend, wijziging of intrekking voor te stellen. Het ontwerp schakelt zichzelf niet automatisch uit, en de administratieve verplichtingen en de verplichtingen voor ondernemingen zijn niet kosteloos, zelfs als de opbrengsten tegenvallen.
+
+## Wanneer moet een bedrijf de aandelen uitgeven?
+
+Het geeft eerst een warrant uit binnen drie maanden na aanwijzing. De warrant wordt uitoefenbaar bij de eerste liquiditeitsgebeurtenis, bij eerdere aandeelhoudersonttrekking boven 25 % van de betrokken omzet over drie opeenvolgende boekjaren, of bij de uiterste termijn van zeven jaar (de „long-stop” van het ontwerp) na uitgifte van de warrant. Artikel 5 stelt de precieze regels vast. Een niet-beursgenoteerde onderneming kan de uiterste termijn niet ontlopen door eenvoudigweg in private handen te blijven. Dat aandelen in het fonds terechtkomen, garandeert nog geen onmiddellijke uitkeringen in contanten.
 
 ## Wat moet ik nu doen?
 
-Niets, en wantrouw iedereen die iets anders zegt. Er wordt niets
-verzameld: geen handtekening, geen e-mailadres, geen geld. Als het
-initiatief ooit formeel wordt geregistreerd, gebeurt het ondertekenen op
-het eigen officiële systeem van de Europese Commissie, nooit op deze site.
-Wat vandaag helpt, is iets anders: lees het, bestrijd het en, als je zou
-overwegen een van de zeven organisatoren te zijn die een initiatief
-wettelijk nodig heeft, zeg dat dan op de pagina [meedoen](/join).
+Er valt nu nog niets te ondertekenen. U kunt het voorstel lezen, vragen stellen, zich aanmelden als vrijwilliger of bespreken of u organisator wilt worden op de pagina [doe mee](/join). De site heeft geen mailinglijst en verzamelt geen steunbetuigingen. Als het initiatief wordt geregistreerd en de verzameling opent, zal de site linken naar het officiële ondertekeningssysteem van de Commissie. Eén miljoen geldige steunbetuigingen en de vereiste nationale drempels verzekeren behandeling en een antwoord, geen automatische vaststelling van de illustratieve verordening.
 
-## Wie zit hierachter, en wie betaalt dit?
+## Wie zit hierachter en wie betaalt dit?
 
-Tot nu toe één persoon, met naam genoemd op de pagina [over](/about), die
-de hosting persoonlijk betaalt. Geen organisatie, geen giften, geen
-politieke partij, geen bedrijfsgeld, en de volledige tekst van de wet,
-haar geschiedenis en elke review die haar heeft aangevallen zijn openbaar
-in een open repository. Verandert dat, dan zeggen de al gepubliceerde
-regels dat elke euro moet worden gemeld.
+David Vanheeswijck heeft het project geïnitieerd en betaalt de hosting- en AI-toetsingskosten. Per 6 september 2026 is er geen opgerichte organisatie en geen externe financiering opgetekend. De pagina [over ons](/about) noemt de redacteur en maakt zijn band met het boek bekend. Het toetsingsregister onderscheidt modelbeoordelingen van externe feedback; geen van beide is een institutionele goedkeuring van de EU.

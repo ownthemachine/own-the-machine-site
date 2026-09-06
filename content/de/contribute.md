@@ -1,38 +1,41 @@
 ---
-source: site/content/en/contribute.md
-source-commit: 8b0d54f
-status: gate-reviewed
+source: content/en/contribute.md
+source-commit: 8d35a77
+source-sha256: 52b60e89265bdf0e60190a6bd2945bff7e13c156f19afa75c5d99bc0beb510a3
+status: machine-reviewed
 ---
 
-Der Entwurf verbessert sich so, wie sich Open Source verbessert:
-öffentlich, per Pull Request, an benannten Kriterien gemessen. Drei
-Repositories:
+Der Entwurf verbessert sich so, wie Open Source sich verbessert: öffentlich, über
+Pull Requests und anhand definierter Kriterien. Drei Repositories:
 
-- [own-the-machine](https://github.com/ownthemachine/own-the-machine): das Gesetz, sein Memorandum, das Register der
-  Prüfungen (CC BY-SA 4.0).
-- [own-the-machine-tools](https://github.com/ownthemachine/own-the-machine-tools): die Prüfrunden und der Linter (MIT).
-- [own-the-machine-site](https://github.com/ownthemachine/own-the-machine-site): diese Website (AGPL-3.0).
+- [own-the-machine](https://github.com/ownthemachine/own-the-machine):
+  der Rechtstext, seine Begründung, das Prüfprotokoll (CC BY-SA 4.0).
+- [own-the-machine-tools](https://github.com/ownthemachine/own-the-machine-tools):
+  die Prüfstufen und der Linter (MIT).
+- [own-the-machine-site](https://github.com/ownthemachine/own-the-machine-site):
+  diese Website (AGPL-3.0).
 
-## Die Aufnahmekriterien
+## Die Kriterien für die Zusammenführung (Merge)
 
-Jede Änderung am Gesetzestext muss vier Tests überstehen: Sie beansprucht
-Vermögenswerte, keine Ströme; sie erreicht jede Bürgerin und jeden Bürger
-gleichermaßen; sie ist plünderungssicher; und sie beansprucht den Anteil
-rechtzeitig, in dem Moment, in dem sich Gewinne realisieren. Vor der
-Aufnahme gelten mechanische Vorgaben (die DC-Tabelle in den
-[Einwänden](/law/objections)) und sechs kontradiktorische Prüfrunden. Ein Pull Request,
-der einen Schutz schwächt, muss das in klaren Worten sagen.
+Jede Änderung am Rechtstext muss vier Prüfungen bestehen: Sie beansprucht
+Vermögenswerte, keine Zahlungsströme; sie erreicht alle Bürgerinnen und Bürger
+gleichermaßen; sie schwächt den rechtlichen Schutz vor Zweckentfremdung nicht; und sie begründet den Anspruch während der Kapitalbildung, vor der Fälligkeit. Formale
+Vorgaben (die Tabelle der Entwurfsbeschränkungen (DC) in den [Einwänden](/law/objections)) gelten vor dem
+Merge. Inhaltliche Änderungen durchlaufen alle sechs kontradiktorischen
+Prüfstufen; Textänderungen durchlaufen Rechtsform und Ebenenkonsistenz;
+redaktionelle Änderungen durchlaufen den Linter. Urteile und redaktionelle
+Entscheidungen werden öffentlich verzeichnet. Ein Pull Request, der eine
+Schutzvorkehrung schwächt, wird nach den veröffentlichten Governance-Regeln
+nicht zusammengeführt.
 
-## So machen Sie mit
+## Möglichkeiten zur Mitwirkung
 
-- **Argumentieren.** Nehmen Sie sich einen Einwand vor, oder erheben Sie
-  einen neuen in aller Schärfe. Der stärkste Beitrag ist der Angriff, den
-  wir noch nicht beantwortet haben.
-- **Formulieren.** Verbessern Sie einen Artikel nach den Konventionen des
-  Gemeinsamen Leitfadens für die Abfassung von Rechtstexten; Linter und
-  Prüfrunden erwarten Sie.
-- **Übersetzen.** Sprachen steigen Seite für Seite von maschinell übersetzt
-  zu menschlich geprüft auf; muttersprachliche Leserinnen und Leser sind der
-  Engpass.
-- **Bauen.** Website und Werkzeuge sind gewöhnliche Open-Source-Projekte mit
-  wartenden Issues.
+- **Argumentieren.** Nehmen Sie sich einen Einwand vor oder formulieren Sie einen
+  neuen in aller Schärfe. Der wertvollste Beitrag ist der Angriff, auf den wir
+  noch keine Antwort haben.
+- **Formulieren.** Verbessern Sie einen Artikel gemäß den Konventionen des
+  Gemeinsamen Leitfadens; der Linter und die Prüfstufen erwarten Sie.
+- **Übersetzen.** Sprachen werden Seite für Seite von maschinenübersetzt auf
+  menschlich geprüft hochgestuft; muttersprachliche Leser sind hier der Engpass.
+- **Entwickeln.** Die Website und die Werkzeuge sind gewöhnliche Open-Source-Projekte
+  mit offenen Issues.

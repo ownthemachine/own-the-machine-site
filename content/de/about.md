@@ -1,124 +1,161 @@
 ---
-source: site/content/en/about.md
-source-commit: ecd56c3
-status: gate-reviewed
+source: content/en/about.md
+source-commit: 31760e8
+source-sha256: d26a03958b3cd7a1c90d06a1e7b324e91c30fc3b3ab9718068d590aac3e680bb
+status: machine-reviewed
 ---
 
-## Was das ist
+## Worum es sich handelt
 
-Ein quelloffener Entwurf einer EU-Verordnung, die sicherstellt, dass die
-Bürgerinnen und Bürger der Union am Kapitalwert teilhaben, den
-hyperautomatisierte Produktion schafft, erarbeitet als Grundlage einer
-möglichen Europäischen Bürgerinitiative. Der Gesetzestext, sein Memorandum,
-seine Einwände und jedes Prüfurteil liegen in einem öffentlichen
-Repository; diese Website stellt sie dar.
+Ein quelloffener Entwurf für eine EU-Verordnung, die es Bürgerinnen und Bürgern der
+Union ermöglichen soll, am Kapitalwert teilzuhaben, der durch hyperautomatisierte
+Produktion geschaffen wird, ausgearbeitet als Grundlage für eine mögliche
+Europäische Bürgerinitiative. Der Rechtstext, seine Begründung, die Einwände und
+jedes Prüfergebnis befinden sich in einem öffentlichen Repository; diese Website
+stellt sie dar.
 
-## Kein Dokument der EU
+## Kein EU-Dokument
 
-Dies ist ein Vorschlag von Bürgerinnen und Bürgern. Er wird von der Europäischen Union, der Europäischen Kommission, dem Europäischen Parlament oder einem anderen Organ, einer anderen Einrichtung oder sonstigen Stelle der Union weder herausgegeben noch unterstützt, gebilligt oder geprüft, steht in keiner Verbindung zu ihnen und hat keine Rechtswirkung. Er ist in den Konventionen des Unionsrechts abgefasst, weil ein Vorschlag, den diese Organe beurteilen sollen, in der Form eintreffen sollte, die sie lesen; die Form ist eine Höflichkeit gegenüber den Lesenden, nie ein Anspruch auf Autorität. Die Seite führt kein Emblem der EU, und das Siegel, das sie führt, gehört allein diesem Projekt.
+Dies ist ein Bürgervorschlag. Er wird weder von der Europäischen Union, der
+Europäischen Kommission, dem Europäischen Parlament noch von einem anderen Organ,
+einer Einrichtung oder sonstigen Stelle der Union herausgegeben, gebilligt oder
+geprüft und steht mit keiner von ihnen in Verbindung. Er hat keine rechtliche Wirkung.
+Er ist nach den Gepflogenheiten der Gesetzgebung der Union verfasst, weil ein
+Vorschlag, der von diesen Institutionen bewertet werden soll, in der Form ankommen
+sollte, die sie verwenden; die Form ist eine Höflichkeit gegenüber der Leserschaft,
+niemals ein Anspruch auf Autorität. Die Website trägt kein EU-Emblem, und das
+Siegel, das sie führt, gehört allein zu diesem Projekt.
 
-## Wer
+## Wer dahinter steht
 
-Initiiert von David Vanheeswijck (Belgien). Die Entwurfsmethode nutzt
-kontradiktorische KI-Prüfung unter der Verantwortung des Herausgebers;
-jedes Urteil und jede Erledigung steht im [Register](/law/ledger). Eine
-Organisatorengruppe von mindestens sieben Bürgerinnen und Bürgern aus
-sieben Mitgliedstaaten wird gebildet, wenn das Projekt seine eigenen
-Prüfstufen besteht.
+Initiiert von David Vanheeswijck (Belgien). Die Erstellungsmethode nutzt
+kontradiktorische KI-Prüfungen unter der Verantwortung des Herausgebers; jedes
+Urteil und jede Entscheidung ist im [Prüfprotokoll](/law/ledger) verzeichnet. Eine
+Organisatorengruppe von mindestens sieben berechtigten Unionsbürgern mit Wohnsitz
+in sieben verschiedenen Mitgliedstaaten wird gebildet, falls das Projekt seine
+eigenen Prüfstufen besteht.
 
-## Wer dies herausgibt
+## Wer dies veröffentlicht
 
-Verantwortlich für diese Seite und für den Entwurf, den sie wiedergibt: David Vanheeswijck, Belgien. Schreiben Sie an [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu); diese Adresse erreicht den Herausgeber, und alles Inhaltliche zum Text gehört in die Öffentlichkeit, als [Issue oder Pull Request](https://github.com/ownthemachine/own-the-machine) im Repository, wo die Antwort für alle lesbar ist, die der Entwurf angeht.
+Verantwortlich für diese Website und den dargestellten Entwurf: David
+Vanheeswijck, Belgien. Schreiben Sie an [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu);
+diese Adresse erreicht den Herausgeber, und alle inhaltlichen Aspekte des Textes
+gehören an die Öffentlichkeit, als [Issue oder Pull Request](https://github.com/ownthemachine/own-the-machine)
+im Repository, wo die Antwort von jedem gelesen werden kann, den der Entwurf
+betrifft.
 
-Dieselbe Person ist Verantwortlicher für die wenigen Daten, die diese Seite mit sich bringt und die unten beschrieben sind.
+Dieselbe Person ist der Verantwortliche für die wenigen Daten, die auf dieser
+Website anfallen, wie nachfolgend beschrieben.
 
-## Transparenzhinweis
+## Offengelegtes Interesse
 
+Der Entwurf entstand aus einem Buch seines Initiators. Die Kampagne erhält nichts
+aus den Buchverkäufen und verlinkt nicht darauf, und jedes Argument hier kann ohne
+Kauf geprüft werden. Das ist jedoch nicht alles. Aufmerksamkeit für diese Kampagne
+kann auch das Buch erreichen, und der Autor ist dieselbe Person; das Interesse ist
+daher real, unabhängig davon, ob ein Link existiert. Es wird hier offengelegt,
+damit es abgewogen werden kann, nicht weil es durch die Gestaltung beseitigt worden wäre.
 
-Der Entwurf ist aus einem Buch seines Initiators hervorgegangen. Die
-Kampagne erhält nichts aus dessen Verkauf und verlinkt es nicht, und
-jedes Argument hier lässt sich prüfen, ohne etwas zu kaufen. Damit ist
-es nicht getan. Aufmerksamkeit für diese Kampagne ist Aufmerksamkeit,
-die das Buch erreichen kann, und der Autor ist dieselbe Person; das
-Interesse besteht also, ob ein Link vorhanden ist oder nicht. Es wird
-hier offengelegt, damit es abgewogen werden kann, und nicht, weil es
-konstruktiv beseitigt worden wäre.
+## Die Prüfstufen (Gates)
 
-## Die Prüfstufen
-
-Die Kampagne schreitet nur über veröffentlichte Prüfstufen mit
-Abbruchkriterien voran: Sondierungen zur Registrierbarkeit vor der
-Gründung, Gründung vor der Einreichung, Einreichung vor der Sammlung.
-Scheitert eine Prüfstufe, wird diese Seite es sagen, und das Repository
-bleibt als öffentliches Gut bestehen.
+Die Kampagne schreitet nur über veröffentlichte Prüfstufen mit Abbruchkriterien
+voran: Sondierungen zur Registrierungsfähigkeit vor der Konstituierung,
+Konstituierung vor der Einreichung, Registrierung vor der Unterschriftensammlung. Die
+unabhängige, unverbindliche Stellungnahme des Forums traf am 27. August 2026 ein; ein
+EBI-Veteran antwortete am 5. September. Keine der beiden Antworten stellt eine
+Registrierung oder Billigung durch eine Institution dar. Die Suche nach
+Organisatoren läuft weiter. Scheitert eine Prüfstufe, wird dies auf dieser Seite
+vermerkt und das Repository bleibt als öffentliches Gut bestehen.
 
 ## Finanzierung
 
-Keine Organisation, kein Bankkonto, keine Spenden und kein Geld von Dritten
-in irgendeiner Form. Niemand wurde dafür bezahlt, und niemand hat gegen
-Vergütung daran gearbeitet.
+Keine Organisation, kein Bankkonto, keine Spenden und keinerlei Gelder Dritter.
+Niemand wurde bezahlt und niemand hat gegen Bezahlung daran gearbeitet.
 
-„Keine“ zu sagen wäre die bequemere Antwort, aber sie wäre unwahr. Der
-Betrieb dieser Seite kostet etwas, und der Initiator trägt diese Kosten
-privat: die Domain, Objektspeicher und Content-Auslieferung bei Scaleway in
-Frankreich sowie die API-Aufrufe, die die Prüfrunden auslösen. Keine Partei,
-keine Stiftung, keine Gewerkschaft, kein Unternehmen, keine öffentliche
-Stelle und keine andere Privatperson hat Geld, Dienstleistungen, Arbeitszeit
-oder Software zu dieser Kampagne beigetragen.
+"Keine" zu sagen wäre die einfachere Antwort, aber sie wäre nicht wahr. Der Betrieb
+dieser Website kostet Geld und der Initiator bezahlt dies persönlich: die Domain,
+den Objektspeicher und die Edge-Auslieferung (CDN) bei Scaleway in Frankreich sowie
+die API-Aufrufe, die die Prüfstufen verbrauchen. Stand 6. September 2026 sind keine kampagnenspezifischen Drittmittel oder
+Unterstützungen verzeichnet. Standardmäßige Plattformdienste zu gewöhnlichen
+Bedingungen, einschließlich GitHub und Cloudflare, werden unten offengelegt.
 
-Die Verordnung (EU) 2019/788 verpflichtet eine registrierte Initiative, jede
-Quelle anzugeben, deren Zuwendungen 500 EUR im Jahr übersteigen, und diese
-Erklärung aktuell zu halten, solange Unterschriften gesammelt werden. Diese
-Pflicht beginnt mit der Registrierung. Diese Offenlegung gilt ab sofort, in
-campaign/FUNDING.md, wo auch die vorab beschlossenen Regeln darüber stehen,
-was niemals angenommen wird.
+Die Verordnung (EU) 2019/788 verpflichtet eine registrierte Initiative, jede Quelle
+anzugeben, die mehr als 500 Euro pro Jahr bereitstellt, und diese Erklärung während
+der Sammlung von Unterstützungsbekundungen aktuell zu halten. Die Pflicht beginnt mit
+der Registrierung. Die Erklärung beginnt jetzt, in campaign/FUNDING.md, wo auch die
+vorab beschlossenen Regeln darüber festgehalten sind, was niemals angenommen wird.
 
 ## Ihre Daten
 
-Diese Seite setzt keine Cookies, führt keine Analyseskripte aus und lädt nichts von Dritten. Es gibt kein Einwilligungsbanner, weil es nichts gibt, in das einzuwilligen wäre.
+Diese Website setzt keine Cookies, verwendet keine Analyse-Skripte und lädt keine
+Inhalte von Drittanbietern. Es gibt kein Einwilligungsbanner, da es nichts gibt,
+worin einzuwilligen wäre.
 
-Was dennoch verarbeitet wird, offen gesagt statt weggeredet: Jeder Server, der eine Anfrage beantwortet, sieht die Adresse, von der sie kam; der Hoster führt daher kurzlebige technische Protokolle einschließlich IP-Adressen, um die Seiten auszuliefern und Missbrauch abzuwehren. Mehr ist es nicht; diese Protokolle werden zu keinem anderen Zweck gelesen, mit nichts zusammengeführt, nicht verkauft und nicht weitergegeben. Schalten Sie diese Seite von Papier auf Platte um, wird diese Wahl in den Speicher Ihres eigenen Browsers geschrieben und verlässt ihn nie.
+Was dennoch verarbeitet wird, klar benannt, statt es wegzureden: Jeder Server, der
+eine Anfrage beantwortet, sieht die IP-Adresse, von der sie stammt. Der Host
+speichert daher kurzlebige technische Protokolle einschließlich IP-Adressen, um die
+Seiten auszuliefern und sich gegen Missbrauch zu schützen. Das ist alles; diese
+Protokolle werden für keinen anderen Zweck ausgewertet, mit nichts zusammengeführt,
+nicht verkauft und nicht weitergegeben. Wenn Sie diese Website zwischen Papier- und
+Plattenansicht umschalten, wird diese Wahl im Speicher Ihres eigenen Browsers
+abgelegt und verlässt diesen nie.
 
-Jede Person in der Union darf fragen, was über sie gespeichert ist, und sich bei einer Aufsichtsbehörde beschweren; in Belgien ist das die Datenschutzbehörde. Wenn die Unterzeichnung beginnt, geschieht sie im Sammelsystem der Europäischen Kommission nach Verordnung (EU) 2019/788, nicht hier.
+Jede Person in der Union kann Auskunft über die über sie gespeicherten Daten
+verlangen und sich bei einer Aufsichtsbehörde beschweren; in Belgien ist dies die
+Datenschutzbehörde. Wenn die Unterschriftensammlung beginnt, erfolgt diese über das
+eigene Sammelsystem der Europäischen Kommission gemäß der Verordnung (EU) 2019/788,
+nicht hier.
 
-## Wo diese Seite liegt
+## Wo diese Website liegt
 
-Die Seiten, die Sie lesen, liegen in Scaleway Object Storage in der Region Paris und werden über Scaleways eigenes Netz ausgeliefert. Scaleway ist ein französisches Unternehmen; die Dateien, der Cache und das Zertifikat sind europäisch.
+Die Seiten, die Sie lesen, sind im Scaleway Object Storage in der Region Paris
+gespeichert und werden über das Netzwerk von Scaleway ausgeliefert. Scaleway ist ein
+französisches Unternehmen; die Dateien, der Cache und das Zertifikat sind europäisch.
 
-Zwei Teile sind es nicht, und eine Kampagne über europäisches Eigentum sollte sagen, welche: das DNS der Domain beantwortet Cloudflare, ein Unternehmen der Vereinigten Staaten, auch wenn keinerlei Seiteninhalt darüber läuft, und das Quellarchiv liegt bei GitHub, ebenfalls amerikanisch. Die einzige Ausnahme im Auslieferungsweg ist www.ownthemachine.eu, das auf diese Seite weiterleitet und selbst keinen Inhalt trägt.
+Zwei Bestandteile sind es nicht, und eine Kampagne über europäisches Eigentum sollte
+klar benennen, welche: Das DNS der Domain wird von Cloudflare verwaltet, einem
+US-Unternehmen, auch wenn keine Seiteninhalte darüber geleitet werden, und das
+Quell-Repository wird auf GitHub gehostet, ebenfalls aus den USA. Die einzige
+Ausnahme im Auslieferungspfad ist www.ownthemachine.eu, eine Weiterleitung auf diese
+Website ohne eigene Inhalte.
 
-Nichts hier hängt davon ab, dass das so bleibt. Die Seite ist ein statischer Build eines öffentlichen Archivs: sie lässt sich überall, von allen, in Minuten neu bauen und ausliefern.
+Nichts hier hängt davon ab, dass dies so bleibt. Die Website ist ein statisches
+Build eines öffentlichen Repositorys: Sie kann von jedermann innerhalb von Minuten
+überall neu erstellt und bereitgestellt werden.
 
-## Wo die Prüfung läuft
+## Wo die Prüfungen laufen
 
-Jedes Urteil im Register wurde von einem Modell erzeugt, und die
-Rechenleistung, die es erzeugt hat, untersteht einer eigenen Rechtsordnung.
-Bis zum 23. August 2026 liefen die Prüfrunden über OpenRouter, einen
-amerikanischen Router. Sie laufen nun über den europäischen Endpunkt von
-Requesty, auf Modellen, die in der Union gehostet werden, ohne jede
-Datenspeicherung und ohne dass die Entwürfe nach dem Aufruf aufbewahrt oder
-zum Training verwendet werden.
+Die automatisierten Urteile der Prüfstufen werden von Modellen erstellt; externes
+menschliches Feedback wird separat erfasst. Die Rechner, auf denen sie entstanden
+sind, unterliegen einer eigenen Rechtsordnung. Bis zum 23. August 2026 liefen die
+Prüfungen über OpenRouter, einen US-amerikanischen Router. Die Pipeline nutzt den
+europäischen Endpunkt von Requesty. EU-Hosting, keine Speicherung und keine Nutzung
+für Trainingszwecke bleiben die Standardanforderungen. Für die am 6. September 2026
+eingeführten Prüfungen öffentlichen oder zur Veröffentlichung bestimmten, nicht sensiblen Materials durch Fable 5.1 kann der Herausgeber die vom Router gemeldete 30-tägige Speicherung ausdrücklich für jeden einzelnen Prüflauf gestatten unter Beibehaltung des
+EU-Hostings und des Ausschlusses von Trainingsnutzung. Diese Ausnahme schließt private Korrespondenz, nichtöffentliche
+personenbezogene Daten und sensibles unveröffentlichtes Material aus; die
+öffentliche Nennung von Urhebern kann vorkommen.
 
-Das Programm verlässt sich darauf nicht. Bevor es ein Token ausgibt,
-liest es die eigene Angabe des Routers dazu, wo das Modell läuft und
-was mit dem Text geschieht, und es verweigert den Start, solange diese
-Angabe nicht die Europäische Union, keine Speicherung und keine
-Verwendung zum Training ausweist. Was es gelesen hat, wird in den
-Prüfbericht geschrieben, damit jedes Urteil den Beleg trägt und nicht
-die Zusicherung.
+Das Ausführungsprogramm verlässt sich nicht ungeprüft darauf. Bevor ein Token
+verbraucht wird, liest es die eigenen Angaben des Routers darüber aus, wo das Modell
+ausgeführt wird und was mit dem Text geschieht, und verweigert den Start, wenn das
+Modell fehlt oder die für diesen Durchlauf gewählten Vorgaben nicht erfüllt.
+Ausnahmen bei der Datenspeicherung müssen ausdrücklich erfolgen; sie ändern nichts
+an den Standardprüfungen. Was ausgelesen wurde, wird in das Prüfprotokoll
+geschrieben, sodass jedes Urteil den Nachweis statt bloßer Zusicherungen enthält.
 
-Eine Unterscheidung sollte scharf bleiben, denn um sie geht es in
-diesem Vorschlag. In Europa gehostet ist nicht in Europa gebaut. Die
-Modelle sind amerikanisch und laufen auf europäischer Infrastruktur
-nach europäischen Regeln, und von dem, was dieser Endpunkt anbietet,
-ist allein Mistral ein europäisches Labor. Eine Kampagne darüber, wem
-die Maschine gehört, sollte offen sagen, dass sie noch nicht auf einer
-Maschine läuft, die Europa gehört.
+Eine Unterscheidung sollte man genau im Auge behalten, denn um genau diese
+Unterscheidung geht es bei diesem Vorschlag. In Europa gehostet heißt nicht in Europa
+gebaut. Die Modelle sind US-amerikanisch und laufen auf europäischer Infrastruktur
+unter europäischen Regeln, und von den Angeboten dieses Endpunkts ist lediglich
+Mistral ein europäisches Labor. Eine Kampagne darüber, wem die Maschine gehört,
+sollte offen aussprechen, dass sie noch nicht auf einer Maschine läuft, die Europa
+gehört.
 
 ## Barrierefreiheit
 
-Ziel: WCAG 2.1 AA, mit vorgezogener Übernahme der WCAG-2.2-Kriterien zu
-Fokus-Erscheinungsbild und Zielgröße. Die Website ist vollständig per
-Tastatur bedienbar und respektiert die Einstellung für reduzierte
-Bewegung. Eine Barriere gefunden?
-[Melden Sie sie als Issue](https://github.com/ownthemachine/own-the-machine-site/issues).
+Zielvorgabe: WCAG 2.1 AA, wobei die WCAG 2.2-Kriterien für Fokusdarstellung und
+Zielgröße vorzeitig übernommen wurden. Die Website ist vollständig per Tastatur
+bedienbar und berücksichtigt die Systemeinstellung für reduzierte Bewegung. Haben
+Sie eine Barriere gefunden?
+[Eröffnen Sie ein Issue](https://github.com/ownthemachine/own-the-machine-site/issues).

@@ -1,101 +1,34 @@
 ---
-source: site/content/en/join.md
-source-commit: 3adc44a
-status: gate-reviewed
+source: content/en/join.md
+source-commit: 8d35a77
+source-sha256: 163bb03200d114b6f3f3db6cf80d8a59b74f6d5984a36cd09b2965d3e0a822a9
+status: machine-reviewed
 ---
 
-## Hoe de zaken er werkelijk voor staan
+## Hoe het er werkelijk voor staat
 
-Er wordt niets verzameld. Geen handtekening, geen toezegging, geen adres,
-geen geld. Geen enkele versie van dit ontwerp is ingediend bij de Europese
-Commissie en geen enkele is geregistreerd, wat u zelf kunt nagaan op de
-pagina [versies](/law/versions) in plaats van het van deze pagina aan te
-nemen.
+Per 6 september 2026 is er geen versie ingediend of geregistreerd bij de Commissie en worden er geen steunbetuigingen verzameld. Bekijk de pagina [versies](/law/versions) voor het registratiedossier. De werving van organisatoren loopt; belangstelling betekent niet dat de groep van organisatoren al is samengesteld.
 
-Wat dit project in dit stadium nodig heeft zijn geen aanhangers. Het zijn
-argumenten, en mensen die bereid zijn met naam genoemd te worden. Een
-burgerinitiatief wordt ingediend door een groep van ten minste zeven mensen
-die in ten minste zeven verschillende lidstaten wonen, en hun namen worden
-door de Commissie gepubliceerd. Die zeven mensen zijn er nog niet. Zolang
-dat zo is, is dit een ontwerp met één redacteur, en de eerlijke beschrijving
-van zijn positie is dat niemand die het er in het openbaar mee oneens is,
-het ooit heeft getoetst.
+Het EBI-forum heeft op 27 augustus onafhankelijk, niet-bindend advies verstrekt, en iemand met ruime EBI-ervaring heeft op 5 september gereageerd. Het openbare dossier bevat de gestelde vragen en de reacties van het project. Dit is externe feedback, geen goedkeuring door de Commissie. Het project heeft nog steeds onafhankelijke toetsing nodig en mensen die verantwoordelijkheid willen nemen voor de volgende fase.
 
-## Drie dingen die helpen, in volgorde van gewicht
+## Manieren om te helpen
 
-**Bestrijd de tekst.** Dat is meer waard dan instemming, en er is geen goede
-tweede. Het ontwerp is in elke beoordelingsronde op tegenspraak aangevallen,
-en door precies één mens, degene die het schreef. Elk bezwaar op deze site
-is door het project tegen zichzelf geschreven, een methode met een duidelijk
-plafond. Als u het gat vindt, is dat gat het antwoord dat dit dossier nodig
-heeft. Open een [issue of pull request](https://github.com/ownthemachine/own-the-machine/issues) en de discussie is vanaf de
-eerste zin openbaar, waar iedereen die het ontwerp aangaat het kan lezen.
+**Kritische vragen stellen over het voorstel.** Lees het ontwerp en breng een specifiek bezwaar naar voren. Openbare [issues en pull requests](https://github.com/ownthemachine/own-the-machine/issues) maken de discussie voor iedereen toegankelijk. Ook niet-openbare vragen zijn welkom.
 
-**Wees een van de zeven.** Bent u burger van de Unie, oud genoeg om te
-stemmen bij de Europese verkiezingen, en zou u overwegen uw naam aan een
-indiening te verbinden, zeg dat dan. U stemt vandaag nergens mee in, om de
-reden die hieronder staat.
+**Helpen organiseren.** Toon belangstelling voor de oprichtingsgroep, controle door moedertaalsprekers, toelichting op het voorstel of praktische coördinatie. U hoeft geen programmeur te zijn of het met elk artikel eens te zijn om een gesprek te beginnen.
 
-**Breng het in contact met een organisatie.** Een vakbondsorgaan, een
-academisch instituut, een stichting, een ngo met gezag op het gebied van
-automatisering, belastingen of kapitaalbezit. Een introductie is meer waard
-dan een steunbetuiging, en een vijandige lezing door een serieuze instelling
-is meer waard dan allebei.
+**Een organisatie betrekken.** Introducties, onafhankelijke toetsing en concrete toezeggingen van tijd of steun bij publicatie kunnen helpen vaststellen of een campagne haalbaar is. Een introductie houdt geen onderschrijving in.
 
-## Wat organisator zijn betekent, zonder omhaal
+## Wat het betekent om organisator te zijn
 
-De regels zijn die van de Commissie, niet die van dit project, en de
-gezaghebbende versie staat op [europa.eu](https://citizens-initiative.europa.eu/), niet hier. In grote lijnen:
-een groep organisatoren bestaat uit ten minste zeven natuurlijke personen,
-elk wonend in een andere lidstaat, elk oud genoeg om te stemmen bij de
-verkiezingen voor het Europees Parlement. De groep wijst een
-vertegenwoordiger en een plaatsvervanger aan. De namen van de organisatoren
-worden gepubliceerd in het openbare register van de Commissie. Leden van het
-Europees Parlement tellen niet mee voor de zeven.
+De groep van organisatoren vereist ten minste zeven EU-burgers die de kiesgerechtigde leeftijd voor de verkiezingen van het Europees Parlement hebben bereikt en in ten minste zeven verschillende lidstaten wonen. Zeven verschillende nationaliteiten zijn niet vereist. Europarlementariërs tellen niet mee voor het minimum. De groep wijst een vertegenwoordiger en een plaatsvervanger aan; de namen van de organisatoren worden gepubliceerd in het register van de Commissie. De [officiële regels](https://citizens-initiative.europa.eu/how-it-works_en) bepalen wie in aanmerking komt en welke verantwoordelijkheden gelden.
 
-Wat het **niet** betekent, althans nog niet:
+Nu belangstelling tonen is geen instemming met indiening. Voordat de groep zich vastlegt, moet zij overeenstemming bereiken over haar doelstellingen, verantwoordelijkheden, financieringsafspraken en resterende juridische risico's. De gepubliceerde toetsingsfasen blijven van toepassing. Het ondertekenen van een geregistreerd initiatief zou de geregistreerde doelstellingen steunen; de gedetailleerde verordening is een illustratief mechanisme, geen reeds aangenomen wet.
 
-- **Het is geen verbintenis.** Dit project heeft openbare toetsmomenten met
-  afbreekcriteria. Aan niemand wordt gevraagd organisator te zijn voordat de
-  kwestie van de registreerbaarheid beantwoord is, en als het antwoord
-  slecht is wordt het dossier gepubliceerd als modelwet en stopt het
-  initiatief. Zeggen dat u het zou overwegen kost u niets en verplicht u tot
-  niets.
-- **Het is geen instemming met elk artikel.** Een organisator dient een
-  tekst in; een organisator hoeft die niet geschreven te hebben en hoeft die
-  niet in alles goed te vinden. Zou u hem alleen met wijzigingen indienen,
-  dan is dat een nuttiger bericht dan instemming, en het hoort in het
-  openbaar thuis waar over die wijzigingen gediscussieerd kan worden.
-- **Het is geen fondsenwerving.** Er valt nergens aan te doneren. De
-  financiële positie staat op de pagina [over](/about) en die luidt dat er geen
-  organisatie, geen rekening en geen giften zijn.
+## Contact opnemen
 
-## Hoe u het laat weten
-
-Twee wegen, en de openbare is de betere.
-
-**In het openbaar**, wat de voorkeur heeft omdat het antwoord dan leesbaar
-is voor iedereen die dezelfde vraag overweegt: open een issue op de
-[repository](https://github.com/ownthemachine/own-the-machine/issues) en zeg in welke lidstaat u woont, wat u zou inbrengen, en
-of u zou overwegen met naam genoemd te worden.
-
-**Per e-mail**, als de vraag werkelijk persoonlijk is of als u liever niet
-in de openbaarheid treedt voordat u een besluit hebt genomen: schrijf naar
-[hello@ownthemachine.eu](mailto:hello@ownthemachine.eu). Het helpt om dezelfde drie dingen te
-vermelden.
-
-Hoe dan ook, het nuttigste bericht dat iemand kan sturen is dat wat begint
-met "dit gaat niet werken, omdat".
+Schrijf naar [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu), of open een openbaar issue als u de voorkeur geeft aan een openbare discussie. Beide wegen staan open. Voor een vraag over deelname als organisator helpt het om uw lidstaat van verblijf, uw mogelijke bijdrage en uw vragen te vermelden. Er is geen identiteitsbewijs nodig om belangstelling te tonen, en een identiteitsbewijs hoort ook niet thuis in een openbaar issue.
 
 ## Wat er gebeurt met wat u stuurt
 
-Een issue is openbaar, blijvend, en door u geschreven, dus het bevat precies
-wat u er zelf in hebt gezet.
-
-Een e-mail bereikt de redacteur en verder niemand. Hij wordt niet aan een
-lijst toegevoegd, want er is geen lijst. Hij wordt niet doorgestuurd, niet
-gepubliceerd, en niet gebruikt om u iets te sturen waar u niet om gevraagd
-hebt. Als er ooit een groep organisatoren wordt gevormd, zal ieder die
-daarin zit dat zelf schriftelijk hebben gezegd, op dat moment en niet
-eerder. De verwerkingsverantwoordelijke en uw rechten staan beschreven op de
-pagina [over](/about).
+Een GitHub-issue is openbaar. Een e-mail bereikt de redacteur; deze wordt niet toegevoegd aan een mailinglijst, doorgestuurd of gepubliceerd zonder uw toestemming. Er is geen mailinglijst of donatieformulier. Contactgegevens worden gebruikt om de vraag te beantwoorden, niet om ongevraagde campagneberichten te sturen. Zie [over ons](/about) voor de verwerkingsverantwoordelijke en uw rechten. Elke latere wijziging van deze regelingen moet worden toegelicht voordat deze van kracht wordt.

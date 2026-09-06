@@ -1,93 +1,39 @@
 ---
-source: site/content/en/press.md
-source-commit: 2ac5f03
-status: gate-reviewed
+source: content/en/press.md
+source-commit: 8d35a77
+source-sha256: 179a3ba1ed99574760c690a4637a0615541eec94044f40f4a650cf266d4e7986
+status: machine-reviewed
 ---
 
 ## Wat dit is
 
-Own the Machine is een opensourceontwerp van een EU-verordening, voorbereid
-als basis voor een mogelijk Europees burgerinitiatief. Het zou bedrijven
-waarvan de marktwaarde minstens tachtig keer hun jaarlijkse loonsom
-bedraagt, het kenmerk van productie die van arbeid is losgekoppeld,
-verplichten eenmalig stemrechtloze aandelen ter waarde van 3 % van hun
-kapitaal uit te geven aan een Europese Kapitaalreserve van de Burgers die
-gelijk toebehoort aan elke volwassen EU-burger. Niets is betaalbaar in geld,
-niets loopt door enige overheidsbegroting, en de verplichting wordt pas
-opeisbaar wanneer de eigenaren van een bedrijf zelf verzilveren.
+Own the Machine is een opensource-ontwerp van een EU-verordening dat een voorgesteld Europees burgerinitiatief vergezelt. De voorgestelde doelstellingen vragen de Commissie om mechanismen te beoordelen en voor te stellen waarmee burgers kunnen participeren in productiviteitswinsten van hypergeautomatiseerde productie. Het gedetailleerde mechanisme van de 3%-warrant is illustratief; er is niets geregistreerd of aangenomen.
 
-## Standaardtekst, vrij te hergebruiken
+## Basistekst, vrij te hergebruiken
 
-Own the Machine is een burgerontwerp van een EU-verordening die elke
-volwassen EU-burger een gelijk belang zou geven in de bedrijven waarvan de
-waarde uit machines komt in plaats van uit mensen. Het is in het openbaar
-opgesteld en op tegenspraak getoetst, met elk bezwaar en elk reviewoordeel
-gepubliceerd, en voorbereid als basis voor een mogelijk Europees
-burgerinitiatief. Het is door geen enkele EU-instelling bekrachtigd. De
-volledige tekst, in vijf talen, staat op ownthemachine.eu.
+Own the Machine stelt een bredere burgerparticipatie voor in de opbrengsten van sterk geautomatiseerde productie. Het illustratieve ontwerp zou een gemeenschappelijke Reserve oprichten die stemrechtloze bedrijfsaandelen houdt en gelijke, niet-overdraagbare rechten op uitkeringen toekent aan EU-burgers van 18 jaar of ouder. Betalingen zouden afhangen van beschikbare inkomsten en kunnen nul zijn. De tekst, bezwaren en het toetsingsverloop zijn openbaar op ownthemachine.eu. Geen enkele EU-instelling onderschrijft het initiatief.
 
-## De cijfers die ertoe doen
+## De cijfers en hun beperkingen
 
-- Aanwijzingstoets: een marktwaarde van minstens tachtig keer de jaarlijkse
-  gecontroleerde loonsom, plus 75 miljard euro waarde of 7,5 miljard euro
-  EU-omzet, in minstens drie lidstaten, twee opeenvolgende boekjaren lang.
-- Vermoedelijk aangewezen op cijfers van augustus 2026: wereldwijd ruwweg
-  negen bedrijven, samen ongeveer 20 biljoen euro waard, verspreid over de
-  Verenigde Staten, Taiwan en, nabij de drempel, de EU zelf.
-- De aanspraak: 3 % per bedrijf, eenmalig, als stemrechtloze aandelen, op
-  het moment van een beursgang, verkoop of gelijkwaardige verzilvering.
-- Het doel, in de wet zelf: een tegoed per burger van de orde van zes
-  maanden mediaan besteedbaar inkomen in de EU binnen een generatie. 3 %
-  is het kleinste gehele percentage dat dit op het gepubliceerde model
-  haalt.
-- Uitkeringen beginnen bewust dicht bij nul en groeien over tientallen
-  jaren; het kapitaal van het fonds wordt volgens de wet in stand gehouden
-  voordat iets wordt uitgekeerd.
+- Het weerlegbare kwantitatieve vermoeden van het ontwerp combineert 75 miljard EUR aan waarde of 7,5 miljard EUR aan EU-omzet, activiteit in ten minste drie lidstaten, en een waarde van ten minste tachtigmaal de wereldwijde arbeidsbeloning, aangehouden gedurende twee boekjaren. Onderzoek kan ook leiden tot aanwijzing onder de drempels.
+- Een warrant wordt uitgegeven binnen drie maanden na aanwijzing. Deze wordt uitoefenbaar bij de eerste liquiditeitsgebeurtenis, bij aandeelhoudersonttrekking van meer dan 25 % van de betrokken omzet over drie opeenvolgende boekjaren, of bij de uiterste termijn van zeven jaar na uitgifte. Artikel 5 stelt de precieze voorwaarden en het plafond vast.
+- De warrant geeft de Reserve het recht om tegen nominale waarde in te schrijven op aandelen die 3 % van het volledig verwaterde kapitaal vertegenwoordigen. Aandelenuitgifte is geen contant inkomen dat direct kan worden uitgekeerd.
+- De kapitaaldoelstelling van het ontwerp ligt in de orde van grootte van zes maanden mediaan equivalent beschikbaar inkomen in de EU per burger, binnen één generatie. Het is een streefdoel, geen gegarandeerd resultaat; projecties berusten op onzekere aannames over welke ondernemingen eronder vallen, nieuwe belangen, rendementen en kosten.
 
-Elk cijfer hierboven is terug te voeren op een gebronde, reproduceerbare
-notitie in de openbare bewijsbasis, en het model achter de projecties
-draait live in de simulator van de site.
+Gebruik het actuele [bewijsmateriaal](/evidence) en de [wettekst](/law) voor definities en gedateerde schattingen. De simulator toont voorwaardelijke scenario's, geen voorspelling, betrouwbaarheidsinterval of waardering van een persoonlijke aanspraak.
 
-## De status, zonder omhaal
+## Status per 6 september 2026
 
-Een ontwerp. Er is niets ingediend bij de Europese Commissie, niets
-geregistreerd en nergens worden handtekeningen verzameld. Een vraag over
-registreerbaarheid ligt bij het Forum voor het Europees burgerinitiatief.
-Een initiatief zou wettelijk een groep van minstens zeven organisatoren uit
-zeven lidstaten vergen; die groep bestaat nog niet. Het project publiceert
-zijn toetsmomenten en afbreekcriteria en stopt openlijk als die falen.
+Geen indiening, registratie of verzameling van handtekeningen. Het EBI-forum heeft op 27 augustus onafhankelijk, niet-bindend advies verstrekt; iemand met ruime EBI-ervaring heeft op 5 september gereageerd. De werving van organisatoren en verdere toetsing lopen door volgens de gepubliceerde toetsingsfasen. Er is geen samengestelde groep van organisatoren opgetekend. Een groep van organisatoren vereist in aanmerking komende EU-burgers die in zeven verschillende lidstaten wonen, niet noodzakelijk zeven verschillende nationaliteiten.
 
-## Wat dit niet is
+## Juridische en praktische beperkingen
 
-- Geen EU-document, en niet bekrachtigd, beoordeeld of gepubliceerd door
-  enige EU-instelling.
-- Geen belasting, heffing of begrotingsinstrument: geen geld, geen
-  schatkist, geen overheidsuitgaven.
-- Geen universeel basisinkomen: het bouwt eigendom op, en uitkeringen zijn
-  het inkomen dat dat eigendom opbrengt.
-- Geen fonds met stemrecht: de Reserve kan nooit stemmen, bestuurszetels
-  innemen of enig bedrijf aansturen.
-- Geen belofte van snel geld: uitkeringen beginnen dicht bij nul en hebben
-  een generatie nodig om betekenisvol te worden, en de site zegt dat op
-  elke pagina waar het ertoe doet.
+Het ontwerp maakt gebruik van aandelen en houdt activa buiten openbare begrotingen. De mogelijke fiscale kwalificatie en de voorgestelde Verdragsgrondslagen blijven omstreden; het advies van het EBI-forum is geen goedkeuring door de Commissie. Juridische bescherming tegen het doorsluizen van middelen kan niet garanderen dat toekomstige wetgevers de regels nooit wijzigen. De Reserve zou geen stem- of zeggenschapsrechten hebben. De individuele aanspraak zou niet kunnen worden verkocht, verpand of afgekocht; betaling zou registratie bij een nationaal vehikel vereisen. Succes als EBI zou behandeling en een antwoord verzekeren, geen automatische vaststelling van deze verordening.
 
-## Citeerbare uitspraak
+## Documenten en contact
 
-Van David Vanheeswijck, initiatiefnemer: "Als automatisering werkelijk het
-meeste werk overneemt, horen Europeanen een aandeel te bezitten in wat hen
-vervangt, en zo niet, dan is deze wet geschreven om zich terug te trekken.
-Hoe dan ook is de tekst openbaar, wordt elke aanval erop gepubliceerd, en
-wie het gat vindt dat wij hebben gemist, verbetert de wet door het te
-zeggen."
-
-## Materiaal en contact
-
-- Voorbeeldafbeeldingen voor sociale media, voor elke pagina en in vijf
-  talen, staan onder ownthemachine.eu/og/ en mogen in berichtgeving worden
-  hergebruikt.
-- Het volledige ontwerp is als PDF en EPUB te downloaden van de
-  [wetpagina](/law), vastgepind op een versie-aanduiding.
-- Alle tekst is CC BY-SA 4.0; de site en de gereedschappen zijn open source.
-- Contact: [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu). Eén persoon beantwoordt dit adres;
-  een persdienst is er nog niet, en een antwoord op dezelfde dag is
-  realistisch.
+- Openbare teksten en bronmateriaal zijn beschikbaar zonder dat iets hoeft te worden gekocht. Het belang van de initiatiefnemer bij zijn boek wordt vermeld op [over ons](/about).
+- Voorbeeldafbeeldingen voor sociale media zijn beschikbaar onder ownthemachine.eu/og/ in de vijf talen van de website.
+- PDF- en EPUB-downloads op de [wetpagina](/law) vermelden de ontwerpversie.
+- Tekst valt onder CC BY-SA 4.0; de website en tools zijn opensource.
+- Contact: [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu). David Vanheeswijck beantwoordt berichten; er is geen persdienst of gegarandeerde reactietijd.

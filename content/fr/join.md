@@ -1,101 +1,74 @@
 ---
-source: site/content/en/join.md
-source-commit: 3adc44a
-status: gate-reviewed
+source: content/en/join.md
+source-commit: 8d35a77
+source-sha256: 163bb03200d114b6f3f3db6cf80d8a59b74f6d5984a36cd09b2965d3e0a822a9
+status: machine-reviewed
 ---
 
-## Où en est réellement ce projet
+## Où en est réellement le projet
 
-Rien n'est recueilli. Aucune signature, aucun engagement, aucune adresse,
-aucun argent. Aucune version de ce projet n'a été déposée auprès de la
-Commission européenne et aucune n'est enregistrée, ce que vous pouvez
-vérifier vous-même sur la page [versions](/law/versions) plutôt que de le
-croire sur parole ici.
+Au 6 septembre 2026, aucune version n'a été déposée ou enregistrée auprès de la
+Commission et aucune déclaration de soutien n'est collectée. Consultez la page des
+[versions](/law/versions) pour l'historique d'enregistrement. Le recrutement des
+organisateurs est en cours ; manifester son intérêt ne signifie pas que le groupe
+statutaire est déjà constitué.
 
-Ce dont ce projet a besoin à ce stade, ce ne sont pas des soutiens. Ce sont
-des arguments, et des personnes prêtes à être nommées. Une initiative
-citoyenne est déposée par un groupe d'au moins sept personnes résidant dans
-au moins sept États membres différents, et leurs noms sont publiés par la
-Commission. Ces sept personnes n'existent pas encore. Tant qu'il en va
-ainsi, ceci reste un projet avec un seul rédacteur, et la description
-honnête de sa situation est qu'il n'a encore été mis à l'épreuve par aucun
-contradicteur public.
+Le Forum de l'ICE a fourni un avis indépendant et non contraignant le 27 août, et un
+spécialiste expérimenté des ICE a répondu le 5 septembre. Le dossier public comprend
+les questions soulevées et les réponses du projet. Il s'agit de retours extérieurs,
+non d'une approbation par la Commission. Le projet requiert encore un examen
+indépendant et des personnes prêtes à assumer la responsabilité de sa prochaine
+étape.
 
-## Trois façons d'aider, par ordre d'utilité
+## Comment aider
 
-**Attaquez le texte.** Cela vaut mieux que l'accord, et de loin. Le projet a
-été attaqué à chaque étape, par une relecture contradictoire et par
-exactement un être humain, celui qui l'a écrit. Chaque objection de ce site
-a été écrite par le projet contre lui-même, méthode dont le plafond est
-évident. Si vous trouvez la faille, c'est de cette faille que ce dossier a
-besoin. Ouvrez une [issue ou une pull request](https://github.com/ownthemachine/own-the-machine/issues) et l'argument est public
-dès la première phrase, là où toutes les personnes que le projet concerne
-peuvent le lire.
+**Questionner la proposition.** Lisez le texte et soulevez une objection précise.
+Les [tickets et pull requests publics](https://github.com/ownthemachine/own-the-machine/issues)
+permettent à chacun de suivre la discussion. Les questions privées sont également
+les bienvenues.
 
-**Soyez l'un des sept.** Si vous êtes citoyen de l'Union, en âge de voter
-aux élections européennes, et que vous envisageriez d'associer votre nom à
-un dépôt, dites-le. Vous ne vous engagez à rien aujourd'hui, pour la raison
-exposée plus bas.
+**Aider à organiser.** Exprimez votre intérêt pour rejoindre le groupe fondateur, la
+relecture en langue maternelle, l'explication de la proposition ou la coordination
+pratique. Il n'est pas nécessaire d'être programmeur ou d'approuver chaque article
+pour entamer le dialogue.
 
-**Mettez-le en rapport avec une organisation.** Une organisation syndicale,
-un institut universitaire, une fondation, une ONG ayant une autorité sur
-l'automatisation, la fiscalité ou la propriété du capital. Une mise en
-relation vaut mieux qu'un soutien, et une lecture hostile par une
-institution sérieuse vaut mieux que les deux.
+**Mettre en relation une organisation.** Les mises en relation, les examens
+indépendants et les engagements concrets de temps ou de soutien à la publication
+peuvent aider à déterminer la faisabilité d'une campagne. Une mise en relation ne
+vaut pas soutien.
 
-## Ce qu'être organisateur veut dire, sans détour
+## Ce qu'implique le rôle d'organisateur
 
-Les règles sont celles de la Commission, non celles de ce projet, et la
-version qui fait foi se trouve sur [europa.eu](https://citizens-initiative.europa.eu/), pas ici. Dans les
-grandes lignes : un groupe d'organisateurs compte au moins sept personnes
-physiques, chacune résidant dans un État membre différent, chacune en âge de
-voter aux élections au Parlement européen. Le groupe désigne un représentant
-et un suppléant. Les noms des organisateurs sont publiés au registre public
-de la Commission. Les députés au Parlement européen ne comptent pas dans les
-sept.
+Le groupe statutaire doit compter au moins sept citoyens de l'Union ayant l'âge de
+voter aux élections du Parlement européen et résidant dans au moins sept États
+membres différents. Il n'est pas nécessaire d'avoir sept nationalités différentes.
+Les députés européens ne comptent pas dans ce minimum de sept. Le groupe désigne un
+représentant et un suppléant ; les noms des organisateurs sont publiés au registre de
+la Commission. Les [règles officielles](https://citizens-initiative.europa.eu/how-it-works_en)
+régissent l'éligibilité et les responsabilités.
 
-Ce que cela ne veut **pas** dire, du moins pas encore :
+Manifester son intérêt maintenant n'équivaut pas à accepter de déposer le projet.
+Avant de s'engager, le groupe doit s'accorder sur ses objectifs, ses responsabilités,
+son mode de financement et les risques juridiques résiduels. Les étapes de contrôle
+publiées restent applicables. Signer une initiative enregistrée marquerait un soutien
+à ses objectifs enregistrés ; le règlement détaillé est un mécanisme indicatif, non
+une loi déjà adoptée.
 
-- **Ce n'est pas un engagement.** Ce projet a des jalons publiés, assortis
-  de critères d'abandon. Personne n'est invité à devenir organisateur avant
-  que la question de l'enregistrabilité ne soit tranchée, et si la réponse
-  est mauvaise le dossier est publié comme loi modèle et l'initiative
-  s'arrête. Dire que vous l'envisageriez ne vous coûte rien et ne vous
-  engage à rien.
-- **Ce n'est pas une approbation de chaque article.** Un organisateur dépose
-  un texte ; il n'a pas à l'avoir écrit ni à l'approuver en tout point. Si
-  vous ne le déposeriez qu'avec des modifications, c'est un message plus
-  utile que l'accord, et sa place est en public, là où ces modifications
-  peuvent être discutées.
-- **Ce n'est pas une collecte de fonds.** Il n'y a aucune structure à
-  laquelle donner. La situation financière est exposée sur la page [à
-  propos](/about) : il n'y a ni organisation, ni compte, ni dons.
+## Comment prendre contact
 
-## Comment le faire savoir
+Écrivez à [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu), ou ouvrez un
+ticket public si vous préférez une discussion ouverte. Les deux démarches sont les
+bienvenues. Pour une demande relative à l'organisation, il est utile d'indiquer votre
+État membre de résidence, ce que vous pourriez apporter et vos questions. Aucun
+document d'identité n'est requis pour manifester son intérêt, et aucun ne doit être
+publié dans un ticket public.
 
-Deux voies, et la voie publique est la meilleure.
+## Ce qu'il advient de vos messages
 
-**En public**, ce qui est préférable car la réponse devient lisible par
-toutes les personnes qui pèsent la même question : ouvrez une issue sur le
-[dépôt](https://github.com/ownthemachine/own-the-machine/issues) et indiquez dans quel État membre vous résidez, ce que vous
-apporteriez, et si vous envisageriez d'être nommé.
-
-**Par courriel**, si la question est d'ordre strictement personnel ou si
-vous préférez ne pas vous exposer publiquement avant d'avoir pris votre
-décision : écrivez à [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu). Il est utile d'y dire
-les trois mêmes choses.
-
-Dans les deux cas, le message le plus utile que l'on puisse envoyer est
-celui qui commence par « cela ne marchera pas, parce que ».
-
-## Ce qu'il advient de ce que vous envoyez
-
-Une issue est publique, de façon permanente, et écrite par vous : elle
-contient donc exactement ce que vous avez choisi d'y mettre.
-
-Un courriel parvient au rédacteur et à personne d'autre. Il n'est ajouté à
-aucune liste, puisqu'il n'y a pas de liste. Il n'est ni transmis, ni publié,
-ni utilisé pour vous envoyer quoi que ce soit que vous n'avez pas demandé.
-Si un groupe d'organisateurs se constitue un jour, chacun de ses membres
-l'aura dit lui-même, par écrit, à ce moment-là et pas avant. Le responsable
-du traitement et vos droits sont décrits sur la page [à propos](/about).
+Un ticket GitHub est public. Un courriel parvient à l'éditeur ; il n'est pas ajouté à
+une liste de diffusion, ni transmis ou publié sans votre accord. Il n'existe ni liste
+de diffusion ni formulaire de don. Les coordonnées sont utilisées pour répondre à
+votre demande, et non pour envoyer des messages de campagne non sollicités. Consultez
+la page [à propos](/about) pour connaître le responsable du traitement et vos droits.
+Tout changement ultérieur apporté à ces dispositions devra être expliqué avant de
+prendre effet.

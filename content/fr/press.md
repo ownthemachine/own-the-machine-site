@@ -1,98 +1,87 @@
 ---
-source: site/content/en/press.md
-source-commit: 2ac5f03
-status: gate-reviewed
+source: content/en/press.md
+source-commit: 8d35a77
+source-sha256: 179a3ba1ed99574760c690a4637a0615541eec94044f40f4a650cf266d4e7986
+status: machine-reviewed
 ---
 
-## Ce que c'est
+## De quoi s'agit-il
 
-Own the Machine est un projet open source de règlement de l'UE, préparé
-comme base d'une possible initiative citoyenne européenne. Il obligerait
-les entreprises dont la valeur de marché atteint au moins quatre-vingts
-fois leur masse salariale annuelle, la signature d'une production
-découplée du travail, à émettre, une seule fois, des actions sans droit de
-vote représentant 3 % de leur capital au profit d'une Réserve européenne
-de capital des citoyens appartenant à parts égales à chaque adulte citoyen
-de l'UE. Rien n'est payable en argent, rien ne transite par aucun budget
-public, et l'obligation n'est exigible que lorsque les propriétaires d'une
-entreprise encaissent eux-mêmes.
+Own the Machine est un projet open source de règlement de l'Union européenne
+accompagnant une proposition d'initiative citoyenne européenne. Les objectifs
+proposés demandent à la Commission d'évaluer et de proposer des mécanismes pour faire
+participer les citoyens aux gains de productivité issus de la production
+hyper-automatisée. Le mécanisme détaillé de bon de souscription de 3 % est fourni à
+titre indicatif ; rien n'a été enregistré ni adopté.
 
-## Texte type, libre de réemploi
+## Texte de présentation, libre de réutilisation
 
-Own the Machine est un projet citoyen de règlement de l'UE qui donnerait à
-chaque adulte de l'UE une part égale dans les entreprises dont la valeur
-vient des machines plutôt que des personnes. Rédigé au grand jour et
-soumis à une relecture antagoniste, chaque objection et chaque verdict de
-relecture étant publiés, il est préparé comme base d'une possible
-initiative citoyenne européenne. Il n'est approuvé par aucune institution
-de l'UE. Le texte complet, en cinq langues, est sur ownthemachine.eu.
+Own the Machine propose une participation citoyenne élargie aux gains de la
+production hautement automatisée. Son projet indicatif créerait une Réserve commune
+détenant des actions d'entreprises sans droit de vote et des droits égaux et
+incessibles aux distributions pour les citoyens de l'Union âgés de 18 ans ou plus.
+Les versements dépendraient des revenus disponibles et pourraient être nuls. Le texte,
+les objections et l'historique des revues sont publics sur ownthemachine.eu. Aucune
+institution de l'Union n'apporte son soutien à l'initiative.
 
-## Les chiffres qui comptent
+## Les chiffres et leurs limites
 
-- Test de désignation : une valeur de marché d'au moins quatre-vingts fois
-  la masse salariale annuelle auditée, plus 75 milliards d'euros de valeur
-  ou 7,5 milliards d'euros de chiffre d'affaires dans l'UE, dans au moins
-  trois États membres, pendant deux exercices consécutifs.
-- Présumées désignées sur les chiffres d'août 2026 : environ neuf
-  entreprises dans le monde, environ 20 000 milliards d'euros de valeur
-  cumulée, réparties entre les États-Unis, Taïwan et, près du seuil, l'UE
-  elle-même.
-- La part : 3 % par entreprise, une seule fois, en actions sans droit de
-  vote, au moment d'une cotation, d'une vente ou d'un encaissement
-  équivalent.
-- L'objectif, inscrit dans la loi : un avoir par citoyen de l'ordre de six
-  mois de revenu disponible médian de l'UE en une génération. 3 % est le
-  plus petit pourcentage entier qui l'atteint sur le modèle publié.
-- Les distributions commencent près de zéro à dessein et croissent sur
-  des décennies ; le capital du fonds est préservé par la loi avant tout
-  versement.
+- La présomption quantitative réfutable du projet combine 75 milliards d'euros de
+  valorisation ou 7,5 milliards d'euros de chiffre d'affaires dans l'Union, une
+  activité dans au moins trois États membres, et une valorisation représentant au
+  moins quatre-vingts fois la rémunération du travail à l'échelle mondiale, maintenue pendant deux
+  exercices. Une enquête peut également conduire à une désignation en
+  deçà de ces seuils.
+- Un bon de souscription est émis dans les trois mois suivant la désignation. Il se
+  cristallise lors du premier événement de liquidité, lors d'une extraction de valeur
+  par les actionnaires dépassant 25 % du chiffre d'affaires couvert sur trois
+  exercices consécutifs, ou à l'échéance butoir de sept ans après l'émission.
+  L'article 5 fixe les conditions précises et le plafond.
+- Le bon de souscription confère à la Réserve le droit de souscrire, à la valeur
+  nominale, des actions représentant 3 % du capital entièrement dilué. L'émission
+  d'actions ne constitue pas un revenu en numéraire disponible pour une distribution
+  immédiate.
+- L'objectif de capital prévu par le projet est de l'ordre, par citoyen, de six mois
+  de revenu disponible équivalent médian dans l'Union, à l'horizon d'une génération. Il s'agit d'un
+  objectif et non d'un résultat garanti ; les projections reposent sur des hypothèses
+  incertaines concernant le périmètre des entreprises, les nouvelles prises de
+  participation, les rendements et les coûts.
 
-Chaque chiffre ci-dessus renvoie à une note sourcée et reproductible dans
-la base de preuves publique, et le modèle derrière les projections tourne
-en direct dans le simulateur du site.
+Consultez les [données empiriques](/evidence) et le [texte juridique](/law) actuels
+pour les définitions et les estimations datées. Le simulateur présente des scénarios
+conditionnels et non une prévision, un intervalle de confiance ou une valorisation de
+votre droit individuel.
 
-## L'état, sans détour
+## État d'avancement au 6 septembre 2026
 
-Un projet. Rien n'a été déposé auprès de la Commission européenne, rien
-n'est enregistré, aucune signature n'est recueillie où que ce soit. Une
-demande d'avis sur les conditions d'enregistrement est pendante devant le
-Forum de l'initiative citoyenne européenne. Une initiative exigerait
-légalement un groupe d'au moins sept organisateurs résidant dans sept États
-membres ; ce groupe n'existe pas encore. Le projet publie ses jalons et ses
-critères d'abandon et s'arrête publiquement s'ils échouent.
+Aucun dépôt, enregistrement ou collecte de signatures. Le Forum de l'ICE a fourni un
+avis indépendant et non contraignant le 27 août ; un spécialiste expérimenté des ICE
+a répondu le 5 septembre. Le recrutement des organisateurs et l'examen critique se poursuivent selon les étapes de contrôle publiées. Aucun groupe
+d'organisation constitué n'est enregistré. Un groupe statutaire nécessite des
+citoyens de l'Union éligibles résidant dans sept États membres différents, et non
+obligatoirement sept nationalités distinctes.
 
-## Ce que ce n'est pas
+## Limites juridiques et pratiques
 
-- Pas un document de l'UE, ni approuvé, examiné ou publié par une
-  institution de l'UE.
-- Pas un impôt, un prélèvement ou un instrument budgétaire : pas
-  d'argent, pas de trésor public, pas de dépense publique.
-- Pas un revenu de base universel : il construit de la propriété, et les
-  versements sont le revenu que cette propriété produit.
-- Pas un fonds avec des voix : la Réserve ne peut jamais voter, siéger
-  aux conseils ni diriger aucune entreprise.
-- Pas une promesse d'argent rapide : les versements commencent près de
-  zéro et mettent une génération à devenir substantiels, et le site le dit
-  sur chaque page où cela compte.
-
-## Déclaration citable
-
-De David Vanheeswijck, initiateur : « Si l'automatisation prend vraiment
-l'essentiel du travail, les Européens devraient posséder une part de ce
-qui les remplace, et sinon, cette loi est écrite pour s'effacer. Dans les
-deux cas le texte est public, chaque attaque contre lui est publiée, et
-quiconque trouve la faille que nous avons manquée améliore la loi en le
-disant. »
+Le dispositif repose sur des actions et conserve les actifs en dehors des budgets
+publics. Son éventuelle qualification fiscale et les bases juridiques proposées dans
+les traités restent contestées ; l'avis du Forum ne vaut pas approbation par la
+Commission. Les protections juridiques contre les détournements ne peuvent garantir
+que de futurs législateurs ne modifieront jamais les règles. La Réserve ne détiendrait
+aucun droit de vote ou de gestion. Le droit individuel ne pourrait être vendu, nanti ou
+racheté ; le paiement nécessiterait une inscription auprès d'un véhicule national.
+L'aboutissement d'une ICE garantirait un examen et une réponse, non l'adoption
+automatique de ce règlement.
 
 ## Ressources et contact
 
-- Les images d'aperçu social de chaque page, en cinq langues, sont
-  servies sous ownthemachine.eu/og/ et peuvent être réutilisées dans les
-  articles.
-- Le projet complet est téléchargeable en PDF et EPUB depuis la [page de
-  la loi](/law), épinglé à un identifiant de version.
-- Tout le texte est en CC BY-SA 4.0 ; le site et les outils sont open
-  source.
-- Contact : [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu). Une
-  seule personne répond à cette adresse ; il n'y a pas encore de service
-  de presse, et une réponse le jour même est réaliste.
+- Les textes publics et les sources sont accessibles sans aucun achat. L'intérêt de
+  l'initiateur dans son livre est explicité sur la page [à propos](/about).
+- Des images d'aperçu pour les réseaux sociaux sont disponibles sous
+  ownthemachine.eu/og/ dans les cinq langues du site.
+- Les téléchargements PDF et EPUB sur la [page du règlement](/law) identifient la version
+  du projet.
+- Le texte est sous licence CC BY-SA 4.0 ; le site web et les outils sont open source.
+- Contact : [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu).
+  C'est David Vanheeswijck qui répond ; il n'y a pas de service de presse ni de délai
+  de réponse garanti.

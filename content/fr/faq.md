@@ -1,117 +1,118 @@
 ---
-source: site/content/en/faq.md
-source-commit: 2ac5f03
-status: gate-reviewed
+source: content/en/faq.md
+source-commit: 31760e8
+source-sha256: d1acba7b811faa0b26723c276bc9f228550028f5f5c6d7ac6200f529e4636901
+status: machine-reviewed
 ---
 
 ## Qu'est-ce que c'est, en une phrase ?
 
-Un projet de loi de l'UE en vertu duquel les entreprises dont la valeur
-provient massivement des machines plutôt que des personnes émettraient,
-une seule fois, des actions représentant 3 % d'elles-mêmes au profit d'un
-fonds appartenant à parts égales à chaque adulte citoyen de l'UE.
+Une proposition visant à faire participer les citoyens aux gains d'une production
+fortement automatisée, accompagnée d'un projet indicatif de loi européenne créant
+un fonds commun qui détient des actions d'entreprises et verse des distributions
+égales aux citoyens adultes de l'Union.
 
-## Est-ce que je reçois de l'argent ? Combien, et quand ?
+## Vais-je recevoir de l'argent ? Combien, et quand ?
 
-À terme, et honnêtement : pas vite. Le fonds constitue d'abord un
-patrimoine et ne verse que ce que ce patrimoine rapporte, selon la loi.
-Les versements des premières années sont proches de zéro à dessein, parce
-que le fonds doit préserver son capital avant de distribuer quoi que ce
-soit. L'objectif inscrit dans la loi est que l'avoir derrière le droit de
-chaque citoyen atteigne, en une génération, l'ordre de six mois de revenu
-disponible médian. Sur les hypothèses publiées de la loi, cela signifie
-des versements annuels qui croissent de presque rien vers quelques
-centaines d'euros au fil des décennies, et bien davantage seulement si
-l'automatisation transforme l'économie bien plus qu'aujourd'hui. Le
-[simulateur](/simulator) montre la courbe honnête pour toute hypothèse de
-votre choix. Quiconque vous promet de l'argent rapide avec ce projet vous
-trompe, et la loi elle-même le dit.
+Il n'y a aucune prestation à demander aujourd'hui. Selon le projet, chaque citoyen
+de l'Union âgé de 18 ans ou plus disposerait d'un droit égal aux distributions
+lorsqu'elles sont déclarées. Ce droit ne peut être vendu, nanti ou racheté ; le
+versement nécessite une inscription auprès d'un véhicule national. Les montants
+dépendent des revenus réalisés par le fonds après déduction des coûts et application
+des règles de mise en réserve, et pourraient être nuls. L'objectif de capital à
+long terme du projet est un objectif, non un solde ou un revenu garanti. Le
+[simulateur](/simulator) explore différentes hypothèses, y compris l'apport continu
+de participations dans de nouvelles entreprises ; il ne s'agit pas d'une prévision
+de vos versements. L'article 10, paragraphe 6, exige une distribution annuelle lorsque
+le montant par bénéficiaire atteint dix fois le coût moyen de versement, et au moins
+une fois toutes les trois années civiles présentant un montant distribuable positif. Les petits
+montants non versés sont reportés ; un versement chaque année n'est pas garanti.
 
-## Est-ce un impôt ?
+## Est-ce une taxe ?
 
-Non, et c'est là tout le principe. Un impôt prend de l'argent et le met dans
-un budget public, où il est dépensé et renégocié chaque année. Ceci prend
-des actions nouvellement émises, jamais d'argent, les place dans un fonds
-qu'aucun budget public ne peut toucher, et ce fonds appartient directement
-aux citoyens. Aucun argent ne transite par aucun trésor public. Une
-entreprise ne paie rien du tout tant que ses propres propriétaires
-n'encaissent pas.
+Le projet est conçu comme une prise de participation au capital : les entreprises
+couvertes émettent des actions au bénéfice d'une Réserve commune plutôt que de verser
+des contributions en numéraire à un budget public. La question de savoir si le droit
+de l'Union le qualifierait néanmoins de mesure fiscale reste contestée. L'avis
+indépendant du Forum de l'ICE identifie ce risque, et les
+[objections](/law/objections) détaillent l'argumentation ainsi que la réponse du
+projet.
 
-## Quelles entreprises paieraient ?
+## Quelles entreprises seraient couvertes ?
 
-Seules les entreprises qui franchissent un test dur et publié : valoir au
-moins 75 milliards d'euros, être actives dans au moins trois pays de l'UE,
-et valoir au moins quatre-vingts fois ce qu'elles paient à leur personnel
-chaque année. Ce dernier chiffre est la signature d'une production sans
-main-d'œuvre. Sur les chiffres d'aujourd'hui, environ neuf entreprises au
-monde le franchissent, dont les grands laboratoires d'IA et concepteurs de
-puces. Votre employeur, votre boulangerie et toute entreprise normale, y
-compris toute grande entreprise normale, en sont très loin : même les
-entreprises les plus automatisées mais reposant sur le travail atteignent
-environ trente fois leur masse salariale. Le groupe ne grandit que si
-l'économie des machines grandit.
+La Commission évaluerait si la production dépend de manière significative de
+systèmes cognitifs automatisés et se trouve durablement découplée de l'emploi. Une
+présomption réfutable s'applique lorsque les seuils du projet sont atteints : au
+moins 7,5 milliards d'euros de chiffre d'affaires annuel dans l'Union ou 75 milliards
+d'euros de valorisation, une activité dans au moins trois États membres, et une
+valorisation représentant au moins quatre-vingts fois la rémunération globale du
+travail à l'échelle mondiale, maintenue pendant deux exercices. Une
+entreprise peut réfuter cette présomption. La Commission peut également désigner une
+entreprise située en deçà de ces seuils après enquête. Les seuils sont des
+indicateurs, non la preuve qu'une entreprise fonctionne sans personnel.
 
-## Cela va-t-il détruire des emplois ou chasser l'innovation ?
+## Cela va-t-il détruire des emplois ou faire fuir l'innovation ?
 
-Les incitations vont dans l'autre sens. Une entreprise échappe au test en
-employant et en payant des personnes, ce qui est de toute façon le
-résultat que la loi recherche. Elle ne doit rien pendant qu'elle
-construit, investit et grandit, et ne partage de la valeur qu'au moment où
-ses propres propriétaires transforment cette valeur en argent pour
-eux-mêmes. La part est de 3 % et elle n'est due qu'une seule fois par
-entreprise.
+Ces effets nécessitent une évaluation indépendante. Une obligation d'émission de
+3 % du capital pourrait influer sur les investissements, les prix et les décisions
+commerciales, même en l'absence de prélèvement en numéraire. Le projet intègre la
+rémunération du travail dans son critère de désignation et comprend des règles
+anti-contournement ; le simple fait d'embaucher davantage ne constitue donc pas une
+exemption automatique. Il prévoit un suivi et un réexamen ; il ne peut promettre
+l'absence d'effets indésirables.
 
-## Les entreprises ne vont-elles pas simplement quitter l'UE ?
+## Les entreprises vont-elles simplement quitter l'Union ?
 
-L'obligation suit la vente aux Européens, pas l'implantation en Europe.
-Une entreprise établie au Delaware ou à Singapour qui gagne des milliards
-sur le marché de l'UE est couverte ; quitter l'UE signifie renoncer aux
-450 millions de clients de l'UE, et 97 % de quelque chose de grand vaut
-plus que 100 % de quelque chose sans eux. Les entreprises de l'UE et hors
-UE sont traitées à l'identique, il n'y a donc aucune discrimination à
-dénoncer, et les actions du fonds ne portent aucune voix, donc aucun
-gouvernement ne prend le contrôle de qui que ce soit.
+Le projet s'applique aux activités couvertes au sein du marché intérieur, quel que
+soit le lieu d'établissement de l'entreprise. Le transfert d'un siège social ne
+suffirait pas, à lui seul, à lever l'obligation. Les entreprises pourraient
+toutefois modifier leurs services, leurs investissements ou leur participation au
+marché. L'exécution transfrontalière et la proportionnalité sont des questions
+contestées ; la taille du marché de l'Union ne suffit pas à les trancher.
 
-## Qui contrôle le fonds ? Les politiques peuvent-ils le piller ?
+## Qui contrôle le fonds ? Les responsables politiques peuvent-ils y puiser ?
 
-Personne ne dirige d'entreprises à travers lui : les actions du fonds ne
-peuvent jamais voter, jamais siéger aux conseils et jamais donner
-d'instructions à aucune entreprise ; c'est écrit dans la loi et c'est une
-condition de toute la conception. Quant aux pillages, le projet est écrit
-par des gens qui ont étudié précisément comment des gouvernements ont
-pillé des fonds de pension en Pologne et en Hongrie et en ont démantelé
-ailleurs, et il répond par des droits qui sont une propriété personnelle,
-pas des lignes budgétaires : ils ne peuvent être saisis, détournés,
-empruntés par l'État ni remis à un trésor public. La [page des
-objections](/law/objections) expose l'histoire des pillages en entier,
-dans sa version la plus forte, avant qu'un opposant ne le fasse.
+Les actions détenues par la Réserve ne comporteraient aucun droit de vote ni de
+gestion. L'article 12 interdit tout détournement vers les budgets publics et accorde
+aux détenteurs un recours juridictionnel. Il s'agit de garde-fous juridiques, non
+d'une garantie que les législateurs futurs ne modifieront pas la loi. Le droit
+personnel est un droit aux distributions déclarées, et non un portefeuille d'actions
+d'entreprises rachetable individuellement.
 
-## Et si l'IA reste petite et que la transformation ne vient jamais ?
+## Et si l'IA restait marginale et que la transformation n'advenait pas ?
 
-Alors il ne se passe presque rien, et c'est voulu. Le test ne désigne
-presque aucune entreprise dans un monde où la valeur vient encore des
-personnes, et la loi oblige la Commission à vérifier les faits tous les
-trois ans et à proposer de démanteler les règles si la prémisse s'avère
-fausse. L'instrument est construit pour compter dans le monde où les
-machines prennent vraiment l'essentiel du travail, et pour s'effacer dans le
-monde où elles ne le font pas. Une économie capable de régler cela d'elle-
-même est laissée libre de le faire.
+Un nombre plus faible d'entreprises éligibles ou des rendements moindres pourraient
+se traduire par un fonds modeste et des revenus faibles ou nuls. L'article 14 impose
+à la Commission d'évaluer les éléments empiriques et, le cas échéant, de proposer
+une modification ou une abrogation. Le projet ne s'éteint pas de lui-même, et ses obligations administratives et celles qu'il impose aux entreprises
+ne sont pas sans coût, même si les gains s'avèrent décevants.
+
+## Quand une entreprise doit-elle émettre les actions ?
+
+Elle émet d'abord un bon de souscription dans les trois mois suivant sa désignation.
+Ce bon se cristallise lors du premier événement de liquidité, ou, avant cela, lors
+d'une extraction de valeur par les actionnaires supérieure à 25 % du chiffre d'affaires
+couvert sur trois exercices consécutifs, ou à l'échéance butoir de sept ans (le « délai ultime » du projet) à compter
+de l'émission du bon. L'article 5 fixe les règles précises. Une société non cotée ne
+peut échapper à l'échéance butoir simplement en restant non cotée. L'entrée d'actions
+dans le fonds ne garantit pas de distributions immédiates en numéraire.
 
 ## Que dois-je faire maintenant ?
 
-Rien, et méfiez-vous de quiconque dit le contraire. Rien n'est collecté :
-aucune signature, aucun courriel, aucun argent. Si l'initiative est un jour
-formellement enregistrée, la signature se fera sur le système officiel de la
-Commission européenne, jamais sur ce site. Ce qui aide aujourd'hui est autre
-chose : lisez-le, contestez-le et, si vous envisagez d'être l'un des sept
-organisateurs qu'une initiative exige légalement, dites-le sur la page
-[participer](/join).
+Il n'y a rien à signer pour l'instant. Vous pouvez lire la proposition, poser des
+questions, vous porter volontaire ou discuter d'un rôle d'organisateur sur la page
+[participer](/join). Le site ne dispose d'aucune liste de diffusion et ne collecte
+pas de déclarations de soutien. Si l'initiative est enregistrée et que la collecte
+débute, le site renverra vers le système de signature officiel de la Commission. Un
+million de déclarations valides et l'atteinte des seuils nationaux requis garantissent
+un examen et une réponse, non l'adoption automatique de la loi présentée à titre
+indicatif.
 
-## Qui est derrière, et qui paie ?
+## Qui est à l'origine de ce projet, et qui le finance ?
 
-Une seule personne jusqu'ici, nommée sur la page [à propos](/about), qui
-paie l'hébergement personnellement. Aucune organisation, aucun don, aucun
-parti politique, aucun argent d'entreprise, et le texte complet de la loi,
-son histoire et chaque relecture qui l'a attaquée sont publics dans un
-dépôt ouvert. Si cela change, les règles déjà publiées disent que chaque
-euro doit être déclaré.
+David Vanheeswijck a initié le projet et en finance les coûts d'hébergement et de
+revue par IA. Au 6 septembre 2026, aucune organisation constituée ni aucun
+financement tiers ne sont enregistrés. La page [à propos](/about) mentionne
+l'éditeur et précise le lien avec son livre. Le registre des revues distingue les
+évaluations par des modèles d'IA des retours externes ; ni l'un ni l'autre ne valent
+approbation institutionnelle par l'Union européenne.

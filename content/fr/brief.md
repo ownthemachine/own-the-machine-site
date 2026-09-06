@@ -1,62 +1,63 @@
 ---
-source: site/content/en/brief.md
-source-commit: 12a00c3
-status: gate-reviewed
+source: content/en/brief.md
+source-commit: 31760e8
+source-sha256: f9a8981fa5359dad5bb4cb854f17c2013724792744ae0bb84eecba0135208a91
+status: machine-reviewed
 ---
 
 ## La demande
 
-Un règlement du Parlement européen et du Conseil obligeant les entreprises
-qui franchissent un seuil d'hyperautomatisation à émettre un bon de
-souscription sans droit de vote portant sur 3 % de leur capital pleinement
-dilué, au profit d'une Réserve européenne de capital des citoyens, qui verse
-un dividende égal à chaque citoyen adulte de l'Union.
+Nous préparons une initiative demandant à la Commission d'évaluer et de
+proposer des instruments permettant aux citoyens de participer aux gains de la
+production hyper-automatisée. Les [objectifs d'enregistrement](/law/registration)
+constituent la demande ; le règlement indicatif sur les bons de souscription de 3 %
+en illustre un mécanisme. Ni l'un ni l'autre n'a été enregistré.
 
-## Comment cela fonctionne
+## Comment fonctionne le projet indicatif
 
-- **Désignation.** Une entreprise est désignée sur la base de critères
-  quantitatifs publiés, jamais nommément et jamais à la discrétion de
-  quiconque.
-- **Le bon.** Trois pour cent du capital pleinement dilué, sans droit de
-  vote, souscrit à la valeur nominale. Aucune voix, aucun siège au conseil,
-  aucun pouvoir sur la gestion.
-- **Cristallisation.** Il n'est exercé que lorsque les propriétaires de
-  l'entreprise réalisent eux-mêmes de la valeur : un événement de liquidité,
-  une extraction, ou un délai butoir de sept ans. Rien n'est payable en
-  numéraire et rien n'entre dans un budget public.
-- **Le droit.** Chaque citoyen adulte détient un droit égal, personnel et
-  incessible sur la Réserve. Aucune condition de ressources, aucune demande,
-  aucune condition.
+- **Désignation.** La Commission évalue le découplage durable entre la production
+  et l'emploi. Des seuils créent une présomption réfutable ; une enquête peut
+  également conduire à une désignation en deçà de ces seuils.
+- **Bon de souscription.** Dans les trois mois suivant la désignation, l'entreprise
+  émet un bon de souscription sans droit de vote permettant de souscrire, à la
+  valeur nominale, des actions représentant 3 % du capital entièrement dilué, sous
+  réserve du plafond de l'article 5.
+- **Déclencheurs.** Le premier événement de liquidité, une extraction de valeur par
+  les actionnaires supérieure au seuil de l'article 5, ou l'échéance butoir de
+  sept ans déclenche la souscription. L'obligation est exécutée en actions ; elle ne
+  génère pas en soi de liquidités pour les versements.
+- **Droit individuel.** Les citoyens de l'Union âgés de 18 ans ou plus participeraient
+  à parts égales aux distributions déclarées. Ce droit ne peut être vendu, nanti ou
+  racheté. Aucune condition de ressources ; l'inscription auprès d'un véhicule
+  national est requise pour le paiement. Les revenus disponibles déterminent les
+  distributions, qui peuvent être nulles.
 
-## Base juridique, et ce qui subsiste si une partie tombe
+## Base juridique
 
-Les articles 114 et 352 TFUE. La demande est rédigée en strates séparables
-afin qu'un enregistrement partiel au titre de l'article 6, paragraphe 4, du
-règlement (UE) 2019/788 l'élague au lieu de la tuer : le régime de
-désignation repose sur le seul article 114, et la Réserve, qui est la partie
-exigeant l'article 352 et l'unanimité, peut tomber sans emporter le reste.
+Les articles 114 et 352 du TFUE sont des bases proposées et contestées. L'article 352
+exige l'unanimité. L'enregistrement ne vaudrait pas approbation de la légalité du
+projet ni garantie de son adoption ; un enregistrement partiel peut modifier ce qui
+peut aller de l'avant.
 
-## L'objection la plus lourde
+## L'objection principale
 
-Qu'il s'agirait d'un impôt déguisé sous les habits de la finance
-d'entreprise, relevant donc de l'article 113 et de l'unanimité. La réponse
-est qu'il porte sur un actif et non sur un flux, qu'il est payable en
-actions et jamais en numéraire, qu'il n'alimente aucun budget, ne transite
-par aucun trésor public et ne procure aucune recette à l'Union. L'objection
-est exposée dans sa version la plus forte, et traitée, en tant qu'objection
-nº 2 sur dix-neuf.
+L'obligation d'émission d'actions pourrait être qualifiée de mesure fiscale. Son
+exécution en actions hors des budgets publics ne tranche pas cette question. Les
+[objections](/law/objections) expliquent cette difficulté et la réponse du projet.
+Les protections contre le détournement ne peuvent empêcher toute modification
+législative future.
 
-## L'état réel des choses
+## État d'avancement : 6 septembre 2026
 
-Un projet. Rien n'a été déposé auprès de la Commission, rien n'est
-enregistré et aucune signature n'est recueillie où que ce soit. Une demande
-d'avis de recevabilité est devant le forum de l'ICE, réponse attendue le 2
-septembre 2026. Il n'y a ni organisation, ni compte bancaire, ni financement
-d'aucune sorte : l'initiateur paie l'hébergement personnellement.
+Aucun dépôt, enregistrement ou collecte de signatures. Le Forum a rendu son avis le
+27 août ; un spécialiste expérimenté des ICE a répondu le 5 septembre. Il s'agit de
+retours indépendants, non d'une approbation institutionnelle. Le recrutement se
+poursuit. L'initiateur prend en charge les frais d'hébergement et de revue ; aucune
+organisation ni aucun don ne sont enregistrés.
 
-## Ce qui vous est demandé
+## Participer
 
-Pas un soutien. Une lecture, et les objections qu'elle suscitera. Sept
-organisateurs résidant dans sept États membres sont nécessaires avant tout
-dépôt, et personne n'est invité à s'y engager tant que la question de
-l'enregistrabilité reste ouverte.
+Posez des questions ou aidez à l'organisation via [participer](/join), en privé ou
+publiquement. L'intérêt manifesté n'est ni une signature ni un engagement de dépôt.
+Le groupe statutaire requiert des citoyens éligibles de l'Union résidant dans sept
+États membres, et non sept nationalités différentes.

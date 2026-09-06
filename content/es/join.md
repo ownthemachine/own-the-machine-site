@@ -1,97 +1,71 @@
 ---
-source: site/content/en/join.md
-source-commit: 3adc44a
-status: gate-reviewed
+source: content/en/join.md
+source-commit: 8d35a77
+source-sha256: 163bb03200d114b6f3f3db6cf80d8a59b74f6d5984a36cd09b2965d3e0a822a9
+status: machine-reviewed
 ---
 
-## En qué punto está esto realmente
+## En qué punto se encuentra realmente
 
-No se recoge nada. Ninguna firma, ningún compromiso, ninguna dirección,
-ningún dinero. Ninguna versión de este borrador se ha presentado ante la
-Comisión Europea y ninguna está registrada, algo que puede comprobar usted
-mismo en la página [versiones](/law/versions) en lugar de creerlo por lo que
-diga esta.
+A 6 de septiembre de 2026, ninguna versión ha sido presentada ni registrada ante la
+Comisión y no se están recogiendo declaraciones de apoyo. Consulte la página de
+[versiones](/law/versions) para ver el historial de registro. La captación de
+organizadores está en marcha; el interés mostrado no implica que el grupo de
+organizadores formal esté ya constituido.
 
-Lo que este proyecto necesita en esta fase no son partidarios. Son
-argumentos, y personas dispuestas a dar su nombre. Una iniciativa ciudadana
-la presenta un grupo de al menos siete personas residentes en al menos siete
-Estados miembros distintos, y la Comisión publica sus nombres. Esas siete
-personas todavía no existen. Mientras siga siendo así, esto es un borrador
-con un solo redactor, y la descripción honesta de su situación es que nadie
-que discrepe en público lo ha puesto nunca a prueba.
+El Foro de la ICE facilitó asesoramiento independiente y no vinculante el 27 de agosto,
+y un veterano de las ICE respondió el 5 de septiembre. La documentación pública incluye las
+cuestiones planteadas y las respuestas del proyecto. Se trata de observaciones externas,
+no de una aprobación por parte de la Comisión. El proyecto aún necesita un análisis
+independiente y personas dispuestas a asumir la responsabilidad de su siguiente etapa.
 
-## Tres cosas que ayudan, por orden de peso
+## Formas de colaborar
 
-**Ataque el texto.** Vale más que el acuerdo, y no hay un segundo puesto
-cercano. El borrador ha sido atacado en cada ronda por revisión
-contradictoria y por exactamente un ser humano, el que lo escribió. Cada
-objeción de este sitio la ha escrito el proyecto contra sí mismo, un método
-con un techo evidente. Si encuentra el fallo, ese fallo es la respuesta que
-necesita este expediente. Abra una [incidencia o una pull request](https://github.com/ownthemachine/own-the-machine/issues) y el
-argumento será público desde la primera frase, donde puede leerlo todo aquel
-a quien el borrador concierne.
+**Cuestione la propuesta.** Lea el borrador y plantee una objeción concreta. Las
+[incidencias (issues) y pull requests](https://github.com/ownthemachine/own-the-machine/issues)
+públicas permiten que el debate esté al alcance de todos. Las consultas privadas también
+son bienvenidas.
 
-**Sea una de las siete personas.** Si es ciudadano de la Unión, tiene edad
-para votar en las elecciones al Parlamento Europeo y se plantearía asociar
-su nombre a una presentación, dígalo. Hoy no se compromete a nada, por la
-razón que se expone más abajo.
+**Ayude en la organización.** Manifieste su interés en formar parte del grupo de
+organizadores fundador, la revisión en su lengua materna, la divulgación de la propuesta
+o la coordinación práctica. No hace falta ser programador ni estar de acuerdo con cada
+artículo para iniciar una conversación.
 
-**Póngalo en contacto con una organización.** Un organismo sindical, un
-instituto académico, una fundación, una ONG con autoridad en automatización,
-fiscalidad o propiedad del capital. Una presentación vale más que un
-respaldo, y una lectura hostil por parte de una institución seria vale más
-que ambas cosas.
+**Acerque a una organización.** Las presentaciones, las revisiones independientes y los
+compromisos concretos de tiempo o difusión pueden ayudar a determinar si una campaña es
+viable. Presentar a alguien no implica respaldar la propuesta.
 
-## Qué significa ser organizador, dicho sin rodeos
+## Qué implica ser miembro del grupo de organizadores
 
-Las reglas son de la Comisión, no de este proyecto, y la versión que da fe
-está en [europa.eu](https://citizens-initiative.europa.eu/), no aquí. A grandes rasgos: un grupo de
-organizadores lo forman al menos siete personas físicas, cada una residente
-en un Estado miembro distinto y cada una con edad para votar en las
-elecciones al Parlamento Europeo. El grupo designa un representante y un
-suplente. Los nombres de los organizadores se publican en el registro
-público de la Comisión. Los diputados al Parlamento Europeo no cuentan para
-las siete.
+El grupo de organizadores formal debe contar con al menos siete personas con ciudadanía
+de la UE en edad de votar en las elecciones al Parlamento Europeo y con residencia en al
+menos siete Estados miembros diferentes. No se exigen siete nacionalidades distintas.
+Los miembros del Parlamento Europeo no computan para el mínimo. El grupo designa a un
+representante y a un sustituto; los nombres de los organizadores se publican en el
+registro de la Comisión. Las
+[normas oficiales](https://citizens-initiative.europa.eu/how-it-works_en) regulan los
+requisitos de admisibilidad y las responsabilidades.
 
-Lo que **no** significa, al menos todavía:
+Manifestar interés ahora no supone aceptar la presentación. Antes de comprometerse, el
+grupo debe consensuar sus objetivos, responsabilidades, régimen de financiación y los
+riesgos jurídicos subsistentes. Los hitos de control publicados siguen vigentes. La firma
+de una iniciativa registrada respaldaría sus objetivos registrados; el Reglamento
+detallado es un mecanismo ilustrativo, no una ley ya adoptada.
 
-- **No es un compromiso.** Este proyecto tiene hitos publicados con
-  criterios de abandono. A nadie se le pide ser organizador antes de que se
-  resuelva la cuestión de la registrabilidad, y si la respuesta es mala el
-  expediente se publica como ley modelo y la iniciativa se detiene. Decir
-  que se lo plantearía no le cuesta nada y no le obliga a nada.
-- **No es una aprobación de cada artículo.** Un organizador presenta un
-  texto; no tiene por qué haberlo escrito ni estar de acuerdo con todo él.
-  Si solo lo presentaría con cambios, ese mensaje es más útil que el
-  acuerdo, y su sitio está en público, donde esos cambios pueden discutirse.
-- **No es una recaudación de fondos.** No hay nada a lo que donar. La
-  situación financiera está en la página [acerca de](/about) y consiste en que
-  no hay organización, ni cuenta, ni donaciones.
+## Cómo ponerse en contacto
 
-## Cómo decirlo
+Escriba a [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu) o abra una incidencia
+pública si prefiere un debate abierto. Ambas vías son bienvenidas. Para consultas relativas
+al grupo de organizadores, resulta útil indicar su Estado miembro de residencia, en qué
+podría contribuir y sus preguntas. No se requiere ningún documento de identidad para
+manifestar interés, y no debe incluirse ninguno en una incidencia pública.
 
-Dos vías, y la pública es la mejor.
+## Qué ocurre con lo que usted envía
 
-**En público**, que es lo preferible porque así la respuesta queda a la
-vista de todos los que sopesan la misma pregunta: abra una incidencia en el
-[repositorio](https://github.com/ownthemachine/own-the-machine/issues) e indique en qué Estado miembro reside, qué aportaría y
-si se plantearía que se publique su nombre.
-
-**Por correo electrónico**, si la cuestión es realmente personal o prefiere
-no exponerse públicamente antes de haber decidido: escriba a
-[hello@ownthemachine.eu](mailto:hello@ownthemachine.eu). Conviene decir las mismas tres cosas.
-
-En cualquier caso, el mensaje más útil que alguien puede enviar es el que
-empieza por «esto no va a funcionar, porque».
-
-## Qué ocurre con lo que envía
-
-Una incidencia es pública, de forma permanente, y la escribe usted, así que
-contiene exactamente lo que haya decidido poner en ella.
-
-Un correo llega al redactor y a nadie más. No se añade a ninguna lista,
-porque no hay lista. No se reenvía, no se publica y no se usa para enviarle
-nada que no haya pedido. Si alguna vez se constituye un grupo de
-organizadores, cada uno de sus miembros lo habrá dicho por escrito, en ese
-momento y no antes. El responsable del tratamiento y sus derechos se
-describen en la página [acerca de](/about).
+Una incidencia en GitHub es pública. Un correo electrónico llega al editor; no se
+incorpora a ninguna lista de distribución, no se reenvía ni se publica sin su
+consentimiento. No hay listas de correo ni formularios de donación. El contacto se
+utiliza para responder a la consulta, no para enviar mensajes de campaña no
+solicitados. Consulte [acerca de](/about) para conocer el responsable del tratamiento y
+sus derechos. Cualquier cambio posterior en estas disposiciones deberá explicarse antes
+de surtir efecto.

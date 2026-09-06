@@ -1,118 +1,122 @@
 ---
-source: site/content/en/faq.md
-source-commit: 2ac5f03
-status: gate-reviewed
+source: content/en/faq.md
+source-commit: 31760e8
+source-sha256: d1acba7b811faa0b26723c276bc9f228550028f5f5c6d7ac6200f529e4636901
+status: machine-reviewed
 ---
 
-## Was ist das, in einem Satz?
+## Was ist das in einem Satz?
 
-Der Entwurf eines EU-Gesetzes, nach dem Unternehmen, deren Wert weit
-überwiegend aus Maschinen statt aus menschlicher Arbeit stammt, einmalig
-Anteile in Höhe von 3 % ihres Unternehmenswertes an einen Fonds ausgeben
-würden, der jeder erwachsenen EU-Bürgerin und jedem erwachsenen EU-Bürger zu
-gleichen Teilen gehört.
+Ein Vorschlag für eine Bürgerbeteiligung an den Erträgen hochautomatisierter Produktion,
+verbunden mit dem Entwurf eines EU-Rechtsakts zur Veranschaulichung, der einen
+gemeinsamen Fonds schafft, der Unternehmensanteile hält und gleiche Ausschüttungen
+an erwachsene EU-Bürger leistet.
 
-## Bekomme ich Geld? Wie viel, und wann?
+## Erhalte ich Geld? Wie viel und wann?
 
-Irgendwann, und ehrlich gesagt: nicht bald. Der Fonds baut zuerst ein
-Vermögen auf und zahlt nur aus, was dieses Vermögen erwirtschaftet, per
-Gesetz. Zahlungen in den ersten Jahren liegen absichtlich nahe null, weil
-der Fonds sein Kapital erhalten muss, bevor er irgendetwas ausschüttet.
-Das Ziel im Gesetz lautet, dass das Guthaben hinter dem Anspruch jeder
-Bürgerin und jedes Bürgers innerhalb einer Generation die Größenordnung
-von sechs Monaten des medianen verfügbaren Einkommens erreicht. Auf den
-veröffentlichten Annahmen des Gesetzes heißt das: jährliche Zahlungen, die
-über Jahrzehnte von fast nichts auf einige hundert Euro wachsen, und weit
-mehr nur dann, wenn die Automatisierung die Wirtschaft weit stärker
-verändert als heute. Der [Simulator](/simulator) zeigt die ehrliche Kurve
-für jede Annahme, die Sie wählen. Wer Ihnen aus diesem Vorhaben schnelles
-Geld verspricht, führt Sie in die Irre, und das Gesetz selbst sagt das.
+Heute gibt es keinen Leistungsanspruch. Nach dem Entwurf hätte jede Unionsbürgerin
+und jeder Unionsbürger ab 18 Jahren einen gleichen Anspruch auf Ausschüttungen,
+sobald diese beschlossen werden. Der Anspruch kann weder verkauft noch verpfändet
+oder eingelöst werden; die Auszahlung erfordert die Registrierung bei einer
+nationalen Stelle. Die Beträge hängen von den realisierten Erträgen des Fonds nach
+Abzug der Kosten und nach Anwendung der Einbehaltungsregeln ab und können auch
+null betragen. Das langfristige Kapitalziel des Entwurfs ist eine Zielgröße, kein
+garantiertes Guthaben oder Einkommen. Der [Simulator](/simulator) veranschaulicht
+Annahmen, einschließlich fortlaufend neu hinzukommender Unternehmensanteile; er
+ist keine Prognose Ihrer Auszahlungen. Artikel 10 Absatz 6 verlangt eine
+jährliche Ausschüttung, wenn der Betrag pro Anspruchsberechtigtem das
+Zehnfache der durchschnittlichen Auszahlungskosten erreicht, und mindestens
+einmal in jedem dritten Kalenderjahr mit einem positiven ausschüttungsfähigen
+Betrag. Kleine nicht ausgezahlte Beträge werden vorgetragen; eine Auszahlung in
+jedem Jahr ist nicht garantiert.
 
-## Ist das eine Steuer?
+## Handelt es sich um eine Steuer?
 
-Nein, und der Unterschied ist die ganze Konstruktion. Eine Steuer nimmt
-Geld und legt es in einen Staatshaushalt, wo es ausgegeben und jedes Jahr
-neu verhandelt wird. Dies nimmt neu ausgegebene Anteile, niemals Geld,
-legt sie in einen Fonds, den kein Staatshaushalt anfassen kann, und dieser
-Fonds gehört den Bürgerinnen und Bürgern direkt. Kein Geld fließt durch
-irgendeine Staatskasse. Ein Unternehmen zahlt überhaupt nichts, bis seine
-eigenen Eigentümer Kasse machen.
+Der Entwurf ist als Eigenkapitalbeteiligung konzipiert: Erfasste Unternehmen geben
+Anteile an eine gemeinsame Reserve aus, anstatt Barmittel an einen öffentlichen
+Haushalt zu zahlen. Ob das EU-Recht dies dennoch als steuerliche Maßnahme einstufen
+würde, ist umstritten. Die unabhängige Stellungnahme des EBI-Forums weist auf dieses
+Risiko hin, und die [Einwände](/law/objections) erläutern die Argumente sowie die
+Erwiderung des Projekts.
 
-## Welche Unternehmen würden zahlen?
+## Welche Unternehmen wären erfasst?
 
-Nur Unternehmen, die eine harte, veröffentlichte Prüfung bestehen:
-mindestens 75 Milliarden Euro wert, in mindestens drei EU-Ländern tätig,
-und mindestens achtzigmal so viel wert wie das, was sie ihren Leuten pro
-Jahr zahlen. Diese letzte Zahl ist die Handschrift einer Produktion ohne
-Menschen. Nach den heutigen Zahlen bestehen weltweit ungefähr neun
-Unternehmen die Prüfung, darunter die großen KI-Labore und Chipentwickler.
-Ihr Arbeitgeber, Ihre Bäckerei und jedes normale Unternehmen, auch jedes
-große normale Unternehmen, sind weit davon entfernt: selbst die am
-stärksten automatisierten arbeitsintensiven Unternehmen erreichen etwa das
-Dreißigfache der Lohnsumme. Die Gruppe wächst nur, wenn die
-Maschinenwirtschaft wächst.
+Die Kommission würde prüfen, ob die Produktion maßgeblich von automatisierten
+kognitiven Systemen abhängt und dauerhaft von der Beschäftigung entkoppelt ist. Eine
+widerlegbare Vermutung greift, wenn die Schwellenwerte des Entwurfs erreicht sind:
+mindestens 7,5 Milliarden Euro jährlicher EU-Umsatz oder 75 Milliarden Euro
+Unternehmenswert, Tätigkeit in mindestens drei Mitgliedstaaten und ein
+Unternehmenswert, der mindestens dem Achtzigfachen des weltweiten
+Arbeitnehmerentgelts entspricht, durchgehend über zwei Geschäftsjahre. Ein
+Unternehmen kann die Vermutung widerlegen. Die Kommission kann ein Unternehmen
+nach einer Untersuchung auch unterhalb dieser Schwellenwerte benennen. Die
+Schwellenwerte sind Indikatoren, kein Beweis dafür, dass ein Unternehmen ohne
+Menschen arbeitet.
 
-## Vernichtet das Arbeitsplätze oder vertreibt es Innovation?
+## Vernichtet dies Arbeitsplätze oder vertreibt es Innovation?
 
-Die Anreize zeigen in die andere Richtung. Ein Unternehmen entgeht der
-Prüfung, indem es Menschen beschäftigt und bezahlt, und genau das will das
-Gesetz ohnehin. Es schuldet nichts, während es aufbaut, investiert und
-wächst, und teilt Wert erst in dem Moment, in dem seine eigenen Eigentümer
-diesen Wert für sich zu Geld machen. Der Anteil beträgt 3 % und fällt
-genau einmal je Unternehmen an.
+Diese Auswirkungen bedürfen einer unabhängigen Bewertung. Eine Pflicht zur Ausgabe
+neuer Anteile im Umfang von 3 % könnte sich auch ohne Barabgabe auf Investitionen,
+Preise und unternehmerische Entscheidungen auswirken. Der Entwurf bezieht das
+Arbeitnehmerentgelt in die Benennungsprüfung ein und enthält Regeln zur
+Verhinderung von Umgehungen; die bloße Einstellung weiterer Mitarbeiter führt daher
+nicht automatisch zu einer Ausnahme. Er sieht Überwachung und Überprüfung vor, kann
+jedoch nicht garantieren, dass unerwünschte Auswirkungen ausbleiben.
 
-## Verlassen die Unternehmen dann nicht einfach die EU?
+## Werden Unternehmen die EU einfach verlassen?
 
-Die Pflicht folgt dem Verkauf an Europäerinnen und Europäer, nicht dem
-Sitz in Europa. Ein Unternehmen mit Sitz in Delaware oder Singapur, das
-Milliarden auf dem EU-Markt verdient, ist erfasst; die EU zu verlassen
-hieße, auf die 450 Millionen Kundinnen und Kunden der EU zu verzichten,
-und 97 % von etwas Großem sind mehr wert als 100 % von etwas ohne sie.
-EU- und Nicht-EU-Unternehmen werden identisch behandelt, es gibt also
-keine Diskriminierung zu beklagen, und die Anteile des Fonds tragen keine
-Stimmen, also gewinnt keine Regierung Kontrolle über irgendwen.
+Der Entwurf gilt für erfasste Tätigkeiten im Binnenmarkt unabhängig vom Sitz des
+Unternehmens. Eine Sitzverlegung allein würde die Verpflichtung nicht aufheben.
+Unternehmen könnten dennoch ihr Dienstleistungsangebot, ihre Investitionen oder ihre
+Marktpräsenz ändern. Die grenzüberschreitende Durchsetzbarkeit und die
+Verhältnismäßigkeit sind strittige Fragen; die Größe des EU-Marktes allein
+entscheidet darüber nicht.
 
 ## Wer kontrolliert den Fonds? Können Politiker ihn plündern?
 
-Niemand lenkt über ihn Unternehmen: die Anteile des Fonds können niemals
-abstimmen, niemals Aufsichtsratssitze einnehmen und niemals einem
-Unternehmen Weisungen geben; das steht im Gesetz und ist eine Bedingung
-der ganzen Konstruktion. Was Plünderungen angeht: der Entwurf stammt von
-Leuten, die genau untersucht haben, wie Regierungen Pensionsfonds in Polen
-und Ungarn geplündert und anderswo abgewickelt haben, und er antwortet mit
-Ansprüchen, die persönliches Eigentum sind, keine Haushaltsposten: sie
-können nicht beschlagnahmt, umgeleitet, vom Staat beliehen oder einer
-Staatskasse übergeben werden. Die [Einwandseite](/law/objections) legt die
-Geschichte der Plünderungen vollständig dar, in ihrer stärksten Fassung,
-bevor ein Gegner es tut.
+Die Anteile der Reserve würden weder Stimm- noch Verwaltungsrechte vermitteln.
+Artikel 12 verbietet die Zweckentfremdung für öffentliche Haushalte und räumt den
+Anspruchsberechtigten einen gerichtlichen Rechtsbehelf ein. Dies sind rechtliche
+Schranken, keine Garantie dafür, dass künftige Gesetzgeber das Gesetz nicht
+ändern können. Der persönliche Anspruch ist ein Recht auf beschlossene Ausschüttungen,
+kein individuell einlösbares Portfolio aus Unternehmensanteilen.
 
-## Und wenn KI klein bleibt und die Verwandlung nie kommt?
+## Was passiert, wenn KI unbedeutend bleibt und der Umbruch ausbleibt?
 
-Dann geschieht fast nichts, und das ist Absicht. Die Prüfung benennt fast
-keine Unternehmen in einer Welt, in der Wert noch von Menschen kommt, und
-das Gesetz verpflichtet die Kommission, alle drei Jahre die Belege zu
-prüfen und den Abbau der Regeln vorzuschlagen, wenn sich die Prämisse als
-falsch erweist. Das Instrument ist gebaut, um in der Welt zu zählen, in
-der Maschinen wirklich den Großteil der Arbeit übernehmen, und in der
-Welt zu verblassen, in der sie es nicht tun. Die Wirtschaft, die das
-selbst regelt, darf es selbst regeln.
+Weniger Unternehmen, die die Kriterien erfüllen, oder geringere Renditen könnten
+dazu führen, dass der Fonds klein bleibt und wenig oder gar keine Erträge abwirft.
+Artikel 14 verpflichtet die Kommission, die Erkenntnisse zu bewerten und
+gegebenenfalls Änderungen oder eine Aufhebung vorzuschlagen. Der Entwurf schaltet
+sich nicht automatisch ab, und seine administrativen Pflichten sowie die
+Belastungen für Unternehmen entstehen auch dann, wenn die Gewinne hinter den
+Erwartungen zurückbleiben.
+
+## Wann muss ein Unternehmen die Anteile ausgeben?
+
+Es gibt zunächst innerhalb von drei Monaten nach der Benennung einen Optionsschein
+aus. Dieser wird beim ersten Liquiditätsereignis fällig, bei einer früheren Entnahme
+durch Anteilseigner von mehr als 25 % des erfassten Umsatzes über drei aufeinanderfolgende
+Geschäftsjahre oder nach Ablauf der siebenjährigen Auffangfrist (dem „Long-stop“
+des Entwurfs) ab Ausgabe des Optionsscheins. Artikel 5 regelt die genauen
+Bedingungen. Ein nicht börsennotiertes Unternehmen entgeht der Auffangfrist nicht einfach dadurch, dass es nicht börsennotiert bleibt.
+Der Eingang von Anteilen im Fonds garantiert keine unmittelbaren Barausschüttungen.
 
 ## Was muss ich jetzt tun?
 
-Nichts, und misstrauen Sie jedem, der etwas anderes sagt. Es wird nichts
-gesammelt: keine Unterschrift, keine E-Mail-Adresse, kein Geld. Sollte die
-Initiative eines Tages förmlich registriert werden, geschieht das
-Unterzeichnen auf dem offiziellen System der Europäischen Kommission,
-niemals auf dieser Seite. Was heute hilft, ist etwas anderes: lesen Sie es,
-widersprechen Sie ihm, und wenn Sie in Erwägung ziehen würden, eine oder
-einer der sieben Organisatoren zu sein, die eine Initiative rechtlich
-braucht, sagen Sie es auf der Seite [Mitmachen](/join).
+Derzeit gibt es noch nichts zu unterzeichnen. Sie können den Vorschlag lesen,
+Fragen stellen, sich freiwillig engagieren oder auf der Seite [Mitmachen](/join)
+darüber sprechen, ob Sie Organisator werden möchten. Die Website führt keine
+Mailingliste und sammelt keine Unterstützungsbekundungen. Sollte die Initiative
+registriert werden und die Sammlung beginnen, wird die Website auf das offizielle
+Sammelsystem der Kommission verlinken. Eine Million gültige Unterstützungsbekundungen
+und das Erreichen der nationalen Mindestschwellen sichern eine Prüfung und eine
+Antwort der Kommission, keine automatische Annahme des illustrativen Verordnungsentwurfs.
 
-## Wer steht dahinter, und wer bezahlt das?
+## Wer steht dahinter und wer bezahlt das?
 
-Bisher eine Person, namentlich genannt auf der Seite [Über das
-Projekt](/about), die das Hosting privat bezahlt. Keine Organisation,
-keine Spenden, keine Partei, kein Unternehmensgeld, und der vollständige
-Gesetzestext, seine Geschichte und jede Prüfung, die ihn angegriffen hat,
-sind öffentlich in einem offenen Repository. Ändert sich das, verlangen
-die bereits veröffentlichten Regeln, dass jeder Euro offengelegt wird.
+David Vanheeswijck hat das Projekt initiiert und trägt die Kosten für Hosting und
+KI-Prüfungen. Stand 6. September 2026 sind keine gegründete Organisation und keine
+Drittmittel verzeichnet. Die Seite [Über das Projekt](/about) nennt den Herausgeber
+und legt die Verbindung zu seinem Buch offen. Das Prüfprotokoll unterscheidet
+Modellprüfungen von externem Feedback; keines von beiden ist eine Billigung durch
+eine EU-Institution.
