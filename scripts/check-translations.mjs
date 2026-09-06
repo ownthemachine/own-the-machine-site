@@ -41,6 +41,7 @@ const PAGES = {
   severability: 'regulation/memorandum/severability.md',
   explanatory: 'regulation/memorandum/explanatory-memorandum.md',
   evidence: 'evidence/EVIDENCE.md',
+  registration: 'campaign/REGISTRATION-TEXT.md',
 };
 
 // The site-native pages keep their English source in this repository rather
