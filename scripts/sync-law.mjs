@@ -147,12 +147,20 @@ const attachRubrics = (item, englishRubric) => {
 for (const a of articles) attachRubrics(a, a.title);
 
 // ---- recitals -------------------------------------------------------
-const recBody = stripNotes(read('regulation/recitals.md'))
+const recitalsRaw = read('regulation/recitals.md');
+const recBody = stripNotes(recitalsRaw)
   .replace(/^# Recitals$/m, '').replace(/^Whereas:$/m, '').trim();
 const recitals = marked.parse(recBody).replace(
   /<p>\((\d+)\)/g,
   (_, n) => `<p id="recital-${n}"><span class="para-num">(${n})</span>`
 );
+// The Treaty citation is one line of the preamble, above the numbered
+// recitals: a reader looking for the legal basis should not have to open
+// the recitals page and scan past the whereas clauses to find it.
+const citationMatch = recitalsRaw.match(
+  /^Having regard to the Treaty on the Functioning of the European Union.*$/m
+);
+const citation = citationMatch ? citationMatch[0].trim() : null;
 
 // ---- annexes --------------------------------------------------------
 const annexDir = join(LAW, 'regulation', 'annexes');
@@ -235,13 +243,22 @@ const localiseLinks = (html, loc) => html.replace(
       : `href="/${loc}${path}"`
   ));
 
+// Drafting notes are commentary for the campaign team, appended after the
+// last section and never part of what would be filed; cut at that
+// paragraph (and the "---" line before it, if any) wherever it appears,
+// English source and any localised copy alike, rather than leaning on
+// stripNotes, which would cut this file's first SECTION separator instead.
+const DRAFTING_NOTES = /\n(?:---\n)?\s*Drafting notes \(not part of the registration\)\.[\s\S]*$/;
+const cutDraftingNotes = (body) => body.replace(DRAFTING_NOTES, '').trim();
+
 const loadLocalized = (name, opts = {}) => {
   const out = {};
   for (const loc of ['nl', 'fr', 'de', 'es']) {
     const f = join(CONTENT, loc, `${name}.md`);
     if (!existsSync(f)) continue;
     const { meta, body } = parseFM(readFileSync(f, 'utf8'));
-    const html = localiseLinks(linkRepoPaths(marked.parse(body.trim())), loc);
+    const trimmed = opts.stripDraftingNotes ? cutDraftingNotes(body) : body.trim();
+    const html = localiseLinks(linkRepoPaths(marked.parse(trimmed)), loc);
     const doc = opts.toc ? withToc(html, opts.depth || 2) : { html, toc: [] };
     out[loc] = {
       ...doc,
@@ -266,6 +283,22 @@ const severability = {
 const explanatory = {
   en: withToc(linkRepoPaths(marked.parse(read('regulation/memorandum/explanatory-memorandum.md'))), 3),
   ...loadLocalized('explanatory', { toc: true, depth: 3, source: 'regulation/memorandum/explanatory-memorandum.md' }),
+};
+
+// ---- registration text (Annex II format) -----------------------------
+// campaign/REGISTRATION-TEXT.md uses "---" lines as section separators,
+// not as a drafting-notes cutoff, so it is rendered whole (sections 1 to
+// 5) rather than through stripNotes; only the drafting-notes block after
+// the last section, which is commentary for the campaign team and never
+// part of what would be filed, is cut.
+const registrationBody = cutDraftingNotes(
+  read('campaign/REGISTRATION-TEXT.md').replace(/^# ECI registration text$/m, '')
+);
+const registration = {
+  en: withToc(linkRepoPaths(marked.parse(registrationBody))),
+  ...loadLocalized('registration', {
+    toc: true, source: 'campaign/REGISTRATION-TEXT.md', stripDraftingNotes: true,
+  }),
 };
 
 // ---- ledger: review files with front matter -------------------------
@@ -337,7 +370,7 @@ writeFileSync(join(OUT, 'law.json'), JSON.stringify({
   lawCommit,
   builtAt: new Date().toISOString(),
   articles, recitals, annexes, objections, severability, ledger, evidence, about, contribute, structure,
-  versions, join: joinDoc, brief, faq, press, sign, explanatory, registered,
+  versions, join: joinDoc, brief, faq, press, sign, explanatory, registered, registration, citation,
 }, null, 1));
 console.log(`sync-law: ${articles.length} articles, ${annexes.length} annexes, ${ledger.length} ledger entries @ ${lawCommit}`);
 console.log(`sync-law: registered version: ${registered ? registered.number : 'none'}`);

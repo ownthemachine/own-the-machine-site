@@ -17,6 +17,16 @@ const rubric = (item, english) => (item.titles && item.titles[lang]) || english;
 <Base title={t.lawIndex.title} lang={lang} description={dict(lang).chrome.metaDescription}>
   <h1>{t.lawIndex.title}</h1>
   <DraftNotice lang={lang} />
+  {law.citation && (
+    <>
+      <p class="eyebrow">{t.lawIndex.citationLabel}</p>
+      <p class="citation">{law.citation}</p>
+      <p class="citation-links no-print">
+        <a href={href(lang, '/law/recitals')}>{t.chrome.recitals}</a> ·
+        <a href={href(lang, '/law/registration')}>{t.lawIndex.registrationLink}</a>
+      </p>
+    </>
+  )}
   <p class="brief-link no-print">
     <a href={href(lang, '/brief')}>{t.lawIndex.briefLink}</a>
   </p>
@@ -54,6 +64,7 @@ const rubric = (item, english) => (item.titles && item.titles[lang]) || english;
   <section class="chapter">
     <p class="eyebrow">{t.lawIndex.memorandum}</p>
     <ul>
+      <li><a href={href(lang, '/law/registration')}>{t.lawIndex.registrationLink}</a></li>
       <li><a href={href(lang, '/law/explanatory-memorandum')}>{t.lawIndex.explanatoryLink}</a></li>
       <li><a href={href(lang, '/law/objections')}>{t.lawIndex.objectionsLink}</a></li>
       <li><a href={href(lang, '/law/memorandum')}>{t.lawIndex.severabilityLink}</a></li>
@@ -79,6 +90,8 @@ const rubric = (item, english) => (item.titles && item.titles[lang]) || english;
 
 <style>
   .intro { margin: 0.8rem 0 2.2rem; }
+  .citation { font-family: var(--read); font-style: italic; margin: 0.2rem 0 0.5rem; }
+  .citation-links { font-size: 0.92rem; margin: 0 0 1.2rem; }
   .brief-link { font-size: 0.92rem; margin: 0.2rem 0 0; }
   .chapter { border-top: 1px solid var(--guilloche); padding: 1.2rem 0; }
   .chapter h2 { font-size: 1.25rem; margin: 0.2rem 0 0.6rem; }

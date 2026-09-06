@@ -34,4 +34,5 @@ export const STATUS = {
   evidence: 'en-only',
   contribute: 'en-only',
   about: 'en-only',
+  registration: 'en-only',
 };
