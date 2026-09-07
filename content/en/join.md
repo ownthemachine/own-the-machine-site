@@ -71,4 +71,4 @@ to send unsolicited campaign messages. See [about](/about) for the controller
 and your rights. Any later change to these arrangements must be explained
 before it takes effect.
 
-For contributor enquiries, the editor keeps a private follow-up note of contact details, any residence voluntarily provided, the agreed task and time, its owner, next action, status and permission to share an introduction. Inactive enquiries are reviewed after 90 days; details no longer needed are deleted unless continued contact is agreed or another retention need has been explained.
+For contributor enquiries, the editor keeps a private follow-up note of contact details, the date of your enquiry, any residence voluntarily provided, the agreed task and time, its owner, next action, status and permission to share an introduction. Inactive enquiries are reviewed after 90 days; details no longer needed are deleted unless continued contact is agreed or another retention need has been explained.

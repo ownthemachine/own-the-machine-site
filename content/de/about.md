@@ -1,8 +1,8 @@
 ---
 source: content/en/about.md
 source-commit: 31760e8
-source-sha256: d26a03958b3cd7a1c90d06a1e7b324e91c30fc3b3ab9718068d590aac3e680bb
-status: machine-reviewed
+source-sha256: 49509511716508bbef315e1fc13c4b2efa478443ddccf8a435863791ef2b90c8
+status: review-pending
 ---
 
 ## Stand: 7. September 2026
@@ -120,11 +120,15 @@ worin einzuwilligen wäre.
 Was dennoch verarbeitet wird, klar benannt, statt es wegzureden: Jeder Server, der
 eine Anfrage beantwortet, sieht die IP-Adresse, von der sie stammt. Der Host
 speichert daher kurzlebige technische Protokolle einschließlich IP-Adressen, um die
-Seiten auszuliefern und sich gegen Missbrauch zu schützen. Das ist alles; diese
+Seiten auszuliefern und sich gegen Missbrauch zu schützen. Diese
 Protokolle werden für keinen anderen Zweck ausgewertet, mit nichts zusammengeführt,
 nicht verkauft und nicht weitergegeben. Wenn Sie diese Website zwischen Papier- und
 Plattenansicht umschalten, wird diese Wahl im Speicher Ihres eigenen Browsers
 abgelegt und verlässt diesen nie.
+
+Wenn Sie dem Projekt eine E-Mail senden, wird Ihre Nachricht zur Beantwortung verwendet.
+Die Notizen zur Mitarbeit und ihre Aufbewahrung sind auf [Mitmachen](/de/join) beschrieben.
+Diese privaten Notizen werden auf dem Computer des Initiators außerhalb des öffentlichen Repositorys gespeichert.
 
 Jede Person in der Union kann Auskunft über die über sie gespeicherten Daten
 verlangen und sich bei einer Aufsichtsbehörde beschweren; in Belgien ist dies die

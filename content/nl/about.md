@@ -1,8 +1,8 @@
 ---
 source: content/en/about.md
 source-commit: 31760e8
-source-sha256: d26a03958b3cd7a1c90d06a1e7b324e91c30fc3b3ab9718068d590aac3e680bb
-status: machine-reviewed
+source-sha256: 49509511716508bbef315e1fc13c4b2efa478443ddccf8a435863791ef2b90c8
+status: review-pending
 ---
 
 ## Stand van zaken: 7 september 2026
@@ -67,7 +67,9 @@ Verordening (EU) 2019/788 verplicht een geregistreerd initiatief om elke bron te
 
 Deze site plaatst geen cookies, gebruikt geen analytische scripts en laadt niets van derden. Er is geen toestemmingsbanner omdat er niets is om toestemming voor te vragen.
 
-Wat desalniettemin wordt verwerkt, nuchter vermeld in plaats van weggewuifd: elke server die een verzoek beantwoordt, ziet het adres waar het vandaan komt, dus de host houdt kortstondige technische logs bij, inclusief IP-adressen, om de pagina's te leveren en zich te verdedigen tegen misbruik. Dat is alles; die logs worden voor geen enkel ander doel gelezen, worden met niets gecombineerd, worden niet verkocht en worden niet gedeeld. Als u op deze site wisselt tussen papier en plaat, wordt die keuze opgeslagen in uw eigen browser en verlaat die nooit.
+Wat desalniettemin wordt verwerkt, nuchter vermeld in plaats van weggewuifd: elke server die een verzoek beantwoordt, ziet het adres waar het vandaan komt, dus de host houdt kortstondige technische logs bij, inclusief IP-adressen, om de pagina's te leveren en zich te verdedigen tegen misbruik. Die logs worden voor geen enkel ander doel gelezen, worden met niets gecombineerd, worden niet verkocht en worden niet gedeeld. Als u op deze site wisselt tussen papier en plaat, wordt die keuze opgeslagen in uw eigen browser en verlaat die nooit.
+
+Als u het project e-mailt, wordt uw bericht gebruikt om te antwoorden. De opvolgnotities voor bijdragen en hun bewaartermijn staan op [Meedoen](/nl/join). Die privénotities staan op de computer van de initiatiefnemer, buiten de openbare repository.
 
 Iedereen in de Unie kan vragen welke gegevens over hem of haar worden bewaard en kan een klacht indienen bij een toezichthoudende autoriteit; in België is dat de Gegevensbeschermingsautoriteit. Wanneer de ondertekening opent, gebeurt dit op het eigen verzamelsysteem van de Europese Commissie onder Verordening (EU) 2019/788, niet hier.
 

@@ -1,8 +1,8 @@
 ---
 source: content/en/about.md
 source-commit: 31760e8
-source-sha256: d26a03958b3cd7a1c90d06a1e7b324e91c30fc3b3ab9718068d590aac3e680bb
-status: machine-reviewed
+source-sha256: 49509511716508bbef315e1fc13c4b2efa478443ddccf8a435863791ef2b90c8
+status: review-pending
 ---
 
 ## État du projet : 7 septembre 2026
@@ -117,10 +117,14 @@ consentir.
 Ce qui est néanmoins traité, formulé en toute franchise plutôt que minimisé : tout
 serveur répondant à une requête voit l'adresse dont elle émane ; l'hébergeur conserve
 donc des journaux techniques de courte durée, y compris les adresses IP, afin de délivrer
-les pages et de prévenir les abus. C'est tout ; ces journaux ne sont exploités à aucune
+les pages et de prévenir les abus. Ces journaux ne sont exploités à aucune
 autre fin, ne sont recoupés avec rien, ne sont ni vendus ni partagés. Si vous basculez
 l'affichage de ce site entre les modes papier et plaque, ce choix est enregistré dans
 la mémoire de votre propre navigateur et ne la quitte jamais.
+
+Si vous écrivez au projet, votre message sert à vous répondre. Les notes de suivi
+des contributions et leur conservation sont décrites sur [Participer](/fr/join).
+Ces notes privées sont conservées sur l'ordinateur de l'initiateur, hors du dépôt public.
 
 Toute personne dans l'Union peut demander quelles données sont détenues à son sujet et
 peut introduire une réclamation auprès d'une autorité de contrôle ; en Belgique, il

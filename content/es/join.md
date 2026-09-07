@@ -1,8 +1,8 @@
 ---
 source: content/en/join.md
 source-commit: 1c695e7
-source-sha256: 4579c646e79399bcd79eeda52875b702d6106a84af47ff78a3b125cfbc4f5df2
-status: machine-reviewed
+source-sha256: 38055680aaa7a44e5766925bbf7fec3003c1b64774bb29ea93b17bf8cb8defd6
+status: review-pending
 ---
 
 ## Empezar en diez minutos
@@ -83,4 +83,4 @@ solicitados. Consulte [acerca de](/es/about) para conocer el responsable del tra
 sus derechos. Cualquier cambio posterior en estas disposiciones deberá explicarse antes
 de surtir efecto.
 
-Para las consultas sobre colaboración, el editor conserva una nota privada con los datos de contacto, la residencia facilitada voluntariamente, la tarea y el tiempo acordados, la persona responsable, la próxima acción, el estado y el permiso para presentar a otra persona. Las consultas inactivas se revisan después de 90 días; los datos que ya no sean necesarios se eliminan, salvo acuerdo para mantener el contacto u otra necesidad de conservación explicada.
+Para las consultas sobre colaboración, el editor conserva una nota privada con los datos de contacto, la fecha de su consulta, la residencia facilitada voluntariamente, la tarea y el tiempo acordados, la persona responsable, la próxima acción, el estado y el permiso para presentar a otra persona. Las consultas inactivas se revisan después de 90 días; los datos que ya no sean necesarios se eliminan, salvo acuerdo para mantener el contacto u otra necesidad de conservación explicada.

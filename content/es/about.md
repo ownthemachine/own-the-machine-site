@@ -1,8 +1,8 @@
 ---
 source: content/en/about.md
 source-commit: 31760e8
-source-sha256: d26a03958b3cd7a1c90d06a1e7b324e91c30fc3b3ab9718068d590aac3e680bb
-status: machine-reviewed
+source-sha256: 49509511716508bbef315e1fc13c4b2efa478443ddccf8a435863791ef2b90c8
+status: review-pending
 ---
 
 ## Situación: 7 de septiembre de 2026
@@ -111,10 +111,14 @@ terceros. No hay aviso de consentimiento porque no hay nada sobre lo que consent
 Lo que sí se procesa, explicado con claridad en lugar de omitirlo: cualquier servidor que
 responde a una solicitud registra la dirección de procedencia, por lo que el proveedor de
 alojamiento guarda registros técnicos de corta duración, incluidas direcciones IP, para
-servir las páginas y prevenir abusos. Eso es todo; esos registros no se consultan para
+servir las páginas y prevenir abusos. Esos registros no se consultan para
 ningún otro fin, no se combinan con ninguna otra información, no se venden y no se
 comparten. Si alterna en este sitio entre la versión de papel y la de plancha, esa
 preferencia se guarda en el almacenamiento local de su propio navegador y nunca sale de él.
+
+Si escribe al proyecto por correo electrónico, su mensaje se utiliza para responderle.
+Las notas de seguimiento de las colaboraciones y su conservación se describen en [Participar](/es/join).
+Estas notas privadas se guardan en el ordenador del iniciador, fuera del repositorio público.
 
 Toda persona en la Unión puede consultar los datos que se conserven sobre ella y presentar
 una reclamación ante una autoridad de control; en Bélgica, la Autoridad de Protección de

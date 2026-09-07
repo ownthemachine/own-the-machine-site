@@ -1,8 +1,8 @@
 ---
 source: content/en/join.md
 source-commit: 1c695e7
-source-sha256: 4579c646e79399bcd79eeda52875b702d6106a84af47ff78a3b125cfbc4f5df2
-status: machine-reviewed
+source-sha256: 38055680aaa7a44e5766925bbf7fec3003c1b64774bb29ea93b17bf8cb8defd6
+status: review-pending
 ---
 
 ## Commencer en dix minutes
@@ -86,4 +86,4 @@ la page [à propos](/fr/about) pour connaître le responsable du traitement et v
 Tout changement ultérieur apporté à ces dispositions devra être expliqué avant de
 prendre effet.
 
-Pour les demandes de contribution, l'éditeur tient une note de suivi privée : coordonnées, résidence communiquée volontairement, tâche et disponibilité convenues, responsable, prochaine action, état du suivi et autorisation de mise en relation. Les demandes inactives sont réexaminées après 90 jours ; les données devenues inutiles sont supprimées, sauf accord pour rester en contact ou autre nécessité de conservation expliquée.
+Pour les demandes de contribution, l'éditeur tient une note de suivi privée : coordonnées, date de votre demande, résidence communiquée volontairement, tâche et disponibilité convenues, responsable, prochaine action, état du suivi et autorisation de mise en relation. Les demandes inactives sont réexaminées après 90 jours ; les données devenues inutiles sont supprimées, sauf accord pour rester en contact ou autre nécessité de conservation expliquée.

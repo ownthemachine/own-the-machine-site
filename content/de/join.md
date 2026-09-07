@@ -1,8 +1,8 @@
 ---
 source: content/en/join.md
 source-commit: 1c695e7
-source-sha256: 4579c646e79399bcd79eeda52875b702d6106a84af47ff78a3b125cfbc4f5df2
-status: machine-reviewed
+source-sha256: 38055680aaa7a44e5766925bbf7fec3003c1b64774bb29ea93b17bf8cb8defd6
+status: review-pending
 ---
 
 ## In zehn Minuten anfangen
@@ -86,4 +86,4 @@ Kampagnennachrichten. Siehe [Über das Projekt](/de/about) bezüglich des
 Verantwortlichen und Ihrer Rechte. Jede spätere Änderung dieser Regelungen muss vor
 ihrem Inkrafttreten erläutert werden.
 
-Für Anfragen zur Mitarbeit führt der Herausgeber eine private Notiz mit Kontaktdaten, freiwillig angegebenem Wohnsitz, vereinbarter Aufgabe und Zeit, verantwortlicher Person, nächstem Schritt, Status und Zustimmung zu einer Kontaktvermittlung. Inaktive Anfragen werden nach 90 Tagen überprüft; nicht mehr benötigte Daten werden gelöscht, sofern kein weiterer Kontakt vereinbart oder ein anderer Aufbewahrungsbedarf erläutert wurde.
+Für Anfragen zur Mitarbeit führt der Herausgeber eine private Notiz mit Kontaktdaten, dem Datum Ihrer Anfrage, freiwillig angegebenem Wohnsitz, vereinbarter Aufgabe und Zeit, verantwortlicher Person, nächstem Schritt, Status und Zustimmung zu einer Kontaktvermittlung. Inaktive Anfragen werden nach 90 Tagen überprüft; nicht mehr benötigte Daten werden gelöscht, sofern kein weiterer Kontakt vereinbart oder ein anderer Aufbewahrungsbedarf erläutert wurde.

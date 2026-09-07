@@ -1,8 +1,8 @@
 ---
 source: content/en/join.md
 source-commit: 1c695e7
-source-sha256: 4579c646e79399bcd79eeda52875b702d6106a84af47ff78a3b125cfbc4f5df2
-status: machine-reviewed
+source-sha256: 38055680aaa7a44e5766925bbf7fec3003c1b64774bb29ea93b17bf8cb8defd6
+status: review-pending
 ---
 
 ## Begin in tien minuten
@@ -46,4 +46,4 @@ Schrijf naar [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu), of open ee
 
 Een GitHub-issue is openbaar. Een e-mail bereikt de redacteur; deze wordt niet toegevoegd aan een mailinglijst, doorgestuurd of gepubliceerd zonder uw toestemming. Er is geen mailinglijst of donatieformulier. Contactgegevens worden gebruikt om de vraag te beantwoorden, niet om ongevraagde campagneberichten te sturen. Zie [over ons](/nl/about) voor de verwerkingsverantwoordelijke en uw rechten. Elke latere wijziging van deze regelingen moet worden toegelicht voordat deze van kracht wordt.
 
-Voor vragen over bijdragen houdt de redacteur een privé-opvolgnotitie bij: contactgegevens, eventueel vrijwillig opgegeven woonland, afgesproken taak en tijd, verantwoordelijke, volgende actie, status en toestemming voor een kennismaking. Inactieve vragen worden na 90 dagen beoordeeld; gegevens die niet meer nodig zijn worden verwijderd, tenzij verder contact is afgesproken of een andere bewaarbehoefte is toegelicht.
+Voor vragen over bijdragen houdt de redacteur een privé-opvolgnotitie bij: contactgegevens, de datum van uw vraag, eventueel vrijwillig opgegeven woonland, afgesproken taak en tijd, verantwoordelijke, volgende actie, status en toestemming voor een kennismaking. Inactieve vragen worden na 90 dagen beoordeeld; gegevens die niet meer nodig zijn worden verwijderd, tenzij verder contact is afgesproken of een andere bewaarbehoefte is toegelicht.

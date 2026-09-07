@@ -110,11 +110,14 @@ nothing to consent to.
 What is nonetheless processed, stated plainly rather than claimed away:
 any server that answers a request sees the address it came from, so the
 host keeps short-lived technical logs, including IP addresses, to
-deliver the pages and to defend against abuse. That is the whole of it;
-those logs are not read for any other purpose, are not combined with
+deliver the pages and to defend against abuse. Those logs are not read for any other purpose, are not combined with
 anything, are not sold and are not shared. If you switch this site
 between paper and plate, that choice is written into your own browser's
 storage and never leaves it.
+
+If you email the project, your message is used to respond. Contributor follow-up
+notes and their retention are described on [Take part](/join). Those private
+notes are stored on the initiator's machine, outside the public repository.
 
 Anyone in the Union may ask what is held about them, and may complain
 to a supervisory authority; in Belgium that is the Data Protection
