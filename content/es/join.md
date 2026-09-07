@@ -1,6 +1,6 @@
 ---
 source: content/en/join.md
-source-commit: 98fb43c; final status correction pending review
+source-commit: 98fb43c
 source-sha256: 38055680aaa7a44e5766925bbf7fec3003c1b64774bb29ea93b17bf8cb8defd6
 status: review-pending
 ---

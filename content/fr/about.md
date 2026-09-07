@@ -1,6 +1,6 @@
 ---
 source: content/en/about.md
-source-commit: 98fb43c; final status correction pending review
+source-commit: 29300ae
 source-sha256: dcd7b78d605a9d0ca7f6055daeb55b043e9462c81d2b31eef015c2b5e51d5341
 status: review-pending
 ---
