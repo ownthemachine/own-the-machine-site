@@ -1,0 +1,358 @@
+{
+  "recordedAt": "2026-09-07T12:27:04.020410+00:00",
+  "site": "https://ownthemachine.eu",
+  "siteCommit": "02afbe25025f706e8a1efbcea8552133d6290a61",
+  "lawCommit": "d2e13cf19154ecc552439e12474748d2c32e4001",
+  "toolsCommit": "8b8b49a1760fefbc09385790b3ce9f686120c298",
+  "hosting": "Scaleway fr-par Object Storage and Edge Services",
+  "cdnPurge": {
+    "id": "f1ed6ecc-ad67-426e-8544-41dcafc27635",
+    "status": "done"
+  },
+  "rollbackObjectsVerified": 537,
+  "liveByteVerification": {
+    "verifiedAt": "2026-09-07T12:26:07.705Z",
+    "results": [
+      {
+        "path": "/",
+        "status": 200,
+        "bytes": 144522,
+        "sha256": "bf4e4e8de9f7b8dbad3675c75d2c84165a895f77a4723d0792e1997f367d7c7e",
+        "matchesBuild": true
+      },
+      {
+        "path": "/fr/",
+        "status": 200,
+        "bytes": 145433,
+        "sha256": "2a5d96afbc68d9ebf137f3eb0fdc17c77fc0a9b9a566042222824b99d226d5e1",
+        "matchesBuild": true
+      },
+      {
+        "path": "/fr",
+        "status": 200,
+        "bytes": 145433,
+        "sha256": "2a5d96afbc68d9ebf137f3eb0fdc17c77fc0a9b9a566042222824b99d226d5e1",
+        "matchesBuild": true
+      },
+      {
+        "path": "/nl/",
+        "status": 200,
+        "bytes": 145157,
+        "sha256": "037dd00e55795ddfd9d539af2658967b368d4cca699996839d4969bd5a9ed18b",
+        "matchesBuild": true
+      },
+      {
+        "path": "/de/",
+        "status": 200,
+        "bytes": 145364,
+        "sha256": "ff221eab293981b0227feeb8f802cb4b00cfd25889b2b1b285bd904ea85d5dfe",
+        "matchesBuild": true
+      },
+      {
+        "path": "/es/",
+        "status": 200,
+        "bytes": 145229,
+        "sha256": "688cc663dda7806fc4378ebe9d8adddde81463bf004e3398454f232fb8aab743",
+        "matchesBuild": true
+      },
+      {
+        "path": "/about",
+        "status": 200,
+        "bytes": 19920,
+        "sha256": "501f8bcc5764facb2f034af4cf9a57c2c25d9a5d65082f6e5405729c3dcfa4e2",
+        "matchesBuild": true
+      },
+      {
+        "path": "/fr/about",
+        "status": 200,
+        "bytes": 23440,
+        "sha256": "13064327c1cf1105b29c34f43868319258b6665a7782746e3c3bd3ac80226141",
+        "matchesBuild": true
+      },
+      {
+        "path": "/law/article-5",
+        "status": 200,
+        "bytes": 28496,
+        "sha256": "a1091b53347f0a8e94c9c62a92d0d1f26c459e05d33565b868603e70c2214258",
+        "matchesBuild": true
+      },
+      {
+        "path": "/law/explanatory-memorandum",
+        "status": 200,
+        "bytes": 50130,
+        "sha256": "205ef5f01a8d06923a470eddfc51f17eea6b20027b850d077be293f75a76dc20",
+        "matchesBuild": true
+      },
+      {
+        "path": "/law/ledger",
+        "status": 200,
+        "bytes": 1769416,
+        "sha256": "1f6951b6c002a1064a65b2b165c409e214fa9301c5c843e7c2215bea2cdb80ee",
+        "matchesBuild": true
+      },
+      {
+        "path": "/simulator",
+        "status": 200,
+        "bytes": 22005,
+        "sha256": "a9dee1f9fe315686d6b2a638fab844c6533b2368cebe5892de5d9063a5a91ded",
+        "matchesBuild": true
+      },
+      {
+        "path": "/downloads/own-the-machine-draft.pdf",
+        "status": 200,
+        "bytes": 699161,
+        "sha256": "a12f5ffc69d89839127db7edb422dab66b04b8d6bd698e159c05716865921c03",
+        "matchesBuild": true
+      },
+      {
+        "path": "/downloads/own-the-machine-draft.epub",
+        "status": 200,
+        "bytes": 200359,
+        "sha256": "941d86f7a922954bd8fcb9ba6ccf23fcb6db9277f5914088c9a075fdf3f669c8",
+        "matchesBuild": true
+      }
+    ]
+  },
+  "browserSamples": [
+    {
+      "path": "/",
+      "theme": "light",
+      "pass": true,
+      "desktopOverflow": false,
+      "mobileOverflow": false,
+      "thirdParty": [],
+      "errors": [],
+      "language": "en",
+      "serious": [],
+      "otherAxe": []
+    },
+    {
+      "path": "/",
+      "theme": "dark",
+      "pass": true,
+      "desktopOverflow": false,
+      "mobileOverflow": false,
+      "thirdParty": [],
+      "errors": [],
+      "language": "en",
+      "serious": [],
+      "otherAxe": []
+    },
+    {
+      "path": "/fr/",
+      "theme": "light",
+      "pass": true,
+      "desktopOverflow": false,
+      "mobileOverflow": false,
+      "thirdParty": [],
+      "errors": [],
+      "language": "fr",
+      "serious": [],
+      "otherAxe": []
+    },
+    {
+      "path": "/fr/",
+      "theme": "dark",
+      "pass": true,
+      "desktopOverflow": false,
+      "mobileOverflow": false,
+      "thirdParty": [],
+      "errors": [],
+      "language": "fr",
+      "serious": [],
+      "otherAxe": []
+    },
+    {
+      "path": "/nl/",
+      "theme": "light",
+      "pass": true,
+      "desktopOverflow": false,
+      "mobileOverflow": false,
+      "thirdParty": [],
+      "errors": [],
+      "language": "nl",
+      "serious": [],
+      "otherAxe": []
+    },
+    {
+      "path": "/nl/",
+      "theme": "dark",
+      "pass": true,
+      "desktopOverflow": false,
+      "mobileOverflow": false,
+      "thirdParty": [],
+      "errors": [],
+      "language": "nl",
+      "serious": [],
+      "otherAxe": []
+    },
+    {
+      "path": "/de/",
+      "theme": "light",
+      "pass": true,
+      "desktopOverflow": false,
+      "mobileOverflow": false,
+      "thirdParty": [],
+      "errors": [],
+      "language": "de",
+      "serious": [],
+      "otherAxe": []
+    },
+    {
+      "path": "/de/",
+      "theme": "dark",
+      "pass": true,
+      "desktopOverflow": false,
+      "mobileOverflow": false,
+      "thirdParty": [],
+      "errors": [],
+      "language": "de",
+      "serious": [],
+      "otherAxe": []
+    },
+    {
+      "path": "/es/",
+      "theme": "light",
+      "pass": true,
+      "desktopOverflow": false,
+      "mobileOverflow": false,
+      "thirdParty": [],
+      "errors": [],
+      "language": "es",
+      "serious": [],
+      "otherAxe": []
+    },
+    {
+      "path": "/es/",
+      "theme": "dark",
+      "pass": true,
+      "desktopOverflow": false,
+      "mobileOverflow": false,
+      "thirdParty": [],
+      "errors": [],
+      "language": "es",
+      "serious": [],
+      "otherAxe": []
+    },
+    {
+      "path": "/fr/about/",
+      "theme": "light",
+      "pass": true,
+      "desktopOverflow": false,
+      "mobileOverflow": false,
+      "thirdParty": [],
+      "errors": [],
+      "language": "fr",
+      "serious": [],
+      "otherAxe": []
+    },
+    {
+      "path": "/fr/about/",
+      "theme": "dark",
+      "pass": true,
+      "desktopOverflow": false,
+      "mobileOverflow": false,
+      "thirdParty": [],
+      "errors": [],
+      "language": "fr",
+      "serious": [],
+      "otherAxe": []
+    },
+    {
+      "path": "/fr/join/",
+      "theme": "light",
+      "pass": true,
+      "desktopOverflow": false,
+      "mobileOverflow": false,
+      "thirdParty": [],
+      "errors": [],
+      "language": "fr",
+      "serious": [],
+      "otherAxe": []
+    },
+    {
+      "path": "/fr/join/",
+      "theme": "dark",
+      "pass": true,
+      "desktopOverflow": false,
+      "mobileOverflow": false,
+      "thirdParty": [],
+      "errors": [],
+      "language": "fr",
+      "serious": [],
+      "otherAxe": []
+    },
+    {
+      "path": "/law/article-5/",
+      "theme": "light",
+      "pass": true,
+      "desktopOverflow": false,
+      "mobileOverflow": false,
+      "thirdParty": [],
+      "errors": [],
+      "language": "en",
+      "serious": [],
+      "otherAxe": []
+    },
+    {
+      "path": "/law/article-5/",
+      "theme": "dark",
+      "pass": true,
+      "desktopOverflow": false,
+      "mobileOverflow": false,
+      "thirdParty": [],
+      "errors": [],
+      "language": "en",
+      "serious": [],
+      "otherAxe": []
+    },
+    {
+      "path": "/law/objections/",
+      "theme": "light",
+      "pass": true,
+      "desktopOverflow": false,
+      "mobileOverflow": false,
+      "thirdParty": [],
+      "errors": [],
+      "language": "en",
+      "serious": [],
+      "otherAxe": []
+    },
+    {
+      "path": "/law/objections/",
+      "theme": "dark",
+      "pass": true,
+      "desktopOverflow": false,
+      "mobileOverflow": false,
+      "thirdParty": [],
+      "errors": [],
+      "language": "en",
+      "serious": [],
+      "otherAxe": []
+    },
+    {
+      "path": "/simulator/",
+      "theme": "light",
+      "pass": true,
+      "desktopOverflow": false,
+      "mobileOverflow": false,
+      "thirdParty": [],
+      "errors": [],
+      "language": "en",
+      "serious": [],
+      "otherAxe": []
+    },
+    {
+      "path": "/simulator/",
+      "theme": "dark",
+      "pass": true,
+      "desktopOverflow": false,
+      "mobileOverflow": false,
+      "thirdParty": [],
+      "errors": [],
+      "language": "en",
+      "serious": [],
+      "otherAxe": []
+    }
+  ]
+}
