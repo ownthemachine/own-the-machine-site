@@ -11,11 +11,12 @@ const simI18n = JSON.stringify({ lang, sentence: t.simulator.sentence, stakeSent
   <h1>{t.simulator.title}</h1>
   <p class="intro prose" set:html={fmt(t.simulator.intro, { ANNEX2: href(lang, '/law/annex-2-retention') })} />
 
+  <p class="sizing-note">{t.reviewNotice.sizing}</p>
   <form id="sim" class="controls no-print">
     <div class="field">
       <label for="rev">{t.simulator.revLabel}</label>
       <input type="range" id="rev" min="100" max="3000" step="50" value="1400" />
-      <output for="rev" id="rev-out">150</output>
+      <output for="rev" id="rev-out">1 400</output>
       <p class="note">{t.simulator.revNote}</p>
     </div>
     <div class="field">
@@ -64,6 +65,7 @@ const simI18n = JSON.stringify({ lang, sentence: t.simulator.sentence, stakeSent
 </Base>
 
 <style>
+  .sizing-note { border-left: 3px solid var(--serial-red); padding: 0.8rem; background: var(--card); font-size: 0.9rem; }
   h1 { font-size: 1.7rem; margin: 0.4rem 0 1rem; }
   .intro { margin-bottom: 1.6rem; }
   .controls { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1.4rem; align-items: start; margin-bottom: 1.6rem; }

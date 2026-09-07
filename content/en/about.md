@@ -6,6 +6,28 @@ prepared as the basis for a possible European Citizens' Initiative. The
 legal text, its memorandum, its objections and every review verdict
 live in a public repository; this site renders them.
 
+## Status update: 7 September 2026
+
+This website presents the current Article 114 working draft with corrected
+explanations. A separate Article 352 alternative is being examined; it has
+not replaced this text. Publishing the draft does not mean its substantive
+review gates have passed.
+
+The main open questions are the legal basis and compulsory equity mechanism,
+the evidence for the proposed 3% stake, enforcement, funding before the
+Reserve receives income, and correction of citizen payment records. The
+older memorandum's sizing figures have not been reproduced using the current
+designation criteria. They are not validated forecasts. The simulator is an
+illustrative model with stated limitations, not evidence that the proposal
+reaches its generational objective.
+
+Recruitment and discussion can continue while these questions are addressed.
+The ECI Forum exchange is complete. The researcher was contacted on 2
+September, and the ECI veteran replied on 5 September. The next planned
+approach is to a Belgian MEP office; no such send is recorded. There is no
+registered initiative and no collection of statements of support. The
+[review ledger](/law/ledger) preserves the findings, including adverse results.
+
 ## Not an EU document
 
 This is a citizens' proposal. It is not published by, endorsed by,

@@ -34,6 +34,7 @@ export default {
     ogImageAlt: 'Un certificat de citoyen portant le sceau d’Own the Machine',
     metaDescription: 'Un projet de règlement de l’UE en source ouverte : du capital pour tous, pour que le dividende suive.',
   },
+  reviewNotice: {"text": "Projet de travail : la base juridique, le mécanisme de participation obligatoire au capital et son dimensionnement restent à examiner. Rien n’est enregistré et aucune déclaration de soutien n’est recueillie.", "link": "État du projet et questions ouvertes", "sizing": "Les chiffres de dimensionnement du mémorandum ne sont pas encore validés au regard des critères actuels de désignation. Ils ne démontrent pas que les 3% proposés permettent d’atteindre l’objectif sur une génération."},
   banner: {
     lawEnglish: 'Ce qui suit en anglais est le projet lui-même. Cette page présente le texte anglais faisant foi ; les traductions du texte juridique ne servent qu\'à la compréhension.',
     pageMachine: 'Cette page a été traduite et vérifiée par la relecture collaborative du projet, mais un locuteur natif ne l’a pas encore révisée. Une erreur ? Signalez-la sur %GITHUB%.',
@@ -47,7 +48,7 @@ export default {
   "eyebrow": "Un projet de règlement des citoyens d'Europe",
   "tagline": "Le capital pour tous, afin que le dividende suive.",
   "ask": "Quand les machines créent de la richesse, les citoyens devraient en partager la propriété. Ce projet propose une participation citoyenne aux gains de la production hautement automatisée. Le projet complet de règlement illustre un mécanisme ; l'initiative proposée demande à la Commission d'évaluer et de proposer des instruments. Rien n'est enregistré et il n'y a rien à signer pour l'instant.",
-  "basis": "Bases juridiques proposées : articles 114 et 352 du TFUE ; aucune révision des traités n'est demandée. La base juridique reste contestée. <a href=\"%REG%\">Lire les objectifs d'enregistrement proposés.</a>",
+  "basis": "Le projet actuel cite l’article 114 TFUE. Une autre version fondée sur l’article 352 est à l’étude ; aucune des deux voies n’est acquise. Aucune modification des traités n’est demandée. <a href=\"%REG%\">Lire les objectifs proposés pour l’enregistrement.</a>",
   "ctaRead": "Lire le règlement",
   "ctaObjections": "Commencer par les objections",
   "ctaJoin": "Ce qui aiderait",

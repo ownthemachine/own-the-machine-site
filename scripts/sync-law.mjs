@@ -186,7 +186,7 @@ const annexes = readdirSync(annexDir).filter((f) => f.endsWith('.md')).sort().ma
 
 // Mentions of repo files in prose become links to the repository, so a
 // site reader lands on the real file instead of a dead relative path.
-const REPO = 'https://github.com/ownthemachine/own-the-machine/blob/main';
+const REPO = `https://github.com/ownthemachine/own-the-machine/blob/${lawCommit}`;
 const KNOWN = { 'EVIDENCE.md': 'evidence/EVIDENCE.md', 'GATES.md': 'campaign/GATES.md',
   'GOVERNANCE.md': 'GOVERNANCE.md', 'CONTRIBUTING.md': 'CONTRIBUTING.md' };
 const linkRepoPaths = (html) => html.replace(
@@ -376,6 +376,8 @@ writeFileSync(join(OUT, 'law.json'), JSON.stringify({
   builtAt: new Date().toISOString(),
   articles, recitals, annexes, objections, severability, ledger, evidence, about, contribute, structure,
   versions, join: joinDoc, brief, faq, press, sign, explanatory, registered, registration, citation,
-}, null, 1));
+}, null, 1)
+  .replaceAll('https://github.com/ownthemachine/own-the-machine/blob/main/', `${REPO}/`)
+  .replaceAll('https://github.com/ownthemachine/own-the-machine/commits/main', `https://github.com/ownthemachine/own-the-machine/commits/${lawCommit}`));
 console.log(`sync-law: ${articles.length} articles, ${annexes.length} annexes, ${ledger.length} ledger entries @ ${lawCommit}`);
 console.log(`sync-law: registered version: ${registered ? registered.number : 'none'}`);

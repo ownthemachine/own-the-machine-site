@@ -6,9 +6,9 @@
 // continuing cohorts at the chosen growth rate. Horizon: fifty years.
 
 const ADULTS = 350e6;
-const VALUE_MULTIPLE = 14; // firm value as a multiple of covered revenue:
-// the measured ratio of the designated set under Article 3(2)(b) as amended,
-// EUR ~20,5tn of value on ~EUR 1,43tn of revenue (evidence/designation-count.md)
+const VALUE_MULTIPLE = 14; // assumed firm value as a multiple of covered revenue.
+// This legacy scenario input is not validated against the current
+// designation criteria; it is not a measured ratio of the covered set.
 const YEARS = 50;
 
 interface Inputs { revBn: number; lag: number; ret: number; growth: number }

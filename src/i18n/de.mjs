@@ -35,6 +35,7 @@ export default {
     ogImageAlt: 'Eine Bürgerurkunde mit dem Siegel von Own the Machine',
     metaDescription: 'Ein quelloffener Entwurf einer EU-Verordnung: Kapital für alle, damit die Dividende folgt.',
   },
+  reviewNotice: {"text": "Arbeitsentwurf: Rechtsgrundlage, verpflichtende Kapitalbeteiligung und deren Umfang werden noch geprüft. Es ist nichts registriert, und es werden keine Unterstützungsbekundungen gesammelt.", "link": "Aktueller Stand und offene Fragen", "sizing": "Die Berechnungen in der Begründung sind noch nicht anhand der aktuellen Benennungskriterien validiert. Sie belegen nicht, dass die vorgeschlagenen 3% das Ziel innerhalb einer Generation erreichen."},
   banner: {
     lawEnglish: 'Was nachstehend auf Englisch folgt, ist der Entwurf selbst. Diese Seite zeigt den maßgeblichen englischen Text; Übersetzungen des Rechtstextes dienen allein dem Verständnis.',
     pageMachine: 'Diese Seite wurde im Rahmen des offenen Prüfprozesses des Projekts übersetzt und überprüft; ein muttersprachliches Lektorat steht noch aus. Fehler entdeckt? Melden Sie ihn auf %GITHUB%.',
@@ -48,7 +49,7 @@ export default {
   "eyebrow": "Ein Verordnungsentwurf der Bürgerinnen und Bürger Europas",
   "tagline": "Kapital für alle, damit die Dividende folgt.",
   "ask": "Wenn Maschinen Wohlstand schaffen, sollten die Bürgerinnen und Bürger am Eigentum daran teilhaben. Dieses Projekt schlägt eine Bürgerbeteiligung an den Gewinnen hochautomatisierter Produktion vor. Der vollständige Verordnungsentwurf veranschaulicht einen Mechanismus; die vorgeschlagene Initiative fordert die Kommission auf, Instrumente zu prüfen und vorzuschlagen. Bisher ist nichts registriert und es gibt noch nichts zu unterzeichnen.",
-  "basis": "Vorgeschlagene Rechtsgrundlagen: Artikel 114 und 352 AEUV; eine Vertragsänderung wird nicht angestrebt. Die Rechtsgrundlage bleibt umstritten. <a href=\"%REG%\">Lesen Sie die vorgeschlagenen Registrierungsziele.</a>",
+  "basis": "Der aktuelle Entwurf stützt sich auf Artikel 114 AEUV. Eine Alternative auf Grundlage von Artikel 352 wird geprüft; keiner der beiden Wege steht fest. Eine Vertragsänderung wird nicht angestrebt. <a href=\"%REG%\">Die vorgeschlagenen Registrierungsziele lesen.</a>",
   "ctaRead": "Den Rechtstext lesen",
   "ctaObjections": "Mit den Einwänden beginnen",
   "ctaJoin": "Was helfen würde",

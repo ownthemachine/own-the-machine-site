@@ -14,6 +14,7 @@ mkdirSync(OUT, { recursive: true });
 
 const stamp = `Draft at commit ${law.lawCommit}, generated ${law.builtAt.slice(0, 10)}. ` +
   `The living text and its review ledger: github.com/ownthemachine/own-the-machine. Licence CC BY-SA 4.0.`;
+const reviewNotice = 'Working draft: legal basis, compulsory equity participation and sizing remain under substantive review. This document is not filed, registered or approved. Sizing figures in the memorandum have not been validated against the current designation criteria and do not establish that 3% reaches the generational objective. The separate Article 352 alternative is not the legal text reproduced here.';
 const longTitle = 'Regulation of the European Parliament and of the Council on harmonised ' +
   'rules for citizen participation in automated productivity gains (Citizens’ Capital Regulation)';
 
@@ -45,13 +46,14 @@ const css = `
   a { color: inherit; text-decoration: none; }
 `;
 const isLaw = (s) => s.id === 'recitals' || s.id.startsWith('article-') || s.id.startsWith('annex-');
-const pdfHtml = `<!doctype html><html><head><meta charset="utf-8"><style>${css}</style></head><body>
+const pdfHtml = `<!doctype html><html><head><meta charset="utf-8"><title>Own the Machine: working draft</title><style>${css}</style></head><body>
   <div class="cover">
     <div class="rules"></div>
     <h1>OWN&nbsp;THE&nbsp;MACHINE</h1>
     <p class="sub">${longTitle}</p>
     <p class="sub">A citizens’ draft, written in the open, objections first.</p>
     <p class="stamp">${stamp}</p>
+    <p class="stamp">${reviewNotice}</p>
   </div>
   ${sections.map((s, i) => `<section class="${isLaw(s) ? 'law' : 'memo'}">
     <h2 class="sec ${i === 0 ? 'first' : ''}">${s.title}</h2>${s.html}</section>`).join('\n')}
@@ -87,7 +89,7 @@ zip.file('META-INF/container.xml', `<?xml version="1.0" encoding="utf-8"?>
 </container>`);
 
 const chapters = [
-  { id: 'cover', title: 'Own the Machine', body: `<section style="text-align:center"><h1>OWN THE MACHINE</h1><p><i>${longTitle}</i></p><p><i>A citizens’ draft, written in the open, objections first.</i></p><p><small>${stamp}</small></p></section>` },
+  { id: 'cover', title: 'Own the Machine', body: `<section style="text-align:center"><h1>OWN THE MACHINE</h1><p><i>${longTitle}</i></p><p><i>A citizens’ draft, written in the open, objections first.</i></p><p><small>${stamp}</small></p><p>${reviewNotice}</p></section>` },
   ...sections.map((s) => ({ id: s.id, title: s.title, body: `<h2>${s.title}</h2>${s.html}` })),
 ];
 for (const c of chapters) zip.file(`OEBPS/${c.id}.xhtml`, xhtml(c.title, c.body));

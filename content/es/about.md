@@ -5,6 +5,31 @@ source-sha256: d26a03958b3cd7a1c90d06a1e7b324e91c30fc3b3ab9718068d590aac3e680bb
 status: machine-reviewed
 ---
 
+## Situación: 7 de septiembre de 2026
+
+Este sitio presenta el borrador de trabajo actual basado en el artículo
+114, con explicaciones corregidas. Se estudia una alternativa separada
+basada en el artículo 352; no ha sustituido a este texto. Publicar el
+borrador no significa que haya superado todas las revisiones de fondo.
+
+Las principales cuestiones abiertas son la base jurídica y la participación
+obligatoria en el capital, las pruebas que justifican el 3% propuesto,
+la ejecución, la financiación antes de que la reserva reciba ingresos y
+la corrección de los registros de pagos a los ciudadanos. Los cálculos
+de la exposición de motivos anterior no se han reproducido con los criterios
+actuales de designación. No son previsiones validadas. El simulador es un
+modelo ilustrativo con límites declarados, no una prueba de que la propuesta
+alcance su objetivo en una generación.
+
+La búsqueda de organizadores y el debate pueden continuar mientras se
+abordan estas cuestiones. El intercambio con el Foro de la ICE ha concluido.
+Se contactó con el investigador el 2 de septiembre, y la persona con
+experiencia en ICE respondió el 5 de septiembre. El siguiente contacto
+previsto es con la oficina de un eurodiputado belga; no consta que se haya
+enviado ese mensaje. No hay ninguna iniciativa registrada ni se recogen
+declaraciones de apoyo. El [registro de revisiones](/es/law/ledger) conserva
+las conclusiones, incluidas las desfavorables.
+
 ## Qué es esto
 
 Un borrador de código abierto de Reglamento de la UE destinado a hacer partícipe a la

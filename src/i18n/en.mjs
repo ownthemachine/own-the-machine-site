@@ -34,6 +34,7 @@ export default {
     ogImageAlt: 'A citizen’s certificate bearing the seal of Own the Machine',
     metaDescription: 'An open-source draft EU Regulation: capital for all, so the dividend follows.',
   },
+  reviewNotice: {"text": "Working draft: the legal basis, compulsory equity mechanism and sizing remain under review. Nothing is registered and no statements of support are being collected.", "link": "Current status and open questions", "sizing": "Sizing figures in the memorandum remain unvalidated against the current designation criteria. They do not establish that the proposed 3% achieves the generational objective."},
   banner: {
     lawEnglish: 'What follows in English is the draft itself. This page shows the authoritative English text; translations of the legal text are for understanding only.',
     pageMachine: 'This page was translated and checked through the project’s open review process; no native speaker has read it yet. Spotted a mistake? Report it on %GITHUB%.',
@@ -47,7 +48,7 @@ export default {
   "eyebrow": "A draft regulation of the citizens of Europe",
   "tagline": "Capital for all, so the dividend follows.",
   "ask": "When machines create wealth, citizens should share in owning it. This project proposes citizen participation in the gains of highly automated production. The complete draft Regulation illustrates one mechanism; the proposed initiative asks the Commission to assess and propose instruments. Nothing is registered and there is nothing to sign yet.",
-  "basis": "Proposed legal bases: Articles 114 and 352 TFEU; no Treaty change is sought. The legal basis remains contested. <a href=\"%REG%\">Read the proposed registration objectives.</a>",
+  "basis": "The current draft cites Article 114 TFEU. An Article 352 alternative is under review; neither route is settled. No Treaty change is sought. <a href=\"%REG%\">Read the proposed registration objectives.</a>",
   "ctaRead": "Read the law",
   "ctaObjections": "Start with the objections",
   "ctaJoin": "What would help",
@@ -143,7 +144,7 @@ export default {
   "disclaimer": "This model does not establish that the draft's long-term objective will be met. All settings assume ongoing new stakes and positive returns; the lower setting is not a worst case. The calendar assumes an illustrative 2027 start, not an agreed implementation date. There is no registered initiative or existing benefit to claim.",
   "assumptionsHead": "Every assumption in this model",
   "assumptions": [
-    "The model applies 3 % to new covered company value, assuming value equals fourteen times covered revenue. The draft also includes an extraction trigger and a seven-year from the claim arising backstop; the model aggregates timing rather than simulating each warrant.",
+    "The model applies 3 % to new covered company value, assuming value equals fourteen times covered revenue. The draft also includes an extraction trigger and a backstop seven years after the claim arises; the model aggregates timing rather than simulating each warrant.",
     "An initial pool enters over ten years from the selected delay, followed by continuing new cohorts at the rate you set. Zero growth still adds stakes every year. The number of eligible adult EU citizens is held at 350 million for all fifty years.",
     "The model simplifies the distribution arithmetic in Annex II: a collar based on three past years, floored at 2 % of capital and capped by an assumed income return. It does not implement all legal requirements, actual costs, losses, payment-frequency rules or a separate real-capital retention calculation.",
     "The band varies the same assumptions to show sensitivity, not statistical probability. The code is <a href=\"https://github.com/ownthemachine/own-the-machine-site\">public</a>; the scenario does not value your personal entitlement."

@@ -5,6 +5,32 @@ source-sha256: d26a03958b3cd7a1c90d06a1e7b324e91c30fc3b3ab9718068d590aac3e680bb
 status: machine-reviewed
 ---
 
+## État du projet : 7 septembre 2026
+
+Ce site présente le projet de travail actuel fondé sur l’article 114, avec
+des explications corrigées. Une autre version fondée sur l’article 352 est
+à l’étude ; elle n’a pas remplacé ce texte. La publication du projet ne
+signifie pas que ses examens de fond ont tous abouti à un avis favorable.
+
+Les principales questions ouvertes concernent la base juridique et le
+mécanisme de participation obligatoire au capital, les éléments justifiant
+la participation proposée de 3%, l’exécution, le financement avant que la
+réserve perçoive des revenus et la correction des données de paiement des
+citoyens. Les calculs de dimensionnement de l’ancien mémorandum n’ont pas
+été reproduits avec les critères actuels de désignation. Ce ne sont pas
+des prévisions validées. Le simulateur est un modèle illustratif dont les
+limites sont indiquées, et ne prouve pas que la proposition atteindra son
+objectif sur une génération.
+
+Le recrutement et la discussion peuvent se poursuivre pendant cet examen.
+L’échange avec le Forum de l’ICE est terminé. Le chercheur a été contacté
+le 2 septembre et la personne expérimentée en matière d’ICE a répondu le
+5 septembre. La prochaine démarche prévue vise l’équipe d’un eurodéputé
+belge ; aucun envoi de ce type n’est consigné. Aucune initiative n’est
+enregistrée et aucune déclaration de soutien n’est recueillie. Le
+[journal des examens](/fr/law/ledger) conserve les conclusions, y compris
+les avis défavorables.
+
 ## De quoi s'agit-il
 
 Un projet open source de règlement de l'Union européenne visant à permettre aux

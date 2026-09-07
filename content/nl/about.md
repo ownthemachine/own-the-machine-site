@@ -5,6 +5,30 @@ source-sha256: d26a03958b3cd7a1c90d06a1e7b324e91c30fc3b3ab9718068d590aac3e680bb
 status: machine-reviewed
 ---
 
+## Stand van zaken: 7 september 2026
+
+Deze website toont de huidige werktekst op basis van artikel 114, met
+gecorrigeerde toelichtingen. Een afzonderlijk alternatief op basis van
+artikel 352 wordt onderzocht; het heeft deze tekst niet vervangen.
+Publicatie betekent niet dat alle inhoudelijke beoordelingen zijn doorstaan.
+
+De belangrijkste open vragen betreffen de rechtsgrondslag en verplichte
+kapitaaldeelname, de onderbouwing van het voorgestelde belang van 3%, de
+handhaving, financiering voordat de reserve inkomsten ontvangt en correctie
+van betalingsgegevens van burgers. De berekeningen in de oudere memorie
+zijn niet gereproduceerd met de huidige aanwijzingscriteria. Het zijn geen
+gevalideerde prognoses. De simulator is een illustratief model met vermelde
+beperkingen, geen bewijs dat het voorstel zijn doel binnen een generatie
+bereikt.
+
+Werving en discussie kunnen doorgaan terwijl deze vragen worden onderzocht.
+De uitwisseling met het EBI-forum is afgerond. De onderzoeker is op 2
+september benaderd en de persoon met EBI-ervaring antwoordde op 5 september.
+De volgende geplande stap is een Belgisch Europarlementslid benaderen;
+er is nog geen dergelijke verzending vastgelegd. Er is geen initiatief
+geregistreerd en er worden geen steunbetuigingen verzameld. Het
+[beoordelingslogboek](/nl/law/ledger) bewaart de bevindingen, ook de negatieve.
+
 ## Wat dit is
 
 Een opensource-ontwerp van een EU-verordening bedoeld om burgers van de Unie te laten participeren in de kapitaalwaarde die wordt gecreëerd door hypergeautomatiseerde productie, opgesteld als basis voor een mogelijk Europees burgerinitiatief. De wettekst, de toelichting, de bezwaren en elk toetsingsoordeel bevinden zich in een openbare repository; deze site geeft ze weer.

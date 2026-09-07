@@ -43,6 +43,7 @@ export default {
   "ogImageAlt": "Un certificado de ciudadano con el sello de Own the Machine",
   "metaDescription": "Un borrador de Reglamento de la UE en código abierto: capital para todos, para que el dividendo llegue."
 },
+  reviewNotice: {"text": "Borrador de trabajo: la base jurídica, el mecanismo de participación obligatoria en el capital y su dimensión siguen en revisión. No hay ninguna iniciativa registrada ni se recogen declaraciones de apoyo.", "link": "Situación actual y cuestiones abiertas", "sizing": "Las cifras de dimensionamiento de la exposición de motivos aún no se han validado con los criterios actuales de designación. No demuestran que el 3% propuesto alcance el objetivo en una generación."},
   banner: {
     lawEnglish: 'Lo que sigue en inglés es el propio proyecto. Esta página muestra el texto inglés auténtico; las traducciones del texto jurídico solo sirven para su comprensión.',
     pageMachine: 'Esta página se tradujo y verificó mediante la revisión abierta del proyecto, pero ningún hablante nativo la ha leído todavía. ¿Ha encontrado algún error? Notifíquelo en %GITHUB%.',
@@ -56,7 +57,7 @@ export default {
   "eyebrow": "Un borrador de reglamento de la ciudadanía europea",
   "tagline": "Capital para todos, para que el dividendo llegue.",
   "ask": "Cuando las máquinas generan riqueza, la ciudadanía debe participar en su propiedad. Este proyecto propone la participación ciudadana en los beneficios de la producción altamente automatizada. El borrador completo de Reglamento ilustra un mecanismo; la iniciativa propuesta pide a la Comisión evaluar y proponer instrumentos. No hay nada registrado ni nada que firmar por el momento.",
-  "basis": "Bases jurídicas propuestas: artículos 114 y 352 del TFUE; no se pretende modificar los Tratados. La base jurídica sigue siendo objeto de controversia. <a href=\"%REG%\">Consulte los objetivos de registro propuestos.</a>",
+  "basis": "El borrador actual cita el artículo 114 TFUE. Se estudia una alternativa basada en el artículo 352; ninguna de las dos vías está resuelta. No se solicita modificar los Tratados. <a href=\"%REG%\">Leer los objetivos propuestos para el registro.</a>",
   "ctaRead": "Leer el texto legal",
   "ctaObjections": "Comenzar por las objeciones",
   "ctaJoin": "En qué puede ayudar",

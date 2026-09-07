@@ -42,6 +42,7 @@ export default {
   "ogImageAlt": "Een burgercertificaat met het zegel van Own the Machine",
   "metaDescription": "Een opensource-ontwerp van een EU-verordening: kapitaal voor iedereen, zodat het dividend volgt."
 },
+  reviewNotice: {"text": "Werktekst: de rechtsgrondslag, het mechanisme voor verplichte kapitaaldeelname en de omvang ervan worden nog onderzocht. Er is niets geregistreerd en er worden geen steunbetuigingen verzameld.", "link": "Stand van zaken en open vragen", "sizing": "De berekeningen in de memorie zijn nog niet gevalideerd voor de huidige aanwijzingscriteria. Ze tonen niet aan dat de voorgestelde 3% het doel binnen een generatie bereikt."},
   banner: {
     lawEnglish: 'Wat hierna in het Engels volgt, is het ontwerp zelf. Deze pagina toont de gezaghebbende Engelse tekst; vertalingen van de wettekst dienen alleen ter begrip.',
     pageMachine: 'Deze pagina is vertaald en gecontroleerd via het openbare reviewproces van het project, maar nog niet nagelezen door een moedertaalspreker. Fout gezien? Meld het op %GITHUB%.',
@@ -55,7 +56,7 @@ export default {
   "eyebrow": "Een ontwerpverordening van de burgers van Europa",
   "tagline": "Kapitaal voor iedereen, zodat het dividend volgt.",
   "ask": "Wanneer machines welvaart creëren, moeten burgers meedelen in het eigendom ervan. Dit project stelt burgerparticipatie voor in de opbrengsten van sterk geautomatiseerde productie. De volledige ontwerpverordening illustreert één mechanisme; het voorgestelde initiatief vraagt de Commissie om instrumenten te beoordelen en voor te stellen. Niets is geregistreerd en er valt nu nog niets te ondertekenen.",
-  "basis": "Voorgestelde rechtsgrondslagen: de artikelen 114 en 352 VWEU; er wordt geen Verdragswijziging nagestreefd. De rechtsgrondslag blijft omstreden. <a href=\"%REG%\">Lees de voorgestelde registratiedoelstellingen.</a>",
+  "basis": "Het huidige ontwerp verwijst naar artikel 114 VWEU. Een alternatief op basis van artikel 352 wordt onderzocht; geen van beide routes staat vast. Er wordt geen verdragswijziging gevraagd. <a href=\"%REG%\">Lees de voorgestelde registratiedoelstellingen.</a>",
   "ctaRead": "Lees de wet",
   "ctaObjections": "Begin bij de bezwaren",
   "ctaJoin": "Wat zou helpen",

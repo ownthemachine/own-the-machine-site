@@ -5,6 +5,32 @@ source-sha256: d26a03958b3cd7a1c90d06a1e7b324e91c30fc3b3ab9718068d590aac3e680bb
 status: machine-reviewed
 ---
 
+## Stand: 7. September 2026
+
+Diese Website zeigt den aktuellen Arbeitsentwurf auf Grundlage von Artikel
+114 mit korrigierten Erläuterungen. Eine gesonderte Alternative auf Grundlage
+von Artikel 352 wird geprüft; sie hat diesen Text nicht ersetzt. Die
+Veröffentlichung bedeutet nicht, dass alle inhaltlichen Prüfungen bestanden
+wurden.
+
+Die wichtigsten offenen Fragen betreffen die Rechtsgrundlage und die
+verpflichtende Kapitalbeteiligung, die Belege für die vorgeschlagene
+Beteiligung von 3%, die Durchsetzung, die Finanzierung vor den ersten
+Einnahmen der Reserve und die Berichtigung der Zahlungsdaten der Bürger.
+Die Berechnungen in der älteren Begründung wurden nicht anhand der aktuellen
+Benennungskriterien reproduziert. Sie sind keine validierten Prognosen.
+Der Simulator ist ein Beispielmodell mit ausgewiesenen Grenzen, kein
+Beleg dafür, dass der Vorschlag sein Ziel innerhalb einer Generation erreicht.
+
+Die Suche nach Mitwirkenden und die Diskussion können während dieser Prüfung
+weitergehen. Der Austausch mit dem EBI-Forum ist abgeschlossen. Der Forscher
+wurde am 2. September angeschrieben; die Person mit EBI-Erfahrung antwortete
+am 5. September. Als Nächstes ist die Kontaktaufnahme mit dem Büro eines
+belgischen Europaabgeordneten geplant; ein solcher Versand ist noch nicht
+verzeichnet. Es ist keine Initiative registriert, und es werden keine
+Unterstützungsbekundungen gesammelt. Das [Prüfprotokoll](/de/law/ledger)
+bewahrt die Ergebnisse, auch die negativen.
+
 ## Worum es sich handelt
 
 Ein quelloffener Entwurf für eine EU-Verordnung, die es Bürgerinnen und Bürgern der

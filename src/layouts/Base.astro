@@ -8,6 +8,7 @@ import '@fontsource/literata/600.css';
 import '@fontsource/playfair-display/500.css';
 import '@fontsource/playfair-display/600.css';
 import '../styles/base.css';
+import law from '../generated/law.json';
 import { dict, href, LOCALES, DICTS } from '../lib/i18n.mjs';
 import { ogSlugForPath, ogFilename } from '../lib/og-slug.mjs';
 
@@ -86,19 +87,18 @@ const jsonLd = {
       name: 'Own the Machine',
       inLanguage: lang,
       description,
-      publisher: { '@id': `${Astro.site}#org` },
+      publisher: { '@id': `${Astro.site}#initiator` },
     },
     {
-      '@type': 'Organization',
-      '@id': `${Astro.site}#org`,
-      name: 'Own the Machine',
-      url: String(Astro.site),
-      logo: new URL('/og/en-index.png', Astro.site).href,
+      '@type': 'Person',
+      '@id': `${Astro.site}#initiator`,
+      name: 'David Vanheeswijck',
+      url: new URL('/about', Astro.site).href,
     },
     {
       '@type': 'Legislation',
       '@id': `${Astro.site}#regulation`,
-      name: 'Regulation on the participation of citizens of the Union in the capital value created by hyper-automated undertakings',
+      name: 'Regulation of the European Parliament and of the Council on harmonised rules for citizen participation in automated productivity gains (Citizens’ Capital Regulation)',
       legislationType: 'Draft Regulation',
       legislationJurisdiction: 'European Union',
       inLanguage: 'en',
@@ -191,7 +191,12 @@ const jsonLd = {
         <button id="theme-toggle" type="button" aria-label={t.chrome.themeToggle} title={t.chrome.themeToggle}>◐</button>
       </div>
     </nav>
-    <main id="main"><slot /></main>
+    <main id="main">
+      {!law.registered && <aside class="review-notice no-print">
+        <p>{t.reviewNotice.text} <a href={href(lang, '/about')}>{t.reviewNotice.link}</a></p>
+      </aside>}
+      <slot />
+    </main>
     <script is:inline>
       (function () {
         var b = document.getElementById('theme-toggle');
@@ -238,6 +243,9 @@ const jsonLd = {
 </html>
 
 <style>
+  .review-notice { border-left: 3px solid var(--seal-gold); padding: 0.65rem 0.9rem; margin-bottom: 1.3rem; background: var(--card); color: var(--ink-soft); font-size: 0.85rem; }
+  .review-notice p { margin: 0; max-width: var(--measure); }
+  .review-notice a { color: inherit; text-decoration: underline; }
   .skip { position: absolute; left: -999px; top: 0; background: var(--seal-gold); color: var(--paper); padding: 0.5rem 1rem; z-index: 30; }
   .skip:focus { left: 0; }
   nav {

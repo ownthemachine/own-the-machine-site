@@ -17,6 +17,7 @@ const isLocal = Boolean(law.explanatory[lang]);
   <p class="intro prose">{t.explanatory.intro}</p>
   <LangBanner lang={lang} doc={law.explanatory[lang]} />
   <DraftNotice lang={lang} />
+  <p class="sizing-note">{t.reviewNotice.sizing}</p>
   <div class="withtoc">
     <OnPage lang={lang} toc={doc.toc} />
     <div class="prose" lang={isLocal ? lang : "en"} set:html={doc.html} />
@@ -24,6 +25,7 @@ const isLocal = Boolean(law.explanatory[lang]);
 </Base>
 
 <style>
+  .sizing-note { border-left: 3px solid var(--serial-red); padding: 0.8rem; background: var(--card); font-size: 0.9rem; }
   h1 { font-size: 1.7rem; margin: 0.4rem 0 1rem; }
   .intro { margin-bottom: 2rem; }
 </style>
