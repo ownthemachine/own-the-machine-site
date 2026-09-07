@@ -378,6 +378,8 @@ writeFileSync(join(OUT, 'law.json'), JSON.stringify({
   versions, join: joinDoc, brief, faq, press, sign, explanatory, registered, registration, citation,
 }, null, 1)
   .replaceAll('https://github.com/ownthemachine/own-the-machine/blob/main/', `${REPO}/`)
+  // The registration record promises the latest registry state, not a frozen source citation.
+  .replaceAll(`${REPO}/versions/REGISTERED.json`, 'https://github.com/ownthemachine/own-the-machine/blob/main/versions/REGISTERED.json')
   .replaceAll('https://github.com/ownthemachine/own-the-machine/commits/main', `https://github.com/ownthemachine/own-the-machine/commits/${lawCommit}`));
 console.log(`sync-law: ${articles.length} articles, ${annexes.length} annexes, ${ledger.length} ledger entries @ ${lawCommit}`);
 console.log(`sync-law: registered version: ${registered ? registered.number : 'none'}`);
