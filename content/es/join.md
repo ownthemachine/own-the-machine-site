@@ -1,3 +1,13 @@
+## Empezar en diez minutos
+
+1. Lea el [resumen](/es/brief) y el [estado actual](/es/about).
+2. Escriba a [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu?subject=Primer%20contacto%20organizacion) indicando en qué podría ayudar, el tiempo disponible y una pregunta. Si considera asumir un papel formal como organizador, indique su país de residencia en la UE. No hacen falta documentos de identidad en esta fase.
+3. Acuerde una breve conversación y una primera tarea pequeña: comprobar una fuente, revisar un párrafo o probar la accesibilidad del sitio.
+
+No necesita leer todo el libro ni el reglamento antes de ponerse en contacto.
+Una conversación inicial no le compromete a presentar la iniciativa ni a respaldar cada artículo.
+Colaborar y formar parte del grupo oficial de organizadores son decisiones distintas.
+
 ---
 source: content/en/join.md
 source-commit: 8d35a77

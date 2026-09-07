@@ -1,3 +1,13 @@
+## Start in ten minutes
+
+1. Read the [brief](/brief) and [current status](/about).
+2. Email [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu?subject=Organiser%20introduction) with what you could help with, the time you could offer and one question. If you are considering a formal organiser role, add your EU country of residence. No identity documents are needed now.
+3. Agree a short conversation and one small first task: checking a source, reviewing a paragraph or testing the website's accessibility.
+
+You do not need to read the whole book or Regulation before getting in touch.
+An introduction does not commit you to filing or endorsing every article.
+Contributing and becoming a statutory organiser are separate decisions.
+
 ## Where this actually stands
 
 As of 6 September 2026, no version has been filed or registered with the

@@ -1,3 +1,13 @@
+## Commencer en dix minutes
+
+1. Lisez la [fiche de synthèse](/fr/brief) et le [point sur le projet](/fr/about).
+2. Écrivez à [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu?subject=Premier%20contact%20organisation) en indiquant ce que vous pourriez apporter, le temps disponible et une question. Si vous envisagez un rôle formel d'organisateur, précisez votre pays de résidence dans l'UE. Aucun document d'identité n'est nécessaire à ce stade.
+3. Convenez d'un bref échange et d'une première petite tâche : vérifier une source, relire un paragraphe ou tester l'accessibilité du site.
+
+Il n'est pas nécessaire de lire tout le livre ou le règlement avant de nous contacter.
+Un premier échange ne vous engage ni à déposer l'initiative ni à approuver chaque article.
+Contribuer au projet et devenir membre du groupe officiel d'organisateurs sont deux décisions distinctes.
+
 ---
 source: content/en/join.md
 source-commit: 8d35a77

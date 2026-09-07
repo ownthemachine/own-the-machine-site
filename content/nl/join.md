@@ -1,3 +1,13 @@
+## Begin in tien minuten
+
+1. Lees de [samenvatting](/nl/brief) en de [huidige stand van zaken](/nl/about).
+2. Mail [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu?subject=Kennismaking%20organisatie) met wat u kunt bijdragen, hoeveel tijd u beschikbaar heeft en één vraag. Overweegt u een formele rol als organisator, vermeld dan uw EU-land van verblijf. Identiteitsdocumenten zijn nu niet nodig.
+3. Spreek een kort gesprek en één kleine eerste taak af: een bron controleren, een alinea nalezen of de toegankelijkheid van de website testen.
+
+U hoeft niet eerst het hele boek of de verordening te lezen om contact op te nemen.
+Een kennismaking verplicht u niet tot indiening of instemming met elk artikel.
+Bijdragen en lid worden van de officiële groep organisatoren zijn afzonderlijke beslissingen.
+
 ---
 source: content/en/join.md
 source-commit: 8d35a77
