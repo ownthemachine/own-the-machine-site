@@ -1,4 +1,13 @@
+---
+source: content/en/join.md
+source-commit: 8d35a77
+source-sha256: 163bb03200d114b6f3f3db6cf80d8a59b74f6d5984a36cd09b2965d3e0a822a9
+status: review-pending
+---
+
 ## Begin in tien minuten
+
+Deze bijdragen en organisatorrollen zijn vrijwillig en onbetaald. Deze uitnodiging biedt geen betaling of onkostenvergoeding.
 
 1. Lees de [samenvatting](/nl/brief) en de [huidige stand van zaken](/nl/about).
 2. Mail [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu?subject=Kennismaking%20organisatie) met wat u kunt bijdragen, hoeveel tijd u beschikbaar heeft en één vraag. Overweegt u een formele rol als organisator, vermeld dan uw EU-land van verblijf. Identiteitsdocumenten zijn nu niet nodig.
@@ -8,16 +17,10 @@ U hoeft niet eerst het hele boek of de verordening te lezen om contact op te nem
 Een kennismaking verplicht u niet tot indiening of instemming met elk artikel.
 Bijdragen en lid worden van de officiële groep organisatoren zijn afzonderlijke beslissingen.
 
----
-source: content/en/join.md
-source-commit: 8d35a77
-source-sha256: 163bb03200d114b6f3f3db6cf80d8a59b74f6d5984a36cd09b2965d3e0a822a9
-status: machine-reviewed
----
 
 ## Hoe het er werkelijk voor staat
 
-Per 6 september 2026 is er geen versie ingediend of geregistreerd bij de Commissie en worden er geen steunbetuigingen verzameld. Bekijk de pagina [versies](/law/versions) voor het registratiedossier. De werving van organisatoren loopt; belangstelling betekent niet dat de groep van organisatoren al is samengesteld.
+Per 6 september 2026 is er geen versie ingediend of geregistreerd bij de Commissie en worden er geen steunbetuigingen verzameld. Bekijk de pagina [versies](/nl/law/versions) voor het registratiedossier. De werving van organisatoren loopt; belangstelling betekent niet dat de groep van organisatoren al is samengesteld.
 
 Het EBI-forum heeft op 27 augustus onafhankelijk, niet-bindend advies verstrekt, en iemand met ruime EBI-ervaring heeft op 5 september gereageerd. Het openbare dossier bevat de gestelde vragen en de reacties van het project. Dit is externe feedback, geen goedkeuring door de Commissie. Het project heeft nog steeds onafhankelijke toetsing nodig en mensen die verantwoordelijkheid willen nemen voor de volgende fase.
 
@@ -41,4 +44,6 @@ Schrijf naar [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu), of open ee
 
 ## Wat er gebeurt met wat u stuurt
 
-Een GitHub-issue is openbaar. Een e-mail bereikt de redacteur; deze wordt niet toegevoegd aan een mailinglijst, doorgestuurd of gepubliceerd zonder uw toestemming. Er is geen mailinglijst of donatieformulier. Contactgegevens worden gebruikt om de vraag te beantwoorden, niet om ongevraagde campagneberichten te sturen. Zie [over ons](/about) voor de verwerkingsverantwoordelijke en uw rechten. Elke latere wijziging van deze regelingen moet worden toegelicht voordat deze van kracht wordt.
+Een GitHub-issue is openbaar. Een e-mail bereikt de redacteur; deze wordt niet toegevoegd aan een mailinglijst, doorgestuurd of gepubliceerd zonder uw toestemming. Er is geen mailinglijst of donatieformulier. Contactgegevens worden gebruikt om de vraag te beantwoorden, niet om ongevraagde campagneberichten te sturen. Zie [over ons](/nl/about) voor de verwerkingsverantwoordelijke en uw rechten. Elke latere wijziging van deze regelingen moet worden toegelicht voordat deze van kracht wordt.
+
+Voor vragen over bijdragen houdt de redacteur een privé-opvolgnotitie bij: contactgegevens, eventueel vrijwillig opgegeven woonland, afgesproken taak en tijd, verantwoordelijke, volgende actie, status en toestemming voor een kennismaking. Inactieve vragen worden na 90 dagen beoordeeld; gegevens die niet meer nodig zijn worden verwijderd, tenzij verder contact is afgesproken of een andere bewaarbehoefte is toegelicht.

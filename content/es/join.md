@@ -1,4 +1,13 @@
+---
+source: content/en/join.md
+source-commit: 8d35a77
+source-sha256: 163bb03200d114b6f3f3db6cf80d8a59b74f6d5984a36cd09b2965d3e0a822a9
+status: review-pending
+---
+
 ## Empezar en diez minutos
+
+Estas contribuciones y funciones de organización son voluntarias y no remuneradas. Esta invitación no ofrece remuneración ni reembolso de gastos.
 
 1. Lea el [resumen](/es/brief) y el [estado actual](/es/about).
 2. Escriba a [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu?subject=Primer%20contacto%20organizacion) indicando en qué podría ayudar, el tiempo disponible y una pregunta. Si considera asumir un papel formal como organizador, indique su país de residencia en la UE. No hacen falta documentos de identidad en esta fase.
@@ -8,18 +17,12 @@ No necesita leer todo el libro ni el reglamento antes de ponerse en contacto.
 Una conversación inicial no le compromete a presentar la iniciativa ni a respaldar cada artículo.
 Colaborar y formar parte del grupo oficial de organizadores son decisiones distintas.
 
----
-source: content/en/join.md
-source-commit: 8d35a77
-source-sha256: 163bb03200d114b6f3f3db6cf80d8a59b74f6d5984a36cd09b2965d3e0a822a9
-status: machine-reviewed
----
 
 ## En qué punto se encuentra realmente
 
 A 6 de septiembre de 2026, ninguna versión ha sido presentada ni registrada ante la
 Comisión y no se están recogiendo declaraciones de apoyo. Consulte la página de
-[versiones](/law/versions) para ver el historial de registro. La captación de
+[versiones](/es/law/versions) para ver el historial de registro. La captación de
 organizadores está en marcha; el interés mostrado no implica que el grupo de
 organizadores formal esté ya constituido.
 
@@ -76,6 +79,8 @@ Una incidencia en GitHub es pública. Un correo electrónico llega al editor; no
 incorpora a ninguna lista de distribución, no se reenvía ni se publica sin su
 consentimiento. No hay listas de correo ni formularios de donación. El contacto se
 utiliza para responder a la consulta, no para enviar mensajes de campaña no
-solicitados. Consulte [acerca de](/about) para conocer el responsable del tratamiento y
+solicitados. Consulte [acerca de](/es/about) para conocer el responsable del tratamiento y
 sus derechos. Cualquier cambio posterior en estas disposiciones deberá explicarse antes
 de surtir efecto.
+
+Para las consultas sobre colaboración, el editor conserva una nota privada con los datos de contacto, la residencia facilitada voluntariamente, la tarea y el tiempo acordados, la persona responsable, la próxima acción, el estado y el permiso para presentar a otra persona. Las consultas inactivas se revisan después de 90 días; los datos que ya no sean necesarios se eliminan, salvo acuerdo para mantener el contacto u otra necesidad de conservación explicada.

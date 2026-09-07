@@ -1,5 +1,7 @@
 ## Start in ten minutes
 
+These are unpaid volunteer contributions and organiser roles. This invitation offers no payment or expense reimbursement.
+
 1. Read the [brief](/brief) and [current status](/about).
 2. Email [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu?subject=Organiser%20introduction) with what you could help with, the time you could offer and one question. If you are considering a formal organiser role, add your EU country of residence. No identity documents are needed now.
 3. Agree a short conversation and one small first task: checking a source, reviewing a paragraph or testing the website's accessibility.
@@ -68,3 +70,5 @@ mailing list or donation form. Contact is used to answer the enquiry, not
 to send unsolicited campaign messages. See [about](/about) for the controller
 and your rights. Any later change to these arrangements must be explained
 before it takes effect.
+
+For contributor enquiries, the editor keeps a private follow-up note of contact details, any residence voluntarily provided, the agreed task and time, its owner, next action, status and permission to share an introduction. Inactive enquiries are reviewed after 90 days; details no longer needed are deleted unless continued contact is agreed or another retention need has been explained.
