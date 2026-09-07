@@ -1,8 +1,8 @@
 ---
-source-commit: c8ddee3
 article: 18
 status: gate-reviewed
+source-commit: bfe309a
 ---
-L0: Régimen procedimental ordinario: las normas entran en vigor 20 días después de publicarse y se aplican plenamente 18 meses más tarde.
+L0: Inicia pronto la preparación y las obligaciones sustantivas 18 meses después de la entrada en vigor.
 
-Este es el artículo de cierre habitual de todo reglamento de la UE. El Reglamento entra en vigor a los veinte días de su publicación en el Diario Oficial de la UE. Sus obligaciones empiezan a aplicarse 18 meses después, un plazo que da tiempo a construir la maquinaria de designación y los organismos nacionales de cuentas. Tres deberes se aplican de inmediato desde la entrada en vigor: el deber de las empresas de notificar que alcanzan los umbrales, el deber de los Estados miembros de designar los vehículos nacionales y ese mismo deber de notificación para las empresas que ya superan los umbrales. Como reglamento, es obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro, sin necesidad de leyes nacionales que lo apliquen.
+El reglamento entra en vigor 20 días después de publicarse. Entonces se aplican las disposiciones indicadas sobre notificación, designación, audiencia, nombramiento y preparación institucional. Las designaciones adoptadas durante la preparación surten efecto al comenzar la aplicación general, 18 meses después de la entrada en vigor. El warrant y su plazo no empiezan antes; se excluyen los eventos de liquidez anteriores concluidos. Los primeros mecanismos de nombramiento de valoradores deben estar listos para esa fecha. El reglamento es directamente aplicable en todos los Estados miembros.

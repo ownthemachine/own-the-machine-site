@@ -1,6 +1,7 @@
 ---
+source-sha256: 09ccfdbfb8e16751d4ef7dc0bfb1c71bb1336c33cdb08496b32f975b20da534f
 source: regulation/memorandum/counter-arguments.md
-source-commit: 3181013
+source-commit: 7b33a2d
 status: gate-reviewed
 ---
 
@@ -56,8 +57,7 @@ d'accès au titre du DMA), non comme une saisie de participations existantes.
 Deuxièmement, il ne doit s'appliquer qu'au-delà de seuils élevés et
 objectifs, pour que le contrôle de proportionnalité ait une prise.
 Troisièmement, il doit comporter une contrepartie : la réserve est un
-détenteur passif et non contrôlant, le warrant ne se cristallise qu'aux
-événements de liquidité, et l'entreprise couverte reçoit la sécurité
+détenteur passif et non contrôlant, le warrant se cristallise aux déclencheurs légaux de liquidité, de prélèvement ou de délai, et l'entreprise couverte reçoit la sécurité
 juridique d'un régime unique harmonisé à la place de vingt-sept expériences
 nationales. Savoir si cette contrepartie est suffisante est le plus grand
 risque juridique du projet, et le jalon 1 existe pour le mettre à l'épreuve.
@@ -670,14 +670,7 @@ structure même de la campagne lui interdit de le gonfler. Le risque de
 collecte est réel : les récompenses différées perdent contre les immédiates
 sur le pas de la porte.
 
-**La réponse que l'instrument doit apporter.** En trois temps. D'abord, la
-petitesse est un calibrage, pas un échec : la taille de l'instrument suit
-par construction la taille du phénomène. Trois pour cent de peu, c'est peu,
-prélevé sur presque personne, et dans ce monde l'article 14, paragraphe 3,
-oblige la Commission à constater que la prémisse ne s'est pas vérifiée et à
-proposer modification ou abrogation ; un dividende durablement minuscule,
-c'est la condition de réfutation qui joue, pas une politique qui boite. Le
-dividende n'est petit que dans le monde où le problème l'est aussi. Ensuite,
+**La réponse que l'instrument doit apporter.** En trois temps. D'abord, de faibles distributions ne prouvent pas à elles seules que l'économie automatisée est petite ou que la prémisse a échoué. Une participation importante peut produire peu de revenus réalisés. Les indicateurs et l'évaluation de l'article 14 testent la prémisse ; le seul dividende ne le fait pas. L'objectif de capital sur une génération et les revenus disponibles doivent être évalués séparément. Ensuite,
 le droit ne peut s'acquérir que tôt. L'acompte danois gelé de 4 368 DKK de
 1978, somme dérisoire à l'époque, vaut 119 506 DKK aujourd'hui ; les deux
 tiers du fonds norvégien sont du rendement composé, pas du pétrole. L'autre

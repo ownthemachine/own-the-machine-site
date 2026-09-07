@@ -1,8 +1,8 @@
 ---
 source: content/en/faq.md
-source-commit: 31760e8
-source-sha256: d1acba7b811faa0b26723c276bc9f228550028f5f5c6d7ac6200f529e4636901
-status: machine-reviewed
+source-commit: 86600a2
+source-sha256: 16ea3734c6411704cd83fa43dae669ee7433c288f682533edec55edfce5ee8f9
+status: gate-reviewed
 ---
 
 ## ¿Qué es esto, en una frase?
@@ -84,11 +84,11 @@ costes aunque los beneficios defrauden.
 
 ## ¿Cuándo tiene una empresa que emitir las acciones?
 
-En primer lugar, emite un warrant en el plazo de tres meses a partir de su designación.
+El derecho nace con la designación efectiva; la empresa lo documenta en tres meses.
 El warrant cristaliza en el primer evento de liquidez, en una extracción previa de
 valor por los accionistas superior al 25 % del volumen de negocios sujeto durante tres
-ejercicios consecutivos, o al cumplirse el plazo límite de siete años (el «long-stop» del borrador) tras la
-emisión del warrant. El artículo 5 fija las normas precisas. Una empresa no cotizada no
+ejercicios consecutivos, o al cumplirse el plazo límite de siete años (el «long-stop» del borrador) tras el
+nacimiento del derecho. El artículo 5 fija las normas precisas. Una empresa no cotizada no
 puede eludir el plazo límite simplemente manteniéndose como no cotizada. Las acciones que
 entran en el fondo no garantizan distribuciones dinerarias inmediatas.
 

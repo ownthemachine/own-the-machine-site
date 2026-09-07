@@ -1,6 +1,7 @@
 ---
+source-sha256: 09ccfdbfb8e16751d4ef7dc0bfb1c71bb1336c33cdb08496b32f975b20da534f
 source: regulation/memorandum/counter-arguments.md
-source-commit: 3181013
+source-commit: 7b33a2d
 status: gate-reviewed
 ---
 
@@ -53,7 +54,7 @@ DMA), no como una confiscación de participaciones existentes. Segunda: debe
 aplicarse solo por encima de umbrales altos y objetivos, para que el control
 de proporcionalidad tenga a qué agarrarse. Tercera: debe llevar aparejada
 una contraprestación: la reserva es un tenedor pasivo y sin control, el
-warrant solo cristaliza en eventos de liquidez, y la empresa cubierta recibe
+warrant cristaliza por los activadores legales de liquidez, extracción o plazo, y la empresa cubierta recibe
 la seguridad jurídica de un régimen único armonizado en lugar de veintisiete
 experimentos nacionales. Si esa contraprestación es suficiente constituye el
 mayor riesgo jurídico del proyecto, y el hito 1 existe para ponerlo a
@@ -678,15 +679,7 @@ tiene estructuralmente prohibido inflarlo. El riesgo en la recogida de
 firmas es real: en el puerta a puerta, la recompensa diferida pierde ante la
 inmediata.
 
-**La respuesta que el instrumento debe dar.** En tres partes. Primero, la
-pequeñez es calibración, no fracaso: el tamaño del instrumento sigue por
-construcción el tamaño del fenómeno. El tres por ciento de poco es poco,
-detraído de casi nadie, y en ese mundo el artículo 14, apartado 3, obliga a
-la Comisión a constatar que la premisa no se cumplió y a proponer su
-modificación o derogación; un dividendo permanentemente pequeño es la
-activación de la condición de falsación, no una política renqueante. El
-dividendo solo es pequeño en el mundo en que el problema también lo es.
-Segundo, el derecho solo puede comprarse pronto. La paga danesa congelada de
+**La respuesta que el instrumento debe dar.** En tres partes. Primero, unas distribuciones pequeñas no demuestran por sí solas que la economía automatizada sea pequeña o que falle la premisa. Una participación importante puede producir pocos ingresos realizados. Los indicadores y la evaluación del artículo 14 comprueban la premisa; el dividendo por sí solo no lo hace. El objetivo de capital durante una generación y los ingresos disponibles deben evaluarse por separado. Segundo, el derecho solo puede comprarse pronto. La paga danesa congelada de
 4 368 DKK de 1978, dinero irrisorio entonces, vale hoy 119 506 DKK; dos
 tercios del fondo noruego son rendimiento compuesto, no petróleo. El otro
 calendario, reclamar la parte cuando las ganancias son visibles y los

@@ -1,8 +1,8 @@
 ---
-source-commit: 742bfc8
 article: 13
 status: gate-reviewed
+source-commit: bfe309a
 ---
-L0: Permet des amendes jusqu'à 10 % du chiffre d'affaires mondial et, en dernier recours, l'exclusion du marché de l'UE.
+L0: Rend exécutoires la souscription et les notifications, y compris pour les cessionnaires assujettis.
 
-Une entreprise qui omet d'émettre le warrant, de livrer les actions ou de notifier une vente ou une cotation, fournit de fausses informations, échappe à la désignation par un montage artificiel, ou ignore une décision de la Commission relative à un tel montage, peut être condamnée à une amende pouvant atteindre 10 % de son chiffre d'affaires mondial. Pour contraindre à l'exécution, la Commission peut ajouter des astreintes journalières pouvant atteindre 5 % du chiffre d'affaires mondial journalier moyen. Une entreprise établie hors de l'UE qui refuse durablement de se conformer peut, en dernier recours et seulement tant que dure le refus, se voir interdire d'offrir les biens et services concernés dans l'UE. Les juridictions de l'UE peuvent contrôler, réduire ou augmenter chaque sanction. Les amendes vont au budget général de l'UE, jamais à la Réserve.
+Les violations intentionnelles ou par négligence des obligations énumérées d'émission, de souscription, d'information et de non-contournement peuvent entraîner une amende allant jusqu'à 10 % du chiffre d'affaires mondial. Les cessionnaires assujettis sont expressément inclus. Les astreintes peuvent atteindre 5 % du chiffre d'affaires journalier moyen. Un défaut persistant d'émission ou de souscription hors de l'Union peut conduire, en dernier recours, à une interdiction temporaire de marché. La Commission entend l'entreprise et tient compte de la gravité, de la durée et de la répétition. Les juridictions de l'Union contrôlent les sanctions. Les recettes vont au budget de l'Union, pas à la Réserve.

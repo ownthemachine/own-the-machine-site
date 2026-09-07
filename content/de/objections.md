@@ -1,6 +1,7 @@
 ---
+source-sha256: 09ccfdbfb8e16751d4ef7dc0bfb1c71bb1336c33cdb08496b32f975b20da534f
 source: regulation/memorandum/counter-arguments.md
-source-commit: 3181013
+source-commit: 7b33a2d
 status: gate-reviewed
 ---
 
@@ -56,8 +57,7 @@ Gatekeeper-Pflichten des DMA), nicht als Zugriff auf bestehende
 Beteiligungen. Zweitens darf er nur oberhalb hoher, objektiver
 Schwellenwerte greifen, damit die Verhältnismäßigkeitsprüfung tragfähig ist.
 Drittens muss ihm eine Gegenleistung gegenüberstehen: Die Reserve ist eine
-passive, nicht kontrollierende Halterin, der Warrant realisiert sich erst
-bei Liquiditätsereignissen, und das erfasste Unternehmen erhält die
+passive, nicht kontrollierende Halterin, der Warrant wird bei den gesetzlichen Liquiditäts-, Entnahme- oder Zeitauslösern fällig, und das erfasste Unternehmen erhält die
 Rechtssicherheit eines einzigen harmonisierten Regimes anstelle von
 siebenundzwanzig nationalen Experimenten. Ob diese Gegenleistung ausreicht,
 ist das größte einzelne Rechtsrisiko des Projekts, und Prüfstufe 1
@@ -676,15 +676,7 @@ Finanzierungsquelle beschränkt, wo sie nötig ist.
 und die Kampagne darf ihn strukturell nicht aufblähen. Das Sammelrisiko ist
 real: aufgeschobene Belohnungen verlieren an jeder Haustür gegen sofortige.
 
-**Die Antwort, die das Instrument geben muss.** In drei Teilen. Erstens ist
-die Kleinheit Kalibrierung, kein Scheitern: die Größe des Instruments folgt
-konstruktionsbedingt der Größe des Phänomens. Drei Prozent von wenig sind
-wenig, fast niemandem genommen, und in dieser Welt verpflichtet Artikel 14
-Absatz 3 die Kommission, das Scheitern der Prämisse festzustellen und
-Änderung oder Aufhebung vorzuschlagen; eine dauerhaft kleine Dividende ist
-das Greifen der Falsifikationsbedingung, kein politisches Versagen. Die
-Dividende ist nur in der Welt klein, in der auch das Problem klein ist.
-Zweitens lässt sich der Anspruch nur früh erwerben. Die 1978 eingefrorene
+**Die Antwort, die das Instrument geben muss.** In drei Teilen. Erstens belegen kleine Ausschüttungen allein weder eine kleine Automatisierungswirtschaft noch ein Scheitern der Prämisse. Ein großer Eigentumsanteil kann wenig realisiertes Einkommen erzeugen. Die Indikatoren und die Bewertung nach Artikel 14 prüfen die Prämisse; die Dividendenhöhe allein tut dies nicht. Das Kapitalziel über eine Generation und verfügbares Einkommen sind getrennt zu bewerten. Zweitens lässt sich der Anspruch nur früh erwerben. Die 1978 eingefrorene
 Einzahlung eines dänischen Arbeitnehmers von 4 368 DKK, damals belangloses
 Geld, ist heute 119 506 DKK wert; zwei Drittel des norwegischen Fonds sind
 Zinseszins, nicht Öl. Der andere Zeitpunkt, den Anteil einzufordern, wenn

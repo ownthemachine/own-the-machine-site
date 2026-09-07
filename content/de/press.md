@@ -1,8 +1,8 @@
 ---
 source: content/en/press.md
-source-commit: 8d35a77
-source-sha256: 179a3ba1ed99574760c690a4637a0615541eec94044f40f4a650cf266d4e7986
-status: machine-reviewed
+source-commit: 86600a2
+source-sha256: b51b25d53d129840ca8c1e1e4c4dcbe5da3498673211303aff7afd162fe92a4c
+status: gate-reviewed
 ---
 
 ## Worum es sich handelt
@@ -32,11 +32,11 @@ ownthemachine.eu einsehbar. Keine EU-Institution billigt die Initiative.
   Achtzigfachen des weltweiten Arbeitnehmerentgelts entspricht, durchgehend über
   zwei Geschäftsjahre. Eine Untersuchung kann auch unterhalb der Schwellenwerte zur
   Benennung führen.
-- Ein Optionsschein wird innerhalb von drei Monaten nach der Benennung ausgegeben.
+- Der Optionsschein entsteht bei wirksamer Benennung und wird binnen drei Monaten dokumentiert.
   Er wird fällig beim ersten Liquiditätsereignis, bei einer Entnahme durch
   Anteilseigner von mehr als 25 % des erfassten Umsatzes über drei
   aufeinanderfolgende Geschäftsjahre oder nach Ablauf der siebenjährigen
-  Auffangfrist nach Ausgabe. Artikel 5 regelt die genauen Bedingungen und die Obergrenze.
+  Auffangfrist nach Entstehung des Anspruchs. Artikel 5 regelt die genauen Bedingungen und die Obergrenze.
 - Der Optionsschein berechtigt die Reserve, Anteile im Umfang von 3 % des voll
   verwässerten Kapitals zum Nennwert zu zeichnen. Die Ausgabe von Anteilen stellt
   keine Barmitteleinnahme dar, die sofort verteilt werden könnte.

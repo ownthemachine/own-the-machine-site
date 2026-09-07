@@ -1,8 +1,8 @@
 ---
-source-commit: c8ddee3
 article: 18
 status: gate-reviewed
+source-commit: bfe309a
 ---
-L0: Standardverfahren: die Regeln treten 20 Tage nach der Veröffentlichung in Kraft und gelten 18 Monate später vollständig.
+L0: Beginnt die Vorbereitung früh und die materiellen Pflichten 18 Monate nach Inkrafttreten.
 
-Dies ist der übliche Schlussartikel jeder EU-Verordnung. Die Verordnung tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der EU in Kraft. Ihre Pflichten gelten dann erst 18 Monate später, eine Frist, die dem Benennungsverfahren und den nationalen Kontostellen Zeit zum Aufbau gibt. Drei Pflichten gelten sofort ab dem Inkrafttreten: die Pflicht der Unternehmen zu melden, dass sie die Schwellen erreichen, die Pflicht der Mitgliedstaaten, nationale Stellen zu benennen, und dieselbe Meldepflicht für Unternehmen, die bereits über den Schwellen liegen. Als Verordnung ist sie in allen ihren Teilen verbindlich und gilt unmittelbar in jedem Mitgliedstaat, ohne dass nationale Umsetzungsgesetze nötig wären.
+Die Verordnung tritt 20 Tage nach Veröffentlichung in Kraft. Die bezeichneten Melde-, Benennungs-, Anhörungs-, Ernennungs- und institutionellen Vorbereitungsvorschriften gelten dann. Während der Vorbereitung erlassene Benennungen werden erst bei allgemeiner Anwendung 18 Monate nach Inkrafttreten wirksam. Optionsschein und Frist beginnen nicht früher; frühere abgeschlossene Liquiditätsereignisse bleiben ausgenommen. Die ersten Vorkehrungen zur Ernennung der Bewerter müssen dann bereitstehen. Die Verordnung gilt unmittelbar in jedem Mitgliedstaat.

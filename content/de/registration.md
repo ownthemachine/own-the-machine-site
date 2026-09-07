@@ -1,8 +1,8 @@
 ---
 source: campaign/REGISTRATION-TEXT.md
-source-commit: f0ac665
-source-sha256: 7fdec0cdc2e6d40bd3532b26d1f03389146de1eac6c8f38953a3bf6f85d06bf7
-status: machine-reviewed
+source-commit: bfe309a
+source-sha256: 1f17559822cb67349a0c791421bdac7f1539a5d33273df7d59f50d4097b61982
+status: gate-reviewed
 ---
 
 Der Text, der in das Registrierungsformular der Kommission eingetragen werden
@@ -118,7 +118,7 @@ Bürgerkapital-Optionsschein ausgeben, der eine gemeinsame Reserve berechtigt,
 3 % seines voll verwässerten Kapitals zum Nennwert zu zeichnen, wobei die
 Fälligkeit beim ersten Liquiditätsereignis des Unternehmens eintritt, oder
 früher, wenn es Werte oberhalb eines festgelegten Anteils seines Umsatzes aus der erfassten Tätigkeit an die
-eigenen Anteilseigner ausschüttet, in jedem Fall aber sieben Jahre nach der Ausgabe. Die Reserve würde
+eigenen Anteilseigner ausschüttet, in jedem Fall aber sieben Jahre nach Entstehung des Optionsscheins bei wirksamer Benennung. Die Reserve würde
 die resultierenden Anteile ohne Stimmrechte, Sitze im Leitungs- oder
 Aufsichtsorgan oder Mitspracherechte bei der Geschäftsführung halten, in beide
 Richtungen von Unions- und nationalen Haushalten abgeschirmt. Die Bürgerinnen und Bürger der Union ab 18 Jahren würden gleiche, persönliche und

@@ -1,21 +1,8 @@
 ---
 article: 3
 status: gate-reviewed
-source-commit: 3181013
+source-commit: 7b33a2d
 ---
-L0: Bepaalt welke bedrijven eronder vallen: zeer groot, en veel meer waard dan zij voor menselijk werk betalen, minstens twee jaar lang.
+L0: Bepaalt de aanwijzingscriteria en beschermt echte loonstijgingen.
 
-Een bedrijf wordt aangewezen wanneer het geautomatiseerde diensten, of
-grotendeels door geautomatiseerde systemen gemaakte goederen, in de EU
-verkoopt, zijn geld grotendeels zonder menselijke arbeid verdient en dat
-duurzaam doet. Dit wordt vermoed wanneer een bedrijf EUR 7,5 miljard EU-
-jaaromzet heeft of ten minste EUR 75 miljard waard is, in ten minste drie
-EU-landen actief is, ten minste tachtig keer zoveel waard is als het
-jaarlijks voor menselijk werk betaalt (de gecontroleerde loonsom, voor de
-hele groep), en deze niveaus in elk van de laatste twee boekjaren haalde.
-Beide cijfers komen uit gecontroleerde jaarrekeningen, zodat een bedrijf
-zijn eigen positie kan nagaan, en de enige manier om de verhouding te
-verlagen is mensen in dienst te nemen en te betalen. Het moet zich binnen
-twee maanden melden; de Commissie wijst dan binnen 45 werkdagen aan.
-Herstructureringen of boekhoudkundige constructies om de drempels te
-ontwijken worden buiten beschouwing gelaten.
+De Commissie gebruikt cumulatieve kwalitatieve criteria en weerlegbare drempels: 7,5 miljard EUR Unieomzet of 75 miljard EUR waarde, activiteit in drie lidstaten en een waarde van minstens tachtigmaal de gecontroleerde arbeidsvergoeding van de groep, gedurende twee boekjaren. Aanwijzing onder de drempels blijft mogelijk na onderzoek. Marktwaarde kan een transactieprijs of onafhankelijke waardering vereisen. Echte loonsverhogingen voor bestaand werk en echte waardedalingen worden niet genegeerd enkel omdat zij de verhouding veranderen. Overnames en herstructureringen blijven onder de afzonderlijke ontwijkingsregel op basis van effecten vallen.

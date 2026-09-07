@@ -1,8 +1,8 @@
 ---
 source: content/en/press.md
-source-commit: 8d35a77
-source-sha256: 179a3ba1ed99574760c690a4637a0615541eec94044f40f4a650cf266d4e7986
-status: machine-reviewed
+source-commit: 86600a2
+source-sha256: b51b25d53d129840ca8c1e1e4c4dcbe5da3498673211303aff7afd162fe92a4c
+status: gate-reviewed
 ---
 
 ## Qué es esto
@@ -30,10 +30,10 @@ iniciativa.
   Estados miembros y un valor de al menos ochenta veces la remuneración laboral mundial,
   mantenido durante dos ejercicios. Una investigación también puede dar lugar a la
   designación por debajo de los umbrales.
-- Se emite un warrant en el plazo de tres meses tras la designación. Cristaliza en el
+- El warrant nace con la designación efectiva y se documenta en tres meses. Cristaliza en el
   primer evento de liquidez, en una extracción de valor por los accionistas superior al
   25 % del volumen de negocios sujeto durante tres ejercicios consecutivos, o al cumplirse
-  el plazo límite de siete años tras su emisión. El artículo 5 fija las condiciones
+  el plazo límite de siete años desde el nacimiento del derecho. El artículo 5 fija las condiciones
   precisas y el límite máximo.
 - El warrant faculta a la Reserva para suscribir a valor nominal acciones representativas
   del 3 % del capital totalmente diluido. La emisión de acciones no constituye un ingreso

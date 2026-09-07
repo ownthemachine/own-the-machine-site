@@ -1,8 +1,8 @@
 ---
 source: content/en/faq.md
-source-commit: 31760e8
-source-sha256: d1acba7b811faa0b26723c276bc9f228550028f5f5c6d7ac6200f529e4636901
-status: machine-reviewed
+source-commit: 86600a2
+source-sha256: 16ea3734c6411704cd83fa43dae669ee7433c288f682533edec55edfce5ee8f9
+status: gate-reviewed
 ---
 
 ## Was ist das in einem Satz?
@@ -93,11 +93,11 @@ Erwartungen zurückbleiben.
 
 ## Wann muss ein Unternehmen die Anteile ausgeben?
 
-Es gibt zunächst innerhalb von drei Monaten nach der Benennung einen Optionsschein
-aus. Dieser wird beim ersten Liquiditätsereignis fällig, bei einer früheren Entnahme
+Der Anspruch entsteht bei wirksamer Benennung; das Unternehmen dokumentiert ihn
+innerhalb von drei Monaten. Dieser wird beim ersten Liquiditätsereignis fällig, bei einer früheren Entnahme
 durch Anteilseigner von mehr als 25 % des erfassten Umsatzes über drei aufeinanderfolgende
 Geschäftsjahre oder nach Ablauf der siebenjährigen Auffangfrist (dem „Long-stop“
-des Entwurfs) ab Ausgabe des Optionsscheins. Artikel 5 regelt die genauen
+des Entwurfs) ab Entstehung des Anspruchs. Artikel 5 regelt die genauen
 Bedingungen. Ein nicht börsennotiertes Unternehmen entgeht der Auffangfrist nicht einfach dadurch, dass es nicht börsennotiert bleibt.
 Der Eingang von Anteilen im Fonds garantiert keine unmittelbaren Barausschüttungen.
 

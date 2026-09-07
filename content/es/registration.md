@@ -1,8 +1,8 @@
 ---
 source: campaign/REGISTRATION-TEXT.md
-source-commit: f0ac665
-source-sha256: 7fdec0cdc2e6d40bd3532b26d1f03389146de1eac6c8f38953a3bf6f85d06bf7
-status: machine-reviewed
+source-commit: bfe309a
+source-sha256: 1f17559822cb67349a0c791421bdac7f1539a5d33273df7d59f50d4097b61982
+status: gate-reviewed
 ---
 
 El texto que se incorporaría al formulario de registro de la Comisión, en los
@@ -109,7 +109,7 @@ El mecanismo que ilustramos. Las empresas serían designadas siguiendo el modelo
 sola vez, un warrant de capital ciudadano sin derecho a voto que otorgaría a una reserva
 común el derecho a suscribir a valor nominal el 3 % de su capital totalmente diluido, el
 cual cristalizaría con el primer evento de liquidez de la empresa, o antes si distribuye
-valor a sus propios accionistas por encima de una proporción determinada de su volumen de negocios de la actividad sujeta, o en todo caso a los siete años de su emisión. La reserva mantendría las acciones
+valor a sus propios accionistas por encima de una proporción determinada de su volumen de negocios de la actividad sujeta, o en todo caso a los siete años desde el nacimiento del warrant con la designación efectiva. La reserva mantendría las acciones
 resultantes sin derechos de voto, puestos en el consejo ni intervención alguna en la gestión,
 aislada en ambos sentidos respecto a los presupuestos de la Unión y de los Estados miembros.
 Los ciudadanos de la Unión de 18 años o más ostentarían derechos iguales, personales e intransferibles a percibir

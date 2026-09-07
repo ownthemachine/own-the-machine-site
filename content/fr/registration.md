@@ -1,8 +1,8 @@
 ---
 source: campaign/REGISTRATION-TEXT.md
-source-commit: f0ac665
-source-sha256: 7fdec0cdc2e6d40bd3532b26d1f03389146de1eac6c8f38953a3bf6f85d06bf7
-status: machine-reviewed
+source-commit: bfe309a
+source-sha256: 1f17559822cb67349a0c791421bdac7f1539a5d33273df7d59f50d4097b61982
+status: gate-reviewed
 ---
 
 Le texte qui figurerait dans le formulaire d'enregistrement de la Commission,
@@ -114,7 +114,7 @@ droit de vote, conférant à une réserve commune le droit de souscrire, à la v
 nominale, 3 % de son capital entièrement dilué, se cristallisant lors du premier
 événement de liquidité de l'entreprise, ou plus tôt si elle distribue à ses propres
 actionnaires une valeur supérieure à une part déterminée de son chiffre d'affaires provenant de l'activité couverte, ou
-en tout état de cause sept ans après son émission. La Réserve détiendrait les actions
+en tout état de cause sept ans après la naissance du warrant à la désignation effective. La Réserve détiendrait les actions
 résultantes sans droit de vote, sans siège au conseil d'administration ni aucun rôle
 dans la gestion, étanche dans les deux sens par rapport aux budgets de l'Union et des
 États membres. Les citoyens de l'Union âgés de 18 ans ou plus détiendraient

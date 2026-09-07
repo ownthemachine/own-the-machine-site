@@ -1,8 +1,8 @@
 ---
 source: content/en/faq.md
-source-commit: 31760e8
-source-sha256: d1acba7b811faa0b26723c276bc9f228550028f5f5c6d7ac6200f529e4636901
-status: machine-reviewed
+source-commit: 86600a2
+source-sha256: 16ea3734c6411704cd83fa43dae669ee7433c288f682533edec55edfce5ee8f9
+status: gate-reviewed
 ---
 
 ## Wat is dit, in één zin?
@@ -39,7 +39,7 @@ Minder in aanmerking komende bedrijven of lagere rendementen kunnen leiden tot e
 
 ## Wanneer moet een bedrijf de aandelen uitgeven?
 
-Het geeft eerst een warrant uit binnen drie maanden na aanwijzing. De warrant wordt uitoefenbaar bij de eerste liquiditeitsgebeurtenis, bij eerdere aandeelhoudersonttrekking boven 25 % van de betrokken omzet over drie opeenvolgende boekjaren, of bij de uiterste termijn van zeven jaar (de „long-stop” van het ontwerp) na uitgifte van de warrant. Artikel 5 stelt de precieze regels vast. Een niet-beursgenoteerde onderneming kan de uiterste termijn niet ontlopen door eenvoudigweg in private handen te blijven. Dat aandelen in het fonds terechtkomen, garandeert nog geen onmiddellijke uitkeringen in contanten.
+De claim ontstaat bij effectieve aanwijzing; de onderneming legt hem binnen drie maanden vast. De warrant wordt uitoefenbaar bij de eerste liquiditeitsgebeurtenis, bij eerdere aandeelhoudersonttrekking boven 25 % van de betrokken omzet over drie opeenvolgende boekjaren, of bij de uiterste termijn van zeven jaar (de „long-stop” van het ontwerp) vanaf het ontstaan van de claim. Artikel 5 stelt de precieze regels vast. Een niet-beursgenoteerde onderneming kan de uiterste termijn niet ontlopen door eenvoudigweg in private handen te blijven. Dat aandelen in het fonds terechtkomen, garandeert nog geen onmiddellijke uitkeringen in contanten.
 
 ## Wat moet ik nu doen?
 

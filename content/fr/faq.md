@@ -1,8 +1,8 @@
 ---
 source: content/en/faq.md
-source-commit: 31760e8
-source-sha256: d1acba7b811faa0b26723c276bc9f228550028f5f5c6d7ac6200f529e4636901
-status: machine-reviewed
+source-commit: 86600a2
+source-sha256: 16ea3734c6411704cd83fa43dae669ee7433c288f682533edec55edfce5ee8f9
+status: gate-reviewed
 ---
 
 ## Qu'est-ce que c'est, en une phrase ?
@@ -89,11 +89,11 @@ ne sont pas sans coût, même si les gains s'avèrent décevants.
 
 ## Quand une entreprise doit-elle émettre les actions ?
 
-Elle émet d'abord un bon de souscription dans les trois mois suivant sa désignation.
+La créance naît à la désignation effective ; l'entreprise la documente dans les trois mois.
 Ce bon se cristallise lors du premier événement de liquidité, ou, avant cela, lors
 d'une extraction de valeur par les actionnaires supérieure à 25 % du chiffre d'affaires
 couvert sur trois exercices consécutifs, ou à l'échéance butoir de sept ans (le « délai ultime » du projet) à compter
-de l'émission du bon. L'article 5 fixe les règles précises. Une société non cotée ne
+de la naissance de la créance. L'article 5 fixe les règles précises. Une société non cotée ne
 peut échapper à l'échéance butoir simplement en restant non cotée. L'entrée d'actions
 dans le fonds ne garantit pas de distributions immédiates en numéraire.
 

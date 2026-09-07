@@ -1,8 +1,8 @@
 ---
 source: content/en/press.md
-source-commit: 8d35a77
-source-sha256: 179a3ba1ed99574760c690a4637a0615541eec94044f40f4a650cf266d4e7986
-status: machine-reviewed
+source-commit: 86600a2
+source-sha256: b51b25d53d129840ca8c1e1e4c4dcbe5da3498673211303aff7afd162fe92a4c
+status: gate-reviewed
 ---
 
 ## De quoi s'agit-il
@@ -32,10 +32,10 @@ institution de l'Union n'apporte son soutien à l'initiative.
   moins quatre-vingts fois la rémunération du travail à l'échelle mondiale, maintenue pendant deux
   exercices. Une enquête peut également conduire à une désignation en
   deçà de ces seuils.
-- Un bon de souscription est émis dans les trois mois suivant la désignation. Il se
+- Le bon naît à la désignation effective et est documenté dans les trois mois. Il se
   cristallise lors du premier événement de liquidité, lors d'une extraction de valeur
   par les actionnaires dépassant 25 % du chiffre d'affaires couvert sur trois
-  exercices consécutifs, ou à l'échéance butoir de sept ans après l'émission.
+  exercices consécutifs, ou à l'échéance butoir de sept ans après la naissance de la créance.
   L'article 5 fixe les conditions précises et le plafond.
 - Le bon de souscription confère à la Réserve le droit de souscrire, à la valeur
   nominale, des actions représentant 3 % du capital entièrement dilué. L'émission

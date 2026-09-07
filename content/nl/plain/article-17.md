@@ -1,8 +1,8 @@
 ---
-source-commit: 742bfc8
 article: 17
 status: gate-reviewed
+source-commit: bfe309a
 ---
-L0: Overgangsregels: transacties uit het verleden blijven onaangetast en een eerdere beursnotering activeert de aandelenaankoop niet.
+L0: Regelt eerste meldingen en sluit eerder voltooide gebeurtenissen uit.
 
-Deze regels werken alleen vooruit, nooit terug. Een bedrijf dat de drempels al overschrijdt wanneer de verordening in werking treedt, moet zichzelf binnen twee maanden na die datum melden. Waren de aandelen van een bedrijf al op een beurs genoteerd voordat de verordening bestond, dan telt die notering niet als de activerende gebeurtenis: zijn warrant wacht, slapend, tot de eerste wijziging van zeggenschap of kwalificerende verkoop van minstens 20 % van zijn aandelen binnen 12 maanden die na zijn aanwijzing plaatsvindt, of tot hij vervroegd in aandelen wordt omgezet onder de regel voor zware onttrekking of de uiterste termijn van zeven jaar, wat zich het eerst voordoet. Een bedrijf dat al genoteerd is, krijgt voor die twee regels geen vrijstelling. En een verkoop of beursnotering die vóór de inwerkingtreding van de verordening is afgerond, schept helemaal geen verplichting.
+Ondernemingen die de drempels al halen melden binnen twee maanden na inwerkingtreding. Een beursnotering van vóór inwerkingtreding activeert de warrant niet zelf; latere kwalificerende gebeurtenissen en de onttrekkings- of zevenjaarsregel kunnen dat wel doen. Gebeurtenissen voltooid vóór algemene toepassing scheppen geen verplichting uit artikel 5. Artikelen 5 en 18 bepalen de herziene klok en effectieve aanwijzing.
