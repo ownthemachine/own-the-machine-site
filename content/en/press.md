@@ -22,10 +22,10 @@ are public at ownthemachine.eu. No EU institution endorses the initiative.
   Member States, and value at least eighty times worldwide labour
   compensation, sustained for two financial years. Investigation can also
   lead to designation below the thresholds.
-- A warrant is issued within three months of designation. It crystallises
+- A warrant arises at effective designation and is documented within three months. It crystallises
   at the first liquidity event, shareholder extraction exceeding 25 % of
   covered turnover over three consecutive financial years, or the seven-year
-  backstop after issuance. Article 5 sets the precise conditions and cap.
+  backstop after the claim arises. Article 5 sets the precise conditions and cap.
 - The warrant entitles the Reserve to subscribe at nominal value for shares
   representing 3 % of fully diluted capital. Share issuance is not cash
   income available for immediate distribution.

@@ -74,10 +74,10 @@ obligations are not costless even if the gains disappoint.
 
 ## When does a company have to issue the shares?
 
-It first issues a warrant within three months of designation. The warrant
+The claim arises at effective designation; the company documents it within three months. The warrant
 crystallises on the first liquidity event, earlier shareholder extraction
 above 25 % of covered turnover over three consecutive financial years, or
-the seven-year long-stop from warrant issuance. Article 5 sets the precise
+the seven-year long-stop from the claim arising. Article 5 sets the precise
 rules. A private company cannot avoid the backstop simply by staying private.
 Shares entering the fund do not guarantee immediate cash distributions.
 

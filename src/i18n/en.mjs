@@ -127,7 +127,7 @@ export default {
   "revLabel": "Starting covered revenue assumption (EUR bn/yr)",
   "revNote": "The default is anchored to the project's August 2026 estimate of roughly EUR 1 400 billion for a presumptively covered set. Coverage and private-company valuations are uncertain; these are scenario inputs, not Commission designations.",
   "lagLabel": "Scenario delay to the start of stake inflows (years)",
-  "lagNote": "This models delay from the illustrative starting year, including designation and implementation; it is not permission to postpone an issued warrant. Article 5 triggers it at the first liquidity event, the extraction threshold or the seven-year long-stop after issuance.",
+  "lagNote": "This models delay from the illustrative starting year, including designation and implementation; it is not permission to postpone an issued warrant. Article 5 triggers it at the first liquidity event, the extraction threshold or the seven-year long-stop after the claim arises.",
   "retLabel": "Portfolio real return (%/yr)",
   "retNote": "A constant positive real return is assumed here. The model does not simulate losses, separate realised income from appreciation or deduct actual administration costs and withholding taxes; this is not a payout forecast.",
   "growthLabel": "Growth of new covered stake inflows after the first wave (%/yr)",
@@ -143,7 +143,7 @@ export default {
   "disclaimer": "This model does not establish that the draft's long-term objective will be met. All settings assume ongoing new stakes and positive returns; the lower setting is not a worst case. The calendar assumes an illustrative 2027 start, not an agreed implementation date. There is no registered initiative or existing benefit to claim.",
   "assumptionsHead": "Every assumption in this model",
   "assumptions": [
-    "The model applies 3 % to new covered company value, assuming value equals fourteen times covered revenue. The draft also includes an extraction trigger and a seven-year post-issuance backstop; the model aggregates timing rather than simulating each warrant.",
+    "The model applies 3 % to new covered company value, assuming value equals fourteen times covered revenue. The draft also includes an extraction trigger and a seven-year from the claim arising backstop; the model aggregates timing rather than simulating each warrant.",
     "An initial pool enters over ten years from the selected delay, followed by continuing new cohorts at the rate you set. Zero growth still adds stakes every year. The number of eligible adult EU citizens is held at 350 million for all fifty years.",
     "The model simplifies the distribution arithmetic in Annex II: a collar based on three past years, floored at 2 % of capital and capped by an assumed income return. It does not implement all legal requirements, actual costs, losses, payment-frequency rules or a separate real-capital retention calculation.",
     "The band varies the same assumptions to show sensitivity, not statistical probability. The code is <a href=\"https://github.com/ownthemachine/own-the-machine-site\">public</a>; the scenario does not value your personal entitlement."

@@ -1,19 +1,8 @@
 ---
 article: 3
 status: gate-reviewed
-source-commit: 3181013
+source-commit: 7b33a2d
 ---
-L0: Defines which companies are covered: very large, and worth far more than they pay for human work, for at least two years.
+L0: Sets the designation criteria and protects genuine pay increases.
 
-A company is designated when it sells automated services, or goods made
-largely by automated systems, in the EU, earns its money largely without
-human labour and has done so durably. This is presumed when a company has
-EUR 7,5 billion in annual EU turnover or is worth at least EUR 75 billion,
-operates in at least three EU countries, is worth at least eighty times
-what it pays each year for human work (its audited payroll, group-wide),
-and met these levels in each of the last two financial years. Both figures
-come from audited accounts, so a company can check its own position, and
-the only way to bring the ratio down is to employ and pay people. It must
-report itself within two months; the Commission then designates within 45
-working days. Restructuring or accounting designed to dodge the thresholds
-is disregarded.
+The Commission designates undertakings using cumulative qualitative criteria and rebuttable thresholds: EUR 7,5 billion in Union turnover or EUR 75 billion in value, activity in three Member States, and value at least eighty times audited group labour compensation, with the thresholds met for two financial years. It may also designate below the thresholds after investigation. Remuneration uses audited records; market value can require a transaction price or independent valuation. Genuine pay increases for existing work and genuine value reductions are not disregarded solely because they change the ratio. Acquisitions and restructuring remain subject to the separate effects-based avoidance rule.
