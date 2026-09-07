@@ -1,7 +1,7 @@
 ---
 source: content/en/about.md
-source-commit: 31760e8
-source-sha256: 49509511716508bbef315e1fc13c4b2efa478443ddccf8a435863791ef2b90c8
+source-commit: 98fb43c; final status correction pending review
+source-sha256: dcd7b78d605a9d0ca7f6055daeb55b043e9462c81d2b31eef015c2b5e51d5341
 status: review-pending
 ---
 
@@ -24,9 +24,7 @@ alcance su objetivo en una generación.
 La búsqueda de organizadores y el debate pueden continuar mientras se
 abordan estas cuestiones. El intercambio con el Foro de la ICE ha concluido.
 Se contactó con el investigador el 2 de septiembre, y la persona con
-experiencia en ICE respondió el 5 de septiembre. El siguiente contacto
-previsto es con la oficina de un eurodiputado belga; no consta que se haya
-enviado ese mensaje. No hay ninguna iniciativa registrada ni se recogen
+experiencia en ICE respondió el 5 de septiembre. El 7 de septiembre de 2026 se envió una carta en francés a la oficina de una eurodiputada belga. No hay ninguna iniciativa registrada ni se recogen
 declaraciones de apoyo. El [registro de revisiones](/es/law/ledger) conserva
 las conclusiones, incluidas las desfavorables.
 

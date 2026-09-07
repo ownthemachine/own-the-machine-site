@@ -1,7 +1,7 @@
 ---
 source: content/en/about.md
-source-commit: 31760e8
-source-sha256: 49509511716508bbef315e1fc13c4b2efa478443ddccf8a435863791ef2b90c8
+source-commit: 98fb43c; final status correction pending review
+source-sha256: dcd7b78d605a9d0ca7f6055daeb55b043e9462c81d2b31eef015c2b5e51d5341
 status: review-pending
 ---
 
@@ -25,9 +25,7 @@ Beleg dafür, dass der Vorschlag sein Ziel innerhalb einer Generation erreicht.
 Die Suche nach Mitwirkenden und die Diskussion können während dieser Prüfung
 weitergehen. Der Austausch mit dem EBI-Forum ist abgeschlossen. Der Forscher
 wurde am 2. September angeschrieben; die Person mit EBI-Erfahrung antwortete
-am 5. September. Als Nächstes ist die Kontaktaufnahme mit dem Büro eines
-belgischen Europaabgeordneten geplant; ein solcher Versand ist noch nicht
-verzeichnet. Es ist keine Initiative registriert, und es werden keine
+am 5. September. Am 7. September 2026 wurde ein französischer Brief an das Büro einer belgischen Europaabgeordneten geschickt. Es ist keine Initiative registriert, und es werden keine
 Unterstützungsbekundungen gesammelt. Das [Prüfprotokoll](/de/law/ledger)
 bewahrt die Ergebnisse, auch die negativen.
 

@@ -1,7 +1,7 @@
 ---
 source: content/en/about.md
-source-commit: 31760e8
-source-sha256: 49509511716508bbef315e1fc13c4b2efa478443ddccf8a435863791ef2b90c8
+source-commit: 98fb43c; final status correction pending review
+source-sha256: dcd7b78d605a9d0ca7f6055daeb55b043e9462c81d2b31eef015c2b5e51d5341
 status: review-pending
 ---
 
@@ -25,8 +25,7 @@ objectif sur une génération.
 Le recrutement et la discussion peuvent se poursuivre pendant cet examen.
 L’échange avec le Forum de l’ICE est terminé. Le chercheur a été contacté
 le 2 septembre et la personne expérimentée en matière d’ICE a répondu le
-5 septembre. La prochaine démarche prévue vise l’équipe d’un eurodéputé
-belge ; aucun envoi de ce type n’est consigné. Aucune initiative n’est
+5 septembre. Une lettre en français a été envoyée au bureau d’une eurodéputée belge le 7 septembre 2026. Aucune initiative n’est
 enregistrée et aucune déclaration de soutien n’est recueillie. Le
 [journal des examens](/fr/law/ledger) conserve les conclusions, y compris
 les avis défavorables.

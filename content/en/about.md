@@ -23,8 +23,7 @@ reaches its generational objective.
 
 Recruitment and discussion can continue while these questions are addressed.
 The ECI Forum exchange is complete. The researcher was contacted on 2
-September, and the ECI veteran replied on 5 September. The next planned
-approach is to a Belgian MEP office; no such send is recorded. There is no
+September, and the ECI veteran replied on 5 September. A French letter to a Belgian MEP office was sent on 7 September 2026. There is no
 registered initiative and no collection of statements of support. The
 [review ledger](/law/ledger) preserves the findings, including adverse results.
 

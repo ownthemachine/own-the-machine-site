@@ -1,7 +1,7 @@
 ---
 source: content/en/about.md
-source-commit: 31760e8
-source-sha256: 49509511716508bbef315e1fc13c4b2efa478443ddccf8a435863791ef2b90c8
+source-commit: 98fb43c; final status correction pending review
+source-sha256: dcd7b78d605a9d0ca7f6055daeb55b043e9462c81d2b31eef015c2b5e51d5341
 status: review-pending
 ---
 
@@ -24,8 +24,7 @@ bereikt.
 Werving en discussie kunnen doorgaan terwijl deze vragen worden onderzocht.
 De uitwisseling met het EBI-forum is afgerond. De onderzoeker is op 2
 september benaderd en de persoon met EBI-ervaring antwoordde op 5 september.
-De volgende geplande stap is een Belgisch Europarlementslid benaderen;
-er is nog geen dergelijke verzending vastgelegd. Er is geen initiatief
+Op 7 september 2026 is een Franse brief naar het kantoor van een Belgisch Europarlementslid verstuurd. Er is geen initiatief
 geregistreerd en er worden geen steunbetuigingen verzameld. Het
 [beoordelingslogboek](/nl/law/ledger) bewaart de bevindingen, ook de negatieve.
 
