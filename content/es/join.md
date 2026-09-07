@@ -1,8 +1,8 @@
 ---
 source: content/en/join.md
-source-commit: 8d35a77
-source-sha256: 163bb03200d114b6f3f3db6cf80d8a59b74f6d5984a36cd09b2965d3e0a822a9
-status: review-pending
+source-commit: 1c695e7
+source-sha256: 4579c646e79399bcd79eeda52875b702d6106a84af47ff78a3b125cfbc4f5df2
+status: machine-reviewed
 ---
 
 ## Empezar en diez minutos
