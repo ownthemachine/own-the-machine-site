@@ -2,7 +2,7 @@
 source: content/en/join.md
 source-commit: 40802287fcfa50ca5798e5ad78fd954609e5d99b
 source-sha256: 41107633c4bd1cd67307bec3d48feb0eabdce56d26d080d87287cddbc1de772d
-status: review-pending
+status: machine-reviewed
 ---
 
 ## Empezar en diez minutos

@@ -2,7 +2,7 @@
 source: content/en/about.md
 source-commit: 9a8b63c9d462db38c39ae5eebfc6b5d6fc1bb9dd
 source-sha256: 50077d0edc2cf826852251c7c279faf3d7f4d775577df09ad33092d98d2857cc
-status: review-pending
+status: machine-reviewed
 ---
 
 ## Stand: 7. September 2026
