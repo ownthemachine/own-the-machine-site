@@ -1,12 +1,20 @@
 {
   "date": "2026-09-08",
-  "status": "STAGED_NOT_DEPLOYED",
+  "status": "DEPLOYED_VERIFIED",
   "site_commit": "a77f39b",
   "reviewed_content_commit": "f48687a",
   "previous_staged_record": "releases/2026-09-07-onboarding",
   "page_paths": [
-    "/join/", "/about/", "/fr/join/", "/fr/about/", "/nl/join/", "/nl/about/",
-    "/de/join/", "/de/about/", "/es/join/", "/es/about/"
+    "/join/",
+    "/about/",
+    "/fr/join/",
+    "/fr/about/",
+    "/nl/join/",
+    "/nl/about/",
+    "/de/join/",
+    "/de/about/",
+    "/es/join/",
+    "/es/about/"
   ],
   "metadata_change": "a77f39b marks the eight non-English join/about pages machine-reviewed; rendered output hashes are unchanged",
   "dist_hash_source": "/tmp/otm-r7-before-metadata.json",
@@ -22,7 +30,11 @@
     "es/join/index.html": "b37a34261316c33654637cfd60ad19b9ef7ebea1a0dbc10d4891db0366674bf0",
     "es/about/index.html": "ce195738aade95bbcb01aee445e14548ccac14c8877d12a93b02cfec663f94ac"
   },
-  "dist_hash_verification": {"pages": 10, "matched": 10, "mismatched": 0},
+  "dist_hash_verification": {
+    "pages": 10,
+    "matched": 10,
+    "mismatched": 0
+  },
   "qa_source": "/tmp/otm-onboarding-r7-qa/results.json",
   "qa_result": "20 page/theme samples; desktop and mobile; all passed; no axe violations",
   "logs": {
@@ -33,27 +45,54 @@
   "backup_manifest": "/tmp/otm-before-onboarding-release/manifest.json",
   "backup_result": "20 existing join/about objects backed up locally; no upload",
   "reviews": [
-    {"gate": "legal-form", "review": "pipeline/reviews/2026-09-08-onboarding-legal-form-r8.md", "verdict": "PUBLISH"},
-    {"gate": "layer-fidelity", "review": "pipeline/reviews/2026-09-08-onboarding-layer-fidelity-r8.md", "verdict": "PUBLISH"},
-    {"gate": "hostile-counsel", "review": "pipeline/reviews/2026-09-08-onboarding-hostile-counsel-r8.md", "verdict": "PUBLISH"},
-    {"gate": "translation", "review": "pipeline/reviews/2026-09-08-onboarding-translation-r7.md", "verdict": "PUBLISH", "note": "site prose unchanged"}
+    {
+      "gate": "legal-form",
+      "review": "pipeline/reviews/2026-09-08-onboarding-legal-form-r8.md",
+      "verdict": "PUBLISH"
+    },
+    {
+      "gate": "layer-fidelity",
+      "review": "pipeline/reviews/2026-09-08-onboarding-layer-fidelity-r8.md",
+      "verdict": "PUBLISH"
+    },
+    {
+      "gate": "hostile-counsel",
+      "review": "pipeline/reviews/2026-09-08-onboarding-hostile-counsel-r8.md",
+      "verdict": "PUBLISH"
+    },
+    {
+      "gate": "translation",
+      "review": "pipeline/reviews/2026-09-08-onboarding-translation-r7.md",
+      "verdict": "PUBLISH",
+      "note": "site prose unchanged"
+    }
   ],
   "law_review_archive_commit": "ade76c1",
   "mail_tests": {
     "sent_date": "2026-09-08",
-    "independent_sender_receipt": "not established",
-    "hello_destinations": "both require independent sender confirmation; self-sender deduplication is insufficient",
-    "organisers_destination": "requires independent sender confirmation",
-    "partner_handling_acknowledgement": "not established"
+    "independent_sender_receipt": "Confirmed by initiator in conversation on 2026-09-08",
+    "hello_destinations": "Both recipients confirmed by initiator",
+    "organisers_destination": "Receipt confirmed by initiator",
+    "partner_handling_acknowledgement": "Agreement confirmed by initiator on 2026-09-08",
+    "evidence_type": "User attestation; original self-sent tests remain inconclusive"
   },
   "linkedin_page_created": false,
   "linkedin_post_published": false,
-  "uploads": false,
-  "cdn_purge": false,
+  "uploads": true,
+  "cdn_purge": true,
   "public_consultation_opened": false,
   "blocking_checks": [
-    "Confirm recipient-side receipt from an independent sender at both hello destinations and the organisers destination",
-    "Obtain and record partner handling acknowledgement",
     "Open and link the required 14-day public consultation before any public LinkedIn introduction"
-  ]
+  ],
+  "website_release_blockers": [],
+  "operational_gate_record_commit": "73b498f",
+  "deployment": {
+    "verified_at_utc": "2026-09-08T13:28:39.449798+00:00",
+    "objects_uploaded": 20,
+    "live_paths_verified": 20,
+    "verification": "HTTP 200, UTF-8 content type and exact reviewed build SHA256 at every path",
+    "cdn_purge_status": "done",
+    "cdn_purge_id": "bf6b8a5e-1db8-4b34-ac9c-dcb2a874b6d2",
+    "url": "https://ownthemachine.eu/join/"
+  }
 }

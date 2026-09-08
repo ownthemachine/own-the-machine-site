@@ -1,32 +1,25 @@
-# Organiser onboarding: staged, not deployed
+# Organiser onboarding: deployed and verified
 
-8 September 2026. This directory records readiness only. It is explicitly
-`STAGED_NOT_DEPLOYED`; no upload, CDN purge, or LinkedIn Page/post was
-performed.
+8 September 2026. The reviewed join and About pages are live in English,
+French, Dutch, German and Spanish. Exactly 20 storage objects were uploaded
+(the ten pages and their extensionless counterparts), the CDN purge completed,
+and all 20 live responses matched the reviewed build bytes and UTF-8 type.
 
-The current site commit is `a77f39b`, a metadata-only follow-up to the reviewed
-and QA'd content at `f48687a`. The ten join/about output hashes recorded in
-`/tmp/otm-r7-before-metadata.json` match the current `dist` byte-for-byte.
-The r7 build, release checks, and 20-sample browser QA are recorded by the
-source logs listed in `verification.json`; all QA samples passed with no axe
-violations. The 20-object backup manifest is `/tmp/otm-before-onboarding-release/manifest.json`.
+The build content at `f48687a` passed release checks and 20 browser page/theme
+samples covering desktop and mobile. Translation metadata commit `a77f39b`
+left all ten rendered pages byte-identical. Exact hashes, review references,
+backup evidence and deployment verification are in `verification.json`.
 
-The 8 September r8 legal-form, layer-fidelity and hostile-counsel reviews are
-all `PUBLISH`, as is the 8 September r7 translation review. Site prose was
-unchanged in r8. The law-repository review disposition was archived in commit
-`ade76c1`.
+The r8 form, layer-fidelity and Fable hostile-counsel reviews returned PUBLISH;
+the r7 translation review also returned PUBLISH. Site prose did not change in
+r8. These reviews concern the onboarding package and do not resolve the open
+substantive legislative questions.
 
-Mail tests were sent on 8 September, but receipt is not established: the
-self-sender/deduplication result does not confirm either hello destination or
-the organisers destination. Independent sender confirmation for both hello
-destinations and organisers is still required, and partner handling
-acknowledgement is not established. No LinkedIn action is included in this
-record.
+The initiator confirmed receipt at both hello destinations and the organisers
+destination, and confirmed the second contact's privacy-handling agreement.
+These user attestations close the operational website release conditions;
+the original self-sent tests remain inconclusive. Personal recipient details
+and the acknowledgement record are kept outside the public repository.
 
-## Remaining release gates
-
-For any website deployment, verify recipient-side receipt from an independent
-sender at both hello destinations and at the organisers destination, and record
-the partner's handling acknowledgement. Before any public LinkedIn
-introduction, open and link the required 14-day public consultation, then
-re-run any affected checks.
+No LinkedIn Page or post was published. The required 14-day consultation must
+be opened and linked before the public LinkedIn introduction.
