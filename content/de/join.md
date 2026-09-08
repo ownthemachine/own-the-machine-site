@@ -1,7 +1,7 @@
 ---
 source: content/en/join.md
-source-commit: 98fb43c
-source-sha256: 38055680aaa7a44e5766925bbf7fec3003c1b64774bb29ea93b17bf8cb8defd6
+source-commit: 40802287fcfa50ca5798e5ad78fd954609e5d99b
+source-sha256: 41107633c4bd1cd67307bec3d48feb0eabdce56d26d080d87287cddbc1de772d
 status: review-pending
 ---
 
@@ -78,12 +78,6 @@ keines in einem öffentlichen Issue veröffentlicht werden.
 
 ## Was mit Ihren Angaben geschieht
 
-Ein GitHub-Issue ist öffentlich. Eine E-Mail erreicht den Herausgeber; sie wird
-weder in eine Mailingliste aufgenommen noch ohne Ihre Zustimmung weitergeleitet
-oder veröffentlicht. Es gibt keine Mailingliste und kein Spendenformular.
-Kontaktdaten werden zur Beantwortung der Anfrage verwendet, nicht für unaufgeforderte
-Kampagnennachrichten. Siehe [Über das Projekt](/de/about) bezüglich des
-Verantwortlichen und Ihrer Rechte. Jede spätere Änderung dieser Regelungen muss vor
-ihrem Inkrafttreten erläutert werden.
+Ein GitHub-Issue ist öffentlich. Eine E-Mail an hello@ownthemachine.eu wird von Forward Email, einem US-Anbieter, an die persönlichen Gmail-Postfächer von zwei Kontaktpersonen des Projekts weitergeleitet. Die separate Adresse organisers@ownthemachine.eu wird an das persönliche Gmail-Postfach des Initiators weitergeleitet. Ihre Nachricht wird zur Beantwortung Ihrer Anfrage verwendet. Über diese Weiterleitung hinaus geben wir Ihre Anfrage ohne Ihre Zustimmung weder weiter noch veröffentlichen wir sie. Es gibt keine Mailingliste und kein Spendenformular. Kontaktdaten werden zur Beantwortung der Anfrage verwendet, nicht für unaufgeforderte Kampagnennachrichten. Siehe [Über das Projekt](/de/about) bezüglich des Verantwortlichen und Ihrer Rechte. Jede spätere Änderung dieser Regelungen muss vor ihrem Inkrafttreten erläutert werden.
 
-Für Anfragen zur Mitarbeit führt der Herausgeber eine private Notiz mit Kontaktdaten, dem Datum Ihrer Anfrage, freiwillig angegebenem Wohnsitz, vereinbarter Aufgabe und Zeit, verantwortlicher Person, nächstem Schritt, Status und Zustimmung zu einer Kontaktvermittlung. Inaktive Anfragen werden nach 90 Tagen überprüft; nicht mehr benötigte Daten werden gelöscht, sofern kein weiterer Kontakt vereinbart oder ein anderer Aufbewahrungsbedarf erläutert wurde.
+Für Anfragen zur Mitarbeit führt der Initiator auf seinem lokalen Computer eine private Notiz mit Kontaktdaten, dem Datum Ihrer Anfrage, freiwillig angegebenem Wohnsitz, vereinbarter Aufgabe und Zeit, verantwortlicher Person, nächstem Schritt, Status und Zustimmung zu einer Kontaktvermittlung. Inaktive Notizen werden nach 90 Tagen überprüft; nicht mehr benötigte Daten werden gelöscht, sofern kein weiterer Kontakt vereinbart oder ein anderer Aufbewahrungsbedarf erläutert wurde. Kopien in diesen Gmail-Postfächern sind von den privaten Notizen zur Mitarbeit getrennt, die auf dem lokalen Computer des Initiators außerhalb des öffentlichen Repositorys gespeichert werden. Die Überprüfung inaktiver Notizen nach 90 Tagen löscht E-Mail-Kopien in Gmail nicht automatisch.

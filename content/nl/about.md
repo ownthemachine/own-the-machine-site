@@ -1,7 +1,7 @@
 ---
 source: content/en/about.md
-source-commit: 29300ae
-source-sha256: dcd7b78d605a9d0ca7f6055daeb55b043e9462c81d2b31eef015c2b5e51d5341
+source-commit: 40802287fcfa50ca5798e5ad78fd954609e5d99b
+source-sha256: 7560ef89fc07dd8b7c251b5d1ee7991d67c344c5940ee216f37a233a334204e7
 status: review-pending
 ---
 
@@ -42,7 +42,7 @@ Geïnitieerd door David Vanheeswijck (België). De ontwerpmethode maakt gebruik 
 
 ## Wie dit publiceert
 
-Verantwoordelijk voor deze site en voor het ontwerp dat zij weergeeft: David Vanheeswijck, België. Schrijf naar [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu); dat adres bereikt de redacteur, en alles wat inhoudelijk is over de tekst hoort in de openbaarheid thuis, als een [issue of pull request](https://github.com/ownthemachine/own-the-machine) op de repository, waar het antwoord kan worden gelezen door iedereen die het ontwerp aangaat.
+Verantwoordelijk voor deze site en voor het ontwerp dat zij weergeeft: David Vanheeswijck, België. Schrijf naar [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu). Alles wat inhoudelijk is over de tekst hoort in de openbaarheid thuis, als een [issue of pull request](https://github.com/ownthemachine/own-the-machine) op de repository, waar het antwoord kan worden gelezen door iedereen die het ontwerp aangaat.
 
 Dezelfde persoon is de verwerkingsverantwoordelijke voor de weinige gegevens die deze site met zich meebrengt, zoals hieronder beschreven.
 
@@ -68,7 +68,7 @@ Deze site plaatst geen cookies, gebruikt geen analytische scripts en laadt niets
 
 Wat desalniettemin wordt verwerkt, nuchter vermeld in plaats van weggewuifd: elke server die een verzoek beantwoordt, ziet het adres waar het vandaan komt, dus de host houdt kortstondige technische logs bij, inclusief IP-adressen, om de pagina's te leveren en zich te verdedigen tegen misbruik. Die logs worden voor geen enkel ander doel gelezen, worden met niets gecombineerd, worden niet verkocht en worden niet gedeeld. Als u op deze site wisselt tussen papier en plaat, wordt die keuze opgeslagen in uw eigen browser en verlaat die nooit.
 
-Als u het project e-mailt, wordt uw bericht gebruikt om te antwoorden. De opvolgnotities voor bijdragen en hun bewaartermijn staan op [Meedoen](/nl/join). Die privénotities staan op de computer van de initiatiefnemer, buiten de openbare repository.
+Een e-mail aan hello@ownthemachine.eu wordt via Forward Email, een Amerikaanse dienstverlener, doorgestuurd naar de persoonlijke Gmail-inboxen van twee contactpersonen van het project. Het afzonderlijke adres organisers@ownthemachine.eu wordt doorgestuurd naar de persoonlijke Gmail-inbox van de initiatiefnemer. Uw bericht wordt gebruikt om uw vraag te beantwoorden. Buiten deze doorsturing delen of publiceren wij uw vraag niet zonder uw toestemming. Kopieën in deze Gmail-inboxen staan los van de privé-intakenotities op de lokale computer van de initiatiefnemer, buiten de openbare repository. De beoordeling van inactieve intakenotities na 90 dagen verwijdert niet automatisch e-mailkopieën uit Gmail. De opvolgnotities voor bijdragen en hun bewaartermijn staan op [Meedoen](/nl/join).
 
 Iedereen in de Unie kan vragen welke gegevens over hem of haar worden bewaard en kan een klacht indienen bij een toezichthoudende autoriteit; in België is dat de Gegevensbeschermingsautoriteit. Wanneer de ondertekening opent, gebeurt dit op het eigen verzamelsysteem van de Europese Commissie onder Verordening (EU) 2019/788, niet hier.
 

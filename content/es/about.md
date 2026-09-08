@@ -1,7 +1,7 @@
 ---
 source: content/en/about.md
-source-commit: 29300ae
-source-sha256: dcd7b78d605a9d0ca7f6055daeb55b043e9462c81d2b31eef015c2b5e51d5341
+source-commit: 40802287fcfa50ca5798e5ad78fd954609e5d99b
+source-sha256: 7560ef89fc07dd8b7c251b5d1ee7991d67c344c5940ee216f37a233a334204e7
 status: review-pending
 ---
 
@@ -55,8 +55,8 @@ Estados miembros diferentes si el proyecto supera sus propios hitos de control.
 ## Quién publica esto
 
 Responsable de este sitio y del borrador que presenta: David Vanheeswijck, Bélgica.
-Escriba a [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu); esa dirección llega al
-editor, y todo debate de fondo sobre el texto debe darse de forma abierta, mediante una
+Escriba a [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu). Todo debate de fondo
+sobre el texto debe darse de forma abierta, mediante una
 [incidencia o pull request](https://github.com/ownthemachine/own-the-machine) en el
 repositorio, donde la respuesta quede a la vista de todas las personas a las que atañe el
 borrador.
@@ -114,9 +114,7 @@ ningún otro fin, no se combinan con ninguna otra información, no se venden y n
 comparten. Si alterna en este sitio entre la versión de papel y la de plancha, esa
 preferencia se guarda en el almacenamiento local de su propio navegador y nunca sale de él.
 
-Si escribe al proyecto por correo electrónico, su mensaje se utiliza para responderle.
-Las notas de seguimiento de las colaboraciones y su conservación se describen en [Participar](/es/join).
-Estas notas privadas se guardan en el ordenador del iniciador, fuera del repositorio público.
+Un correo enviado a hello@ownthemachine.eu se reenvía mediante Forward Email, un proveedor estadounidense, a las bandejas personales de Gmail de dos personas de contacto del proyecto. La dirección separada organisers@ownthemachine.eu se reenvía a la bandeja personal de Gmail del iniciador. Su mensaje se utiliza para responder a su consulta. Más allá de este reenvío, no compartimos ni publicamos su consulta sin su consentimiento. Las copias en estas bandejas de Gmail son independientes de las notas privadas de seguimiento guardadas en el ordenador local del iniciador, fuera del repositorio público. La revisión de las notas inactivas a los 90 días no elimina automáticamente las copias de los correos en Gmail. Las notas de seguimiento de las colaboraciones y su conservación se describen en [Participar](/es/join).
 
 Toda persona en la Unión puede consultar los datos que se conserven sobre ella y presentar
 una reclamación ante una autoridad de control; en Bélgica, la Autoridad de Protección de

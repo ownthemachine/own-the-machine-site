@@ -1,7 +1,7 @@
 ---
 source: content/en/join.md
-source-commit: 98fb43c
-source-sha256: 38055680aaa7a44e5766925bbf7fec3003c1b64774bb29ea93b17bf8cb8defd6
+source-commit: 40802287fcfa50ca5798e5ad78fd954609e5d99b
+source-sha256: 41107633c4bd1cd67307bec3d48feb0eabdce56d26d080d87287cddbc1de772d
 status: review-pending
 ---
 
@@ -75,12 +75,6 @@ manifestar interés, y no debe incluirse ninguno en una incidencia pública.
 
 ## Qué ocurre con lo que usted envía
 
-Una incidencia en GitHub es pública. Un correo electrónico llega al editor; no se
-incorpora a ninguna lista de distribución, no se reenvía ni se publica sin su
-consentimiento. No hay listas de correo ni formularios de donación. El contacto se
-utiliza para responder a la consulta, no para enviar mensajes de campaña no
-solicitados. Consulte [acerca de](/es/about) para conocer el responsable del tratamiento y
-sus derechos. Cualquier cambio posterior en estas disposiciones deberá explicarse antes
-de surtir efecto.
+Una incidencia de GitHub es pública. Un correo enviado a hello@ownthemachine.eu se reenvía mediante Forward Email, un proveedor estadounidense, a las bandejas personales de Gmail de dos personas de contacto del proyecto. La dirección separada organisers@ownthemachine.eu se reenvía a la bandeja personal de Gmail del iniciador. Su mensaje se utiliza para responder a su consulta. Más allá de este reenvío, no compartimos ni publicamos su consulta sin su consentimiento. No hay lista de correo ni formulario de donaciones. Los datos de contacto se utilizan para responder a la consulta, no para enviar mensajes de campaña no solicitados. Véase [acerca del proyecto](/es/about) para conocer al responsable del tratamiento y sus derechos. Cualquier cambio posterior de estas disposiciones debe explicarse antes de entrar en vigor.
 
-Para las consultas sobre colaboración, el editor conserva una nota privada con los datos de contacto, la fecha de su consulta, la residencia facilitada voluntariamente, la tarea y el tiempo acordados, la persona responsable, la próxima acción, el estado y el permiso para presentar a otra persona. Las consultas inactivas se revisan después de 90 días; los datos que ya no sean necesarios se eliminan, salvo acuerdo para mantener el contacto u otra necesidad de conservación explicada.
+Para las consultas sobre colaboraciones, el iniciador conserva una nota privada en su ordenador local: datos de contacto, fecha de la consulta, residencia comunicada voluntariamente, tarea y tiempo acordados, persona responsable, próxima acción, estado y permiso para presentar a otra persona. Las notas inactivas se revisan a los 90 días; los datos que ya no sean necesarios se eliminan, salvo que se acuerde continuar el contacto o se haya explicado otra necesidad de conservación. Las copias en estas bandejas de Gmail son independientes de las notas privadas de seguimiento guardadas en el ordenador local del iniciador, fuera del repositorio público. La revisión de las notas inactivas a los 90 días no elimina automáticamente las copias de los correos en Gmail.

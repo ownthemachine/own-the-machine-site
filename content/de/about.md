@@ -1,7 +1,7 @@
 ---
 source: content/en/about.md
-source-commit: 29300ae
-source-sha256: dcd7b78d605a9d0ca7f6055daeb55b043e9462c81d2b31eef015c2b5e51d5341
+source-commit: 40802287fcfa50ca5798e5ad78fd954609e5d99b
+source-sha256: 7560ef89fc07dd8b7c251b5d1ee7991d67c344c5940ee216f37a233a334204e7
 status: review-pending
 ---
 
@@ -62,8 +62,7 @@ eigenen Prüfstufen besteht.
 ## Wer dies veröffentlicht
 
 Verantwortlich für diese Website und den dargestellten Entwurf: David
-Vanheeswijck, Belgien. Schreiben Sie an [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu);
-diese Adresse erreicht den Herausgeber, und alle inhaltlichen Aspekte des Textes
+Vanheeswijck, Belgien. Schreiben Sie an [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu). Alle inhaltlichen Aspekte des Textes
 gehören an die Öffentlichkeit, als [Issue oder Pull Request](https://github.com/ownthemachine/own-the-machine)
 im Repository, wo die Antwort von jedem gelesen werden kann, den der Entwurf
 betrifft.
@@ -124,9 +123,7 @@ nicht verkauft und nicht weitergegeben. Wenn Sie diese Website zwischen Papier- 
 Plattenansicht umschalten, wird diese Wahl im Speicher Ihres eigenen Browsers
 abgelegt und verlässt diesen nie.
 
-Wenn Sie dem Projekt eine E-Mail senden, wird Ihre Nachricht zur Beantwortung verwendet.
-Die Notizen zur Mitarbeit und ihre Aufbewahrung sind auf [Mitmachen](/de/join) beschrieben.
-Diese privaten Notizen werden auf dem Computer des Initiators außerhalb des öffentlichen Repositorys gespeichert.
+Eine E-Mail an hello@ownthemachine.eu wird von Forward Email, einem US-Anbieter, an die persönlichen Gmail-Postfächer von zwei Kontaktpersonen des Projekts weitergeleitet. Die separate Adresse organisers@ownthemachine.eu wird an das persönliche Gmail-Postfach des Initiators weitergeleitet. Ihre Nachricht wird zur Beantwortung Ihrer Anfrage verwendet. Über diese Weiterleitung hinaus geben wir Ihre Anfrage ohne Ihre Zustimmung weder weiter noch veröffentlichen wir sie. Kopien in diesen Gmail-Postfächern sind von den privaten Notizen zur Mitarbeit getrennt, die auf dem lokalen Computer des Initiators außerhalb des öffentlichen Repositorys gespeichert werden. Die Überprüfung inaktiver Notizen nach 90 Tagen löscht E-Mail-Kopien in Gmail nicht automatisch. Die Notizen zur Mitarbeit und ihre Aufbewahrung sind auf [Mitmachen](/de/join) beschrieben.
 
 Jede Person in der Union kann Auskunft über die über sie gespeicherten Daten
 verlangen und sich bei einer Aufsichtsbehörde beschweren; in Belgien ist dies die

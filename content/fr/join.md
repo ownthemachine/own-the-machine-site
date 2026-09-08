@@ -1,7 +1,7 @@
 ---
 source: content/en/join.md
-source-commit: 98fb43c
-source-sha256: 38055680aaa7a44e5766925bbf7fec3003c1b64774bb29ea93b17bf8cb8defd6
+source-commit: 40802287fcfa50ca5798e5ad78fd954609e5d99b
+source-sha256: 41107633c4bd1cd67307bec3d48feb0eabdce56d26d080d87287cddbc1de772d
 status: review-pending
 ---
 
@@ -78,12 +78,6 @@ publié dans un ticket public.
 
 ## Ce qu'il advient de vos messages
 
-Un ticket GitHub est public. Un courriel parvient à l'éditeur ; il n'est pas ajouté à
-une liste de diffusion, ni transmis ou publié sans votre accord. Il n'existe ni liste
-de diffusion ni formulaire de don. Les coordonnées sont utilisées pour répondre à
-votre demande, et non pour envoyer des messages de campagne non sollicités. Consultez
-la page [à propos](/fr/about) pour connaître le responsable du traitement et vos droits.
-Tout changement ultérieur apporté à ces dispositions devra être expliqué avant de
-prendre effet.
+Un ticket GitHub est public. Un courriel envoyé à hello@ownthemachine.eu est transféré par Forward Email, un prestataire américain, vers les boîtes Gmail personnelles de deux interlocuteurs du projet. L’adresse distincte organisers@ownthemachine.eu est transférée vers la boîte Gmail personnelle de l’initiateur. Votre message sert à répondre à votre demande. Au-delà de cet acheminement, nous ne partageons ni ne publions votre demande sans votre accord. Il n’existe ni liste de diffusion ni formulaire de don. Les coordonnées servent à répondre à la demande, pas à envoyer des messages de campagne non sollicités. La page [à propos](/fr/about) indique le responsable du traitement et vos droits. Toute modification ultérieure de ces dispositions doit être expliquée avant de prendre effet.
 
-Pour les demandes de contribution, l'éditeur tient une note de suivi privée : coordonnées, date de votre demande, résidence communiquée volontairement, tâche et disponibilité convenues, responsable, prochaine action, état du suivi et autorisation de mise en relation. Les demandes inactives sont réexaminées après 90 jours ; les données devenues inutiles sont supprimées, sauf accord pour rester en contact ou autre nécessité de conservation expliquée.
+Pour les demandes de contribution, l’initiateur conserve une note privée sur son ordinateur local : coordonnées, date de la demande, résidence éventuellement communiquée, tâche et temps convenus, responsable, prochaine action, statut et autorisation de mise en relation. Les notes inactives sont réexaminées après 90 jours ; les données devenues inutiles sont supprimées, sauf si la poursuite du contact est convenue ou si un autre besoin de conservation a été expliqué. Les copies dans ces boîtes Gmail sont distinctes des notes privées de suivi conservées sur l’ordinateur local de l’initiateur, hors du dépôt public. Le réexamen des notes inactives après 90 jours ne supprime pas automatiquement les copies des courriels dans Gmail.

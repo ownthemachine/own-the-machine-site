@@ -1,7 +1,7 @@
 ---
 source: content/en/join.md
-source-commit: 98fb43c
-source-sha256: 38055680aaa7a44e5766925bbf7fec3003c1b64774bb29ea93b17bf8cb8defd6
+source-commit: 40802287fcfa50ca5798e5ad78fd954609e5d99b
+source-sha256: 41107633c4bd1cd67307bec3d48feb0eabdce56d26d080d87287cddbc1de772d
 status: review-pending
 ---
 
@@ -44,6 +44,6 @@ Schrijf naar [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu), of open ee
 
 ## Wat er gebeurt met wat u stuurt
 
-Een GitHub-issue is openbaar. Een e-mail bereikt de redacteur; deze wordt niet toegevoegd aan een mailinglijst, doorgestuurd of gepubliceerd zonder uw toestemming. Er is geen mailinglijst of donatieformulier. Contactgegevens worden gebruikt om de vraag te beantwoorden, niet om ongevraagde campagneberichten te sturen. Zie [over ons](/nl/about) voor de verwerkingsverantwoordelijke en uw rechten. Elke latere wijziging van deze regelingen moet worden toegelicht voordat deze van kracht wordt.
+Een GitHub-issue is openbaar. Een e-mail aan hello@ownthemachine.eu wordt via Forward Email, een Amerikaanse dienstverlener, doorgestuurd naar de persoonlijke Gmail-inboxen van twee contactpersonen van het project. Het afzonderlijke adres organisers@ownthemachine.eu wordt doorgestuurd naar de persoonlijke Gmail-inbox van de initiatiefnemer. Uw bericht wordt gebruikt om uw vraag te beantwoorden. Buiten deze doorsturing delen of publiceren wij uw vraag niet zonder uw toestemming. Er is geen mailinglijst of donatieformulier. Contactgegevens worden gebruikt om de vraag te beantwoorden, niet om ongevraagde campagneberichten te sturen. Zie [over ons](/nl/about) voor de verwerkingsverantwoordelijke en uw rechten. Elke latere wijziging van deze regelingen moet worden toegelicht voordat deze van kracht wordt.
 
-Voor vragen over bijdragen houdt de redacteur een privé-opvolgnotitie bij: contactgegevens, de datum van uw vraag, eventueel vrijwillig opgegeven woonland, afgesproken taak en tijd, verantwoordelijke, volgende actie, status en toestemming voor een kennismaking. Inactieve vragen worden na 90 dagen beoordeeld; gegevens die niet meer nodig zijn worden verwijderd, tenzij verder contact is afgesproken of een andere bewaarbehoefte is toegelicht.
+Voor vragen over bijdragen houdt de initiatiefnemer op diens lokale computer een privé-intakenotitie bij: contactgegevens, de datum van uw vraag, eventueel vrijwillig opgegeven woonland, afgesproken taak en tijd, verantwoordelijke, volgende actie, status en toestemming voor een kennismaking. Inactieve intakenotities worden na 90 dagen beoordeeld; gegevens die niet meer nodig zijn worden verwijderd, tenzij verder contact is afgesproken of een andere bewaarbehoefte is toegelicht. Kopieën in deze Gmail-inboxen staan los van de privé-intakenotities op de lokale computer van de initiatiefnemer, buiten de openbare repository. De beoordeling van inactieve intakenotities na 90 dagen verwijdert niet automatisch e-mailkopieën uit Gmail.

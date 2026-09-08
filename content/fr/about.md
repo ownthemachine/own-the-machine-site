@@ -1,7 +1,7 @@
 ---
 source: content/en/about.md
-source-commit: 29300ae
-source-sha256: dcd7b78d605a9d0ca7f6055daeb55b043e9462c81d2b31eef015c2b5e51d5341
+source-commit: 40802287fcfa50ca5798e5ad78fd954609e5d99b
+source-sha256: 7560ef89fc07dd8b7c251b5d1ee7991d67c344c5940ee216f37a233a334204e7
 status: review-pending
 ---
 
@@ -58,8 +58,7 @@ sera constitué si le projet franchit ses propres étapes de contrôle.
 ## Qui publie ce site
 
 Responsable de ce site et du projet qu'il présente : David Vanheeswijck, Belgique.
-Écrivez à [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu) ; cette adresse
-parvient à l'éditeur, et tout ce qui touche au fond du texte a vocation à être public,
+Écrivez à [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu). Tout ce qui touche au fond du texte a vocation à être public,
 sous forme de [ticket ou de pull request](https://github.com/ownthemachine/own-the-machine)
 sur le dépôt, où la réponse peut être consultée par toute personne concernée par le
 projet.
@@ -121,9 +120,7 @@ autre fin, ne sont recoupés avec rien, ne sont ni vendus ni partagés. Si vous 
 l'affichage de ce site entre les modes papier et plaque, ce choix est enregistré dans
 la mémoire de votre propre navigateur et ne la quitte jamais.
 
-Si vous écrivez au projet, votre message sert à vous répondre. Les notes de suivi
-des contributions et leur conservation sont décrites sur [Participer](/fr/join).
-Ces notes privées sont conservées sur l'ordinateur de l'initiateur, hors du dépôt public.
+Un courriel envoyé à hello@ownthemachine.eu est transféré par Forward Email, un prestataire américain, vers les boîtes Gmail personnelles de deux interlocuteurs du projet. L’adresse distincte organisers@ownthemachine.eu est transférée vers la boîte Gmail personnelle de l’initiateur. Votre message sert à répondre à votre demande. Au-delà de cet acheminement, nous ne partageons ni ne publions votre demande sans votre accord. Les copies dans ces boîtes Gmail sont distinctes des notes privées de suivi conservées sur l’ordinateur local de l’initiateur, hors du dépôt public. Le réexamen des notes inactives après 90 jours ne supprime pas automatiquement les copies des courriels dans Gmail. Les notes de suivi des contributions et leur conservation sont décrites sur [Participer](/fr/join).
 
 Toute personne dans l'Union peut demander quelles données sont détenues à son sujet et
 peut introduire une réclamation auprès d'une autorité de contrôle ; en Belgique, il
