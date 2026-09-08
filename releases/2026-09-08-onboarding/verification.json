@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-08",
+  "status": "STAGED_NOT_DEPLOYED",
+  "site_commit": "a77f39b",
+  "reviewed_content_commit": "f48687a",
+  "previous_staged_record": "releases/2026-09-07-onboarding",
+  "page_paths": [
+    "/join/", "/about/", "/fr/join/", "/fr/about/", "/nl/join/", "/nl/about/",
+    "/de/join/", "/de/about/", "/es/join/", "/es/about/"
+  ],
+  "metadata_change": "a77f39b marks the eight non-English join/about pages machine-reviewed; rendered output hashes are unchanged",
+  "dist_hash_source": "/tmp/otm-r7-before-metadata.json",
+  "dist_hashes": {
+    "join/index.html": "51585971ea8778f265d9315893ac4725e16755880c7cf2f96e645eb93e04173e",
+    "about/index.html": "7eee3bd2a6a831db182cb0cf39b81a798730a73d88b77d4f7ab566957f38d021",
+    "fr/join/index.html": "645e3cd06acfc8ab7adbfeed6aae81329cf1c94c07da80e6724cbbab717055da",
+    "fr/about/index.html": "041ff250aa02648d2925a42b4ef15c0b82f0ba7b8cfa4b4b8b35891dc0d92b3b",
+    "nl/join/index.html": "2e57130b2270bfc9305bb3151b329da5b3f1f3541934a4295f37e66a4120a26c",
+    "nl/about/index.html": "904f0beb052d3b74a8a1e7ef689543446a0ad2d0b795cc1a2b19cbb837a54913",
+    "de/join/index.html": "7a8a50c9344de2a085fa3e16af4ad79b4d963cb389f400d53332b9e12700fc04",
+    "de/about/index.html": "b2be5c9e030ee7fd1ea1e0ac98dd4cdc17e23b6d7befddef1a57afce12abf013",
+    "es/join/index.html": "b37a34261316c33654637cfd60ad19b9ef7ebea1a0dbc10d4891db0366674bf0",
+    "es/about/index.html": "ce195738aade95bbcb01aee445e14548ccac14c8877d12a93b02cfec663f94ac"
+  },
+  "dist_hash_verification": {"pages": 10, "matched": 10, "mismatched": 0},
+  "qa_source": "/tmp/otm-onboarding-r7-qa/results.json",
+  "qa_result": "20 page/theme samples; desktop and mobile; all passed; no axe violations",
+  "logs": {
+    "build": "/tmp/otm-onboarding-r7-build.log",
+    "checks": "/tmp/otm-onboarding-r7-checks.log",
+    "qa": "/tmp/otm-onboarding-r7-qa.log"
+  },
+  "backup_manifest": "/tmp/otm-before-onboarding-release/manifest.json",
+  "backup_result": "20 existing join/about objects backed up locally; no upload",
+  "reviews": [
+    {"gate": "legal-form", "review": "pipeline/reviews/2026-09-08-onboarding-legal-form-r8.md", "verdict": "PUBLISH"},
+    {"gate": "layer-fidelity", "review": "pipeline/reviews/2026-09-08-onboarding-layer-fidelity-r8.md", "verdict": "PUBLISH"},
+    {"gate": "hostile-counsel", "review": "pipeline/reviews/2026-09-08-onboarding-hostile-counsel-r8.md", "verdict": "PUBLISH"},
+    {"gate": "translation", "review": "pipeline/reviews/2026-09-08-onboarding-translation-r7.md", "verdict": "PUBLISH", "note": "site prose unchanged"}
+  ],
+  "law_review_archive_commit": "ade76c1",
+  "mail_tests": {
+    "sent_date": "2026-09-08",
+    "independent_sender_receipt": "not established",
+    "hello_destinations": "both require independent sender confirmation; self-sender deduplication is insufficient",
+    "organisers_destination": "requires independent sender confirmation",
+    "partner_handling_acknowledgement": "not established"
+  },
+  "linkedin_page_created": false,
+  "linkedin_post_published": false,
+  "uploads": false,
+  "cdn_purge": false,
+  "public_consultation_opened": false,
+  "blocking_checks": [
+    "Confirm recipient-side receipt from an independent sender at both hello destinations and the organisers destination",
+    "Obtain and record partner handling acknowledgement",
+    "Open and link the required 14-day public consultation before any public LinkedIn introduction"
+  ]
+}
