@@ -1,7 +1,7 @@
 ---
 source: content/en/about.md
-source-commit: 40802287fcfa50ca5798e5ad78fd954609e5d99b
-source-sha256: 7560ef89fc07dd8b7c251b5d1ee7991d67c344c5940ee216f37a233a334204e7
+source-commit: 9a8b63c9d462db38c39ae5eebfc6b5d6fc1bb9dd
+source-sha256: 50077d0edc2cf826852251c7c279faf3d7f4d775577df09ad33092d98d2857cc
 status: review-pending
 ---
 
@@ -25,7 +25,7 @@ objectif sur une génération.
 Le recrutement et la discussion peuvent se poursuivre pendant cet examen.
 L’échange avec le Forum de l’ICE est terminé. Le chercheur a été contacté
 le 2 septembre et la personne expérimentée en matière d’ICE a répondu le
-5 septembre. Une lettre en français a été envoyée au bureau d’une eurodéputée belge le 7 septembre 2026. Aucune initiative n’est
+5 septembre. Une lettre en français a été envoyée au bureau d’un membre belge du Parlement européen le 7 septembre 2026. Aucune initiative n’est
 enregistrée et aucune déclaration de soutien n’est recueillie. Le
 [journal des examens](/fr/law/ledger) conserve les conclusions, y compris
 les avis défavorables.
@@ -96,9 +96,9 @@ rémunération.
 Répondre « aucun » serait la solution de facilité, mais ce ne serait pas exact. Ce
 site engendre des coûts de fonctionnement que l'initiateur assume personnellement : le
 nom de domaine, le stockage d'objets et la distribution réseau chez Scaleway en France,
-ainsi que les appels API consommés par les étapes de contrôle de revue. Aucun financement ou soutien tiers propre à la campagne n'est enregistré au
+les appels API consommés par les étapes de contrôle de revue, ainsi que l'abonnement Forward Email du compte Enhanced Protection payé personnellement par l'initiateur. Aucun financement ou soutien tiers propre à la campagne n'est enregistré au
 6 septembre 2026. Les services de plateforme standard fournis aux conditions ordinaires,
-notamment GitHub et Cloudflare, sont décrits ci-dessous.
+notamment GitHub, Cloudflare, Forward Email et Google, sont décrits ci-dessous.
 
 Le règlement (UE) 2019/788 impose à toute initiative enregistrée de déclarer chaque
 source de financement supérieure à 500 euros par an et de maintenir cette déclaration

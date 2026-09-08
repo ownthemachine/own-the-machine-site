@@ -1,7 +1,7 @@
 ---
 source: content/en/about.md
-source-commit: 40802287fcfa50ca5798e5ad78fd954609e5d99b
-source-sha256: 7560ef89fc07dd8b7c251b5d1ee7991d67c344c5940ee216f37a233a334204e7
+source-commit: 9a8b63c9d462db38c39ae5eebfc6b5d6fc1bb9dd
+source-sha256: 50077d0edc2cf826852251c7c279faf3d7f4d775577df09ad33092d98d2857cc
 status: review-pending
 ---
 
@@ -25,7 +25,7 @@ Beleg dafür, dass der Vorschlag sein Ziel innerhalb einer Generation erreicht.
 Die Suche nach Mitwirkenden und die Diskussion können während dieser Prüfung
 weitergehen. Der Austausch mit dem EBI-Forum ist abgeschlossen. Der Forscher
 wurde am 2. September angeschrieben; die Person mit EBI-Erfahrung antwortete
-am 5. September. Am 7. September 2026 wurde ein französischer Brief an das Büro einer belgischen Europaabgeordneten geschickt. Es ist keine Initiative registriert, und es werden keine
+am 5. September. Am 7. September 2026 wurde ein französischer Brief an das Büro eines belgischen Mitglieds des Europäischen Parlaments geschickt. Es ist keine Initiative registriert, und es werden keine
 Unterstützungsbekundungen gesammelt. Das [Prüfprotokoll](/de/law/ledger)
 bewahrt die Ergebnisse, auch die negativen.
 
@@ -98,9 +98,9 @@ Niemand wurde bezahlt und niemand hat gegen Bezahlung daran gearbeitet.
 "Keine" zu sagen wäre die einfachere Antwort, aber sie wäre nicht wahr. Der Betrieb
 dieser Website kostet Geld und der Initiator bezahlt dies persönlich: die Domain,
 den Objektspeicher und die Edge-Auslieferung (CDN) bei Scaleway in Frankreich sowie
-die API-Aufrufe, die die Prüfstufen verbrauchen. Stand 6. September 2026 sind keine kampagnenspezifischen Drittmittel oder
+die API-Aufrufe, die die Prüfstufen verbrauchen, sowie das Forward-Email-Abonnement des persönlich bezahlten Enhanced-Protection-Kontos des Initiators. Stand 6. September 2026 sind keine kampagnenspezifischen Drittmittel oder
 Unterstützungen verzeichnet. Standardmäßige Plattformdienste zu gewöhnlichen
-Bedingungen, einschließlich GitHub und Cloudflare, werden unten offengelegt.
+Bedingungen, einschließlich GitHub, Cloudflare, Forward Email und Google, werden unten offengelegt.
 
 Die Verordnung (EU) 2019/788 verpflichtet eine registrierte Initiative, jede Quelle
 anzugeben, die mehr als 500 Euro pro Jahr bereitstellt, und diese Erklärung während

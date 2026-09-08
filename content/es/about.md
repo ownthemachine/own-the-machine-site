@@ -1,7 +1,7 @@
 ---
 source: content/en/about.md
-source-commit: 40802287fcfa50ca5798e5ad78fd954609e5d99b
-source-sha256: 7560ef89fc07dd8b7c251b5d1ee7991d67c344c5940ee216f37a233a334204e7
+source-commit: 9a8b63c9d462db38c39ae5eebfc6b5d6fc1bb9dd
+source-sha256: 50077d0edc2cf826852251c7c279faf3d7f4d775577df09ad33092d98d2857cc
 status: review-pending
 ---
 
@@ -24,7 +24,7 @@ alcance su objetivo en una generación.
 La búsqueda de organizadores y el debate pueden continuar mientras se
 abordan estas cuestiones. El intercambio con el Foro de la ICE ha concluido.
 Se contactó con el investigador el 2 de septiembre, y la persona con
-experiencia en ICE respondió el 5 de septiembre. El 7 de septiembre de 2026 se envió una carta en francés a la oficina de una eurodiputada belga. No hay ninguna iniciativa registrada ni se recogen
+experiencia en ICE respondió el 5 de septiembre. El 7 de septiembre de 2026 se envió una carta en francés a la oficina de un miembro belga del Parlamento Europeo. No hay ninguna iniciativa registrada ni se recogen
 declaraciones de apoyo. El [registro de revisiones](/es/law/ledger) conserva
 las conclusiones, incluidas las desfavorables.
 
@@ -90,10 +90,10 @@ de ningún tipo. Nadie ha cobrado ni nadie ha trabajado en esto a cambio de remu
 Decir "ninguna" sería la respuesta fácil y no sería verdad. Este
 sitio conlleva costes y el promotor los asume personalmente: el dominio, el
 almacenamiento de objetos y la distribución en el borde de red (edge) en Scaleway en
-Francia, y las llamadas a la API que consumen los controles de revisión. A 6 de
+Francia, las llamadas a la API que consumen los controles de revisión y la suscripción de Forward Email de la cuenta Enhanced Protection pagada personalmente por el iniciador. A 6 de
 septiembre de 2026, no figura ninguna financiación ni apoyo de terceros específico para la
 campaña. Los servicios de plataforma estándar en condiciones ordinarias, incluidos GitHub
-y Cloudflare, se declaran más abajo.
+y Cloudflare, Forward Email y Google, se declaran más abajo.
 
 El Reglamento (UE) 2019/788 obliga a toda iniciativa registrada a declarar cada fuente de
 financiación superior a 500 euros anuales y a mantener actualizada esa información durante

@@ -1,7 +1,7 @@
 ---
 source: content/en/about.md
-source-commit: 40802287fcfa50ca5798e5ad78fd954609e5d99b
-source-sha256: 7560ef89fc07dd8b7c251b5d1ee7991d67c344c5940ee216f37a233a334204e7
+source-commit: 9a8b63c9d462db38c39ae5eebfc6b5d6fc1bb9dd
+source-sha256: 50077d0edc2cf826852251c7c279faf3d7f4d775577df09ad33092d98d2857cc
 status: review-pending
 ---
 
@@ -58,7 +58,7 @@ De campagne verloopt uitsluitend via gepubliceerde fasen met stopcriteria: peili
 
 Geen organisatie, geen bankrekening, geen donaties en geen geld van derden van welke aard dan ook. Niemand is betaald en niemand heeft tegen betaling aan dit project gewerkt.
 
-"Geen" zeggen zou het eenvoudigste antwoord zijn, maar het zou niet waar zijn. Deze site kost geld om te draaien en de initiatiefnemer betaalt dit persoonlijk: het domein, objectopslag en levering via edge-servers bij Scaleway in Frankrijk, en de API-aanroepen die de toetsingsfasen verbruiken. Er is per 6 september 2026 geen campagnespecifieke financiering of ondersteuning van derden opgetekend. Standaard platformdiensten onder gebruikelijke voorwaarden, waaronder GitHub en Cloudflare, worden hieronder vermeld.
+"Geen" zeggen zou het eenvoudigste antwoord zijn, maar het zou niet waar zijn. Deze site kost geld om te draaien en de initiatiefnemer betaalt dit persoonlijk: het domein, objectopslag en levering via edge-servers bij Scaleway in Frankrijk, de API-aanroepen die de toetsingsfasen verbruiken en het Forward Email-abonnement van de persoonlijk betaalde Enhanced Protection-account van de initiatiefnemer. Er is per 6 september 2026 geen campagnespecifieke financiering of ondersteuning van derden opgetekend. Standaard platformdiensten onder gebruikelijke voorwaarden, waaronder GitHub, Cloudflare, Forward Email en Google, worden hieronder vermeld.
 
 Verordening (EU) 2019/788 verplicht een geregistreerd initiatief om elke bron te noemen die meer dan 500 EUR per jaar bijdraagt en om die verklaring actueel te houden zolang handtekeningen worden verzameld. De verplichting begint bij registratie. De verklaring begint nu, in campaign/FUNDING.md, waarin ook de vooraf vastgestelde regels staan over wat nooit zal worden geaccepteerd.
 
