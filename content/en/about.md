@@ -87,10 +87,11 @@ any kind. Nobody has been paid, and nobody has worked on this for payment.
 
 Saying "none" would be the easier answer and it would not be true. This
 site costs something to run and the initiator pays it personally: the
-domain, object storage and edge delivery at Scaleway in France, and the API
-calls the review gates consume. No campaign-specific third-party funding or support is recorded as of
+domain, object storage and edge delivery at Scaleway in France, the API
+calls the review gates consume, and the Forward Email subscription on the
+initiator's personally paid Enhanced Protection account. No campaign-specific third-party funding or support is recorded as of
 6 September 2026. Standard platform services on ordinary terms, including
-GitHub and Cloudflare, are disclosed below.
+GitHub, Cloudflare, Forward Email and Google, are disclosed below.
 
 Regulation (EU) 2019/788 obliges a registered initiative to name every
 source giving more than EUR 500 in a year and to keep that declaration
@@ -126,7 +127,7 @@ The pages you are reading are stored in Scaleway Object Storage in the
 Paris region and served from Scaleway's own network. Scaleway is a
 French company; the files, the cache and the certificate are European.
 
-Two parts are not, and a campaign about European ownership should say
+Two parts of this website infrastructure are not, and a campaign about European ownership should say
 which: the domain's DNS is answered by Cloudflare, a United States
 company, though no page content passes through it, and the source
 repository is hosted on GitHub, also American. The one exception in
