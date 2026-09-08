@@ -64,11 +64,6 @@ to express interest, and none should be posted in a public issue.
 
 ## What happens to what you send
 
-A GitHub issue is public. An email reaches the editor; it is not added to a
-mailing list, forwarded or published without your agreement. There is no
-mailing list or donation form. Contact is used to answer the enquiry, not
-to send unsolicited campaign messages. See [about](/about) for the controller
-and your rights. Any later change to these arrangements must be explained
-before it takes effect.
+A GitHub issue is public. An email to hello@ownthemachine.eu is forwarded by Forward Email, a US provider, to the personal Gmail inboxes of two project contacts. The separate organisers@ownthemachine.eu address forwards to the initiator’s personal Gmail inbox. Your message is used to respond to your enquiry. Beyond this routing, we do not share or publish your enquiry without your agreement. There is no mailing list or donation form. Contact is used to answer the enquiry, not to send unsolicited campaign messages. See [about](/about) for the controller and your rights. Any later change to these arrangements must be explained before it takes effect.
 
-For contributor enquiries, the editor keeps a private follow-up note of contact details, the date of your enquiry, any residence voluntarily provided, the agreed task and time, its owner, next action, status and permission to share an introduction. Inactive enquiries are reviewed after 90 days; details no longer needed are deleted unless continued contact is agreed or another retention need has been explained.
+For contributor enquiries, the initiator keeps a private intake note on their local computer: contact details, the date of your enquiry, any residence voluntarily provided, the agreed task and time, its owner, next action, status and permission to share an introduction. Inactive intake notes are reviewed after 90 days; details no longer needed are deleted unless continued contact is agreed or another retention need has been explained. Copies in these Gmail inboxes are separate from the private intake notes stored on the initiator’s local computer, outside the public repository. The 90-day review of inactive intake notes does not automatically delete email copies from Gmail.

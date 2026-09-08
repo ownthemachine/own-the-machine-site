@@ -51,9 +51,8 @@ if the project passes its own gates.
 
 Responsible for this site and for the draft it renders: David
 Vanheeswijck, Belgium. Write to
-[hello@ownthemachine.eu](mailto:hello@ownthemachine.eu); that address
-reaches the editor, and everything substantive about the text belongs
-in the open, as an [issue or pull
+[hello@ownthemachine.eu](mailto:hello@ownthemachine.eu). Everything
+substantive about the text belongs in the open, as an [issue or pull
 request](https://github.com/ownthemachine/own-the-machine) on the
 repository, where the answer can be read by everyone the draft
 concerns.
@@ -114,9 +113,7 @@ anything, are not sold and are not shared. If you switch this site
 between paper and plate, that choice is written into your own browser's
 storage and never leaves it.
 
-If you email the project, your message is used to respond. Contributor follow-up
-notes and their retention are described on [Take part](/join). Those private
-notes are stored on the initiator's machine, outside the public repository.
+An email to hello@ownthemachine.eu is forwarded by Forward Email, a US provider, to the personal Gmail inboxes of two project contacts. The separate organisers@ownthemachine.eu address forwards to the initiator’s personal Gmail inbox. Your message is used to respond to your enquiry. Beyond this routing, we do not share or publish your enquiry without your agreement. Copies in these Gmail inboxes are separate from the private intake notes stored on the initiator’s local computer, outside the public repository. The 90-day review of inactive intake notes does not automatically delete email copies from Gmail. Contributor follow-up notes and their retention are described on [Take part](/join).
 
 Anyone in the Union may ask what is held about them, and may complain
 to a supervisory authority; in Belgium that is the Data Protection
