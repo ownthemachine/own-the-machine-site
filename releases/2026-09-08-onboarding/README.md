@@ -11,9 +11,10 @@ The r7 build, release checks, and 20-sample browser QA are recorded by the
 source logs listed in `verification.json`; all QA samples passed with no axe
 violations. The 20-object backup manifest is `/tmp/otm-before-onboarding-release/manifest.json`.
 
-The 8 September r8 legal-form, layer-fidelity, hostile-counsel, and translation
-reviews are all `PUBLISH`; translation prose is unchanged by this staged
-record. The law-repository review disposition was archived in commit `ade76c1`.
+The 8 September r8 legal-form, layer-fidelity and hostile-counsel reviews are
+all `PUBLISH`, as is the 8 September r7 translation review. Site prose was
+unchanged in r8. The law-repository review disposition was archived in commit
+`ade76c1`.
 
 Mail tests were sent on 8 September, but receipt is not established: the
 self-sender/deduplication result does not confirm either hello destination or
