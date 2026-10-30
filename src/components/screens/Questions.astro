@@ -1,0 +1,31 @@
+---
+import Base from '../../layouts/Base.astro';
+import { dict, href } from '../../lib/i18n.mjs';
+// English only for now.
+const lang = 'en';
+const t = dict(lang);
+const qa = t.qa;
+---
+<Base title={qa.title} lang={lang} enOnly description={qa.description}>
+  <h1>{qa.title}</h1>
+  <div class="prose qa">
+    {qa.items.map((item) => (
+      <section>
+        <h2>{item.q}</h2>
+        <p set:html={item.a} />
+        <p class="detail">{qa.detail}: {item.links.map(([to, label], i) => (
+          <>{i > 0 && ' and '}<a href={href(lang, to)}><em>{label}</em></a></>
+        ))}</p>
+      </section>
+    ))}
+  </div>
+</Base>
+
+<style>
+  h1 { font-size: 1.7rem; margin: 0.4rem 0 1.2rem; }
+  .qa { max-width: 40rem; }
+  .qa section { margin-bottom: 1.6rem; }
+  .qa h2 { font-size: 1.15rem; margin: 0 0 0.3rem; }
+  .qa p { margin: 0 0 0.4rem; }
+  .detail { font-size: 0.92rem; }
+</style>

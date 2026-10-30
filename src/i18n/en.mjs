@@ -211,6 +211,88 @@ export default {
     draftNotice: 'You are reading the living draft, which is still changing. Signatures are collected on the registered text, %NUMBER%, which is fixed and cannot be amended. %LINK%.',
     registeredLinkText: 'See what that means and where the two differ',
   },
+  // Plain front (English only for now; the other dictionaries keep their
+  // current home and menu until their translations are made and reviewed).
+  plainMenu: {
+    home: 'Home', qa: 'Questions and answers', experts: 'For lawyers and experts',
+    involved: 'Get involved', about: 'About',
+  },
+  plainHome: {
+    title: 'Own the Machine',
+    subtitle: 'A share in the gains of automation, for every adult EU citizen.',
+    p1: 'Machines are doing more of the work. Companies need fewer people to make the same things, and the profits go to a small number of very large companies and their shareholders. Most people own few or no shares, so they miss out.',
+    p2: 'Countries are starting to respond, each in their own way. Even AI companies are floating their own ideas. But there is no common European approach, and a patchwork of national rules will not work for companies that operate across Europe.',
+    p3: 'Own the Machine is a possible European Citizens’ Initiative. It asks the European Commission to look at this and propose a common answer, so that every adult EU citizen can own a small share of what automation produces. It is designed to work without a new tax and without the state running companies; whether that holds in law is one of the open questions.',
+    basis: 'Legal basis: Article 114 TFEU, with Article 352 for the parts it does not reach; no Treaty change.',
+    basisLink: 'The proposal in the Commission’s format',
+    ctaQa: 'Questions and answers',
+    ctaExperts: 'For lawyers and experts',
+    smallprint: 'Not registered. Nothing adopted. Nobody has endorsed it yet. The legal questions are being looked at.',
+    description: 'A share in the gains of automation, for every adult EU citizen. A possible European Citizens’ Initiative; not registered, nothing adopted.',
+    sealLabel: 'The seal of Own the Machine',
+  },
+  qa: {
+    title: 'Questions and answers',
+    description: 'Short answers to the questions people ask first about Own the Machine, each with a link to the detail.',
+    detail: 'Detail',
+    items: [
+      {
+        q: 'What is this, in one sentence?',
+        a: 'A proposal that every adult EU citizen should own a small share of the gains of highly automated production.',
+        links: [['/law/registration', 'the registration text']],
+      },
+      {
+        q: 'Is this a tax?',
+        a: 'It is designed not to be. In the main option, companies give the fund (the draft calls it the Reserve) the right to take new shares later (on a sale or listing, after a large payout to owners or after seven years), at a small face-value price; the companies never pay money, and nothing goes into a government budget. The existing owners keep a slightly smaller slice. Whether EU law would still treat it as a tax is an open legal question, and we are asking lawyers.',
+        links: [['/law/objections#2-this-is-a-tax-and-the-eu-may-not-levy-it-this-way', 'objections'], ['/law/explanatory-memorandum#21-legal-basis', 'legal basis']],
+      },
+      {
+        q: 'Would companies lose their property?',
+        a: 'That is the hardest question. In the main option, the right starts only when a company is designated, but when used it covers a fixed 3 % of the whole company, including value that already exists. The fund pays a small price for the shares and has no vote. Whether that is fair enough under EU property rights is for lawyers to judge.',
+        links: [['/law/objections#1-this-is-expropriation', 'objections']],
+      },
+      {
+        q: 'Do I get money? How much, and when?',
+        a: 'Not today: nothing exists yet. If one of the options were adopted, every adult EU citizen would get an equal share of what the fund pays out. Amounts depend on what it earns, after the fund has kept back enough to protect its capital, and could be small and infrequent at first. You would have to register with a national body to be paid. The right to future payouts is personal, lasts for your lifetime and cannot be sold or cashed in; money already paid into your account is yours and passes to your heirs. It is not a basic income.',
+        links: [['/simulator', 'the simulator, with its limits']],
+      },
+      {
+        q: 'Why the EU and not my own country?',
+        a: 'The companies involved operate across Europe. If every country makes its own rules, companies face a patchwork and citizens in different countries are treated differently. A common approach avoids that.',
+        links: [['/law/explanatory-memorandum#23-subsidiarity', 'why the single market']],
+      },
+      {
+        q: 'Which companies would be covered?',
+        a: 'In the main option, mainly very large companies operating in at least three Member States (the draft starts from 7.5 billion euro of yearly EU turnover or 75 billion euro of market value, with a market value at least 80 times what they spend on their workforce, for two years running) whose output depends far less on employing people, and only after a check by the Commission. The Commission could also designate a company below those thresholds, but only after a market investigation. Small and medium businesses are not the target.',
+        links: [['/law/article-3', 'designation criteria']],
+      },
+      {
+        q: 'Who is behind this?',
+        a: 'David Vanheeswijck, a Belgian engineer and author of <em>The Horse Is Here to Stay</em>, acting as a private citizen. A non-profit will follow if the legal route proves workable.',
+        links: [['/about', 'about']],
+      },
+      {
+        q: 'How can I help?',
+        a: 'Read, question and tell us what is unclear. Organisations can help shape the options.',
+        links: [['/get-involved', 'get involved']],
+      },
+    ],
+  },
+  experts: {
+    title: 'For lawyers and experts',
+    description: 'The full file: registration text, draft regulation, memorandum, objections, evidence and the review record.',
+    proposalHead: 'The proposal',
+    regulationHead: 'The draft regulation',
+    memorandumHead: 'Memorandum and objections',
+    evidenceHead: 'Evidence and review',
+    moreHead: 'More',
+    allOfIt: 'The draft regulation, in full',
+    overview: 'The earlier front page',
+  },
+  involved: {
+    title: 'Get involved',
+    description: 'Ways to take part: join, how signing would work and how to contribute.',
+  },
   notFound: {
     title: 'Not found', heading: 'Nothing is certified at this address',
     body: 'The page you asked for does not exist. The law is at <a href="%LAW%">/law</a>; everything else starts at <a href="%HOME%">the cover</a>.',

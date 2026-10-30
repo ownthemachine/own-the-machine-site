@@ -53,10 +53,14 @@ for (const p of pages) {
 const loc = (lang, base) =>
   SITE + (lang === 'en' ? base : (base === '/' ? `/${lang}` : `/${lang}${base}`));
 
+// Pages that exist in English only: one url, no translated alternates.
+const EN_ONLY = new Set(['/questions', '/experts', '/experts/overview', '/get-involved']);
+
 const urls = [];
 for (const base of [...basePaths].sort()) {
-  for (const lang of LOCALES) {
-    const alts = LOCALES.map(
+  const locales = EN_ONLY.has(base) ? ['en'] : LOCALES;
+  for (const lang of locales) {
+    const alts = locales.map(
       (l) => `    <xhtml:link rel="alternate" hreflang="${l}" href="${loc(l, base)}"/>`
     ).join('\n');
     urls.push(

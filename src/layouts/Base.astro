@@ -12,8 +12,10 @@ import law from '../generated/law.json';
 import { dict, href, LOCALES, DICTS } from '../lib/i18n.mjs';
 import { ogSlugForPath, ogFilename } from '../lib/og-slug.mjs';
 
-interface Props { title: string; description?: string; lang?: string; noindex?: boolean }
-const { title, lang = 'en', noindex = false } = Astro.props;
+interface Props { title: string; description?: string; lang?: string; noindex?: boolean; enOnly?: boolean }
+// enOnly: the page exists in English only, so it offers no translated
+// alternates and its language switcher lands on each language's home.
+const { title, lang = 'en', noindex = false, enOnly = false } = Astro.props;
 const t = dict(lang);
 const description = Astro.props.description || t.chrome.metaDescription;
 
@@ -22,13 +24,28 @@ const description = Astro.props.description || t.chrome.metaDescription;
 // below is now a full sitemap, which lets the primary nav carry only the
 // entry points a first-time reader needs: the text itself, the argument
 // against it, the numbers, the questions, and the one thing we ask.
-const nav = [
+const nav = lang === 'en' ? [
+  // English carries the plain five-section menu; the other languages keep the
+  // menu above until their translations are made and reviewed. Every page
+  // below still has its own route; the sections group them.
+  ['/', t.plainMenu.home],
+  ['/questions', t.plainMenu.qa],
+  ['/experts', t.plainMenu.experts],
+  ['/get-involved', t.plainMenu.involved],
+  ['/about', t.plainMenu.about],
+] : [
   ['/law', t.chrome.law],
   ['/law/objections', t.chrome.objections],
   ['/simulator', t.chrome.simulator],
   ['/faq', t.chrome.faq],
   ['/join', t.chrome.join],
 ];
+// Which pages sit under which English section, for the current-page mark.
+const SECTION = {
+  '/experts': ['/experts', '/law', '/evidence', '/faq'],
+  '/get-involved': ['/get-involved', '/join', '/sign', '/contribute'],
+  '/about': ['/about', '/press', '/brief'],
+};
 
 // Footer sitemap: everything reachable, grouped by why a reader is here.
 const footerGroups = [
@@ -56,12 +73,21 @@ const footerGroups = [
     ['/about', t.chrome.about],
   ]],
 ];
+if (lang === 'en') {
+  footerGroups[1][1].unshift(['/questions', t.plainMenu.qa]);
+  footerGroups[0][1].unshift(['/experts', t.plainMenu.experts]);
+  footerGroups[2][1].unshift(['/get-involved', t.plainMenu.involved]);
+}
 // Path of this page with the locale prefix removed, for the switcher and
 // hreflang alternates.
 const rawPath = Astro.url.pathname.replace(/\.html$/, '');
 const basePath = lang === 'en' ? rawPath : (rawPath.replace(new RegExp(`^/${lang}`), '') || '/');
 const isCurrent = (navHref: string) => {
   const p = basePath;
+  if (lang === 'en') {
+    if (navHref === '/') return p === '/';
+    return (SECTION[navHref] || [navHref]).some((s) => p === s || p.startsWith(s + '/'));
+  }
   if (navHref === '/law') return p === '/law' || (p.startsWith('/law/') && !p.startsWith('/law/objections') && !p.startsWith('/law/ledger'));
   return p === navHref || p.startsWith(navHref + '/');
 };
@@ -134,7 +160,7 @@ const jsonLd = {
     <meta property="og:site_name" content="Own the Machine" />
     <meta property="og:url" content={canonical} />
     <meta property="og:locale" content={OG_LOCALE[lang] || 'en_GB'} />
-    {LOCALES.filter((l) => l !== lang).map((l) => (
+    {(enOnly ? [] : LOCALES.filter((l) => l !== lang)).map((l) => (
       <meta property="og:locale:alternate" content={OG_LOCALE[l]} />
     ))}
     <meta property="og:title" content={title} />
@@ -164,7 +190,7 @@ const jsonLd = {
     <meta name="referrer" content="no-referrer" />
     <meta name="color-scheme" content="light dark" />
     <script type="application/ld+json" is:inline set:html={JSON.stringify(jsonLd)} />
-    {LOCALES.map((l) => (
+    {(enOnly ? ['en'] : LOCALES).map((l) => (
       <link rel="alternate" hreflang={l} href={abs(l, basePath)} />
     ))}
     <link rel="alternate" hreflang="x-default" href={abs('en', basePath)} />
@@ -184,7 +210,7 @@ const jsonLd = {
         ))}
         <span class="langs" role="group" aria-label="Language">
           {LOCALES.map((l) => (
-            <a class="lang" href={href(l, basePath)} aria-current={l === lang ? 'true' : undefined}
+            <a class="lang" href={href(l, enOnly ? '/' : basePath)} aria-current={l === lang ? 'true' : undefined}
                hreflang={l} lang={l} title={DICTS[l].name}>{l.toUpperCase()}</a>
           ))}
         </span>

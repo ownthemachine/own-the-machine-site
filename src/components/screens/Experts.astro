@@ -1,0 +1,54 @@
+---
+import Base from '../../layouts/Base.astro';
+import law from '../../generated/law.json';
+import { dict, href } from '../../lib/i18n.mjs';
+// English only for now. A grouping page: it only links.
+const lang = 'en';
+const t = dict(lang);
+const e = t.experts;
+const c = t.chrome;
+const groups = [
+  [e.proposalHead, [['/law/registration', c.registration], ['/brief', c.brief]]],
+  [e.regulationHead, [
+    ['/law', e.allOfIt],
+    ...law.articles.map((a) => [`/law/${a.slug}`, `${t.lawIndex.article} ${a.number}: ${a.title}`]),
+    ...law.annexes.map((a) => [`/law/${a.slug}`, `${t.lawIndex.annex} ${a.numeral}: ${a.title.replace(/^Annex [IVX]+:\s*/, '')}`]),
+    ['/law/recitals', c.recitals],
+  ]],
+  [e.memorandumHead, [
+    ['/law/explanatory-memorandum', c.explanatory],
+    ['/law/memorandum', c.severability],
+    ['/law/objections', t.lawIndex.objectionsLink],
+  ]],
+  [e.evidenceHead, [
+    ['/evidence', c.evidence],
+    ['/law/ledger', c.ledger],
+    ['/law/versions', c.versions],
+  ]],
+  [e.moreHead, [
+    ['/faq', c.faq],
+    ['/press', c.press],
+    ['/simulator', c.simulator],
+    ['/experts/overview', e.overview],
+  ]],
+];
+---
+<Base title={e.title} lang={lang} enOnly description={e.description}>
+  <h1>{e.title}</h1>
+  {groups.map(([head, items]) => (
+    <section class="group">
+      <h2>{head}</h2>
+      <ul>
+        {items.map(([to, label]) => <li><a href={href(lang, to)}>{label}</a></li>)}
+      </ul>
+    </section>
+  ))}
+</Base>
+
+<style>
+  h1 { font-size: 1.7rem; margin: 0.4rem 0 1.2rem; }
+  .group { border-top: 1px solid var(--guilloche); padding: 1rem 0; }
+  .group h2 { font-size: 1.15rem; margin: 0 0 0.5rem; }
+  .group ul { list-style: none; margin: 0; padding: 0; }
+  .group li { padding: 0.15rem 0; font-family: var(--read); }
+</style>
