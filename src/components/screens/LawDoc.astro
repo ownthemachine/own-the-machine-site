@@ -71,7 +71,7 @@ const metaDescription = (s: string, limit = 160) => {
     </div>
     <p class="provenance" set:html={
       fmt(t.lawDoc.provenance, { COMMIT: `<span class="serial">${lawData.lawCommit}</span>` }) +
-      ` · <a href="https://github.com/ownthemachine/own-the-machine/commits/main">${t.chrome.historyLink}</a>` +
+      ` · <a href="https://github.com/ownthemachine/own-the-machine/commits/${lawData.lawCommit}">${t.chrome.historyLink}</a>` +
       ` · <a href="${href(lang, '/law/ledger')}">${t.chrome.reviewLink}</a>`
     } />
     <nav class="pager no-print" aria-label="Articles">

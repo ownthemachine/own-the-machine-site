@@ -1,36 +1,23 @@
 ---
-source: site/content/en/contribute.md
-source-commit: 8b0d54f
-status: gate-reviewed
+source: content/en/contribute.md
+source-commit: 8d35a77
+source-sha256: 52b60e89265bdf0e60190a6bd2945bff7e13c156f19afa75c5d99bc0beb510a3
+status: machine-reviewed
 ---
 
-Het ontwerp verbetert zoals open source verbetert: in het openbaar, per
-pull request, aan de hand van vooraf gestelde criteria. Drie repository's:
+Het ontwerp verbetert op de manier waarop opensource verbetert: in het openbaar, via pull requests, getoetst aan vastgestelde criteria. Drie repositories:
 
-- [own-the-machine](https://github.com/ownthemachine/own-the-machine): de wet, de toelichting, het reviewregister (CC BY-
-  SA 4.0).
-- [own-the-machine-tools](https://github.com/ownthemachine/own-the-machine-tools): de beoordelingen en de linter (MIT).
+- [own-the-machine](https://github.com/ownthemachine/own-the-machine): de wet, de toelichting, het toetsingsregister (CC BY-SA 4.0).
+- [own-the-machine-tools](https://github.com/ownthemachine/own-the-machine-tools): de toetsingsfasen en linter (MIT).
 - [own-the-machine-site](https://github.com/ownthemachine/own-the-machine-site): deze site (AGPL-3.0).
 
-## De opnamecriteria
+## De merge-criteria
 
-Elke wijziging van de wettekst moet vier toetsen overleven: zij maakt
-aanspraak op vermogen, niet op geldstromen; zij bereikt iedere burger
-gelijkelijk; zij is bestand tegen plunderingen; en zij eist het belang op
-tijd op, op het moment dat winsten worden verzilverd. Mechanische
-beperkingen (de DC-tabel in de [bezwaren](/law/objections)) en zes beoordelingen op
-tegenspraak gelden vóór opname. Een pull request die een bescherming
-afzwakt, moet dat in gewone taal zeggen.
+Elke wijziging van de wettekst moet vier tests doorstaan: zij grijpt aan bij activa, niet bij stromen; zij bereikt elke burger op gelijke wijze; zij verzwakt de juridische bescherming tegen het doorsluizen van middelen niet; en zij vestigt de aanspraak terwijl het kapitaal wordt gevormd, vóór de uitoefening. Mechanische randvoorwaarden (de DC-tabel in de [bezwaren](/law/objections)) zijn van toepassing vóór de merge. Inhoudelijke wijzigingen doorlopen alle zes tegensprekelijke toetsingsfasen; tekstuele wijzigingen doorlopen de juridische vorm en laagconsistentie; redactionele wijzigingen doorlopen de linter. Oordelen en redactionele beslissingen worden openbaar vastgelegd. Een pull request die een bescherming verzwakt, wordt volgens de gepubliceerde governanceregels niet gemerged.
 
 ## Manieren om bij te dragen
 
-- **Argumenteer.** Ga een bezwaar te lijf, of breng een nieuw bezwaar in
-  zijn sterkste vorm in. De sterkste bijdrage is de aanval die wij nog niet
-  hebben beantwoord.
-- **Redigeer.** Verbeter een artikel aan de hand van de conventies van de
-  Joint Practical Guide; de linter en de beoordelingen staan u op te
-  wachten.
-- **Vertaal.** Talen promoveren van machinevertaald naar door mensen
-  geverifieerd, pagina voor pagina; moedertaallezers zijn het knelpunt.
-- **Bouw.** De site en de tools zijn gewone open source, met issues die
-  wachten.
+- **Debatteer.** Behandel een bezwaar of formuleer een nieuw bezwaar in zijn sterkste vorm. De waardevolste bijdrage is de aanval die we nog niet hebben beantwoord.
+- **Schrijf mee.** Verbeter een artikel aan de hand van de conventies van de Gemeenschappelijke praktische handleiding; de linter en toetsingsfasen staan klaar.
+- **Vertaal.** Talen worden pagina voor pagina opgewaardeerd van machinevertaling naar door mensen geverifieerd; moedertaalsprekers vormen het knelpunt.
+- **Bouw.** De site en tools zijn gewoon opensource en er liggen openstaande issues klaar.

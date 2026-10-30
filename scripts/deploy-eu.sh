@@ -90,8 +90,15 @@ export AWS_DEFAULT_REGION=fr-par
 ENDPOINT="https://s3.fr-par.scw.cloud"
 BUCKET="s3://ownthemachine-eu"
 
-# Pass 1: mirror the tree and drop what no longer exists.
+# Upload immutable assets before changing pages. Keep older hashed assets
+# available for readers whose cached HTML still names the previous build.
+aws s3 sync "$OUT/_astro" "$BUCKET/_astro" --endpoint-url "$ENDPOINT" \
+  --acl public-read --cache-control "public, max-age=31536000, immutable" \
+  --only-show-errors
+
+# Pass 1: mirror pages and ordinary assets; preserve old immutable assets.
 aws s3 sync "$OUT" "$BUCKET" --endpoint-url "$ENDPOINT" --delete \
+  --exclude "_astro/*" \
   --acl public-read --cache-control "public, max-age=300" --only-show-errors
 # Pass 2: re-state ACL and headers on EVERY object. `sync` only touches files
 # whose content changed, so unchanged objects would keep a stale private ACL

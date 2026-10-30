@@ -1,8 +1,8 @@
 ---
-source-commit: 742bfc8
 article: 13
 status: gate-reviewed
+source-commit: bfe309a
 ---
-L0: Die Kommission kann Geldbußen bis 10 % des weltweiten Umsatzes verhängen und Unternehmen notfalls vom EU-Markt ausschließen.
+L0: Macht Zeichnung und Meldung auch gegenüber gebundenen Übernehmern durchsetzbar.
 
-Ein Unternehmen, das den Warrant nicht ausgibt, die Anteile nicht liefert, einen Verkauf oder Börsengang nicht meldet, falsche Angaben macht, sich der Benennung durch eine künstliche Gestaltung entzieht oder eine Entscheidung der Kommission zu einer solchen Gestaltung missachtet, kann mit einer Geldbuße von bis zu 10 % seines weltweiten Umsatzes belegt werden. Um die Einhaltung zu erzwingen, kann die Kommission tägliche Zwangsgelder von bis zu 5 % des durchschnittlichen weltweiten Tagesumsatzes hinzufügen. Ein Unternehmen mit Sitz außerhalb der EU, das sich beharrlich weigert, kann als letztes Mittel, und nur solange die Weigerung andauert, davon ausgeschlossen werden, die betreffenden Waren und Dienstleistungen in der EU anzubieten. Die EU-Gerichte können jede Sanktion überprüfen, senken oder erhöhen. Geldbußen fließen in den Gesamthaushalt der EU, nie in die Reserve.
+Vorsätzliche oder fahrlässige Verstöße gegen die aufgeführten Ausgabe-, Zeichnungs-, Informations- und Umgehungspflichten können Geldbußen bis zu 10 % des weltweiten Umsatzes auslösen. Gebundene Übernehmer sind ausdrücklich erfasst. Zwangsgelder können 5 % des durchschnittlichen Tagesumsatzes erreichen. Anhaltende Ausgabe- oder Zeichnungsverweigerung außerhalb der Union kann als letztes Mittel zu einem vorübergehenden Marktverbot führen. Die Kommission hört das Unternehmen an und berücksichtigt Schwere, Dauer und Wiederholung. EU-Gerichte überprüfen Sanktionen. Einnahmen fließen dem Unionshaushalt zu, nicht der Reserve.

@@ -8,7 +8,7 @@
   --ink-soft: #3E5A4E;
   --guilloche: #C9D6CC;
   --guilloche-faint: #E3E9E2;
-  --seal-gold: #A87F24;
+  --seal-gold: #86651D;
   --serial-red: #983D26;
   --card: #F8F7F2;
 
@@ -29,7 +29,7 @@
     --guilloche: #22382E;
     --guilloche-faint: #16241D;
     --seal-gold: #C79A3B;
-    --serial-red: #C05B3F;
+    --serial-red: #D2755A;
     --card: #101E17;
     color-scheme: dark;
   }
@@ -41,7 +41,7 @@
   --guilloche: #22382E;
   --guilloche-faint: #16241D;
   --seal-gold: #C79A3B;
-  --serial-red: #C05B3F;
+  --serial-red: #D2755A;
   --card: #101E17;
   color-scheme: dark;
 }

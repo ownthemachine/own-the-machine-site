@@ -1,0 +1,28 @@
+---
+import Base from '../../layouts/Base.astro';
+import { dict, href } from '../../lib/i18n.mjs';
+// English only for now. A grouping page: it only links.
+const lang = 'en';
+const t = dict(lang);
+const g = t.involved;
+const items = [
+  ['/join', t.join.title, t.join.description],
+  ['/sign', g.signLabel, t.sign.eyebrow],
+  ['/contribute', t.contribute.title, t.contribute.description],
+];
+---
+<Base title={g.title} lang={lang} enOnly description={g.description}>
+  <h1>{g.title}</h1>
+  <p class="lead">{g.lead}</p>
+  <ul class="group">
+    {items.map(([to, label, line]) => <li><a href={href(lang, to)}>{label}</a><span class="line">{line}</span></li>)}
+  </ul>
+</Base>
+
+<style>
+  h1 { font-size: 1.7rem; margin: 0.4rem 0 1.2rem; }
+  .group { list-style: none; margin: 0; padding: 0; }
+  .lead { font-family: var(--read); margin: 0 0 1rem; }
+  .group li { padding: 0.4rem 0; font-family: var(--read); }
+  .line { display: block; font-size: 0.9rem; color: var(--ink-soft); }
+</style>

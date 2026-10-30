@@ -1,10 +1,31 @@
 ## What this is
 
-An open-source draft EU Regulation ensuring that citizens of the Union
+An open-source draft EU Regulation intended to let citizens of the Union
 participate in the capital value created by hyper-automated production,
 prepared as the basis for a possible European Citizens' Initiative. The
 legal text, its memorandum, its objections and every review verdict
 live in a public repository; this site renders them.
+
+## Status update: 7 September 2026
+
+This website presents the current Article 114 working draft with corrected
+explanations. A separate Article 352 alternative is being examined; it has
+not replaced this text. Publishing the draft does not mean its substantive
+review gates have passed.
+
+The main open questions are the legal basis and compulsory equity mechanism,
+the evidence for the proposed 3% stake, enforcement, funding before the
+Reserve receives income, and correction of citizen payment records. The
+older memorandum's sizing figures have not been reproduced using the current
+designation criteria. They are not validated forecasts. The simulator is an
+illustrative model with stated limitations, not evidence that the proposal
+reaches its generational objective.
+
+Recruitment and discussion can continue while these questions are addressed.
+The ECI Forum exchange is complete. The researcher was contacted on 2
+September, and the ECI veteran replied on 5 September. A French letter to a Belgian MEP office was sent on 7 September 2026. There is no
+registered initiative and no collection of statements of support. The
+[review ledger](/law/ledger) preserves the findings, including adverse results.
 
 ## Not an EU document
 
@@ -23,16 +44,15 @@ project alone.
 Initiated by David Vanheeswijck (Belgium). The drafting method uses
 adversarial AI review under the editor's responsibility; every verdict
 and disposition is on the [ledger](/law/ledger). An organisers' group
-of at least seven citizens from seven Member States will be constituted
+of at least seven eligible EU citizens living in seven different Member States will be constituted
 if the project passes its own gates.
 
 ## Who publishes this
 
 Responsible for this site and for the draft it renders: David
 Vanheeswijck, Belgium. Write to
-[hello@ownthemachine.eu](mailto:hello@ownthemachine.eu); that address
-reaches the editor, and everything substantive about the text belongs
-in the open, as an [issue or pull
+[hello@ownthemachine.eu](mailto:hello@ownthemachine.eu). Everything
+substantive about the text belongs in the open, as an [issue or pull
 request](https://github.com/ownthemachine/own-the-machine) on the
 repository, where the answer can be read by everyone the draft
 concerns.
@@ -54,7 +74,10 @@ not because it has been designed away.
 
 The campaign proceeds only through published gates with kill criteria:
 registrability soundings before constitution, constitution before
-filing, filing before collection. If a gate fails, this page will say
+filing, registration before collection. Independent, non-binding Forum
+advice arrived on 27 August 2026; an ECI veteran responded on 5 September.
+Neither response constitutes registration or institutional approval.
+Organiser recruitment continues. If a gate fails, this page will say
 so and the repository stays up as a public good.
 
 ## Funding
@@ -64,10 +87,11 @@ any kind. Nobody has been paid, and nobody has worked on this for payment.
 
 Saying "none" would be the easier answer and it would not be true. This
 site costs something to run and the initiator pays it personally: the
-domain, object storage and edge delivery at Scaleway in France, and the API
-calls the review gates consume. No party, foundation, trade union, company,
-public body or other private person has contributed money, services, staff
-time or software to this campaign.
+domain, object storage and edge delivery at Scaleway in France, the API
+calls the review gates consume, and the Forward Email subscription on the
+initiator's personally paid Enhanced Protection account. No campaign-specific third-party funding or support is recorded as of
+6 September 2026. Standard platform services on ordinary terms, including
+GitHub, Cloudflare, Forward Email and Google, are disclosed below.
 
 Regulation (EU) 2019/788 obliges a registered initiative to name every
 source giving more than EUR 500 in a year and to keep that declaration
@@ -85,11 +109,12 @@ nothing to consent to.
 What is nonetheless processed, stated plainly rather than claimed away:
 any server that answers a request sees the address it came from, so the
 host keeps short-lived technical logs, including IP addresses, to
-deliver the pages and to defend against abuse. That is the whole of it;
-those logs are not read for any other purpose, are not combined with
+deliver the pages and to defend against abuse. Those logs are not read for any other purpose, are not combined with
 anything, are not sold and are not shared. If you switch this site
 between paper and plate, that choice is written into your own browser's
 storage and never leaves it.
+
+An email to hello@ownthemachine.eu is forwarded by Forward Email, a US provider, to the personal Gmail inboxes of two project contacts. The separate organisers@ownthemachine.eu address forwards to the initiator’s personal Gmail inbox. Your message is used to respond to your enquiry. Beyond this routing, we do not share or publish your enquiry without your agreement. Copies in these Gmail inboxes are separate from the private intake notes stored on the initiator’s local computer, outside the public repository. The 90-day review of inactive intake notes does not automatically delete email copies from Gmail. Contributor follow-up notes and their retention are described on [Take part](/join).
 
 Anyone in the Union may ask what is held about them, and may complain
 to a supervisory authority; in Belgium that is the Data Protection
@@ -102,7 +127,7 @@ The pages you are reading are stored in Scaleway Object Storage in the
 Paris region and served from Scaleway's own network. Scaleway is a
 French company; the files, the cache and the certificate are European.
 
-Two parts are not, and a campaign about European ownership should say
+Two parts of this website infrastructure are not, and a campaign about European ownership should say
 which: the domain's DNS is answered by Cloudflare, a United States
 company, though no page content passes through it, and the source
 repository is hosted on GitHub, also American. The one exception in
@@ -115,17 +140,20 @@ anywhere, by anyone, in minutes.
 
 ## Where the review runs
 
-Every verdict in the ledger was produced by a model, and the compute
+The automated gate verdicts are produced by models; external human feedback
+is recorded separately. The compute
 that produced it has a jurisdiction of its own. Until 23 August 2026
-the gates ran through OpenRouter, an American router. They now run
-through Requesty's European endpoint, on models hosted in the Union
-under zero data retention, with the drafts neither kept after the call
-nor used for training.
+the gates ran through OpenRouter, an American router. The pipeline uses Requesty's European endpoint. EU hosting, zero retention
+and no training use remain the default requirements. For the public or intended-for-publication, non-sensitive material
+Fable 5.1 reviews introduced on 6 September 2026, the editor may permit, explicitly for each run, the router-reported 30-day retention while retaining EU hosting and no training
+use. That exception excludes private correspondence, non-public personal data
+and sensitive unpublished material; public author attribution may appear.
 
 The runner does not take that on trust. Before it spends a token it
 reads the router's own record of where the model runs and what becomes
-of the text, and refuses to start unless that record says the European
-Union, zero retention and no training use. Whatever it read is written
+of the text, and refuses to start if the model is absent or fails the
+requirements selected for that run. Retention exceptions must be explicit;
+they do not change the default checks. Whatever it read is written
 into the review record, so each verdict carries the evidence rather
 than the assurance.
 

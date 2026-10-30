@@ -1,62 +1,33 @@
 ---
-source: site/content/en/brief.md
-source-commit: 12a00c3
-status: gate-reviewed
+source: content/en/brief.md
+source-commit: 31760e8
+source-sha256: f9a8981fa5359dad5bb4cb854f17c2013724792744ae0bb84eecba0135208a91
+status: machine-reviewed
 ---
 
-## Het voorstel
+## Het verzoek
 
-Een verordening van het Europees Parlement en de Raad die ondernemingen die
-een drempel voor hyperautomatisering overschrijden verplicht een warrant
-zonder stemrecht op 3 % van hun volledig verwaterde kapitaal uit te geven
-aan een Europese Kapitaalreserve van de Burgers, die aan elke volwassen
-burger van de Unie een gelijk dividend uitkeert.
+Wij bereiden een initiatief voor waarin we de Commissie vragen om instrumenten te beoordelen en voor te stellen waarmee burgers kunnen meedelen in de winsten van hypergeautomatiseerde productie. De [registratiedoelstellingen](/law/registration) vormen het verzoek; de verordening inzake de 3%-warrant illustreert één mechanisme. Geen van beide is geregistreerd.
 
-## Hoe het werkt
+## Hoe het illustratieve ontwerp werkt
 
-- **Aanwijzing.** Een onderneming wordt aangewezen op basis van
-  gepubliceerde kwantitatieve criteria, nooit bij naam en nooit naar iemands
-  goeddunken.
-- **De warrant.** Drie procent van het volledig verwaterde kapitaal, zonder
-  stemrecht, genomen tegen nominale waarde. Geen stemmen, geen zetels in het
-  bestuur, geen zeggenschap over het beleid.
-- **Verzilvering.** Er wordt pas aanspraak op gemaakt wanneer de eigenaars
-  van de onderneming zelf waarde realiseren: een liquiditeitsgebeurtenis,
-  een onttrekking, of een uiterste termijn van zeven jaar. Niets is
-  betaalbaar in contanten en niets komt in enige overheidsbegroting.
-- **De aanspraak.** Elke volwassen burger heeft een gelijke, persoonlijke,
-  niet-overdraagbare aanspraak op de Reserve. Geen inkomenstoets, geen
-  aanvraag, geen voorwaarden.
+- **Aanwijzing.** De Commissie beoordeelt de duurzame ontkoppeling van productie en werkgelegenheid. Drempels creëren een weerlegbaar vermoeden; onderzoek kan ook leiden tot aanwijzing onder die drempels.
+- **Warrant.** Binnen drie maanden na aanwijzing geeft een onderneming een stemrechtloze warrant uit voor aandelen die 3 % van het volledig verwaterde kapitaal vertegenwoordigen, waarop tegen nominale waarde wordt ingeschreven, met inachtneming van het plafond van artikel 5.
+- **Uitoefenbaarheid.** De eerste liquiditeitsgebeurtenis, aandeelhoudersonttrekking boven de drempel van artikel 5 of de uiterste termijn van zeven jaar activeert de inschrijving. De afwikkeling geschiedt in aandelen; dit levert op zichzelf geen contant geld op voor uitkeringen.
+- **Aanspraak.** EU-burgers van 18 jaar of ouder zouden gelijkelijk meedelen in vastgestelde uitkeringen. Het recht kan niet worden verkocht, verpand of afgekocht. Geen inkomens- of vermogenstoets; registratie bij een nationaal vehikel is vereist voor uitbetaling. Beschikbare inkomsten bepalen de uitkeringen, die nul kunnen zijn.
 
-## Rechtsgrondslag, en wat overeind blijft als een deel sneuvelt
+## Rechtsgrondslag
 
-De artikelen 114 en 352 VWEU. Het voorstel is in scheidbare lagen opgesteld,
-zodat gedeeltelijke registratie op grond van artikel 6, lid 4, van
-Verordening (EU) 2019/788 het inkort in plaats van tenietdoet: het
-aanwijzingsstelsel staat op artikel 114 alleen, en de Reserve, het deel dat
-artikel 352 en eenparigheid vergt, kan wegvallen zonder de rest mee te
-nemen.
+De artikelen 114 en 352 VWEU zijn voorgestelde, omstreden grondslagen. Artikel 352 vereist eenparigheid van stemmen. Registratie zou noch de rechtmatigheid van het ontwerp goedkeuren noch de vaststelling ervan garanderen; gedeeltelijke registratie kan veranderen wat doorgang kan vinden.
 
-## Het zwaarste bezwaar
+## Het centrale bezwaar
 
-Dat dit een belasting is in het pak van een kapitaalconstructie, en dus
-artikel 113 en eenparigheid. Het antwoord is dat het een
-vermogensbestanddeel treft en geen geldstroom, betaalbaar is in aandelen en
-nooit in contanten, geen begroting voedt, door geen schatkist loopt en de
-Unie geen inkomsten verschaft. Het bezwaar wordt in zijn scherpste vorm
-uiteengezet en beantwoord als bezwaar 2 van negentien.
+De aandelenverplichting zou kunnen worden aangemerkt als een fiscale maatregel. Afwikkeling in aandelen buiten openbare begrotingen beslecht die vraag niet. De [bezwaren](/law/objections) lichten dit bezwaar en het antwoord van het project toe. Bescherming tegen het doorsluizen van middelen kan niet alle toekomstige wetswijzigingen voorkomen.
 
-## De stand van zaken, zonder omhaal
+## Status: 6 september 2026
 
-Een ontwerp. Er is niets ingediend bij de Commissie, niets geregistreerd en
-nergens worden handtekeningen verzameld. Een verzoek om een oordeel over de
-ontvankelijkheid ligt bij het ECI Forum, antwoord uiterlijk 2 september
-2026. Er is geen organisatie, geen bankrekening en geen financiering van
-welke aard ook: de initiatiefnemer betaalt de hosting persoonlijk.
+Geen indiening, registratie of verzameling van handtekeningen. Het Forum adviseerde op 27 augustus; iemand met ruime EBI-ervaring reageerde op 5 september. Beide vormen onafhankelijke feedback, geen institutionele goedkeuring. De werving loopt door. De initiatiefnemer betaalt de hosting- en toetsingskosten; er is geen organisatie of donatie opgetekend.
 
-## Wat er van u wordt gevraagd
+## Doe mee
 
-Geen steunbetuiging. Een lezing, en welke bezwaren die ook oplevert. Zeven
-organisatoren woonachtig in zeven lidstaten zijn nodig voordat er iets kan
-worden ingediend, en aan niemand wordt gevraagd zich daartoe te verbinden
-zolang de vraag over de registreerbaarheid open staat.
+Stel vragen of help bij de organisatie via [doe mee](/join), besloten of openbaar. Belangstelling is geen handtekening of toezegging tot indiening. De groep van organisatoren vereist in aanmerking komende EU-burgers die in zeven lidstaten wonen, niet zeven nationaliteiten.

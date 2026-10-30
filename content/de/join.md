@@ -1,106 +1,83 @@
 ---
-source: site/content/en/join.md
-source-commit: 3adc44a
-status: gate-reviewed
+source: content/en/join.md
+source-commit: 40802287fcfa50ca5798e5ad78fd954609e5d99b
+source-sha256: 41107633c4bd1cd67307bec3d48feb0eabdce56d26d080d87287cddbc1de772d
+status: machine-reviewed
 ---
 
-## Wo dieses Projekt wirklich steht
+## In zehn Minuten anfangen
 
-Es wird nichts gesammelt. Keine Unterschrift, keine Zusage, keine Adresse,
-kein Geld. Keine Fassung dieses Entwurfs wurde bei der Europäischen
-Kommission eingereicht, und keine ist registriert, was Sie auf der Seite
-[Fassungen](/law/versions) selbst nachsehen können, statt es dieser Seite zu
-glauben.
+Diese Beiträge und Organisatorentätigkeiten sind ehrenamtlich und unbezahlt. Diese Einladung bietet weder Vergütung noch Kostenerstattung.
 
-Was dieses Projekt in diesem Stadium braucht, sind keine Unterstützer. Es
-sind Argumente, und Menschen, die bereit sind, namentlich genannt zu werden.
-Eine Bürgerinitiative wird von einer Gruppe von mindestens sieben Personen
-eingereicht, die in mindestens sieben verschiedenen Mitgliedstaaten wohnen,
-und ihre Namen werden von der Kommission veröffentlicht. Diese sieben
-Menschen gibt es noch nicht. Solange das so ist, ist dies ein Entwurf mit
-einem einzigen Redakteur, und die ehrliche Beschreibung seiner Lage lautet,
-dass ihn niemand, der ihm öffentlich widerspricht, je geprüft hat.
+1. Lesen Sie die [Kurzfassung](/de/brief) und den [aktuellen Stand](/de/about).
+2. Schreiben Sie an [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu?subject=Erstkontakt%20Organisation), wobei Sie helfen könnten, wie viel Zeit Sie anbieten können und welche Frage Sie haben. Wenn Sie eine formelle Rolle als Organisator erwägen, nennen Sie Ihr EU-Wohnsitzland. Ausweisdokumente sind jetzt nicht erforderlich.
+3. Vereinbaren Sie ein kurzes Gespräch und eine kleine erste Aufgabe: eine Quelle prüfen, einen Absatz gegenlesen oder die Barrierefreiheit der Website testen.
 
-## Drei Dinge, die helfen, nach Gewicht geordnet
+Sie müssen nicht zuerst das ganze Buch oder die Verordnung lesen, um Kontakt aufzunehmen.
+Ein erstes Gespräch verpflichtet Sie weder zur Einreichung noch zur Zustimmung zu jedem Artikel.
+Mitarbeit und die Mitgliedschaft in der offiziellen Organisatorengruppe sind getrennte Entscheidungen.
 
-**Greifen Sie den Text an.** Das ist mehr wert als Zustimmung, und nichts
-kommt dem auch nur nahe. Der Entwurf ist in jeder Prüfrunde angegriffen
-worden, von gegnerischer Begutachtung und von genau einem Menschen: dem, der
-ihn geschrieben hat. Jeder Einwand auf dieser Seite wurde vom Projekt gegen
-sich selbst geschrieben, eine Methode mit einer offensichtlichen Obergrenze.
-Wenn Sie die Lücke finden, ist diese Lücke die Antwort, die diese Akte
-braucht. Öffnen Sie ein [Issue oder einen Pull Request](https://github.com/ownthemachine/own-the-machine/issues), und das
-Argument ist vom ersten Satz an öffentlich, dort, wo alle es lesen können,
-die der Entwurf angeht.
 
-**Seien Sie eine oder einer der sieben.** Wenn Sie Unionsbürgerin oder
-Unionsbürger sind, alt genug, um an den Europawahlen teilzunehmen, und in
-Erwägung ziehen würden, Ihren Namen mit einer Einreichung zu verbinden,
-sagen Sie es. Sie gehen heute keinerlei Verpflichtung ein, aus dem unten
-genannten Grund.
+## Wo das Projekt tatsächlich steht
 
-**Bringen Sie es mit einer Organisation zusammen.** Eine
-Gewerkschaftsorganisation, ein Hochschulinstitut, eine Stiftung, eine
-Nichtregierungsorganisation mit Gewicht in Fragen der Automatisierung, der
-Besteuerung oder des Kapitaleigentums. Eine Vermittlung ist mehr wert als
-eine Befürwortung, und eine gegnerische Lektüre durch eine ernsthafte
-Institution ist mehr wert als beides.
+Stand 6. September 2026 wurde keine Fassung bei der Kommission eingereicht oder
+registriert, und es werden keine Unterstützungsbekundungen gesammelt. Den
+Registrierungsstand finden Sie auf der Seite [Fassungen](/de/law/versions). Die Suche
+nach Organisatoren läuft; Interesse bedeutet noch nicht, dass die gesetzlich
+vorgeschriebene Gruppe bereits gebildet ist.
 
-## Was es heißt, Organisator zu sein, ohne Umschweife
+Das EBI-Forum hat am 27. August eine unabhängige, unverbindliche Stellungnahme
+abgegeben, und ein EBI-Veteran hat am 5. September geantwortet. Das öffentliche
+Protokoll enthält die aufgeworfenen Fragen und die Erwiderungen des Projekts. Es
+handelt sich um externes Feedback, nicht um eine Billigung durch die Kommission.
+Das Projekt benötigt weiterhin unabhängige Prüfung und Personen, die bereit sind,
+Verantwortung für den nächsten Schritt zu übernehmen.
 
-Die Regeln sind die der Kommission, nicht die dieses Projekts, und die
-maßgebliche Fassung steht auf [europa.eu](https://citizens-initiative.europa.eu/), nicht hier. In Umrissen:
-Eine Gruppe von Organisatoren besteht aus mindestens sieben natürlichen
-Personen, von denen jede in einem anderen Mitgliedstaat wohnt und jede alt
-genug ist, um an den Wahlen zum Europäischen Parlament teilzunehmen. Die
-Gruppe benennt eine Vertreterin oder einen Vertreter und eine
-Stellvertretung. Die Namen der Organisatoren werden im öffentlichen Register
-der Kommission veröffentlicht. Mitglieder des Europäischen Parlaments zählen
-nicht zu den sieben.
+## Wie Sie helfen können
 
-Was es **nicht** heißt, jedenfalls noch nicht:
+**Hinterfragen Sie den Vorschlag.** Lesen Sie den Entwurf und bringen Sie konkrete
+Einwände vor. Öffentliche [Issues und Pull Requests](https://github.com/ownthemachine/own-the-machine/issues)
+machen die Diskussion für alle zugänglich. Private Fragen sind ebenfalls willkommen.
 
-- **Es ist keine Verpflichtung.** Dieses Projekt hat veröffentlichte
-  Prüfstufen mit Abbruchkriterien. Niemand wird gebeten, Organisator zu
-  sein, bevor die Frage der Registrierbarkeit beantwortet ist, und fällt die
-  Antwort schlecht aus, wird die Akte als Mustergesetz veröffentlicht und
-  die Initiative endet. Zu sagen, dass Sie es erwägen würden, kostet Sie
-  nichts und verpflichtet Sie zu nichts.
-- **Es ist keine Zustimmung zu jedem Artikel.** Ein Organisator reicht einen
-  Text ein; er muss ihn weder geschrieben haben noch in allem gutheißen.
-  Würden Sie ihn nur mit Änderungen einreichen, ist das eine nützlichere
-  Nachricht als Zustimmung, und sie gehört in die Öffentlichkeit, wo sich
-  über diese Änderungen streiten lässt.
-- **Es ist keine Mittelbeschaffung.** Es gibt nichts, an das man spenden
-  könnte. Die finanzielle Lage steht auf der Seite [Über das Projekt](/about),
-  und sie lautet, dass es keine Organisation, kein Konto und keine Spenden
-  gibt.
+**Helfen Sie bei der Organisation.** Bekunden Sie Interesse an der Organisatorengruppe,
+an muttersprachlichen Textprüfungen, an der Erklärung des Vorschlags oder an der
+praktischen Koordination. Sie müssen weder Programmierer sein noch jedem einzelnen
+Artikel zustimmen, um ein Gespräch zu beginnen.
 
-## Wie Sie es mitteilen
+**Stellen Sie Kontakt zu Organisationen her.** Vermittlungen, unabhängige Prüfungen
+und konkrete Zusagen für Zeitaufwand oder Publikationsunterstützung können
+helfen festzustellen, ob eine Kampagne machbar ist. Eine Vermittlung ist keine Befürwortung.
 
-Zwei Wege, und der öffentliche ist der bessere.
+## Was es bedeutet, Organisator zu sein
 
-**Öffentlich**, was vorzuziehen ist, weil die Antwort dann für alle lesbar
-wird, die dieselbe Frage abwägen: Öffnen Sie ein Issue im
-[Repository](https://github.com/ownthemachine/own-the-machine/issues) und sagen Sie, in welchem Mitgliedstaat Sie wohnen, was
-Sie einbringen würden und ob Sie in Erwägung zögen, genannt zu werden.
+Die gesetzlich vorgeschriebene Gruppe benötigt mindestens sieben Unionsbürgerinnen
+und Unionsbürger, die das Wahlalter für die Wahlen zum Europäischen Parlament
+erreicht haben und in mindestens sieben verschiedenen Mitgliedstaaten leben. Sieben
+verschiedene Staatsangehörigkeiten sind nicht erforderlich. Mitglieder des
+Europäischen Parlaments zählen nicht zur Mindestanzahl. Die Gruppe benennt einen
+Vertreter und einen Stellvertreter; die Namen der Organisatoren werden im
+Register der Kommission veröffentlicht. Die [offiziellen Vorschriften](https://citizens-initiative.europa.eu/how-it-works_de)
+regeln Teilnahmeberechtigung und Pflichten.
 
-**Per E-Mail**, wenn die Frage wirklich persönlich ist oder Sie lieber nicht
-öffentlich sein möchten, bevor Sie entschieden haben: schreiben Sie an
-[hello@ownthemachine.eu](mailto:hello@ownthemachine.eu). Es hilft, dieselben drei Dinge zu nennen.
+Jetzt Interesse zu bekunden bedeutet nicht, einer Einreichung zuzustimmen. Vor
+einer Festlegung muss sich die Gruppe über ihre Ziele, Verantwortlichkeiten,
+Finanzierungsvereinbarungen und verbleibenden Rechtsrisiken einig sein. Die
+veröffentlichten Prüfstufen (Gates) gelten weiterhin. Das Unterzeichnen einer
+registrierten Initiative würde deren registrierte Ziele unterstützen; die
+detaillierte Verordnung ist ein illustrativer Mechanismus, kein bereits
+verabschiedetes Gesetz.
 
-In beiden Fällen ist die nützlichste Nachricht, die jemand schicken kann,
-diejenige, die anfängt mit „das wird nicht funktionieren, weil“.
+## So erreichen Sie uns
 
-## Was mit dem geschieht, was Sie schicken
+Schreiben Sie an [hello@ownthemachine.eu](mailto:hello@ownthemachine.eu) oder
+eröffnen Sie ein öffentliches Issue, wenn Sie eine öffentliche Diskussion
+bevorzugen. Beide Wege sind willkommen. Bei einer Anfrage als Organisator hilft es,
+Ihren Wohnsitzmitgliedstaat, Ihre möglichen Beiträge und Ihre Fragen anzugeben.
+Für eine Interessenbekundung ist kein Ausweisdokument erforderlich, und es sollte
+keines in einem öffentlichen Issue veröffentlicht werden.
 
-Ein Issue ist öffentlich, dauerhaft, und von Ihnen geschrieben; es enthält
-also genau das, was Sie hineingeschrieben haben.
+## Was mit Ihren Angaben geschieht
 
-Eine E-Mail erreicht den Redakteur und sonst niemanden. Sie wird keiner
-Liste hinzugefügt, denn es gibt keine Liste. Sie wird nicht weitergeleitet,
-nicht veröffentlicht und nicht dazu benutzt, Ihnen etwas zu schicken, worum
-Sie nicht gebeten haben. Sollte je eine Gruppe von Organisatoren zustande
-kommen, wird jede und jeder darin das selbst schriftlich gesagt haben, zu
-diesem Zeitpunkt und nicht früher. Der Verantwortliche und Ihre Rechte sind
-auf der Seite [Über das Projekt](/about) beschrieben.
+Ein GitHub-Issue ist öffentlich. Eine E-Mail an hello@ownthemachine.eu wird von Forward Email, einem US-Anbieter, an die persönlichen Gmail-Postfächer von zwei Kontaktpersonen des Projekts weitergeleitet. Die separate Adresse organisers@ownthemachine.eu wird an das persönliche Gmail-Postfach des Initiators weitergeleitet. Ihre Nachricht wird zur Beantwortung Ihrer Anfrage verwendet. Über diese Weiterleitung hinaus geben wir Ihre Anfrage ohne Ihre Zustimmung weder weiter noch veröffentlichen wir sie. Es gibt keine Mailingliste und kein Spendenformular. Kontaktdaten werden zur Beantwortung der Anfrage verwendet, nicht für unaufgeforderte Kampagnennachrichten. Siehe [Über das Projekt](/de/about) bezüglich des Verantwortlichen und Ihrer Rechte. Jede spätere Änderung dieser Regelungen muss vor ihrem Inkrafttreten erläutert werden.
+
+Für Anfragen zur Mitarbeit führt der Initiator auf seinem lokalen Computer eine private Notiz mit Kontaktdaten, dem Datum Ihrer Anfrage, freiwillig angegebenem Wohnsitz, vereinbarter Aufgabe und Zeit, verantwortlicher Person, nächstem Schritt, Status und Zustimmung zu einer Kontaktvermittlung. Inaktive Notizen werden nach 90 Tagen überprüft; nicht mehr benötigte Daten werden gelöscht, sofern kein weiterer Kontakt vereinbart oder ein anderer Aufbewahrungsbedarf erläutert wurde. Kopien in diesen Gmail-Postfächern sind von den privaten Notizen zur Mitarbeit getrennt, die auf dem lokalen Computer des Initiators außerhalb des öffentlichen Repositorys gespeichert werden. Die Überprüfung inaktiver Notizen nach 90 Tagen löscht E-Mail-Kopien in Gmail nicht automatisch.

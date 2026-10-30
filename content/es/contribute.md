@@ -1,36 +1,40 @@
 ---
-source: site/content/en/contribute.md
-source-commit: 8b0d54f
-status: gate-reviewed
+source: content/en/contribute.md
+source-commit: 8d35a77
+source-sha256: 52b60e89265bdf0e60190a6bd2945bff7e13c156f19afa75c5d99bc0beb510a3
+status: machine-reviewed
 ---
 
-El borrador mejora como mejora el código abierto: en público, mediante pull
-request, contra criterios declarados. Tres repositorios:
+El borrador evoluciona al modo del software de código abierto: en público, mediante
+solicitudes de incorporación de cambios (pull requests) y con arreglo a criterios definidos.
+Tres repositorios:
 
-- [own-the-machine](https://github.com/ownthemachine/own-the-machine): la ley, su memorando, el registro de revisiones
-  (CC BY-SA 4.0).
-- [own-the-machine-tools](https://github.com/ownthemachine/own-the-machine-tools): las rondas de revisión y el linter (MIT).
-- [own-the-machine-site](https://github.com/ownthemachine/own-the-machine-site): este sitio (AGPL-3.0).
+- [own-the-machine](https://github.com/ownthemachine/own-the-machine):
+  el texto normativo, su memorando y el registro de revisiones (CC BY-SA 4.0).
+- [own-the-machine-tools](https://github.com/ownthemachine/own-the-machine-tools):
+  los controles de revisión y el linter (MIT).
+- [own-the-machine-site](https://github.com/ownthemachine/own-the-machine-site):
+  este sitio web (AGPL-3.0).
 
-## Los criterios de incorporación
+## Criterios de integración
 
-Todo cambio del texto legal debe superar cuatro pruebas: reclama activos, no
-flujos; llega a cada ciudadano por igual; es a prueba de saqueos; y reclama
-la participación a tiempo, en el momento en que las ganancias cristalizan.
-Antes de la incorporación se aplican las restricciones mecánicas (la tabla
-DC de las [objeciones](/law/objections)) y las seis rondas de revisión contradictoria.
-Un pull request que debilite una protección debe decirlo en lenguaje llano.
+Cualquier modificación del texto legal debe superar cuatro pruebas: reclamar activos, no
+flujos; llegar a toda la ciudadanía por igual; no debilitar la protección legal frente a
+desvíos; y establecer el derecho mientras el capital se forma, antes de su cristalización.
+Se aplican restricciones mecánicas (la tabla DC en las [objeciones](/law/objections)) antes de
+la integración. Las modificaciones sustanciales se someten a los seis controles de revisión contradictoria;
+las modificaciones de redacción se someten a los de forma jurídica y fidelidad de capas; los cambios
+editoriales pasan el linter. Los veredictos y las decisiones editoriales se registran públicamente.
+Una pull request que debilite una salvaguardia no se integrará conforme a las
+normas de gobernanza publicadas.
 
-## Vías de entrada
+## Formas de colaborar
 
-- **Argumente.** Enfréntese a una objeción, o plantee una nueva en su
-  formulación más sólida. La contribución más valiosa es el ataque que aún
-  no hemos respondido.
-- **Redacte.** Mejore un artículo conforme a las convenciones de la Guía
-  práctica común; el linter y las rondas de revisión se encargarán de
-  verificarlo.
-- **Traduzca.** Los idiomas se promueven de traducción automática a
-  verificación humana página a página; los lectores nativos son el cuello de
-  botella.
-- **Construya.** El sitio y las herramientas son código abierto corriente,
-  con incidencias a la espera.
+- **Debatir.** Asuma una objeción existente o plantee una nueva con todos sus argumentos.
+  La aportación más valiosa es aquella crítica a la que aún no hemos dado respuesta.
+- **Redactar.** Mejore un artículo conforme a las convenciones de la Guía Práctica Común;
+  el linter y los controles de revisión evaluarán el texto.
+- **Traducir.** Las versiones lingüísticas pasan de traducción automática a verificación
+  humana página a página; los lectores nativos son el cuello de botella.
+- **Desarrollar.** El sitio web y las herramientas son proyectos de código abierto
+  convencionales con incidencias abiertas.

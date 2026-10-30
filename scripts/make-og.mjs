@@ -64,8 +64,10 @@ await page.setViewport({ width: 1200, height: 630 });
 let count = 0;
 for (const lang of LOCALES) {
   const t = dict(lang);
-  for (const { slug, dictKey } of OG_PAGES) {
-    const title = t[dictKey].title;
+  for (const { slug, dictKey, enDictKey, enTitleField, only } of OG_PAGES) {
+    if (only && only !== lang) continue;
+    const useEn = lang === 'en' && enDictKey;
+    const title = useEn ? t[enDictKey][enTitleField || 'title'] : t[dictKey].title;
     await page.setContent(html(title), { waitUntil: 'load' });
     await page.screenshot({ path: join(OUT, ogFilename(lang, slug)) });
     count++;

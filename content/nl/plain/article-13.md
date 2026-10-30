@@ -1,8 +1,8 @@
 ---
-source-commit: 742bfc8
 article: 13
 status: gate-reviewed
+source-commit: bfe309a
 ---
-L0: Laat de Commissie bedrijven beboeten tot 10 % van de wereldwijde omzet en ze als laatste redmiddel van de EU-markt weren.
+L0: Maakt uitvoering en melding afdwingbaar, ook voor gebonden verkrijgers.
 
-Een bedrijf dat de warrant niet uitgeeft, de aandelen niet levert of een verkoop of beursnotering niet meldt, valse informatie verstrekt, aanwijzing ontwijkt via een kunstmatige constructie, of een besluit van de Commissie over zo'n constructie naast zich neerlegt, kan worden beboet tot 10 % van zijn wereldwijde omzet. Om naleving af te dwingen kan de Commissie daar dwangsommen aan toevoegen tot 5 % van de gemiddelde dagelijkse wereldwijde omzet, per dag. Een bedrijf dat buiten de EU is gevestigd en aanhoudend weigert zich te schikken, kan als laatste redmiddel, en alleen zolang de weigering duurt, worden geweerd van het aanbieden van de betrokken goederen en diensten in de EU. De EU-rechters kunnen elke sanctie toetsen, verlagen of verhogen. Boetes gaan naar de algemene begroting van de EU, nooit naar de Reserve.
+Opzettelijke of nalatige schending van de opgesomde uitgifte-, inschrijvings-, informatie- en ontwijkingsplichten kan een boete tot 10 % van de wereldomzet opleveren. Gebonden verkrijgers vallen er uitdrukkelijk onder. Dwangsommen kunnen 5 % van de gemiddelde dagomzet bedragen. Aanhoudend uitgifte- of inschrijvingsverzuim buiten de Unie kan als laatste middel tot een tijdelijk marktverbod leiden. De Commissie hoort de onderneming en weegt ernst, duur en herhaling. EU-rechters toetsen sancties. Opbrengsten gaan naar de Uniebegroting, niet naar de Reserve.

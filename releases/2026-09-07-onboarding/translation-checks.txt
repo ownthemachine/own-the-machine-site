@@ -1,0 +1,78 @@
+
+> own-the-machine-site@0.1.0 check:translations
+> node scripts/check-translations.mjs
+
+objections     nl  headings= 28  dc= 46  paras= 127  cites= 16  ok, but paragraphs 127 vs 128
+objections     fr  headings= 28  dc= 46  paras= 127  cites= 16  ok, but paragraphs 127 vs 128
+objections     de  headings= 28  dc= 46  paras= 127  cites= 16  ok, but paragraphs 127 vs 128
+objections     es  headings= 28  dc= 46  paras= 127  cites= 16  ok, but paragraphs 127 vs 128
+objections     en  headings= 28  dc= 46  paras= 128  cites= 16  ok
+severability   nl  headings=  7  dc=  0  paras=  15  cites=  4  ok
+severability   fr  headings=  7  dc=  0  paras=  15  cites=  4  ok
+severability   de  headings=  7  dc=  0  paras=  15  cites=  4  ok
+severability   es  headings=  7  dc=  0  paras=  15  cites=  4  ok
+severability   en  headings=  7  dc=  0  paras=  15  cites=  4  ok
+explanatory    en  headings= 21  dc=  0  paras=  50  cites=  2  ok
+evidence       nl  headings=  8  dc=  0  paras=  21  cites=  1  ok, but paragraphs 21 vs 20
+evidence       fr  headings=  8  dc=  0  paras=  21  cites=  1  ok, but paragraphs 21 vs 20
+evidence       de  headings=  8  dc=  0  paras=  20  cites=  1  ok
+evidence       es  headings=  8  dc=  0  paras=  20  cites=  1  ok
+evidence       en  headings=  8  dc=  0  paras=  20  cites=  1  ok
+registration   nl  headings=  5  dc=  0  paras=  32  cites=  0  ok
+registration   fr  headings=  5  dc=  0  paras=  32  cites=  0  ok
+registration   de  headings=  5  dc=  0  paras=  32  cites=  0  ok
+registration   es  headings=  5  dc=  0  paras=  32  cites=  0  ok
+registration   en  headings=  5  dc=  0  paras=  32  cites=  0  ok
+about          nl  headings= 12  dc=  0  paras=  24  cites=  0  ok
+about          fr  headings= 12  dc=  0  paras=  24  cites=  0  ok
+about          de  headings= 12  dc=  0  paras=  24  cites=  0  ok
+about          es  headings= 12  dc=  0  paras=  24  cites=  0  ok
+about          en  headings= 12  dc=  0  paras=  24  cites=  0  ok
+contribute     nl  headings=  2  dc=  0  paras=   4  cites=  0  ok
+contribute     fr  headings=  2  dc=  0  paras=   4  cites=  0  ok
+contribute     de  headings=  2  dc=  0  paras=   4  cites=  0  ok
+contribute     es  headings=  2  dc=  0  paras=   4  cites=  0  ok
+contribute     en  headings=  2  dc=  0  paras=   4  cites=  0  ok
+versions       nl  headings=  4  dc=  0  paras=   9  cites=  0  ok
+versions       fr  headings=  4  dc=  0  paras=   9  cites=  0  ok
+versions       de  headings=  4  dc=  0  paras=   9  cites=  0  ok
+versions       es  headings=  4  dc=  0  paras=   9  cites=  0  ok
+versions       en  headings=  4  dc=  0  paras=   9  cites=  0  ok
+join           nl  headings=  6  dc=  0  paras=  13  cites=  0  ok
+join           fr  headings=  6  dc=  0  paras=  13  cites=  0  ok
+join           de  headings=  6  dc=  0  paras=  13  cites=  0  ok
+join           es  headings=  6  dc=  0  paras=  13  cites=  0  ok
+join           en  headings=  6  dc=  0  paras=  13  cites=  0  ok
+brief          nl  headings=  6  dc=  0  paras=   6  cites=  0  ok
+brief          fr  headings=  6  dc=  0  paras=   6  cites=  0  ok
+brief          de  headings=  6  dc=  0  paras=   6  cites=  0  ok
+brief          es  headings=  6  dc=  0  paras=   6  cites=  0  ok
+brief          en  headings=  6  dc=  0  paras=   6  cites=  0  ok
+faq            nl  headings= 11  dc=  0  paras=  11  cites=  0  ok
+faq            fr  headings= 11  dc=  0  paras=  11  cites=  0  ok
+faq            de  headings= 11  dc=  0  paras=  11  cites=  0  ok
+faq            es  headings= 11  dc=  0  paras=  11  cites=  0  ok
+faq            en  headings= 11  dc=  0  paras=  11  cites=  0  ok
+press          nl  headings=  6  dc=  0  paras=   7  cites=  0  ok
+press          fr  headings=  6  dc=  0  paras=   7  cites=  0  ok
+press          de  headings=  6  dc=  0  paras=   7  cites=  0  ok
+press          es  headings=  6  dc=  0  paras=   7  cites=  0  ok
+press          en  headings=  6  dc=  0  paras=   7  cites=  0  ok
+sign           nl  headings=  7  dc=  0  paras=   8  cites=  0  ok
+sign           fr  headings=  7  dc=  0  paras=   8  cites=  0  ok
+sign           de  headings=  7  dc=  0  paras=   8  cites=  0  ok
+sign           es  headings=  7  dc=  0  paras=   8  cites=  0  ok
+sign           en  headings=  7  dc=  0  paras=   8  cites=  0  ok
+
+plain          en  3 page(s) stale, shown with a banner: 1, 2, 7
+plain          nl  3 page(s) stale, shown with a banner: 1, 2, 7
+plain          fr  3 page(s) stale, shown with a banner: 1, 2, 7
+plain          de  3 page(s) stale, shown with a banner: 1, 2, 7
+plain          es  3 page(s) stale, shown with a banner: 1, 2, 7
+tables         every markdown table row is well formed
+
+links          every markdown link target is intact
+
+rubrics        all 20 article and annex headings translated in every locale
+
+check-translations: all translated pages match their source structurally
