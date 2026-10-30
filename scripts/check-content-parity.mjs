@@ -33,6 +33,10 @@ for (const [route, f] of pages(baseDist)) {
     if (!have.has(u) && !allowed.has(u)) missing.push(`${route}  ${u.slice(0, 160)}`);
   }
 }
+if (total === 0 || pagesChecked === 0) {
+  console.error('check-content-parity: no pages or text units found in the base build; wrong directory?');
+  process.exit(1);
+}
 if (missing.length) {
   console.error(`check-content-parity: ${missing.length} unit(s) of the base build are missing from the new build:`);
   for (const m of missing.slice(0, 60)) console.error('  ' + m);

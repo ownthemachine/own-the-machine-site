@@ -50,6 +50,10 @@ for (const route of [...pages(baseDist).keys()].filter((r) => r !== '/404').sort
   rows.push([route, got ?? 'UNREACHABLE', dBase.get(route) ?? '-', limit]);
   if (got === undefined || got > limit) problems.push(`${route}: ${got ?? 'unreachable'} clicks (limit ${limit})`);
 }
+if (rows.length === 0) {
+  console.error('check-two-clicks: no pages found in the base build; wrong directory?');
+  process.exit(1);
+}
 if (process.env.OTM_LIST) {
   console.log('route\tnew clicks\tbase clicks\tlimit');
   for (const r of rows) console.log(r.join('\t'));

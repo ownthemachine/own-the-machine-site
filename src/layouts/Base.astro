@@ -42,6 +42,7 @@ const nav = lang === 'en' ? [
 ];
 // Which pages sit under which English section, for the current-page mark.
 const SECTION = {
+  '/questions': ['/questions', '/simulator'],
   '/experts': ['/experts', '/law', '/evidence', '/faq'],
   '/get-involved': ['/get-involved', '/join', '/sign', '/contribute'],
   '/about': ['/about', '/press', '/brief'],
@@ -74,10 +75,16 @@ const footerGroups = [
   ]],
 ];
 if (lang === 'en') {
+  const faq = footerGroups[1][1].find(([h]) => h === '/faq');
+  if (faq) faq[1] = t.plainMenu.faqLabel;
   footerGroups[1][1].unshift(['/questions', t.plainMenu.qa]);
   footerGroups[0][1].unshift(['/experts', t.plainMenu.experts]);
   footerGroups[2][1].unshift(['/get-involved', t.plainMenu.involved]);
 }
+// Hint on the language links of English-only pages: they open the other
+// language's home page, not a translation of this one.
+const LANG_EN = { nl: 'Dutch', fr: 'French', de: 'German', es: 'Spanish' };
+const hint = (l) => DICTS.en.plainMenu.notTranslated.replace('%LANG%', LANG_EN[l] || l);
 // Path of this page with the locale prefix removed, for the switcher and
 // hreflang alternates.
 const rawPath = Astro.url.pathname.replace(/\.html$/, '');
@@ -211,7 +218,8 @@ const jsonLd = {
         <span class="langs" role="group" aria-label="Language">
           {LOCALES.map((l) => (
             <a class="lang" href={href(l, enOnly ? '/' : basePath)} aria-current={l === lang ? 'true' : undefined}
-               hreflang={l} lang={l} title={DICTS[l].name}>{l.toUpperCase()}</a>
+               hreflang={l} lang={l} title={enOnly && l !== lang ? hint(l) : DICTS[l].name}
+               aria-label={enOnly && l !== lang ? `${l.toUpperCase()}: ${hint(l)}` : undefined}>{l.toUpperCase()}</a>
           ))}
         </span>
         <button id="theme-toggle" type="button" aria-label={t.chrome.themeToggle} title={t.chrome.themeToggle}>◐</button>

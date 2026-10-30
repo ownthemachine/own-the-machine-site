@@ -10,7 +10,7 @@ date: 2026-10-30
 
 Input: the new home text and the Questions and answers text, followed by
 Articles 1, 2, 3, 5, 7, 8 and 10 of the draft regulation and sections 2.3 and
-2.4 of the explanatory memorandum. Seven rounds; round 7 returned PUBLISH.
+2.4 of the explanatory memorandum. Rounds 1 to 7 covered the whole text and round 7 returned PUBLISH. Rounds 8 to 10 (same day) re-reviewed only the "Which companies would be covered?" answer, changed after a review of the pull request, against Articles 3 and 4; round 10 returned PUBLISH.
 Each round reviewed the text as it stood after the previous round's fixes.
 
 ## Editor disposition (30 October 2026)
@@ -32,6 +32,11 @@ Each round reviewed the text as it stood after the previous round's fixes.
 | 6 | Accrued balances are inheritable (Article 10(4)(b)) | Applied: "money already paid into your account is yours and passes to your heirs". |
 | 6 | Trigger events for share acquisition | Applied: "on a sale or listing, after a large payout to owners or after seven years". |
 | 6 | State the 3 % | Applied: "a fixed 3 %". |
+| 8 | "Small and medium businesses are not the target" is a change requested by pull request review ("are unlikely to be covered", because Article 3(6) allows designation below the thresholds) | Applied before round 8; round 10 found no overclaim. |
+| 8 | Scope omits automated cognitive services (Article 3(1)(a)) | Applied: "that provide automated cognitive services, or goods and services whose production depends heavily on them". |
+| 8, 9 | "In the main option" is impact-assessment jargon in a statutory explainer | Rejected: "main option" is the project's own framing on every page (the draft is one option among several that the Commission is asked to assess); not a claim about the status of Article 3. |
+| 9 | "depend on them" blurs Article 3(1)(a) | Applied: "whose production depends heavily on them". |
+| 9 | "market value" versus "fair market value", worldwide compensation of labour, private companies | Rejected: Annex I defines the calculation; the plain answer states the thresholds, not the valuation method. The Q&A on the main page already points to the designation article. |
 
 ## Final text reviewed (round 7)
 
@@ -438,4 +443,138 @@ VERDICT: REVISE
 ---
 
 VERDICT: PUBLISH
+
+
+## Round 8 (changed answer only), verbatim
+
+
+> Reviewer: `vertex/gemini-3.7-flash@eu` · router router.eu.requesty.ai · geolocation eu · retention 0d · trained-on false · lab google
+> 2026-10-30T18:20:15+00:00 · tokens in=1782 out=3625
+> Prompt: layer-fidelity.md · Verbatim model output below ; do not edit.
+
+> Bundle SHA-256: `2f95c99d5fc90ce209b5d639b0290a0446cbf86cb3851c1ed0918e5de7d997c7`
+> Prompt SHA-256: `b7977305d075dbb668b4b30e5dcbcad48837ddf5534df598194a22a33c660f40`
+
+### Finding 1: UNDERDISCLOSURE — Complete Omission of Automated Cognitive Scope
+
+* **Plain Layer Quote:**  
+  > "...whose output depends far less on employing people, and only after a check by the Commission."
+* **Enacting Terms Quote:**  
+  > "Article 3(1)(a): it provides automated cognitive services, or goods or services whose production depends to a significant extent on automated cognitive systems, in the internal market;"
+* **Reader Harm:** Traditional capital-intensive, low-headcount businesses (e.g., real estate investment trusts, automated infrastructure, royalty vehicles) will believe they are captured solely because of their valuation-to-payroll ratio, while automated cognitive technology providers are not informed of the core substantive trigger for coverage.
+* **Minimal Fix (Plain Layer):** Specify that the undertaking must provide AI or automated cognitive services (or goods/services substantially dependent on them).
+
+---
+
+### Finding 2: TERM DRIFT — Geographic Nexus Requirement
+
+* **Plain Layer Quote:**  
+  > "...mainly very large companies operating in at least three Member States..."
+* **Enacting Terms Quote:**  
+  > "Article 3(2)(a): ...and it provides the goods or services referred to in that point in at least three Member States;"
+* **Reader Harm:** "Operating in at least three Member States" implies general corporate activity, registration, or routine offices, whereas the enacting terms strictly require providing the specific *automated cognitive goods or services* across at least three Member States.
+* **Minimal Fix (Plain Layer):** Change "operating in at least three Member States" to "providing those automated cognitive services or goods in at least three Member States".
+
+---
+
+### Finding 3: TERM DRIFT — Policy Option Jargon in Statutory Explainer
+
+* **Plain Layer Quote:**  
+  > "In the main option, mainly very large companies..."
+* **Enacting Terms Quote:**  
+  > "Article 3(1): An undertaking shall be designated as a covered undertaking where..."
+* **Reader Harm:** Using impact-assessment drafting language ("In the main option") falsely implies to companies and citizens that the thresholds are merely one alternative under active policy consideration rather than the binding statutory designation framework established by the Regulation.
+* **Minimal Fix (Plain Layer):** Delete "In the main option, mainly" and replace with "Mainly".
+
+---
+
+VERDICT: REVISE
+
+
+## Round 9 (changed answer only), verbatim
+
+
+> Reviewer: `vertex/gemini-3.7-flash@eu` · router router.eu.requesty.ai · geolocation eu · retention 0d · trained-on false · lab google
+> 2026-10-30T18:20:51+00:00 · tokens in=1796 out=4507
+> Prompt: layer-fidelity.md · Verbatim model output below ; do not edit.
+
+> Bundle SHA-256: `60526d4e181208d785e5e118137a8f5976b4c4e8e7d60f8ade380f81b6ae21f4`
+> Prompt SHA-256: `b7977305d075dbb668b4b30e5dcbcad48837ddf5534df598194a22a33c660f40`
+
+### 1. TERM DRIFT / SCOPE MISCHARACTERISATION (Article 3(1)(a))
+
+* **Plain Layer Quote:**  
+  > "...goods and services that depend on them..."
+* **Enacting Terms Quote:**  
+  > Article 3(1)(a): "...goods or services whose production depends to a significant extent on automated cognitive systems..."
+* **Reader Harm:**  
+  The colloquial phrasing "depend on them" expands and blurs the statutory scope. In the enacting terms, the test strictly requires that the *production* of the goods or services depends *to a significant extent* on *automated cognitive systems*, not merely that an undertaking sells downstream products or services that rely on cognitive service features.
+* **Minimal Fix (Plain Layer):**  
+  Replace "goods and services that depend on them" with "goods or services whose production depends significantly on automated cognitive systems".
+
+---
+
+### 2. UNDERDISCLOSURE / SCOPE AMBIGUITY (Article 3(2) & Article 3(7))
+
+* **Plain Layer Quote:**  
+  > "...75 billion euro of market value, with a market value at least 80 times what they spend on their workforce..."
+* **Enacting Terms Quote:**  
+  > Article 3(2)(b): "...its fair market value equals or exceeds eighty times its annual worldwide compensation of labour, each calculated in accordance with Annex I..."  
+  > Article 3(7): "The obligations laid down in this Regulation shall apply to a covered undertaking irrespective of whether its shares are admitted to trading..."
+* **Reader Harm:**  
+  Using "market value" rather than "fair market value" underdiscloses that unlisted/private undertakings with no public market capitalisation are fully within scope prior to any liquidity event. Furthermore, omitting that the denominator is *worldwide* compensation of labour obscures how the 80x decoupling ratio is calculated for global technology firms operating in the EU.
+* **Minimal Fix (Plain Layer):**  
+  Adjust the text to state: "75 billion euro of fair market value (whether publicly traded or private), with a fair market value at least 80 times its worldwide workforce compensation".
+
+---
+
+### 3. TERM DRIFT / LEGISLATIVE STATUS (Article 3)
+
+* **Plain Layer Quote:**  
+  > "In the main option, mainly very large companies..."
+* **Enacting Terms Quote:**  
+  > Article 3(1): "An undertaking shall be designated as a covered undertaking where..."
+* **Reader Harm:**  
+  Framing the core designation criteria as "In the main option" carries over impact-assessment/consultation terminology into what is presented as the rules of the draft Regulation. This creates confusion as to whether these thresholds are operative statutory rules or merely one alternative policy option under consideration.
+* **Minimal Fix (Plain Layer):**  
+  Remove "In the main option," and begin directly with "Under the proposed Regulation, mainly very large companies...".
+
+---
+
+VERDICT: REVISE
+
+
+## Round 10 (changed answer only), verbatim
+
+
+> Reviewer: `vertex/gemini-3.7-flash@eu` · router router.eu.requesty.ai · geolocation eu · retention 0d · trained-on false · lab google
+> 2026-10-30T18:21:11+00:00 · tokens in=1798 out=2123
+> Prompt: layer-fidelity.md · Verbatim model output below ; do not edit.
+
+> Bundle SHA-256: `34f6d2600757bd71facadae4d32424efecc6fd985b855b46c313089f536fd185`
+> Prompt SHA-256: `b7977305d075dbb668b4b30e5dcbcad48837ddf5534df598194a22a33c660f40`
+
+### Drift Detector Assessment
+
+**1. OVERCLAIM Analysis**
+* None detected. The plain-language answer accurately reflects the dual path to designation (rebuttable quantitative presumption under Article 3(2) vs. market investigation under Article 3(6) / Article 4). It avoids asserting an absolute SME exemption, appropriately framing coverage as "unlikely" given the market investigation requirement.
+
+**2. UNDERDISCLOSURE Analysis**
+* None detected. The quantitative gates (EUR 7.5B Union turnover or EUR 75B market value, 80x compensation ratio, 3 Member States, 2 consecutive financial years) and qualitative criteria (automated cognitive services/dependency, labour decoupling) match Article 3(1)–(2) without omitting key eligibility constraints.
+
+**3. TERM DRIFT Analysis**
+* None detected. The colloquial translations ("yearly EU turnover" for "annual Union turnover", "what they spend on their workforce" for "annual worldwide compensation of labour", and "substantially decoupled" as "depends far less on employing people") preserve the legal extension of the defined concepts without altering scope or applicability.
+
+---
+
+VERDICT: PUBLISH
+
+
+## Final text of the changed answer (round 10)
+
+# PLAIN LAYER UNDER REVIEW (changed answer only)
+
+### Which companies would be covered?
+
+In the main option, mainly very large companies that provide automated cognitive services, or goods and services whose production depends heavily on them, in at least three Member States (the draft starts from 7.5 billion euro of yearly EU turnover or 75 billion euro of market value, with a market value at least 80 times what they spend on their workforce, for two years running) whose output depends far less on employing people, and only after a check by the Commission. The Commission could also designate a company below those thresholds, but only after a market investigation. Small and medium businesses are unlikely to be covered.
 

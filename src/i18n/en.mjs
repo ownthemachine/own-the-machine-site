@@ -216,6 +216,9 @@ export default {
   plainMenu: {
     home: 'Home', qa: 'Questions and answers', experts: 'For lawyers and experts',
     involved: 'Get involved', about: 'About',
+    faqPointer: 'Short answers first:',
+    faqLabel: 'Detailed FAQ',
+    notTranslated: 'Not yet translated; opens the %LANG% home page',
   },
   plainHome: {
     title: 'Own the Machine',
@@ -263,7 +266,7 @@ export default {
       },
       {
         q: 'Which companies would be covered?',
-        a: 'In the main option, mainly very large companies operating in at least three Member States (the draft starts from 7.5 billion euro of yearly EU turnover or 75 billion euro of market value, with a market value at least 80 times what they spend on their workforce, for two years running) whose output depends far less on employing people, and only after a check by the Commission. The Commission could also designate a company below those thresholds, but only after a market investigation. Small and medium businesses are not the target.',
+        a: 'In the main option, mainly very large companies that provide automated cognitive services, or goods and services whose production depends heavily on them, in at least three Member States (the draft starts from 7.5 billion euro of yearly EU turnover or 75 billion euro of market value, with a market value at least 80 times what they spend on their workforce, for two years running) whose output depends far less on employing people, and only after a check by the Commission. The Commission could also designate a company below those thresholds, but only after a market investigation. Small and medium businesses are unlikely to be covered.',
         links: [['/law/article-3', 'designation criteria']],
       },
       {
@@ -287,11 +290,15 @@ export default {
     evidenceHead: 'Evidence and review',
     moreHead: 'More',
     allOfIt: 'The draft regulation, in full',
-    overview: 'The earlier front page',
+    overview: 'The previous home page (full overview)',
+    startHead: 'Start here',
+    allArticles: 'All articles and annexes',
   },
   involved: {
     title: 'Get involved',
     description: 'Ways to take part: join, how signing would work and how to contribute.',
+    lead: 'What you can do now',
+    signLabel: 'How signing would work',
   },
   notFound: {
     title: 'Not found', heading: 'Nothing is certified at this address',

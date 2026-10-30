@@ -6,7 +6,8 @@
 // slug: the {slug} half of public/og/{locale}-{slug}.png
 // dictKey: the dictionary section whose .title is the page title
 export const OG_PAGES = [
-  { path: '/', slug: 'index', dictKey: 'home' },
+  // English carries the plain home; the card shows its subtitle.
+  { path: '/', slug: 'index', dictKey: 'home', enDictKey: 'plainHome', enTitleField: 'subtitle' },
   { path: '/law', slug: 'law', dictKey: 'lawIndex' },
   { path: '/law/registration', slug: 'law-registration', dictKey: 'registration' },
   { path: '/law/objections', slug: 'law-objections', dictKey: 'objections' },
@@ -16,6 +17,11 @@ export const OG_PAGES = [
   { path: '/evidence', slug: 'evidence', dictKey: 'evidence' },
   { path: '/contribute', slug: 'contribute', dictKey: 'contribute' },
   { path: '/about', slug: 'about', dictKey: 'about' },
+  // English-only pages: no card in the other languages.
+  { path: '/questions', slug: 'questions', dictKey: 'qa', only: 'en' },
+  { path: '/experts', slug: 'experts', dictKey: 'experts', only: 'en' },
+  { path: '/experts/overview', slug: 'experts-overview', dictKey: 'home', only: 'en' },
+  { path: '/get-involved', slug: 'get-involved', dictKey: 'involved', only: 'en' },
 ];
 
 // Locale-stripped path -> og-image slug, falling back to 'index' for any

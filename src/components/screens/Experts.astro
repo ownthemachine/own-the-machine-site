@@ -7,18 +7,20 @@ const lang = 'en';
 const t = dict(lang);
 const e = t.experts;
 const c = t.chrome;
+const articleItems = [
+  ...law.articles.map((a) => [`/law/${a.slug}`, `${t.lawIndex.article} ${a.number}: ${a.title}`]),
+  ...law.annexes.map((a) => [`/law/${a.slug}`, `${t.lawIndex.annex} ${a.numeral}: ${a.title.replace(/^Annex [IVX]+:\s*/, '')}`]),
+];
 const groups = [
-  [e.proposalHead, [['/law/registration', c.registration], ['/brief', c.brief]]],
-  [e.regulationHead, [
+  [e.startHead, [
+    ['/law/registration', c.registration],
     ['/law', e.allOfIt],
-    ...law.articles.map((a) => [`/law/${a.slug}`, `${t.lawIndex.article} ${a.number}: ${a.title}`]),
-    ...law.annexes.map((a) => [`/law/${a.slug}`, `${t.lawIndex.annex} ${a.numeral}: ${a.title.replace(/^Annex [IVX]+:\s*/, '')}`]),
-    ['/law/recitals', c.recitals],
+    ['/law/objections', t.lawIndex.objectionsLink],
   ]],
+  [e.regulationHead, [['/law/recitals', c.recitals]], articleItems],
   [e.memorandumHead, [
     ['/law/explanatory-memorandum', c.explanatory],
-    ['/law/memorandum', c.severability],
-    ['/law/objections', t.lawIndex.objectionsLink],
+    ['/law/memorandum', t.lawIndex.severabilityLink],
   ]],
   [e.evidenceHead, [
     ['/evidence', c.evidence],
@@ -27,7 +29,6 @@ const groups = [
   ]],
   [e.moreHead, [
     ['/faq', c.faq],
-    ['/press', c.press],
     ['/simulator', c.simulator],
     ['/experts/overview', e.overview],
   ]],
@@ -35,12 +36,20 @@ const groups = [
 ---
 <Base title={e.title} lang={lang} enOnly description={e.description}>
   <h1>{e.title}</h1>
-  {groups.map(([head, items]) => (
+  {groups.map(([head, items, folded]) => (
     <section class="group">
       <h2>{head}</h2>
       <ul>
         {items.map(([to, label]) => <li><a href={href(lang, to)}>{label}</a></li>)}
       </ul>
+      {folded && (
+        <details>
+          <summary>{e.allArticles}</summary>
+          <ul>
+            {folded.map(([to, label]) => <li><a href={href(lang, to)}>{label}</a></li>)}
+          </ul>
+        </details>
+      )}
     </section>
   ))}
 </Base>
@@ -50,5 +59,6 @@ const groups = [
   .group { border-top: 1px solid var(--guilloche); padding: 1rem 0; }
   .group h2 { font-size: 1.15rem; margin: 0 0 0.5rem; }
   .group ul { list-style: none; margin: 0; padding: 0; }
+  .group summary { cursor: pointer; padding: 0.3rem 0; }
   .group li { padding: 0.15rem 0; font-family: var(--read); }
 </style>
