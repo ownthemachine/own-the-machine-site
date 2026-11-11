@@ -1,75 +1,76 @@
 ---
-source: site/content/en/sign.md
-source-commit: 2ac5f03
-status: gate-reviewed
+source: content/en/sign.md
+source-commit: 8d35a77
+source-sha256: f8155ec276eaeef8b5246a63a6ce45b44caaa8e84b8c7890754c403a43b5d472
+status: machine-reviewed
 ---
 
-## D'abord, le bandeau honnête au-dessus de cette page
+## Statut actuel
 
-Lisez l'encadré d'état tout en haut. Aujourd'hui il n'y a rien à signer,
-nulle part, et quiconque collecte aujourd'hui des signatures ou des
-données pour cette initiative n'est pas nous. Cette page existe pour que,
-si l'enregistrement arrive un jour, un million de personnes trouvent le
-chemin déjà tracé dans leur propre langue.
+Aucune version n'est enregistrée et il n'y a rien à signer pour cette initiative
+aujourd'hui. L'encadré de statut et la page des [versions](/law/versions) consignent
+l'historique d'enregistrement. Une manifestation d'intérêt ne constitue pas une
+déclaration officielle de soutien.
 
-## Comment se signe réellement une initiative citoyenne européenne
+## Comment fonctionne la signature
 
-La signature ne se fait jamais sur ce site. Chaque signature de chaque
-initiative est recueillie sur le système central en ligne de la Commission
-européenne, ou sur des formulaires papier officiels, en vertu du règlement
-(UE) 2019/788. Vos données vont à la Commission et aux autorités de votre
-État membre pour vérification, et à personne d'autre, et cette campagne ne
-les voit jamais. La page officielle de toute initiative, et le seul
-endroit où en signer une, est
-[citizens-initiative.europa.eu](https://citizens-initiative.europa.eu/).
+Si la collecte s'ouvre, ce site renverra vers la page de l'initiative sur le système
+central de collecte en ligne de la Commission. Il s'agit du seul système de collecte
+en ligne pour les ICE nouvellement enregistrées. Les formulaires officiels sur papier
+sont également autorisés ; cette campagne n'a pas ouvert de collecte sur papier.
+Consultez les informations de confidentialité de la Commission relatives au
+traitement précis des données de signature. Ce site internet n'hébergera pas son
+propre formulaire de signature.
 
 ## Qui peut signer
 
-Tout citoyen de l'UE en âge de voter aux élections du Parlement
-européen : 18 ans dans la plupart des États membres, moins dans
-quelques-uns. Vous signez comme citoyen de votre pays, où que vous viviez
-dans le monde. Vous ne pouvez signer chaque initiative qu'une seule fois.
+Les citoyens de l'Union peuvent signer une seule fois par initiative, quel que soit
+leur lieu de résidence, s'ils ont atteint l'âge minimal de soutien requis pour leur
+nationalité. Il s'agit généralement de l'âge requis pour voter aux élections du
+Parlement européen ; certains États membres fixent séparément à 16 ans l'âge de
+soutien à une ICE. Consultez les
+[conditions d'éligibilité et exigences relatives aux données](https://citizens-initiative.europa.eu/data-requirements_en)
+actuelles de la Commission. L'âge de 18 ans proposé pour le fonds indicatif est
+distinct des conditions d'éligibilité pour signer.
 
-## Ce que vous auriez à saisir
+## Quelles informations sont nécessaires
 
-Cela dépend de votre État membre, parce que la vérification est
-nationale. Les États membres se répartissent en deux groupes : environ la
-moitié vérifie à partir de vos nom, adresse, date de naissance et
-nationalité, et les autres demandent en plus un numéro d'identification
-personnel ou le numéro d'un document d'identité, par exemple votre carte
-d'identité ou votre passeport. La page de signature de la Commission
-affiche les champs exacts pour votre pays avant que vous ne saisissiez
-quoi que ce soit. Cette différence compte pour une campagne, parce que
-demander un numéro d'identité est une barrière plus haute, et c'est
-pourquoi les initiatives sérieuses planifient pays par pays.
+Le formulaire officiel précise les informations requises selon votre État membre de
+nationalité. Cela peut inclure un numéro de document d'identité ou un numéro
+d'identification personnel. Certains pays prennent en charge l'identification
+électronique. Suivez les instructions du formulaire officiel ; n'envoyez aucun
+document d'identité à cette campagne et n'inscrivez aucune information personnelle de
+signature dans les discussions publiques.
 
-## Pourquoi une initiative a besoin de plus d'un million en pratique
+## Ce que signifie le seuil d'un million
 
-La barre légale est d'un million de déclarations de soutien valides en
-douze mois, avec des minima nationaux atteints dans au moins sept États
-membres, chaque minimum étant environ le nombre de sièges du pays au
-Parlement européen multiplié par 750. Une partie des signatures échoue
-toujours à la vérification, si bien que les organisateurs expérimentés
-visent bien au-dessus de la barre. Des initiatives enregistrées depuis
-2012, environ une sur neuf l'a franchie. Celles qui ont réussi étaient
-portées par des coalitions dotées de vrais réseaux dans de nombreux pays,
-et c'est pourquoi les propres jalons de ce projet exigent des
-organisateurs et des partenaires institutionnels avant tout dépôt.
+Le succès exige un million de déclarations de soutien valides ainsi que l'atteinte des
+seuils minimaux dans au moins sept États membres au cours de la période de collecte de
+douze mois. Pour les initiatives enregistrées à compter du 16 juillet 2024, les seuils
+sont calculés d'après le nombre total de députés européens, actuellement de 720 :
+celui de la Belgique est de 15 840. Consultez le
+[tableau officiel des seuils](https://citizens-initiative.europa.eu/thresholds_en)
+pour connaître les chiffres actuels. Les totaux transmis restent sujets à vérification.
 
-## Ce que cette campagne fera et ne fera pas pendant une collecte
+Un succès entraîne un examen et une réponse motivée de la Commission, et non un
+résultat référendaire automatique ou l'adoption du projet. Les
+[objectifs d'enregistrement](/law/registration) proposés constituent la demande ;
+le règlement illustre un mécanisme possible. Voir la
+[procédure officielle](https://citizens-initiative.europa.eu/how-it-works_en).
 
-Si la collecte ouvre un jour, ce site renverra vers la page de signature
-officielle de la Commission et vers rien d'autre : pas de formulaire à
-lui, pas de pétition, pas de récolte de courriels. Le texte que les gens
-signeront sera figé et publié à côté du projet vivant, chaque différence
-visible, selon la règle déjà adoptée sur la page [versions](/law/versions).
-Tout ce qui se présente comme cette initiative et demande vos données
-ailleurs n'est pas cette initiative.
+## Pendant la collecte
 
-## Ce que vous pouvez faire avant que tout cela existe
+Le texte enregistré sera figé et publié aux côtés du projet évolutif, les différences
+étant visibles selon les règles de la page des [versions](/law/versions). Le système
+de la Commission permet de recevoir des informations facultatives sur l'initiative
+après la signature ; les organisateurs peuvent les envoyer via ce système sans
+recevoir les adresses électroniques des personnes abonnées. L'absence de liste de
+diffusion sur ce site est distincte de cette option officielle. Les dates de collecte et
+le lien officiel n'apparaîtront qu'une fois confirmés.
 
-Lisez le [résumé en une page](/brief), contestez les [objections](/law/objections), et si
-vous envisagez d'être l'un des sept organisateurs, ou de mettre le projet en
-relation avec une organisation ayant du poids dans votre pays, dites-le sur
-la page [participer](/join). Un million de signatures se collecte par des
-réseaux, et le réseau est ce qui n'existe pas encore.
+## Avant la collecte
+
+Lisez le [résumé d'une page](/brief), examinez les [objections](/law/objections) et
+utilisez la page [participer](/join) pour poser des questions ou aider à organiser.
+Personne n'a besoin d'acheter le livre, de fournir un document d'identité ou de payer
+pour évaluer la proposition.

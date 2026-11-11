@@ -186,7 +186,7 @@ const annexes = readdirSync(annexDir).filter((f) => f.endsWith('.md')).sort().ma
 
 // Mentions of repo files in prose become links to the repository, so a
 // site reader lands on the real file instead of a dead relative path.
-const REPO = 'https://github.com/ownthemachine/own-the-machine/blob/main';
+const REPO = `https://github.com/ownthemachine/own-the-machine/blob/${lawCommit}`;
 const KNOWN = { 'EVIDENCE.md': 'evidence/EVIDENCE.md', 'GATES.md': 'campaign/GATES.md',
   'GOVERNANCE.md': 'GOVERNANCE.md', 'CONTRIBUTING.md': 'CONTRIBUTING.md' };
 const linkRepoPaths = (html) => html.replace(
@@ -253,7 +253,7 @@ const localiseLinks = (html, loc) => html.replace(
 // paragraph (and the "---" line before it, if any) wherever it appears,
 // English source and any localised copy alike, rather than leaning on
 // stripNotes, which would cut this file's first SECTION separator instead.
-const DRAFTING_NOTES = /\n(?:---\n)?\s*Drafting notes \(not part of the registration\)\.[\s\S]*$/;
+const DRAFTING_NOTES = /\n(?:---\n)?\s*(?:Drafting notes \(not part of the registration\)\.|<!-- drafting-notes -->)[\s\S]*$/;
 const cutDraftingNotes = (body) => body.replace(DRAFTING_NOTES, '').trim();
 
 const loadLocalized = (name, opts = {}) => {
@@ -376,6 +376,10 @@ writeFileSync(join(OUT, 'law.json'), JSON.stringify({
   builtAt: new Date().toISOString(),
   articles, recitals, annexes, objections, severability, ledger, evidence, about, contribute, structure,
   versions, join: joinDoc, brief, faq, press, sign, explanatory, registered, registration, citation,
-}, null, 1));
+}, null, 1)
+  .replaceAll('https://github.com/ownthemachine/own-the-machine/blob/main/', `${REPO}/`)
+  // The registration record promises the latest registry state, not a frozen source citation.
+  .replaceAll(`${REPO}/versions/REGISTERED.json`, 'https://github.com/ownthemachine/own-the-machine/blob/main/versions/REGISTERED.json')
+  .replaceAll('https://github.com/ownthemachine/own-the-machine/commits/main', `https://github.com/ownthemachine/own-the-machine/commits/${lawCommit}`));
 console.log(`sync-law: ${articles.length} articles, ${annexes.length} annexes, ${ledger.length} ledger entries @ ${lawCommit}`);
 console.log(`sync-law: registered version: ${registered ? registered.number : 'none'}`);

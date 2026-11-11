@@ -1,22 +1,8 @@
 ---
 article: 3
 status: gate-reviewed
-source-commit: 3181013
+source-commit: 7b33a2d
 ---
-L0: Définit quelles entreprises sont couvertes : très grandes, et valant bien plus que ce qu'elles paient pour le travail humain, pendant au moins deux ans.
+L0: Fixe les critères de désignation et protège les augmentations réelles de salaire.
 
-Une entreprise est désignée lorsqu'elle vend dans l'UE des services
-automatisés, ou des biens produits largement par des systèmes automatisés,
-gagne son argent largement sans travail humain et le fait durablement. Cela
-est présumé lorsqu'une entreprise réalise 7,5 milliards d'euros de chiffre
-d'affaires annuel dans l'UE ou vaut au moins 75 milliards d'euros, opère
-dans au moins trois pays de l'UE, vaut au moins quatre-vingts fois ce
-qu'elle paie chaque année pour le travail humain (sa masse salariale
-auditée, à l'échelle du groupe), et a atteint ces niveaux au cours de
-chacun des deux derniers exercices. Les deux chiffres proviennent de
-comptes audités, si bien qu'une entreprise peut vérifier sa propre
-position, et la seule façon de faire baisser le ratio est d'employer et de
-payer des personnes. Elle doit se déclarer dans les deux mois ; la
-Commission désigne ensuite dans les 45 jours ouvrables. Les
-restructurations ou écritures destinées à esquiver les seuils sont
-ignorées.
+La Commission applique des critères qualitatifs cumulatifs et des seuils réfutables : 7,5 milliards d'EUR de chiffre d'affaires dans l'Union ou 75 milliards de valeur, activité dans trois États membres et valeur d'au moins quatre-vingts fois la rémunération auditée du groupe, pendant deux exercices. Une désignation sous les seuils reste possible après enquête. La valeur de marché peut nécessiter un prix de transaction ou une évaluation indépendante. Les hausses de rémunération d'un travail réel existant et les baisses réelles de valeur ne sont pas écartées uniquement parce qu'elles modifient le ratio. Les acquisitions et restructurations restent soumises à la règle distincte anti-contournement fondée sur les effets.

@@ -1,20 +1,8 @@
 ---
 article: 3
 status: gate-reviewed
-source-commit: 3181013
+source-commit: 7b33a2d
 ---
-L0: Define qué empresas quedan cubiertas: muy grandes, y que valen mucho más de lo que pagan por el trabajo humano, durante al menos dos años.
+L0: Fija los criterios de designación y protege las subidas salariales reales.
 
-Una empresa se designa cuando vende en la UE servicios automatizados, o
-bienes producidos en gran medida por sistemas automatizados, gana su dinero
-en gran medida sin trabajo humano y lo hace de forma duradera. Esto se
-presume cuando una empresa tiene 7 500 millones de euros de facturación
-anual en la UE o vale al menos 75 000 millones, opera en al menos tres
-países de la UE, vale al menos ochenta veces lo que paga cada año por el
-trabajo humano (su nómina auditada, a escala de grupo), y alcanzó esos
-niveles en cada uno de los dos últimos ejercicios. Ambas cifras salen de
-cuentas auditadas, de modo que una empresa puede comprobar su propia
-posición, y la única manera de bajar la proporción es emplear y pagar a
-personas. Debe notificarse en un plazo de dos meses; la Comisión designa
-después en 45 días laborables. Las reestructuraciones o artificios contables
-concebidos para eludir los umbrales no se tendrán en cuenta.
+La Comisión aplica criterios cualitativos acumulativos y umbrales refutables: 7,5 mil millones de EUR de facturación en la Unión o 75 mil millones de valor, actividad en tres Estados miembros y valor de al menos ochenta veces la remuneración laboral auditada del grupo durante dos ejercicios. También cabe designar por debajo de los umbrales tras una investigación. El valor de mercado puede requerir un precio de transacción o una valoración independiente. Las subidas por trabajo real existente y las caídas reales de valor no se descartan solo porque cambien la ratio. Las adquisiciones y reestructuraciones siguen sujetas a la regla antielusión separada basada en sus efectos.

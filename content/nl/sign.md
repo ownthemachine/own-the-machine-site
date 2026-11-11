@@ -1,73 +1,36 @@
 ---
-source: site/content/en/sign.md
-source-commit: 2ac5f03
-status: gate-reviewed
+source: content/en/sign.md
+source-commit: 8d35a77
+source-sha256: f8155ec276eaeef8b5246a63a6ce45b44caaa8e84b8c7890754c403a43b5d472
+status: machine-reviewed
 ---
 
-## Eerst de eerlijke banner boven deze pagina
+## Huidige status
 
-Lees het statuskader bovenaan. Vandaag valt er nergens iets te ondertekenen,
-en wie vandaag handtekeningen of gegevens verzamelt voor dit initiatief,
-zijn wij niet. Deze pagina bestaat zodat, als de registratie er ooit komt,
-een miljoen mensen het pad al geplaveid vinden in hun eigen taal.
+Er is geen versie geregistreerd en er valt vandaag niets te ondertekenen voor dit initiatief. Het statuskader en de pagina [versies](/law/versions) tonen het registratiedossier. Een blijk van belangstelling is geen officiële steunbetuiging.
 
-## Hoe het ondertekenen van een Europees burgerinitiatief echt werkt
+## Hoe ondertekenen werkt
 
-Ondertekenen gebeurt nooit op deze site. Elke handtekening voor elk
-initiatief wordt verzameld op het eigen centrale onlinesysteem van de
-Europese Commissie, of op officiële papieren formulieren, onder
-Verordening (EU) 2019/788. Je gegevens gaan naar de Commissie en naar de
-autoriteiten van je lidstaat voor verificatie, en naar niemand anders, en
-deze campagne ziet ze nooit. De officiële pagina van elk initiatief, en de
-enige plaats om er een te ondertekenen, is
-[citizens-initiative.europa.eu](https://citizens-initiative.europa.eu/).
+Als de verzameling opent, zal deze site linken naar de pagina van het initiatief op het centrale online verzamelsysteem van de Commissie. Dat is het enige online verzamelsysteem voor nieuw geregistreerde burgerinitiatieven. Officiële papieren formulieren zijn ook toegestaan; deze campagne heeft de papieren verzameling niet geopend. Raadpleeg de privacyverklaring van de Commissie voor de precieze verwerking van ondertekeningsgegevens. Deze website zal geen eigen handtekeningenformulier hosten.
 
-## Wie mag ondertekenen
+## Wie kan ondertekenen
 
-Elke EU-burger die oud genoeg is om te stemmen bij de verkiezingen voor
-het Europees Parlement: 18 in de meeste lidstaten, lager in enkele. Je
-ondertekent als burger van je land, waar ter wereld je ook woont. Je kunt
-elk initiatief maar één keer ondertekenen.
+EU-burgers kunnen eenmaal per initiatief ondertekenen, waar zij ook wonen, mits zij de minimale ondertekenleeftijd voor hun nationaliteit hebben bereikt. Dat is over het algemeen de leeftijd om te stemmen voor het Europees Parlement; sommige lidstaten staan EBI-steun afzonderlijk toe vanaf 16 jaar. Raadpleeg de actuele [voorwaarden en gegevensvereisten](https://citizens-initiative.europa.eu/data-requirements_en) van de Commissie. De voorgestelde leeftijd van 18 jaar voor het ontwerpfonds staat los van de voorwaarden om te mogen ondertekenen.
 
-## Wat je zou moeten invullen
+## Welke gegevens zijn nodig
 
-Dat hangt af van je lidstaat, omdat de verificatie nationaal is. De
-lidstaten vallen in twee groepen: ongeveer de helft verifieert op naam,
-adres, geboortedatum en nationaliteit, en de rest vraagt daarnaast een
-persoonlijk identificatienummer of het nummer van een identiteitsdocument,
-bijvoorbeeld van je identiteitskaart of paspoort. De ondertekenpagina van
-de Commissie toont de precieze velden voor jouw land voordat je iets
-intypt. Voor een campagne doet dit verschil ertoe, want om een ID-nummer
-vragen is een hogere drempel, en daarom plannen serieuze initiatieven land
-voor land.
+Het officiële formulier vermeldt de gegevens die vereist zijn voor uw lidstaat van nationaliteit. Dit kan een documentnummer van een identiteitsbewijs of een persoonlijk identificatienummer omvatten. Sommige landen ondersteunen elektronische identificatie. Gebruik de instructies van het officiële formulier; stuur geen identiteitsdocumenten naar deze campagne en plaats geen persoonlijke ondertekeningsgegevens in openbare discussies.
 
-## Waarom een initiatief in de praktijk meer dan een miljoen nodig heeft
+## Wat één miljoen betekent
 
-De wettelijke lat ligt op een miljoen geldige steunbetuigingen binnen twaalf
-maanden, met landelijke minima in minstens zeven lidstaten, elk minimum
-ruwweg het aantal EP-zetels van het land maal 750. Een deel van de
-handtekeningen sneuvelt altijd bij verificatie, dus ervaren organisatoren
-mikken ruim boven de lat. Van de initiatieven die sinds 2012 zijn
-geregistreerd, heeft ruwweg één op de negen haar gehaald. De initiatieven
-die haar haalden, werden gedragen door coalities met echte netwerken in veel
-landen, en daarom eisen de eigen toetsmomenten van dit project organisatoren
-en institutionele partners vóór enige indiening.
+Succes vereist één miljoen geldige steunbetuigingen en minimumaantallen in ten minste zeven lidstaten binnen de verzameltermijn van twaalf maanden. Voor initiatieven die zijn geregistreerd op of na 16 juli 2024 worden de drempels berekend op basis van het totale aantal Europarlementariërs, momenteel 720: voor België is dat 15.840. Raadpleeg de [officiële drempeltabel](https://citizens-initiative.europa.eu/thresholds_en) voor de actuele cijfers. Ingediende aantallen blijven onderhevig aan verificatie.
 
-## Wat deze campagne tijdens een inzameling wel en niet zal doen
+Succes leidt tot een onderzoek en een gemotiveerd antwoord van de Commissie, niet tot een automatische referendumuitslag of vaststelling van het ontwerp. De voorgestelde [registratiedoelstellingen](/law/registration) vormen het verzoek; de verordening illustreert een mogelijk mechanisme. Zie het [officiële proces](https://citizens-initiative.europa.eu/how-it-works_en).
 
-Als de inzameling ooit opent, verwijst deze site naar de officiële
-ondertekenpagina van de Commissie en naar niets anders: geen eigen
-formulier, geen petitie, geen e-mailoogst. De tekst die mensen
-ondertekenen wordt bevroren en naast het levende ontwerp gepubliceerd, met
-elk verschil zichtbaar, volgens de regel die al is aangenomen op de pagina
-[versies](/law/versions). Alles wat zich als dit initiatief voordoet en
-ergens anders om je gegevens vraagt, is dit initiatief niet.
+## Tijdens de verzameling
 
-## Wat je kunt doen voordat dat alles bestaat
+De geregistreerde tekst zal worden vastgelegd en gepubliceerd naast het lopende ontwerp, waarbij verschillen zichtbaar zijn volgens de regels op [versies](/law/versions). Het systeem van de Commissie biedt optionele updates over het initiatief na ondertekening; de organisatoren kunnen deze via dat systeem versturen zonder de e-mailadressen van abonnees te ontvangen. Het beleid van deze site om geen lijsten aan te houden staat los van die officiële optie. De verzamelperiode en de officiële link verschijnen pas zodra deze zijn bevestigd.
 
-Lees de [samenvatting op één pagina](/brief), bestrijd de
-[bezwaren](/law/objections), en als je zou overwegen een van de zeven
-organisatoren te zijn, of het project in contact te brengen met een
-organisatie met bereik in jouw land, zeg dat dan op de pagina
-[meedoen](/join). Een miljoen handtekeningen wordt verzameld door
-netwerken, en het netwerk is wat er nog niet is.
+## Vóór de verzameling
+
+Lees de [samenvatting op één pagina](/brief), bestudeer de [bezwaren](/law/objections) en gebruik [doe mee](/join) om vragen te stellen of te helpen organiseren. Niemand hoeft het boek te kopen, een identiteitsbewijs te verstrekken of te betalen om het voorstel te beoordelen.

@@ -17,6 +17,7 @@ const isLocal = Boolean(law.objections[lang]);
   <p class="intro prose" set:html={fmt(t.objections.intro, { LAW: href(lang, '/law') })} />
   <LangBanner lang={lang} doc={law.objections[lang]} />
   <DraftNotice lang={lang} />
+  <p class="sizing-note">{t.reviewNotice.sizing}</p>
   <div class="withtoc">
     <OnPage lang={lang} toc={doc.toc} />
     <div class="prose objections" lang={isLocal ? lang : "en"} set:html={doc.html} />
@@ -24,6 +25,7 @@ const isLocal = Boolean(law.objections[lang]);
 </Base>
 
 <style>
+  .sizing-note { border-left: 3px solid var(--serial-red); padding: 0.8rem; background: var(--card); font-size: 0.9rem; }
   h1 { font-size: 1.7rem; margin: 0.4rem 0 1rem; }
   .intro { margin-bottom: 2rem; }
   .objections :global(h2) { border-top: 1px solid var(--guilloche); padding-top: 1.4rem; }

@@ -1,8 +1,8 @@
 ---
-source-commit: 742bfc8
 article: 13
 status: gate-reviewed
+source-commit: bfe309a
 ---
-L0: Permite a la Comisión multar hasta el 10 % de la facturación mundial y, en último recurso, vetar a la empresa en la UE.
+L0: Permite exigir ejecución e información también a los adquirentes sujetos.
 
-Una empresa que no emita el warrant, no entregue las acciones o no notifique una venta o salida a bolsa, facilite información falsa, eluda la designación mediante un mecanismo artificial, o incumpla una decisión de la Comisión sobre tal mecanismo, puede ser multada con hasta el 10 % de su facturación mundial. Para forzar el cumplimiento, la Comisión puede añadir multas coercitivas diarias de hasta el 5 % de la facturación mundial media diaria. Una empresa con sede fuera de la UE que se niegue persistentemente a cumplir puede, como último recurso y solo mientras dure la negativa, quedar excluida de ofrecer los bienes y servicios afectados en la UE. Los tribunales de la UE pueden revisar, reducir o aumentar cada sanción. Las multas van al presupuesto general de la UE, nunca a la Reserva.
+El incumplimiento doloso o negligente de las obligaciones enumeradas de emisión, suscripción, información y antielusión puede dar lugar a multas de hasta el 10 % de la facturación mundial. Los adquirentes sujetos están expresamente incluidos. Las multas coercitivas diarias pueden alcanzar el 5 % de la facturación diaria media. El incumplimiento persistente de emisión o suscripción fuera de la Unión puede ocasionar, como último recurso, una prohibición temporal de mercado. La Comisión oye a la empresa y considera gravedad, duración y reiteración. Los tribunales de la UE revisan las sanciones. Los ingresos van al presupuesto de la Unión, no a la Reserva.

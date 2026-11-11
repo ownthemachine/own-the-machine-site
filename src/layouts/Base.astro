@@ -8,11 +8,14 @@ import '@fontsource/literata/600.css';
 import '@fontsource/playfair-display/500.css';
 import '@fontsource/playfair-display/600.css';
 import '../styles/base.css';
+import law from '../generated/law.json';
 import { dict, href, LOCALES, DICTS } from '../lib/i18n.mjs';
 import { ogSlugForPath, ogFilename } from '../lib/og-slug.mjs';
 
-interface Props { title: string; description?: string; lang?: string; noindex?: boolean }
-const { title, lang = 'en', noindex = false } = Astro.props;
+interface Props { title: string; description?: string; lang?: string; noindex?: boolean; enOnly?: boolean }
+// enOnly: the page exists in English only, so it offers no translated
+// alternates and its language switcher lands on each language's home.
+const { title, lang = 'en', noindex = false, enOnly = false } = Astro.props;
 const t = dict(lang);
 const description = Astro.props.description || t.chrome.metaDescription;
 
@@ -21,13 +24,29 @@ const description = Astro.props.description || t.chrome.metaDescription;
 // below is now a full sitemap, which lets the primary nav carry only the
 // entry points a first-time reader needs: the text itself, the argument
 // against it, the numbers, the questions, and the one thing we ask.
-const nav = [
+const nav = lang === 'en' ? [
+  // English carries the plain five-section menu; the other languages keep the
+  // menu above until their translations are made and reviewed. Every page
+  // below still has its own route; the sections group them.
+  ['/', t.plainMenu.home],
+  ['/questions', t.plainMenu.qa],
+  ['/experts', t.plainMenu.experts],
+  ['/get-involved', t.plainMenu.involved],
+  ['/about', t.plainMenu.about],
+] : [
   ['/law', t.chrome.law],
   ['/law/objections', t.chrome.objections],
   ['/simulator', t.chrome.simulator],
   ['/faq', t.chrome.faq],
   ['/join', t.chrome.join],
 ];
+// Which pages sit under which English section, for the current-page mark.
+const SECTION = {
+  '/questions': ['/questions', '/simulator'],
+  '/experts': ['/experts', '/law', '/evidence', '/faq'],
+  '/get-involved': ['/get-involved', '/join', '/sign', '/contribute'],
+  '/about': ['/about', '/press', '/brief'],
+};
 
 // Footer sitemap: everything reachable, grouped by why a reader is here.
 const footerGroups = [
@@ -55,12 +74,27 @@ const footerGroups = [
     ['/about', t.chrome.about],
   ]],
 ];
+if (lang === 'en') {
+  const faq = footerGroups[1][1].find(([h]) => h === '/faq');
+  if (faq) faq[1] = t.plainMenu.faqLabel;
+  footerGroups[1][1].unshift(['/questions', t.plainMenu.qa]);
+  footerGroups[0][1].unshift(['/experts', t.plainMenu.experts]);
+  footerGroups[2][1].unshift(['/get-involved', t.plainMenu.involved]);
+}
+// Hint on the language links of English-only pages: they open the other
+// language's home page, not a translation of this one.
+const LANG_EN = { nl: 'Dutch', fr: 'French', de: 'German', es: 'Spanish' };
+const hint = (l) => DICTS.en.plainMenu.notTranslated.replace('%LANG%', LANG_EN[l] || l);
 // Path of this page with the locale prefix removed, for the switcher and
 // hreflang alternates.
 const rawPath = Astro.url.pathname.replace(/\.html$/, '');
 const basePath = lang === 'en' ? rawPath : (rawPath.replace(new RegExp(`^/${lang}`), '') || '/');
 const isCurrent = (navHref: string) => {
   const p = basePath;
+  if (lang === 'en') {
+    if (navHref === '/') return p === '/';
+    return (SECTION[navHref] || [navHref]).some((s) => p === s || p.startsWith(s + '/'));
+  }
   if (navHref === '/law') return p === '/law' || (p.startsWith('/law/') && !p.startsWith('/law/objections') && !p.startsWith('/law/ledger'));
   return p === navHref || p.startsWith(navHref + '/');
 };
@@ -86,19 +120,18 @@ const jsonLd = {
       name: 'Own the Machine',
       inLanguage: lang,
       description,
-      publisher: { '@id': `${Astro.site}#org` },
+      publisher: { '@id': `${Astro.site}#initiator` },
     },
     {
-      '@type': 'Organization',
-      '@id': `${Astro.site}#org`,
-      name: 'Own the Machine',
-      url: String(Astro.site),
-      logo: new URL('/og/en-index.png', Astro.site).href,
+      '@type': 'Person',
+      '@id': `${Astro.site}#initiator`,
+      name: 'David Vanheeswijck',
+      url: new URL('/about', Astro.site).href,
     },
     {
       '@type': 'Legislation',
       '@id': `${Astro.site}#regulation`,
-      name: 'Regulation on the participation of citizens of the Union in the capital value created by hyper-automated undertakings',
+      name: 'Regulation of the European Parliament and of the Council on harmonised rules for citizen participation in automated productivity gains (Citizens’ Capital Regulation)',
       legislationType: 'Draft Regulation',
       legislationJurisdiction: 'European Union',
       inLanguage: 'en',
@@ -134,7 +167,7 @@ const jsonLd = {
     <meta property="og:site_name" content="Own the Machine" />
     <meta property="og:url" content={canonical} />
     <meta property="og:locale" content={OG_LOCALE[lang] || 'en_GB'} />
-    {LOCALES.filter((l) => l !== lang).map((l) => (
+    {(enOnly ? [] : LOCALES.filter((l) => l !== lang)).map((l) => (
       <meta property="og:locale:alternate" content={OG_LOCALE[l]} />
     ))}
     <meta property="og:title" content={title} />
@@ -164,7 +197,7 @@ const jsonLd = {
     <meta name="referrer" content="no-referrer" />
     <meta name="color-scheme" content="light dark" />
     <script type="application/ld+json" is:inline set:html={JSON.stringify(jsonLd)} />
-    {LOCALES.map((l) => (
+    {(enOnly ? ['en'] : LOCALES).map((l) => (
       <link rel="alternate" hreflang={l} href={abs(l, basePath)} />
     ))}
     <link rel="alternate" hreflang="x-default" href={abs('en', basePath)} />
@@ -184,14 +217,20 @@ const jsonLd = {
         ))}
         <span class="langs" role="group" aria-label="Language">
           {LOCALES.map((l) => (
-            <a class="lang" href={href(l, basePath)} aria-current={l === lang ? 'true' : undefined}
-               hreflang={l} lang={l} title={DICTS[l].name}>{l.toUpperCase()}</a>
+            <a class="lang" href={href(l, enOnly ? '/' : basePath)} aria-current={l === lang ? 'true' : undefined}
+               hreflang={l} lang={l} title={enOnly && l !== lang ? hint(l) : DICTS[l].name}
+               aria-label={enOnly && l !== lang ? `${l.toUpperCase()}: ${hint(l)}` : undefined}>{l.toUpperCase()}</a>
           ))}
         </span>
         <button id="theme-toggle" type="button" aria-label={t.chrome.themeToggle} title={t.chrome.themeToggle}>◐</button>
       </div>
     </nav>
-    <main id="main"><slot /></main>
+    <main id="main">
+      {!law.registered && <aside class:list={["review-notice", { "no-print": basePath.replace(/\/$/, "") === "/brief" }]}>
+        <p>{t.reviewNotice.text} <a href={href(lang, '/about')}>{t.reviewNotice.link}</a></p>
+      </aside>}
+      <slot />
+    </main>
     <script is:inline>
       (function () {
         var b = document.getElementById('theme-toggle');
@@ -238,6 +277,10 @@ const jsonLd = {
 </html>
 
 <style>
+  .review-notice { border-left: 3px solid var(--seal-gold); padding: 0.65rem 0.9rem; margin-bottom: 1.3rem; background: var(--card); color: var(--ink-soft); font-size: 0.85rem; }
+  @media print { .review-notice { color: #000; background: transparent; border-color: #444; } }
+  .review-notice p { margin: 0; max-width: var(--measure); }
+  .review-notice a { color: inherit; text-decoration: underline; }
   .skip { position: absolute; left: -999px; top: 0; background: var(--seal-gold); color: var(--paper); padding: 0.5rem 1rem; z-index: 30; }
   .skip:focus { left: 0; }
   nav {

@@ -18,6 +18,7 @@
 
 import { readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
+import { pathToFileURL } from 'node:url';
 
 const ROOT = process.cwd();
 const LOCALES = ['en', 'nl', 'fr', 'de', 'es'];
@@ -55,22 +56,13 @@ const ALLOWED = {
   law: { locales: ['en'], why: 'English "law" is generic; the other four locales name the instrument and are checked' },
 };
 
-const dict = (loc) => readFileSync(join(ROOT, 'src', 'i18n', `${loc}.mjs`), 'utf8');
-const unesc = (s) => s.replace(/\\'/g, "'").replace(/\\u2019/g, '’');
-
-function chromeLabels(loc) {
-  const m = dict(loc).match(/ {2}chrome: \{([\s\S]*?)\n {2}\},/);
-  const out = {};
-  for (const [, k, v] of m[1].matchAll(/(\w+):\s*'((?:[^'\\]|\\.)*)'/g)) out[k] = unesc(v);
-  return out;
-}
-
-function sectionTitle(loc, section) {
-  const m = dict(loc).match(new RegExp(` {2}${section}: \\{([\\s\\S]*?)\\n {2}\\},`));
-  if (!m) return null;
-  const t = m[1].match(/title:\s*'((?:[^'\\]|\\.)*)'/);
-  return t ? unesc(t[1]) : null;
-}
+// Import the same dictionaries the site renders. Parsing source with a regex
+// can silently take a following section's title when quoting or layout changes.
+const dictionaries = Object.fromEntries(await Promise.all(LOCALES.map(async (loc) =>
+  [loc, (await import(pathToFileURL(join(ROOT, 'src', 'i18n', `${loc}.mjs`)).href)).default]
+)));
+const chromeLabels = (loc) => dictionaries[loc].chrome;
+const sectionTitle = (loc, section) => dictionaries[loc][section]?.title ?? null;
 
 // Articles and prepositions carry no terminology, and letting one satisfy the
 // match is how "De wet" slipped through against a page titled "De

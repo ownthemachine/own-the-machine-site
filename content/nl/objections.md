@@ -1,6 +1,7 @@
 ---
+source-sha256: 09ccfdbfb8e16751d4ef7dc0bfb1c71bb1336c33cdb08496b32f975b20da534f
 source: regulation/memorandum/counter-arguments.md
-source-commit: 3181013
+source-commit: 7b33a2d
 status: gate-reviewed
 ---
 
@@ -55,7 +56,7 @@ poortwachtersverplichtingen uit de DMA), niet als een confiscatie van
 bestaand bezit. Ten tweede mag hij alleen gelden boven hoge, objectieve
 drempels, zodat de evenredigheidstoets houvast heeft. Ten derde moet er een
 tegenprestatie tegenover staan: de reserve is een passieve houder zonder
-zeggenschap, de warrant wordt pas verzilverd bij liquiditeitsgebeurtenissen,
+zeggenschap, de warrant wordt verzilverd bij de wettelijke liquiditeits-, onttrekkings- of tijdstriggers,
 en de gedekte onderneming krijgt de rechtszekerheid van één geharmoniseerd
 stelsel in plaats van zevenentwintig nationale experimenten. Of die
 tegenprestatie volstaat, is het grootste juridische risico van het project,
@@ -646,14 +647,7 @@ Een basisinkomen belooft ten minste de huur.
 
 **Wat eraan klopt.** De vroege stroom is werkelijk klein, en de campagne mag haar structureel niet opblazen. Het inzamelingsrisico is reëel: uitgestelde beloningen leggen het aan elke deur af tegen directe beloningen.
 
-**Het antwoord dat het instrument moet geven.** Drie delen. Ten eerste is de
-kleinheid kalibratie, geen falen: de omvang van het instrument volgt per
-definitie de omvang van het verschijnsel. Drie procent van weinig is weinig,
-afgenomen van bijna niemand, en in die wereld verplicht artikel 14, lid 3,
-de Commissie te rapporteren dat de premisse niet is uitgekomen en wijziging
-of intrekking voor te stellen; een blijvend klein dividend is de
-falsificatievoorwaarde die afgaat, geen beleid dat hinkt. Het dividend is
-alleen klein in de wereld waarin het probleem ook klein is. Ten tweede kan
+**Het antwoord dat het instrument moet geven.** Drie delen. Ten eerste bewijzen kleine uitkeringen op zichzelf niet dat de automatiseringseconomie klein is of dat de premisse is mislukt. Een groot eigendomsbelang kan weinig gerealiseerde inkomsten opleveren. De indicatoren en beoordeling van artikel 14 toetsen de premisse; de dividendhoogte alleen doet dat niet. Het kapitaaldoel over een generatie en beschikbaar inkomen moeten afzonderlijk worden beoordeeld. Ten tweede kan
 de aanspraak alleen vroeg worden gekocht. De bevroren Deense inleg van DKK 4
 368 uit 1978, destijds zinloos geld, is vandaag DKK 119 506; twee derde van
 het Noorse fonds is samengesteld rendement, geen olie. Het alternatieve

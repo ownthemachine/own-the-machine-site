@@ -1,0 +1,45 @@
+---
+import Base from '../../layouts/Base.astro';
+import { heroSeal } from '../../lib/seal.mjs';
+import { dict, href } from '../../lib/i18n.mjs';
+// English only: the other languages keep Home.astro until their translations
+// of this page are made and reviewed.
+const lang = 'en';
+const t = dict(lang);
+const p = t.plainHome;
+---
+<Base title={p.title} lang={lang} description={p.description}>
+  <section class="plain">
+    <div class="head">
+      <div class="seal" role="img" aria-label={p.sealLabel} set:html={heroSeal({ size: 96 })} />
+      <div>
+        <h1>{p.title}</h1>
+        <p class="subtitle">{p.subtitle}</p>
+      </div>
+    </div>
+    <p>{p.p1}</p>
+    <p>{p.p2}</p>
+    <p>{p.p3}</p>
+    <p class="basis">{p.basis} <a href={href(lang, '/law/registration')}>{p.basisLink}</a></p>
+    <div class="cta no-print">
+      <a class="btn btn-gold" href={href(lang, '/questions')}>{p.ctaQa}</a>
+      <a class="btn" href={href(lang, '/experts')}>{p.ctaExperts}</a>
+    </div>
+    <p class="smallprint"><em>{p.smallprint}</em></p>
+  </section>
+</Base>
+
+<style>
+  .plain { max-width: 40rem; margin: 0 auto; }
+  .head { display: flex; align-items: center; gap: 1.2rem; margin-bottom: 1.2rem; }
+  .seal { flex: none; display: flex; }
+  .plain h1 { font-size: clamp(1.9rem, 6vw, 2.8rem); margin: 0 0 0.3rem; }
+  .plain .subtitle { font-size: 1.15rem; margin: 0; }
+  .plain p { font-family: var(--read); margin: 0 0 0.9rem; }
+  .basis { font-size: 0.92rem; color: var(--ink-soft); }
+  .cta { display: flex; gap: 0.9rem; flex-wrap: wrap; margin: 1.4rem 0; }
+  .smallprint { font-size: 0.85rem; color: var(--ink-soft); }
+  :global(.seal-draw) { stroke-dasharray: 4000; stroke-dashoffset: 4000; animation: seal-draw 2.2s ease-out forwards; }
+  @keyframes seal-draw { to { stroke-dashoffset: 0; } }
+  @media (prefers-reduced-motion: reduce) { :global(.seal-draw) { animation: none; stroke-dashoffset: 0; } }
+</style>

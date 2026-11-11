@@ -1,0 +1,26 @@
+pages
+  ok    en home 200, 144503 bytes
+  ok    nl home 200, 145137 bytes
+  ok    fr home 200, 145293 bytes
+  ok    de home 200, 145278 bytes
+  ok    es home 200, 145160 bytes
+  ok    the law 200, 21629 bytes
+  ok    objections 200, 109809 bytes
+  ok    faq 200, 16703 bytes
+  ok    brief 200, 15802 bytes
+  ok    join 200, 15017 bytes
+  ok    versions 200, 15220 bytes
+  ok    explanatory memo 200, 50107 bytes
+  ok    deep article 200, 28473 bytes
+extensionless paths
+  ok    /law/article-5 serves directly (no redirect tax)
+error handling
+  ok    missing pages return 404
+downloads
+  ok    draft PDF 200, 0.7 MB
+certificate
+  ok    certificate valid for 72 more days (Let's Encrypt)
+headers
+  ok    CSP present in the document
+
+check-live: the site is serving correctly.

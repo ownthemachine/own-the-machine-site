@@ -1,0 +1,67 @@
+{
+  "date": "2026-09-07",
+  "status": "STAGED_NOT_DEPLOYED",
+  "previous_live_release": "releases/2026-09-07",
+  "page_paths": [
+    "/join",
+    "/about",
+    "/fr/join",
+    "/fr/about",
+    "/nl/join",
+    "/nl/about",
+    "/de/join",
+    "/de/about",
+    "/es/join",
+    "/es/about"
+  ],
+  "source_files": [
+    {
+      "path": "content/en/join.md",
+      "sha256": "38055680aaa7a44e5766925bbf7fec3003c1b64774bb29ea93b17bf8cb8defd6"
+    },
+    {
+      "path": "content/en/about.md",
+      "sha256": "dcd7b78d605a9d0ca7f6055daeb55b043e9462c81d2b31eef015c2b5e51d5341"
+    },
+    {
+      "path": "content/fr/join.md",
+      "sha256": "4d089208353911bb2e8a84f40813886bccfefc048cfa20cde57f720442ce2850"
+    },
+    {
+      "path": "content/fr/about.md",
+      "sha256": "f2d15df17da3e179af30e8dec71dfa7bd5f7dc30857ae268f0bd607e60d247bf"
+    },
+    {
+      "path": "content/nl/join.md",
+      "sha256": "274a8feacd1470327c0fbb9ffb753d9d567f99fa8517daaab63bc8fb4162e9e4"
+    },
+    {
+      "path": "content/nl/about.md",
+      "sha256": "449a79693ad6fc3a73e3e429c4041b86078dc78f665c76d124c6cd55c135d847"
+    },
+    {
+      "path": "content/de/join.md",
+      "sha256": "667912f450dd320973446f36e130924877f7650829d72b6aae8314883693f369"
+    },
+    {
+      "path": "content/de/about.md",
+      "sha256": "35d174dc33d6c340567d644d5a26a49c7fd1c7a7dc6b0626f6bb99df057663f8"
+    },
+    {
+      "path": "content/es/join.md",
+      "sha256": "1feb05828e6863084ad58a385cfed94991f0273fbe95738f6fcae56d85267fef"
+    },
+    {
+      "path": "content/es/about.md",
+      "sha256": "8eec8d67066988a493d777c2777b851e6fbdcbb202d0ba3ea54c87183275e9cc"
+    }
+  ],
+  "browser_qa_source_commit": "98fb43c",
+  "qa_result": "20 page/theme samples; desktop and mobile; all passed, no axe violations; before later factual MEP-send update",
+  "build_pages": 191,
+  "backups": "20 existing join/about objects backed up locally; no uploads",
+  "blocking_check": "Verify hello mail destination and end-to-end receipt, disclose actual mail processing, rerun affected prose/translation/adversarial review",
+  "linkedin_page_created": false,
+  "linkedin_post_published": false,
+  "public_consultation_opened": false
+}

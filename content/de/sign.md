@@ -1,76 +1,74 @@
 ---
-source: site/content/en/sign.md
-source-commit: 2ac5f03
-status: gate-reviewed
+source: content/en/sign.md
+source-commit: 8d35a77
+source-sha256: f8155ec276eaeef8b5246a63a6ce45b44caaa8e84b8c7890754c403a43b5d472
+status: machine-reviewed
 ---
 
-## Zuerst der ehrliche Kasten über dieser Seite
+## Aktueller Status
 
-Lesen Sie den Statuskasten ganz oben. Heute gibt es nirgendwo etwas zu
-unterzeichnen, und wer heute Unterschriften oder Daten für diese Initiative
-sammelt, handelt nicht in unserem Auftrag. Diese Seite existiert, damit,
-falls die Registrierung eines Tages kommt, eine Million Menschen den Weg
-bereits geebnet vorfinden, in ihrer eigenen Sprache.
+Derzeit ist keine Fassung registriert und es gibt für diese Initiative heute nichts
+zu unterzeichnen. Das Statusfeld und die Seite [Fassungen](/law/versions) enthalten
+den Registrierungsstand. Eine Interessenbekundung ist keine offizielle
+Unterstützungsbekundung.
 
-## Wie das Unterzeichnen einer Europäischen Bürgerinitiative wirklich abläuft
+## Wie das Unterzeichnen funktioniert
 
-Unterzeichnet wird niemals auf dieser Seite. Jede Unterschrift für jede
-Initiative wird auf dem zentralen Onlinesystem der Europäischen Kommission
-gesammelt, oder auf amtlichen Papierformularen, nach der Verordnung (EU)
-2019/788. Ihre Daten gehen zur Prüfung an die Kommission und an die
-Behörden Ihres Mitgliedstaats, an niemanden sonst, und diese Kampagne
-sieht sie nie. Die offizielle Seite jeder Initiative, und der einzige Ort,
-eine zu unterzeichnen, ist
-[citizens-initiative.europa.eu](https://citizens-initiative.europa.eu/).
+Falls die Sammlung beginnt, wird diese Website auf die Seite der Initiative im
+zentralen Online-Sammelsystem der Kommission verlinken. Dies ist das einzige
+Online-Sammelsystem für neu registrierte EBIs. Offizielle Papierformulare sind
+ebenfalls zulässig; diese Kampagne hat keine Papiersammlung eröffnet. Bitte
+beachten Sie die Datenschutzhinweise der Kommission für den genauen Umgang mit den
+Unterzeichnungsdaten. Diese Website wird kein eigenes Unterschriftenformular
+bereitstellen.
 
-## Wer unterzeichnen darf
+## Wer unterzeichnen kann
 
-Jede EU-Bürgerin und jeder EU-Bürger, alt genug, um an den Wahlen zum
-Europäischen Parlament teilzunehmen: 18 in den meisten Mitgliedstaaten,
-in einigen weniger. Sie unterzeichnen als Bürgerin oder Bürger Ihres
-Landes, wo auf der Welt Sie auch leben. Jede Initiative können Sie nur
-einmal unterzeichnen.
+Unionsbürgerinnen und Unionsbürger können jede Initiative einmal unterzeichnen,
+unabhängig von ihrem Wohnort, sofern sie das für ihre Staatsangehörigkeit geltende
+Mindestalter für die Unterzeichnung erreicht haben. Dies ist in der Regel das
+Wahlalter für die Europawahl; einige Mitgliedstaaten haben das Mindestalter für die Unterstützung einer EBI gesondert auf 16 Jahre festgelegt. Informieren Sie sich über die aktuellen [Voraussetzungen und Datenanforderungen](https://citizens-initiative.europa.eu/data-requirements_de)
+der Kommission. Das im Entwurf für den Fonds vorgesehene Mindestalter von 18 Jahren
+ist von der Unterzeichnungsberechtigung unabhängig.
 
-## Was Sie eingeben müssten
+## Welche Angaben erforderlich sind
 
-Das hängt von Ihrem Mitgliedstaat ab, weil die Prüfung national ist. Die
-Mitgliedstaaten zerfallen in zwei Gruppen: etwa die Hälfte prüft anhand
-von Name, Anschrift, Geburtsdatum und Staatsangehörigkeit, der Rest
-verlangt zusätzlich eine persönliche Identifikationsnummer oder die
-Nummer eines Ausweisdokuments, etwa des Personalausweises oder Reisepasses.
-Die Unterzeichnungsseite der Kommission zeigt die genauen Felder für Ihr
-Land, bevor Sie irgendetwas eintippen. Für eine Kampagne zählt dieser
-Unterschied, weil die Abfrage einer Ausweisnummer eine höhere Hürde ist,
-und deshalb planen ernsthafte Initiativen Land für Land.
+Das offizielle Formular gibt die für den Mitgliedstaat Ihrer Staatsangehörigkeit
+erforderlichen Angaben vor. Dies kann eine Ausweisnummer oder eine persönliche
+Identifikationsnummer umfassen. Einige Länder unterstützen die elektronische
+Identifizierung (eID). Befolgen Sie die Anweisungen auf dem offiziellen Formular;
+senden Sie keine Ausweisdokumente an diese Kampagne und geben Sie keine persönlichen
+Unterzeichnungsdaten in öffentlichen Diskussionen an.
 
-## Warum eine Initiative in der Praxis mehr als eine Million braucht
+## Was eine Million bedeutet
 
-Die rechtliche Hürde liegt bei einer Million gültiger
-Unterstützungsbekundungen in zwölf Monaten, mit Landesminima in mindestens
-sieben Mitgliedstaaten, jedes Minimum ungefähr die Zahl der EP-Sitze des
-Landes mal 750. Ein Teil der Unterschriften scheitert immer an der Prüfung,
-weshalb erfahrene Organisatoren deutlich über diese Schwelle hinaus zielen.
-Von den seit 2012 registrierten Initiativen hat sie ungefähr eine von neun
-erreicht. Die erfolgreichen wurden von Koalitionen mit echten Netzwerken in
-vielen Ländern getragen, und deshalb verlangen die eigenen Prüfstufen dieses
-Projekts Organisatoren und institutionelle Partner vor jeder Einreichung.
+Ein Erfolg erfordert eine Million gültige Unterstützungsbekundungen und das Erreichen
+von Mindestschwellen in mindestens sieben Mitgliedstaaten innerhalb des
+zwölfmonatigen Sammlungszeitraums. Für Initiativen, die am oder nach dem 16. Juli 2024
+registriert wurden, berechnen sich die Schwellenwerte nach der Gesamtzahl der MdEP,
+derzeit 720: Der Schwellenwert für Belgien liegt bei 15 840. Die aktuellen Zahlen finden Sie in
+der [offiziellen Schwellenwerttabelle](https://citizens-initiative.europa.eu/thresholds_de).
+Eingereichte Unterschriftenzahlen unterliegen der Überprüfung.
 
-## Was diese Kampagne während einer Sammlung tun und lassen wird
+Ein Erfolg führt zu einer Prüfung und einer begründeten Antwort der Kommission, nicht
+zu einem automatischen Referendumsergebnis oder der Verabschiedung des Entwurfs. Die
+vorgeschlagenen [Registrierungsziele](/law/registration) bilden das Ersuchen; die
+Verordnung veranschaulicht einen möglichen Mechanismus. Siehe den [offiziellen Ablauf](https://citizens-initiative.europa.eu/how-it-works_de).
 
-Sollte die Sammlung je öffnen, verweist diese Seite auf die offizielle
-Unterzeichnungsseite der Kommission und auf nichts sonst: kein eigenes
-Formular, keine Petition, kein Einsammeln von E-Mail-Adressen. Der Text,
-den die Menschen unterzeichnen, wird eingefroren und neben dem lebenden
-Entwurf veröffentlicht, jeder Unterschied sichtbar, nach der Regel, die
-auf der Seite [Fassungen](/law/versions) bereits gilt. Alles, was sich als
-diese Initiative ausgibt und anderswo Ihre Daten verlangt, ist nicht diese
-Initiative.
+## Während der Sammlung
 
-## Was Sie tun können, bevor es all das gibt
+Der registrierte Text wird festgeschrieben und neben dem fortlaufenden Arbeitsentwurf
+veröffentlicht, wobei Unterschiede nach den Regeln auf der Seite [Fassungen](/law/versions)
+sichtbar gemacht werden. Das System der Kommission bietet nach der Unterzeichnung
+optionale Neuigkeiten zur Initiative an; die Organisatoren können diese über das
+System versenden, ohne die E-Mail-Adressen der Abonnenten zu erhalten. Der Verzicht
+dieser Website auf jede Mailingliste besteht unabhängig von dieser offiziellen
+Option. Sammlungszeiträume und der offizielle Link werden erst nach Bestätigung
+angezeigt.
 
-Lesen Sie die [Zusammenfassung auf einer Seite](/brief), greifen Sie die
-[Einwände](/law/objections) an, und wenn Sie in Erwägung ziehen würden,
-eine oder einer der sieben Organisatoren zu sein oder das Projekt mit
-einer Organisation mit Reichweite in Ihrem Land zu verbinden, sagen Sie es
-auf der Seite [Mitmachen](/join). Eine Million Unterschriften sammeln
-Netzwerke, und das Netzwerk ist das, was noch fehlt.
+## Vor der Sammlung
+
+Lesen Sie die [einseitige Zusammenfassung](/brief), prüfen Sie die [Einwände](/law/objections)
+und nutzen Sie [Mitmachen](/join), um Fragen zu stellen oder bei der Organisation zu
+helfen. Niemand muss das Buch kaufen, ein Ausweisdokument vorlegen oder bezahlen,
+um den Vorschlag zu bewerten.
