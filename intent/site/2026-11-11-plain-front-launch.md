@@ -26,6 +26,7 @@ Source: owner decisions page, 11 November 2026 (points 1 to 6, 10 and 11), answe
 | Date | Who | Decision | Source |
 |---|---|---|---|
 | 11/11/2026 | David | Points 1 to 6, 10, 11 agreed | Owner decisions page |
+| 11/11/2026 | David | Final look: money answer says "If the proposal were adopted"; home names "the European Commission" first; go live | Owner decisions page, points 13 to 15 |
 
 ## Implemented by
 - PR #22 (plain front)

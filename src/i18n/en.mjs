@@ -225,7 +225,7 @@ export default {
     subtitle: 'A share in the gains of automation, for every adult EU citizen.',
     p1: 'Machines are doing more of the work. Companies need fewer people to make the same things, and the profits go to a small number of very large companies and their shareholders. Most people own few or no shares, so they miss out.',
     p2: 'Countries are starting to respond, each in their own way. Even AI companies are floating their own ideas. But there is no common European approach, and a patchwork of national rules will not work for companies that operate across Europe.',
-    p3: 'Own the Machine is a possible European Citizens’ Initiative, a way for one million citizens from at least seven Member States to ask the Commission to propose a law. It asks the European Commission to look at this and propose a common answer, so that every adult EU citizen can own a small share of what automation produces. It is designed to work without a new tax and without the state running companies; whether that holds in law is one of the open questions.',
+    p3: 'Own the Machine is a possible European Citizens’ Initiative, a way for one million citizens from at least seven Member States to ask the European Commission to propose a law. It asks the Commission to look at this and propose a common answer, so that every adult EU citizen can own a small share of what automation produces. It is designed to work without a new tax and without the state running companies; whether that holds in law is one of the open questions.',
     basis: 'Legal basis: Article 114 TFEU, with Article 352 for the parts it does not reach; no Treaty change.',
     basisLink: 'The proposal in the Commission’s format',
     ctaQa: 'Questions and answers',
@@ -246,7 +246,7 @@ export default {
       },
       {
         q: 'Do I get money? How much, and when?',
-        a: 'Not today: nothing exists yet. If one of the options were adopted, every adult EU citizen would get an equal share of what the fund pays out. Amounts depend on what it earns, after the fund has kept back enough to protect its capital, and could be small and infrequent at first. You would have to register with a national body to be paid. The right to future payouts is personal, lasts for your lifetime and cannot be sold or cashed in; money already paid into your account is yours and passes to your heirs. It is not a basic income.',
+        a: 'Not today: nothing exists yet. If the proposal were adopted, every adult EU citizen would get an equal share of what the fund pays out. Amounts depend on what it earns, after the fund has kept back enough to protect its capital, and could be small and infrequent at first. You would have to register with a national body to be paid. The right to future payouts is personal, lasts for your lifetime and cannot be sold or cashed in; money already paid into your account is yours and passes to your heirs. It is not a basic income.',
         links: [['/simulator', 'the simulator, with its limits']],
       },
       {

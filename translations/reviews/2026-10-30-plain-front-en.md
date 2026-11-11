@@ -617,3 +617,30 @@ Changes: the European Citizens' Initiative gloss added to the home text ("a way 
 ---
 
 VERDICT: PUBLISH
+
+## Round 12 (11 November 2026): final-look wording
+
+Changed: "If the proposal were adopted" in the money answer; "the European Commission" named in full first on the home page. Owner decisions 13 and 14. Layer-fidelity gate (EU endpoint) on the changed text against draft Regulation Article 10:
+
+# Review
+
+> Reviewer: `vertex/gemini-3.7-flash@eu` · router router.eu.requesty.ai · geolocation eu · retention 0d · trained-on false · lab google
+> 2026-11-11T12:33:05+00:00 · tokens in=1332 out=1929
+> Prompt: layer-fidelity.md · Verbatim model output below ; do not edit.
+
+> Bundle SHA-256: `c8c7b078248023890a584edd905de707600dcbea19bff064533133e9c4e67642`
+> Prompt SHA-256: `b7977305d075dbb668b4b30e5dcbcad48837ddf5534df598194a22a33c660f40`
+
+### Audit Findings
+
+1. **OVERCLAIM**: None detected. 
+   * Plain text faithfully respects DC-14 by explicitly noting payouts *"could be small and infrequent at first"* and clarifying *"It is not a basic income."*
+   * Plain text accurately reflects legal limits on realization (*"cannot be sold or cashed in"*).
+
+2. **UNDERDISCLOSURE**: None detected. 
+   * The administrative requirement (*"You would have to register with a national body to be paid"*), payout dependency (*"Amounts depend on what it earns, after the fund has kept back enough to protect its capital"*), and non-transferability (*"lasts for your lifetime"*) are all disclosed.
+
+3. **TERM DRIFT**: None detected. 
+   * Plain-language equivalents (*"adult EU citizen"* for Union citizen aged 18+, *"national body"* for national vehicle, and *"fund"* for Reserve) are acceptable simplifications that do not alter the legal extension or mislead signatories.
+
+VERDICT: PUBLISH
