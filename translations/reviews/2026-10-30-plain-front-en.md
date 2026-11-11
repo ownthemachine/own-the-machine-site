@@ -578,3 +578,42 @@ VERDICT: PUBLISH
 
 In the main option, mainly very large companies that provide automated cognitive services, or goods and services whose production depends heavily on them, in at least three Member States (the draft starts from 7.5 billion euro of yearly EU turnover or 75 billion euro of market value, with a market value at least 80 times what they spend on their workforce, for two years running) whose output depends far less on employing people, and only after a check by the Commission. The Commission could also designate a company below those thresholds, but only after a market investigation. Small and medium businesses are unlikely to be covered.
 
+
+## Round 11 (11 November 2026): owner decisions, changed sentences only
+
+Changes: the European Citizens' Initiative gloss added to the home text ("a way for one million citizens from at least seven Member States to ask the Commission to propose a law"); the non-profit sentence dropped from "Who is behind this?"; ", and we are asking lawyers" dropped from "Is this a tax?"; "Do I get money? How much, and when?" moved to second place (no wording change). The gloss was checked against the project's own campaign documents in the law repository (one million statements of support, national minima in at least seven Member States); the article number in Regulation (EU) 2019/788 was not checked against the primary text in this round. Verdict PUBLISH, no findings, no fixes needed.
+
+### Round 11, verbatim
+
+
+> Reviewer: `vertex/gemini-3.7-flash@eu` · router router.eu.requesty.ai · geolocation eu · retention 0d · trained-on false · lab google
+> 2026-11-11T12:23:16+00:00 · tokens in=1721 out=1909
+> Prompt: layer-fidelity.md · Verbatim model output below ; do not edit.
+
+> Bundle SHA-256: `6a1f1ea22e2c6846a2826981f2473e25594d8f748b501538eb715e3d46296378`
+> Prompt SHA-256: `b7977305d075dbb668b4b30e5dcbcad48837ddf5534df598194a22a33c660f40`
+
+### Audit of Changed Sentences
+
+#### 1. Home, third paragraph, first sentence
+* **Plain text:** *"Own the Machine is a possible European Citizens’ Initiative, a way for one million citizens from at least seven Member States to ask the Commission to propose a law."*
+* **Reference / Enacting terms:** ECI reference confirms that an ECI requires at least one million valid statements from at least seven Member States and results in institutional consideration (asking the Commission to propose a law), not automatic enactment.
+* **Finding:** No Overclaim, Underdisclosure, or Term Drift. Accurately describes the mechanism as an ask rather than guaranteed passage, qualifying the initiative as "possible."
+
+---
+
+#### 2. Q&A: "Is this a tax?" (final sentence)
+* **Plain text:** *"Whether EU law would still treat it as a tax is an open legal question."*
+* **Reference / Enacting terms:** Article 1(3)(b) establishes warrant issuance to the Reserve, and Article 1(2) defines distributions as property income.
+* **Finding:** No Overclaim, Underdisclosure, or Term Drift. Accurately discloses legal friction and avoids definitive claims on fiscal classification under EU law.
+
+---
+
+#### 3. Q&A: "Who is behind this?"
+* **Plain text:** *"David Vanheeswijck, a Belgian engineer and author of The Horse Is Here to Stay, acting as a private citizen."*
+* **Reference / Enacting terms:** Reference text distinguishes the initial drafter/contact from the statutory seven-citizen organising group required prior to formal registration.
+* **Finding:** No Overclaim, Underdisclosure, or Term Drift. Plain layer accurately describes the current single-author pre-registration status without conflating it with the formal statutory group.
+
+---
+
+VERDICT: PUBLISH
