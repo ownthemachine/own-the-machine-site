@@ -245,7 +245,7 @@ export default {
     subtitle: 'Een aandeel in de opbrengst van automatisering, voor elke volwassen EU-burger.',
     p1: 'Machines nemen steeds meer werk over. Bedrijven hebben minder mensen nodig om hetzelfde te maken, en de winst gaat naar een klein aantal zeer grote ondernemingen en hun aandeelhouders. De meeste mensen bezitten weinig of geen aandelen, en profiteren daar dus niet van.',
     p2: 'Landen beginnen te reageren, ieder op zijn eigen manier. Zelfs AI-bedrijven komen met eigen ideeën. Maar er is geen gezamenlijke Europese aanpak, en een lappendeken van nationale regels werkt niet voor bedrijven die in heel Europa actief zijn.',
-    p3: 'Own the Machine is een mogelijk Europees burgerinitiatief: een manier waarop één miljoen burgers uit ten minste zeven lidstaten de Europese Commissie kunnen vragen een wetsvoorstel in te dienen. Met het initiatief wordt de Commissie gevraagd zich hierover te buigen en een gezamenlijk antwoord voor te stellen, zodat elke volwassen EU-burger een klein aandeel kan bezitten in wat automatisering oplevert. Het is zo opgezet dat het werkt zonder nieuwe belasting en zonder dat de overheid bedrijven leidt; of dat juridisch standhoudt, is een van de open vragen.',
+    p3: 'Own the Machine is een mogelijk Europees burgerinitiatief: een manier waarop één miljoen burgers uit ten minste zeven lidstaten de Europese Commissie kunnen vragen een wetsvoorstel in te dienen. Het initiatief vraagt de Commissie zich hierover te buigen en een gezamenlijk antwoord voor te stellen, zodat elke volwassen EU-burger een klein aandeel kan bezitten in wat automatisering oplevert. Het is zo opgezet dat het werkt zonder nieuwe belasting en zonder dat de overheid bedrijven leidt; of dat juridisch standhoudt, is een van de open vragen.',
     basis: 'Rechtsgrondslag: artikel 114 VWEU, met artikel 352 voor de onderdelen die daar niet onder vallen; geen verdragswijziging.',
     basisLink: 'Het voorstel in het format van de Commissie',
     ctaQa: 'Vragen en antwoorden',
@@ -272,12 +272,12 @@ export default {
       },
       {
         q: 'Is dit een belasting?',
-        a: 'Het is zo opgezet dat het geen belasting is. In de hoofdoptie geven bedrijven het fonds (in het ontwerp de Reserve genoemd) het recht om later in te schrijven op nieuwe aandelen (bij een verkoop of beursgang, na een grote uitkering aan eigenaren of na zeven jaar), tegen een lage prijs ter hoogte van de nominale waarde; de bedrijven dragen nooit geld af, en er gaat niets naar een overheidsbegroting. Het aandeel van de bestaande eigenaren wordt iets kleiner. Of dit naar EU-recht toch als een belasting wordt aangemerkt, is een open juridische vraag.',
+        a: 'Het is zo opgezet dat het geen belasting is. In de belangrijkste optie geven bedrijven het fonds (in het ontwerp de Reserve genoemd) het recht om later in te schrijven op nieuwe aandelen (bij een verkoop of beursgang, na een grote uitkering aan eigenaren of na zeven jaar), tegen een lage prijs ter hoogte van de nominale waarde; de bedrijven dragen nooit geld af, en er gaat niets naar een overheidsbegroting. Het aandeel van de bestaande eigenaren wordt iets kleiner. Of dit naar EU-recht toch als een belasting wordt aangemerkt, is een open juridische vraag.',
         links: [['/law/objections#2-dit-is-een-belasting-en-zo-mag-de-eu-die-niet-heffen', 'bezwaren'], ['/law/explanatory-memorandum#21-legal-basis', 'rechtsgrondslag']],
       },
       {
         q: 'Zouden bedrijven hun eigendom verliezen?',
-        a: 'Dat is de moeilijkste vraag. In de hoofdoptie ontstaat het recht pas wanneer een onderneming wordt aangewezen, maar bij uitoefening betreft het een vaste 3 % van het gehele bedrijf, inclusief reeds bestaande waarde. Het fonds betaalt een lage prijs voor de aandelen en heeft geen stemrecht. Of dat billijk genoeg is in het licht van het eigendomsrecht in de EU, moeten juristen beoordelen.',
+        a: 'Dat is de moeilijkste vraag. In de belangrijkste optie ontstaat het recht pas wanneer een onderneming wordt aangewezen, maar bij uitoefening betreft het een vaste 3 % van het gehele bedrijf, inclusief reeds bestaande waarde. Het fonds betaalt een lage prijs voor de aandelen en heeft geen stemrecht. Of dat billijk genoeg is in het licht van het eigendomsrecht in de EU, moeten juristen beoordelen.',
         links: [['/law/objections#1-dit-is-onteigening', 'bezwaren']],
       },
       {
@@ -287,7 +287,7 @@ export default {
       },
       {
         q: 'Welke bedrijven zouden hieronder vallen?',
-        a: 'In de hoofdoptie hoofdzakelijk zeer grote ondernemingen die geautomatiseerde cognitieve diensten leveren, of goederen en diensten waarvan de productie daar sterk van afhangt, in ten minste drie lidstaten (het ontwerp gaat uit van een jaaromzet van 7,5 miljard euro in de EU of een marktwaarde van 75 miljard euro, met een marktwaarde van minstens 80 keer hun personeelskosten, gedurende twee opeenvolgende jaren) waarvan de productie veel minder afhangt van menselijke arbeid, en alleen na toetsing door de Commissie. De Commissie zou ook een bedrijf onder die drempels kunnen aanwijzen, maar alleen na een marktonderzoek. Kleine en middelgrote ondernemingen vallen er waarschijnlijk niet onder.',
+        a: 'In de belangrijkste optie hoofdzakelijk zeer grote ondernemingen die geautomatiseerde cognitieve diensten leveren, of goederen en diensten waarvan de productie daar sterk van afhangt, in ten minste drie lidstaten (het ontwerp gaat uit van een jaaromzet van 7,5 miljard euro in de EU of een marktwaarde van 75 miljard euro, met een marktwaarde van minstens 80 keer hun personeelskosten, gedurende twee opeenvolgende jaren) waarvan de productie veel minder afhangt van menselijke arbeid, en alleen na toetsing door de Commissie. De Commissie zou ook een bedrijf onder die drempels kunnen aanwijzen, maar alleen na een marktonderzoek. Kleine en middelgrote ondernemingen vallen er waarschijnlijk niet onder.',
         links: [['/law/article-3', 'aanwijzingscriteria']],
       },
       {

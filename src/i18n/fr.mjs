@@ -264,7 +264,7 @@ export default {
       },
       {
         q: 'Est-ce un impôt ?',
-        a: 'Le mécanisme est conçu pour ne pas en être un. Dans l’option principale, les entreprises accordent au fonds (que le projet nomme la Réserve) le droit de souscrire de nouvelles actions ultérieurement (lors d’une cession ou d’une introduction en bourse, après une distribution importante aux actionnaires ou après sept ans), à une faible valeur nominale ; les entreprises ne versent jamais d’argent et rien ne va dans un budget public. Les actionnaires actuels conservent une part légèrement réduite. Savoir si le droit de l’UE le qualifierait tout de même d’impôt est une question juridique ouverte.',
+        a: 'Le mécanisme est conçu pour ne pas en être un. Dans l’option principale, les entreprises accordent au fonds (que le projet nomme la Réserve) le droit de souscrire de nouvelles actions ultérieurement (lors d’une cession ou d’une introduction en bourse, après une distribution importante aux actionnaires ou après sept ans), au prix modique de la valeur nominale ; les entreprises ne versent jamais d’argent et rien ne va dans un budget public. Les actionnaires actuels conservent une part légèrement réduite. Savoir si le droit de l’UE le qualifierait tout de même d’impôt est une question juridique ouverte.',
         links: [['/law/objections#2-c39est-un-impt-et-l39union-ne-peut-pas-le-lever-ainsi', 'objections'], ['/law/explanatory-memorandum#21-legal-basis', 'base juridique']],
       },
       {

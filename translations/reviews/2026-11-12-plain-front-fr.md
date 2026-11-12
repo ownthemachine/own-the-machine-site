@@ -1,7 +1,7 @@
 ---
 gate: translation-fidelity, native-ear
 target: plain front in French (menu, home, Questions and answers, experts, get-involved), src/i18n/fr.mjs
-verdict: fidelity PUBLISH (round 8, final text); native-ear REVISE (see disposition)
+verdict: fidelity PUBLISH (round 10, final text); native-ear REVISE (see disposition)
 disposition: merged-with-fixes; remaining native-ear findings rejected and recorded below
 date: 2026-11-12
 ---
@@ -394,3 +394,19 @@ VERDICT: PUBLISH
 ---
 
 VERDICT: REVISE
+
+## Round 10: orchestrator's native read (12 November 2026)
+
+| Finding | Disposition |
+|---|---|
+| "à une faible valeur nominale" says the nominal value is low; the English is "at a small face-value price" | Applied: "au prix modique de la valeur nominale". |
+| "dans le format de la Commission", "Preuves", "registre de la revue" | Kept: established site terms. |
+
+Fidelity gate, round 10, on the full blocks including the changed sentence:
+
+> Bundle SHA-256: `0a0ae6657638a145a91309b9f371e924c6b6fea44e2c5059c9b75e668f90d4f4`
+> Prompt SHA-256: `9d89a5c37daf4ca29ec53132dd31aabe4b90373476a906c182c63471120b86fe`
+
+No blocking defects or required fixes found across the translation. The terminology accurately reflects French EU legal practice (*« exposé des motifs »*, *« projet de règlement »*, *« Réserve »*, *« initiative citoyenne européenne »*), register is civic and sober, formatting/placeholders are preserved, and phrasing is natural.
+
+VERDICT: PUBLISH

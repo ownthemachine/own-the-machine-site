@@ -1,7 +1,7 @@
 ---
 gate: translation-fidelity, native-ear
 target: plain front in Dutch (menu, home, Questions and answers, experts, get-involved), src/i18n/nl.mjs
-verdict: fidelity PUBLISH (round 9, final text); native-ear REVISE (see disposition)
+verdict: fidelity PUBLISH (round 10, final text); native-ear REVISE (see disposition)
 disposition: merged-with-fixes; remaining native-ear findings rejected and recorded below
 date: 2026-11-12
 ---
@@ -370,3 +370,26 @@ VERDICT: PUBLISH
 
 ---
 VERDICT: REVISE
+
+## Round 10: orchestrator's native read (12 November 2026)
+
+| Finding | Disposition |
+|---|---|
+| "In de hoofdoptie" is new on the site and reads as a calque | Applied: "In de belangrijkste optie" in all three answers (tax, property, which companies). This reverses the earlier rejection that cited existing use of "hoofdoptie"; that claim was wrong for the live site. |
+| "Met het initiatief wordt de Commissie gevraagd" | Applied: "Het initiatief vraagt de Commissie zich hierover te buigen en een gezamenlijk antwoord voor te stellen". |
+| "format van de Commissie", "Over ons", "Bewijs" | Kept: established site terms. |
+
+Fidelity gate, round 10, on the full blocks including the changed sentences:
+
+> Bundle SHA-256: `3967cff36c708221a0005f696de7c4eff2ca6ed1c2f2945ce9a910535594846a`
+> Prompt SHA-256: `9d89a5c37daf4ca29ec53132dd31aabe4b90373476a906c182c63471120b86fe`
+
+The translation into Dutch (`nl`) has been reviewed against all criteria:
+
+- **Fidelity & Register:** Precise, sober civic register matching standard EU Dutch terminology (e.g., *Rechtsgrondslag*, *artikel 114 VWEU*, *ontwerpverordening*, *aanspraak*, *aanwijzing*, *Reserve*).
+- **Consistency & Naturalness:** Phrasing is natural, idiomatic Dutch without anglicisms or calques.
+- **Mechanics:** Decimal comma notation (7,5 miljard euro), percent spacing, and inline HTML tags (`<em>`) are correctly preserved; no unwanted em-dashes.
+
+No blocking issues or defects found.
+
+VERDICT: PUBLISH
