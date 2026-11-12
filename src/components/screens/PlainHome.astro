@@ -2,9 +2,10 @@
 import Base from '../../layouts/Base.astro';
 import { heroSeal } from '../../lib/seal.mjs';
 import { dict, href } from '../../lib/i18n.mjs';
-// English only: the other languages keep Home.astro until their translations
-// of this page are made and reviewed.
-const lang = 'en';
+// English, Dutch and French; German and Spanish keep Home.astro until their
+// translations of this page are made and reviewed.
+interface Props { lang?: string }
+const { lang = 'en' } = Astro.props;
 const t = dict(lang);
 const p = t.plainHome;
 ---

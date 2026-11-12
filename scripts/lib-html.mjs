@@ -32,6 +32,8 @@ export function pages(dist) {
 }
 
 export const isEnglishRoute = (route) => !LOCALE_DIRS.has(route.split('/')[1]);
+// 'en', 'nl', 'fr', 'de' or 'es'.
+export const localeOf = (route) => (LOCALE_DIRS.has(route.split('/')[1]) ? route.split('/')[1] : 'en');
 
 export function sections(file) {
   const html = readFileSync(file, 'utf8');

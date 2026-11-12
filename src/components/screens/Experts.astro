@@ -2,14 +2,18 @@
 import Base from '../../layouts/Base.astro';
 import law from '../../generated/law.json';
 import { dict, href } from '../../lib/i18n.mjs';
-// English only for now. A grouping page: it only links.
-const lang = 'en';
+// English, Dutch and French. A grouping page: it only links.
+interface Props { lang?: string }
+const { lang = 'en' } = Astro.props;
 const t = dict(lang);
 const e = t.experts;
 const c = t.chrome;
+// the translated rubric where one exists, the English heading otherwise, as
+// on the contents page
+const rubric = (item, english) => (item.titles && item.titles[lang]) || english;
 const articleItems = [
-  ...law.articles.map((a) => [`/law/${a.slug}`, `${t.lawIndex.article} ${a.number}: ${a.title}`]),
-  ...law.annexes.map((a) => [`/law/${a.slug}`, `${t.lawIndex.annex} ${a.numeral}: ${a.title.replace(/^Annex [IVX]+:\s*/, '')}`]),
+  ...law.articles.map((a) => [`/law/${a.slug}`, `${t.lawIndex.article} ${a.number}: ${rubric(a, a.title)}`]),
+  ...law.annexes.map((a) => [`/law/${a.slug}`, `${t.lawIndex.annex} ${a.numeral}: ${rubric(a, a.title.replace(/^Annex [IVX]+:\s*/, ''))}`]),
 ];
 const groups = [
   [e.startHead, [
@@ -34,7 +38,7 @@ const groups = [
   ]],
 ];
 ---
-<Base title={e.title} lang={lang} enOnly description={e.description}>
+<Base title={e.title} lang={lang} plainOnly description={e.description}>
   <h1>{e.title}</h1>
   {groups.map(([head, items, folded]) => (
     <section class="group">

@@ -1,0 +1,9 @@
+---
+import GetInvolved from '../../components/screens/GetInvolved.astro';
+
+export function getStaticPaths() {
+  return ['nl', 'fr'].map((lang) => ({ params: { lang } }));
+}
+const { lang } = Astro.params;
+---
+<GetInvolved lang={lang} />
