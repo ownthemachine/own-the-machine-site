@@ -8,9 +8,6 @@ import es from '../i18n/es.mjs';
 
 export const DICTS = { en, nl, fr, de, es };
 export const LOCALES = Object.keys(DICTS);
-// Languages that carry the plain front (home, questions, experts, get-involved
-// and the five-section menu): all five.
-export const PLAIN_LOCALES = ['en', 'nl', 'fr', 'de', 'es'];
 export const EXTRA_LOCALES = LOCALES.filter((l) => l !== 'en');
 
 export const dict = (lang) => DICTS[lang] || DICTS.en;
