@@ -237,8 +237,6 @@ export default {
     involved: 'Helpen', about: 'Over ons',
     faqPointer: 'Eerst de korte antwoorden:',
     faqLabel: 'Veelgestelde vragen (uitgebreid)',
-    notTranslated: 'Nog niet vertaald; opent de %LANG% startpagina',
-    langNames: { de: 'Duitse', es: 'Spaanse' },
   },
   plainHome: {
     title: 'Own the Machine',

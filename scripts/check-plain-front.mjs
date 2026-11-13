@@ -1,6 +1,6 @@
-// Plain front in every language that carries it (English, Dutch, French).
+// Plain front in every language that carries it (all five).
 //
-// Dictionary: the Dutch and French plain-front blocks have the same keys,
+// Dictionary: the Dutch, French, German and Spanish plain-front blocks have the same keys,
 // the same number of questions and links per question, and the same link
 // targets (page, not anchor) as the English source; no string is empty; no
 // dash is used as punctuation; placeholders and tags match.
@@ -8,8 +8,8 @@
 // Build: each language has its home with the five-section menu, a Questions
 // page with the same number of questions whose second heading is the
 // translated money question, the experts, overview and get-involved pages; the
-// language links of those pages point en, nl and fr at each other and German
-// and Spanish at their own home; every detail link into a page section lands
+// language links of those pages point every language at the same page of the
+// other four, with an hreflang alternate each; every detail link into a page section lands
 // on an id that exists on the page it names.
 //
 // Usage: node scripts/check-plain-front.mjs [dist]
@@ -33,7 +33,7 @@ const shape = (v, path = '') => {
 };
 const strings = (v) => (Array.isArray(v) ? v.flatMap(strings) : v && typeof v === 'object' ? Object.values(v).flatMap(strings) : [v]);
 // keys the translated dictionaries may carry in addition to the source
-const EXTRA = new Set(['plainMenu.langNames.de', 'plainMenu.langNames.es', 'qa.sep']);
+const EXTRA = new Set(['qa.sep']);
 const en = DICTS.en;
 for (const loc of PLAIN_LOCALES.filter((l) => l !== 'en')) {
   const d = DICTS[loc];
@@ -44,7 +44,6 @@ for (const loc of PLAIN_LOCALES.filter((l) => l !== 'en')) {
     for (const k of want) if (!have.has(k)) bad(`${loc}: missing ${k}`);
     for (const k of have) if (!want.has(k) && !EXTRA.has(k)) bad(`${loc}: unexpected ${k}`);
   }
-  if (!d.plainMenu?.langNames?.de || !d.plainMenu?.langNames?.es) bad(`${loc}: plainMenu.langNames needs de and es`);
   (d.qa?.items || []).forEach((it, i) => {
     const src = en.qa.items[i];
     if (!src) return;
@@ -57,7 +56,6 @@ for (const loc of PLAIN_LOCALES.filter((l) => l !== 'en')) {
     if (typeof s !== 'string' || s.trim() === '') bad(`${loc}: empty string`);
     else if (/[\u2013\u2014]/.test(s)) bad(`${loc}: dash used as punctuation in "${s.slice(0, 50)}"`);
   }
-  if ((d.plainMenu?.notTranslated || '').indexOf('%LANG%') < 0) bad(`${loc}: plainMenu.notTranslated lost %LANG%`);
 }
 
 // ---- build -------------------------------------------------------------
@@ -99,10 +97,8 @@ for (const loc of PLAIN_LOCALES) {
     const html = read(loc, p);
     if (!html) continue;
     const sw = switcher(html);
-    for (const l of ['en', 'nl', 'fr']) if (sw[l] !== hrefOf(l, `/${p}`)) bad(`${loc}: /${p} language link ${l} is "${sw[l]}", expected "${hrefOf(l, `/${p}`)}"`);
-    for (const l of ['de', 'es']) if (sw[l] !== hrefOf(l, '/')) bad(`${loc}: /${p} language link ${l} is "${sw[l]}", expected "${hrefOf(l, '/')}"`);
-    for (const l of ['en', 'nl', 'fr']) if (!html.includes(`hreflang="${l}" href="https://ownthemachine.eu${hrefOf(l, `/${p}`)}"`)) bad(`${loc}: /${p} lacks hreflang ${l}`);
-    for (const l of ['de', 'es']) if (new RegExp(`<link rel="alternate" hreflang="${l}"`).test(html)) bad(`${loc}: /${p} has an hreflang ${l} alternate for a page that does not exist`);
+    for (const l of PLAIN_LOCALES) if (sw[l] !== hrefOf(l, `/${p}`)) bad(`${loc}: /${p} language link ${l} is "${sw[l]}", expected "${hrefOf(l, `/${p}`)}"`);
+    for (const l of PLAIN_LOCALES) if (!html.includes(`hreflang="${l}" href="https://ownthemachine.eu${hrefOf(l, `/${p}`)}"`)) bad(`${loc}: /${p} lacks hreflang ${l}`);
   }
 }
 if (problems.length) {

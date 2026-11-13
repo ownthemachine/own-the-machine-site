@@ -2,7 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import law from '../../generated/law.json';
 import { dict, href } from '../../lib/i18n.mjs';
-// English, Dutch and French. A grouping page: it only links.
+// A grouping page: it only links.
 interface Props { lang?: string }
 const { lang = 'en' } = Astro.props;
 const t = dict(lang);
@@ -38,7 +38,7 @@ const groups = [
   ]],
 ];
 ---
-<Base title={e.title} lang={lang} plainOnly description={e.description}>
+<Base title={e.title} lang={lang} description={e.description}>
   <h1>{e.title}</h1>
   {groups.map(([head, items, folded]) => (
     <section class="group">

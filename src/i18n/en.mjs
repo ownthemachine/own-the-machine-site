@@ -218,7 +218,6 @@ export default {
     involved: 'Get involved', about: 'About',
     faqPointer: 'Short answers first:',
     faqLabel: 'Detailed FAQ',
-    notTranslated: 'Not yet translated; opens the %LANG% home page',
   },
   plainHome: {
     title: 'Own the Machine',

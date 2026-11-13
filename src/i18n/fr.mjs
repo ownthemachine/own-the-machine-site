@@ -228,8 +228,6 @@ export default {
     involved: 'Aider', about: 'À propos',
     faqPointer: 'Les réponses courtes d’abord :',
     faqLabel: 'FAQ détaillée',
-    notTranslated: 'Pas encore traduit ; ouvre la page d’accueil en %LANG%',
-    langNames: { de: 'allemand', es: 'espagnol' },
   },
   plainHome: {
     title: 'Own the Machine',

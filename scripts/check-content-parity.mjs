@@ -1,15 +1,15 @@
 // Content parity: every visible text unit of the BASE build's pages in the
-// checked languages (English, Dutch and French)
+// checked languages (all five)
 // (headings, paragraphs, list items, table cells, and each link as text plus
 // href) must still appear on some page of the NEW build. A restructure moves
 // content; it must not delete it. Intentional removals are listed, with a
 // reason each, in scripts/content-parity-allowlist.json.
 //
 // English units may be found on any page of the new build (the first plain
-// front moved English content between pages). Dutch and French units must be
-// found on a page of the SAME language in the new build.
+// front moved English content between pages). Units of the other four
+// languages must be found on a page of the SAME language in the new build.
 //
-// Usage: node scripts/check-content-parity.mjs <base-dist> [new-dist] [--locales=en,nl,fr]
+// Usage: node scripts/check-content-parity.mjs <base-dist> [new-dist] [--locales=en,nl,fr,de,es]
 import { readFileSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -18,7 +18,7 @@ import { pages, localeOf, sections, units } from './lib-html.mjs';
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const args = process.argv.slice(2);
 const localesArg = args.find((a) => a.startsWith('--locales='));
-const LOCALES = localesArg ? localesArg.slice('--locales='.length).split(',') : ['en', 'nl', 'fr'];
+const LOCALES = localesArg ? localesArg.slice('--locales='.length).split(',') : ['en', 'nl', 'fr', 'de', 'es'];
 const [baseDist, newDistArg] = args.filter((a) => !a.startsWith('--'));
 const newDist = newDistArg || join(ROOT, 'dist');
 if (!baseDist || !existsSync(baseDist)) { console.error('usage: check-content-parity.mjs <base-dist> [new-dist]'); process.exit(2); }
