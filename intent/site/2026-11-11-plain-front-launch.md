@@ -30,3 +30,11 @@ Source: owner decisions page, 11 November 2026 (points 1 to 6, 10 and 11), answe
 
 ## Implemented by
 - PR #22 (plain front)
+
+## Dutch and French (owner decisions 16 to 19, 13/11/2026)
+> "16: Agree", "17: Agree", "18: Agree", "19: Agree" (David, 13 November 2026, on the recommendations below)
+
+16. The Dutch plain front goes live as reviewed; the owner read it and asked for no changes.
+17. The French goes live without waiting for a native French reader; corrections follow if one finds something.
+18. The third menu item is "Helpen" in Dutch and "Aider" in French, and the footer headings become "Helpen en meer over ons" and "Aider et en savoir plus", so that the menu item, the join page ("Meedoen", "Participer") and the footer heading no longer read as near-synonyms.
+19. Dutch and French go live once these changes pass the checks; German and Spanish follow next.

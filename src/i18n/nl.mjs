@@ -16,7 +16,7 @@ export default {
   "footNavLabel": "Alle pagina’s",
   "footNavFile": "Het dossier",
   "footNavUnderstand": "Uitleg",
-  "footNavAct": "Meedoen en over ons",
+  "footNavAct": "Helpen en meer over ons",
   "explanatory": "Toelichting",
   "registration": "Het voorstel, in het format van de Commissie",
   "severability": "Deelbaarheid",
@@ -234,7 +234,7 @@ export default {
   },
   plainMenu: {
     home: 'Home', qa: 'Vragen en antwoorden', experts: 'Voor juristen en experts',
-    involved: 'Meehelpen', about: 'Over ons',
+    involved: 'Helpen', about: 'Over ons',
     faqPointer: 'Eerst de korte antwoorden:',
     faqLabel: 'Veelgestelde vragen (uitgebreid)',
     notTranslated: 'Nog niet vertaald; opent de %LANG% startpagina',
@@ -298,7 +298,7 @@ export default {
       {
         q: 'Hoe kan ik helpen?',
         a: 'Lees de teksten, stel vragen en laat ons weten wat onduidelijk is. Organisaties kunnen helpen de opties vorm te geven.',
-        links: [['/get-involved', 'meehelpen']],
+        links: [['/get-involved', 'helpen']],
       },
     ],
   },
@@ -316,7 +316,7 @@ export default {
     allArticles: 'Alle artikelen en bijlagen',
   },
   involved: {
-    title: 'Meehelpen',
+    title: 'Helpen',
     description: 'Manieren om deel te nemen: meedoen, hoe het ondertekenen zou verlopen en hoe je kunt bijdragen.',
     lead: 'Wat je nu kunt doen',
     signLabel: 'Hoe het ondertekenen zou verlopen',

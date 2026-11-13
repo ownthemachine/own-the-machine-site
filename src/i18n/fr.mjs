@@ -12,7 +12,7 @@ export default {
     footNavLabel: 'Toutes les pages',
     footNavFile: 'Le dossier',
     footNavUnderstand: 'Comprendre',
-    footNavAct: 'Agir et nous connaître',
+    footNavAct: 'Aider et en savoir plus',
     explanatory: 'Exposé des motifs',
     registration: 'La proposition, dans le format de la Commission',
     severability: 'Divisibilité',
@@ -225,7 +225,7 @@ export default {
   },
   plainMenu: {
     home: 'Accueil', qa: 'Questions et réponses', experts: 'Pour les juristes et experts',
-    involved: 'S’impliquer', about: 'À propos',
+    involved: 'Aider', about: 'À propos',
     faqPointer: 'Les réponses courtes d’abord :',
     faqLabel: 'FAQ détaillée',
     notTranslated: 'Pas encore traduit ; ouvre la page d’accueil en %LANG%',
@@ -290,7 +290,7 @@ export default {
       {
         q: 'Comment puis-je contribuer ?',
         a: 'Lisez, posez vos questions et dites-nous ce qui n’est pas clair. Les organisations peuvent contribuer à définir les options.',
-        links: [['/get-involved', 's’impliquer']],
+        links: [['/get-involved', 'aider']],
       },
     ],
   },
@@ -308,7 +308,7 @@ export default {
     allArticles: 'Tous les articles et annexes',
   },
   involved: {
-    title: 'S’impliquer',
+    title: 'Aider',
     description: 'Les moyens d’agir : nous rejoindre, modalités de signature et façons de contribuer.',
     lead: 'Ce que vous pouvez faire dès maintenant',
     signLabel: 'Comment se déroulerait la signature',
