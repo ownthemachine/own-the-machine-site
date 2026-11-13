@@ -5,9 +5,11 @@
 // path: locale-stripped pathname (e.g. '/', '/law', '/law/objections')
 // slug: the {slug} half of public/og/{locale}-{slug}.png
 // dictKey: the dictionary section whose .title is the page title
+import { PLAIN_LOCALES } from './i18n.mjs';
+
 export const OG_PAGES = [
-  // English carries the plain home; the card shows its subtitle.
-  { path: '/', slug: 'index', dictKey: 'home', enDictKey: 'plainHome', enTitleField: 'subtitle' },
+  // English, Dutch and French carry the plain home; the card shows its subtitle.
+  { path: '/', slug: 'index', dictKey: 'home', plainDictKey: 'plainHome', plainTitleField: 'subtitle' },
   { path: '/law', slug: 'law', dictKey: 'lawIndex' },
   { path: '/law/registration', slug: 'law-registration', dictKey: 'registration' },
   { path: '/law/objections', slug: 'law-objections', dictKey: 'objections' },
@@ -17,11 +19,11 @@ export const OG_PAGES = [
   { path: '/evidence', slug: 'evidence', dictKey: 'evidence' },
   { path: '/contribute', slug: 'contribute', dictKey: 'contribute' },
   { path: '/about', slug: 'about', dictKey: 'about' },
-  // English-only pages: no card in the other languages.
-  { path: '/questions', slug: 'questions', dictKey: 'qa', only: 'en' },
-  { path: '/experts', slug: 'experts', dictKey: 'experts', only: 'en' },
-  { path: '/experts/overview', slug: 'experts-overview', dictKey: 'home', only: 'en' },
-  { path: '/get-involved', slug: 'get-involved', dictKey: 'involved', only: 'en' },
+  // Pages of the plain front: no card in German and Spanish.
+  { path: '/questions', slug: 'questions', dictKey: 'qa', only: PLAIN_LOCALES },
+  { path: '/experts', slug: 'experts', dictKey: 'experts', only: PLAIN_LOCALES },
+  { path: '/experts/overview', slug: 'experts-overview', dictKey: 'home', only: PLAIN_LOCALES },
+  { path: '/get-involved', slug: 'get-involved', dictKey: 'involved', only: PLAIN_LOCALES },
 ];
 
 // Locale-stripped path -> og-image slug, falling back to 'index' for any

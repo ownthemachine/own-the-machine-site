@@ -1,8 +1,9 @@
 ---
 import Base from '../../layouts/Base.astro';
 import { dict, href } from '../../lib/i18n.mjs';
-// English only for now. A grouping page: it only links.
-const lang = 'en';
+// English, Dutch and French. A grouping page: it only links.
+interface Props { lang?: string }
+const { lang = 'en' } = Astro.props;
 const t = dict(lang);
 const g = t.involved;
 const items = [
@@ -11,7 +12,7 @@ const items = [
   ['/contribute', t.contribute.title, t.contribute.description],
 ];
 ---
-<Base title={g.title} lang={lang} enOnly description={g.description}>
+<Base title={g.title} lang={lang} plainOnly description={g.description}>
   <h1>{g.title}</h1>
   <p class="lead">{g.lead}</p>
   <ul class="group">

@@ -1,0 +1,9 @@
+---
+import Questions from '../../components/screens/Questions.astro';
+
+export function getStaticPaths() {
+  return ['nl', 'fr'].map((lang) => ({ params: { lang } }));
+}
+const { lang } = Astro.params;
+---
+<Questions lang={lang} />

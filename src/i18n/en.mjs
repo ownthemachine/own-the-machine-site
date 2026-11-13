@@ -238,6 +238,7 @@ export default {
     title: 'Questions and answers',
     description: 'Short answers to the questions people ask first about Own the Machine, each with a link to the detail.',
     detail: 'Detail',
+    and: 'and',
     items: [
       {
         q: 'What is this, in one sentence?',
