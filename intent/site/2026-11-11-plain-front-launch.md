@@ -38,3 +38,10 @@ Source: owner decisions page, 11 November 2026 (points 1 to 6, 10 and 11), answe
 17. The French goes live without waiting for a native French reader; corrections follow if one finds something.
 18. The third menu item is "Helpen" in Dutch and "Aider" in French, and the footer headings become "Helpen en meer over ons" and "Aider et en savoir plus", so that the menu item, the join page ("Meedoen", "Participer") and the footer heading no longer read as near-synonyms.
 19. Dutch and French go live once these changes pass the checks; German and Spanish follow next.
+
+## German and Spanish (owner decisions 20 to 22, 14/11/2026)
+> "20: Agree", "21: Agree", "22: Agree" (David, 14 November 2026, on the recommendations below)
+
+20. German and Spanish go live as reviewed, without waiting for a native reader; corrections follow if one finds something.
+21. The footer labels in all five languages get a small follow-up: each footer link names what is behind it, and the group heading no longer repeats a link. The before and after for all five languages goes to the owner first.
+22. German and Spanish go live once the check-script follow-ups pass.
