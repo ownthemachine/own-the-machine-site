@@ -16,8 +16,6 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const DIST = join(ROOT, 'dist');
 const SITE = 'https://ownthemachine.eu';
 const LOCALES = ['en', 'nl', 'fr', 'de', 'es'];
-// The languages that carry the plain front.
-const PLAIN_LOCALES = ['en', 'nl', 'fr'];
 
 if (!existsSync(DIST)) {
   console.error('make-sitemap: no dist/; run astro build first');
@@ -55,14 +53,10 @@ for (const p of pages) {
 const loc = (lang, base) =>
   SITE + (lang === 'en' ? base : (base === '/' ? `/${lang}` : `/${lang}${base}`));
 
-// Pages of the plain front: urls and alternates only in English, Dutch and French.
-const PLAIN_ONLY = new Set(['/questions', '/experts', '/experts/overview', '/get-involved']);
-
 const urls = [];
 for (const base of [...basePaths].sort()) {
-  const locales = PLAIN_ONLY.has(base) ? PLAIN_LOCALES : LOCALES;
-  for (const lang of locales) {
-    const alts = locales.map(
+  for (const lang of LOCALES) {
+    const alts = LOCALES.map(
       (l) => `    <xhtml:link rel="alternate" hreflang="${l}" href="${loc(l, base)}"/>`
     ).join('\n');
     urls.push(

@@ -6,7 +6,7 @@
 import { mkdirSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import puppeteer from 'puppeteer';
-import { dict, LOCALES, PLAIN_LOCALES } from '../src/lib/i18n.mjs';
+import { dict, LOCALES } from '../src/lib/i18n.mjs';
 import { heroSeal } from '../src/lib/seal.mjs';
 import { OG_PAGES, ogFilename } from '../src/lib/og-slug.mjs';
 
@@ -64,10 +64,8 @@ await page.setViewport({ width: 1200, height: 630 });
 let count = 0;
 for (const lang of LOCALES) {
   const t = dict(lang);
-  for (const { slug, dictKey, plainDictKey, plainTitleField, only } of OG_PAGES) {
-    if (only && !only.includes(lang)) continue;
-    const usePlain = PLAIN_LOCALES.includes(lang) && plainDictKey;
-    const title = usePlain ? t[plainDictKey][plainTitleField || 'title'] : t[dictKey].title;
+  for (const { slug, dictKey, plainDictKey, plainTitleField } of OG_PAGES) {
+    const title = plainDictKey ? t[plainDictKey][plainTitleField || 'title'] : t[dictKey].title;
     await page.setContent(html(title), { waitUntil: 'load' });
     await page.screenshot({ path: join(OUT, ogFilename(lang, slug)) });
     count++;

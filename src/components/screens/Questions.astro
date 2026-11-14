@@ -1,13 +1,12 @@
 ---
 import Base from '../../layouts/Base.astro';
 import { dict, href } from '../../lib/i18n.mjs';
-// English, Dutch and French.
 interface Props { lang?: string }
 const { lang = 'en' } = Astro.props;
 const t = dict(lang);
 const qa = t.qa;
 ---
-<Base title={qa.title} lang={lang} plainOnly description={qa.description}>
+<Base title={qa.title} lang={lang} description={qa.description}>
   <h1>{qa.title}</h1>
   <div class="prose qa">
     {qa.items.map((item) => (

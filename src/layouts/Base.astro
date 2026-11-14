@@ -9,18 +9,12 @@ import '@fontsource/playfair-display/500.css';
 import '@fontsource/playfair-display/600.css';
 import '../styles/base.css';
 import law from '../generated/law.json';
-import { dict, href, LOCALES, DICTS, PLAIN_LOCALES } from '../lib/i18n.mjs';
+import { dict, href, LOCALES, DICTS } from '../lib/i18n.mjs';
 import { ogSlugForPath, ogFilename } from '../lib/og-slug.mjs';
 
-interface Props { title: string; description?: string; lang?: string; noindex?: boolean; plainOnly?: boolean }
-// plainOnly: the page exists only in the languages that carry the plain front
-// (English, Dutch, French), so it offers alternates in those and its language
-// switcher lands on each other language's home.
-const { title, lang = 'en', noindex = false, plainOnly = false } = Astro.props;
+interface Props { title: string; description?: string; lang?: string; noindex?: boolean }
+const { title, lang = 'en', noindex = false } = Astro.props;
 const t = dict(lang);
-const plain = PLAIN_LOCALES.includes(lang);
-// Locales this page is available in.
-const available = plainOnly ? PLAIN_LOCALES : LOCALES;
 const description = Astro.props.description || t.chrome.metaDescription;
 
 // Five, deliberately. The nav had grown to eight because the footer carried
@@ -28,22 +22,14 @@ const description = Astro.props.description || t.chrome.metaDescription;
 // below is now a full sitemap, which lets the primary nav carry only the
 // entry points a first-time reader needs: the text itself, the argument
 // against it, the numbers, the questions, and the one thing we ask.
-const nav = plain ? [
-  // English, Dutch and French carry the plain five-section menu; the other
-  // languages keep the menu below until their translations are made and
-  // reviewed. Every page below still has its own route; the sections group
-  // them.
+const nav = [
+  // The plain five-section menu, in every language. Every page below still
+  // has its own route; the sections group them.
   ['/', t.plainMenu.home],
   ['/questions', t.plainMenu.qa],
   ['/experts', t.plainMenu.experts],
   ['/get-involved', t.plainMenu.involved],
   ['/about', t.plainMenu.about],
-] : [
-  ['/law', t.chrome.law],
-  ['/law/objections', t.chrome.objections],
-  ['/simulator', t.chrome.simulator],
-  ['/faq', t.chrome.faq],
-  ['/join', t.chrome.join],
 ];
 // Which pages sit under which section, for the current-page mark.
 const SECTION = {
@@ -79,33 +65,19 @@ const footerGroups = [
     ['/about', t.chrome.about],
   ]],
 ];
-if (plain) {
-  const faq = footerGroups[1][1].find(([h]) => h === '/faq');
-  if (faq) faq[1] = t.plainMenu.faqLabel;
-  footerGroups[1][1].unshift(['/questions', t.plainMenu.qa]);
-  footerGroups[0][1].unshift(['/experts', t.plainMenu.experts]);
-  footerGroups[2][1].unshift(['/get-involved', t.plainMenu.involved]);
-}
-// Hint on the language links of pages that exist only in some languages: they
-// open the other language's home page, not a translation of this one. The
-// hint is in this page's language, with the language named in it.
-const LANG_EN = { nl: 'Dutch', fr: 'French', de: 'German', es: 'Spanish' };
-const langNames = t.plainMenu?.langNames || LANG_EN;
-const hint = (l) => t.plainMenu.notTranslated.replace('%LANG%', langNames[l] || l);
-// A language link on this page leaves it for that language's home.
-const leaves = (l) => plainOnly && !available.includes(l);
+const faq = footerGroups[1][1].find(([h]) => h === '/faq');
+if (faq) faq[1] = t.plainMenu.faqLabel;
+footerGroups[1][1].unshift(['/questions', t.plainMenu.qa]);
+footerGroups[0][1].unshift(['/experts', t.plainMenu.experts]);
+footerGroups[2][1].unshift(['/get-involved', t.plainMenu.involved]);
 // Path of this page with the locale prefix removed, for the switcher and
 // hreflang alternates.
 const rawPath = Astro.url.pathname.replace(/\.html$/, '');
 const basePath = lang === 'en' ? rawPath : (rawPath.replace(new RegExp(`^/${lang}`), '') || '/');
 const isCurrent = (navHref: string) => {
   const p = basePath;
-  if (plain) {
-    if (navHref === '/') return p === '/';
-    return (SECTION[navHref] || [navHref]).some((s) => p === s || p.startsWith(s + '/'));
-  }
-  if (navHref === '/law') return p === '/law' || (p.startsWith('/law/') && !p.startsWith('/law/objections') && !p.startsWith('/law/ledger'));
-  return p === navHref || p.startsWith(navHref + '/');
+  if (navHref === '/') return p === '/';
+  return (SECTION[navHref] || [navHref]).some((s) => p === s || p.startsWith(s + '/'));
 };
 // Certificate og-image for this page; falls back to the locale's cover
 // when the page has no certificate of its own (per-article pages, 404).
@@ -176,7 +148,7 @@ const jsonLd = {
     <meta property="og:site_name" content="Own the Machine" />
     <meta property="og:url" content={canonical} />
     <meta property="og:locale" content={OG_LOCALE[lang] || 'en_GB'} />
-    {available.filter((l) => l !== lang).map((l) => (
+    {LOCALES.filter((l) => l !== lang).map((l) => (
       <meta property="og:locale:alternate" content={OG_LOCALE[l]} />
     ))}
     <meta property="og:title" content={title} />
@@ -206,7 +178,7 @@ const jsonLd = {
     <meta name="referrer" content="no-referrer" />
     <meta name="color-scheme" content="light dark" />
     <script type="application/ld+json" is:inline set:html={JSON.stringify(jsonLd)} />
-    {available.map((l) => (
+    {LOCALES.map((l) => (
       <link rel="alternate" hreflang={l} href={abs(l, basePath)} />
     ))}
     <link rel="alternate" hreflang="x-default" href={abs('en', basePath)} />
@@ -226,9 +198,8 @@ const jsonLd = {
         ))}
         <span class="langs" role="group" aria-label="Language">
           {LOCALES.map((l) => (
-            <a class="lang" href={href(l, leaves(l) ? '/' : basePath)} aria-current={l === lang ? 'true' : undefined}
-               hreflang={l} lang={l} title={leaves(l) && l !== lang ? hint(l) : DICTS[l].name}
-               aria-label={leaves(l) && l !== lang ? `${l.toUpperCase()}: ${hint(l)}` : undefined}>{l.toUpperCase()}</a>
+            <a class="lang" href={href(l, basePath)} aria-current={l === lang ? 'true' : undefined}
+               hreflang={l} lang={l} title={DICTS[l].name}>{l.toUpperCase()}</a>
           ))}
         </span>
         <button id="theme-toggle" type="button" aria-label={t.chrome.themeToggle} title={t.chrome.themeToggle}>◐</button>

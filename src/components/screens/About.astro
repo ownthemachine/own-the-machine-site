@@ -2,7 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import LangBanner from '../LangBanner.astro';
 import law from '../../generated/law.json';
-import { dict, href, PLAIN_LOCALES } from '../../lib/i18n.mjs';
+import { dict, href } from '../../lib/i18n.mjs';
 interface Props { lang: string }
 const { lang } = Astro.props;
 const t = dict(lang);
@@ -14,12 +14,10 @@ const isLocal = Boolean(law.about[lang]);
   <h1>{t.about.title}</h1>
   <LangBanner lang={lang} doc={law.about[lang]} />
     <div class="prose" lang={isLocal ? lang : "en"} set:html={doc.html} />
-  {PLAIN_LOCALES.includes(lang) && (
-    <ul class="siblings">
-      <li><a href={href(lang, '/press')}>{t.chrome.press}</a></li>
-      <li><a href={href(lang, '/brief')}>{t.brief.title}</a></li>
-    </ul>
-  )}
+  <ul class="siblings">
+    <li><a href={href(lang, '/press')}>{t.chrome.press}</a></li>
+    <li><a href={href(lang, '/brief')}>{t.brief.title}</a></li>
+  </ul>
 </Base>
 
 <style>
