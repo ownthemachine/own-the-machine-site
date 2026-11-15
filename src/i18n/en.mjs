@@ -5,7 +5,7 @@ export default {
   chrome: {
     law: 'The law', objections: 'Objections', ledger: 'Ledger',
     faq: 'FAQ',
-    join: 'Take part',
+    join: 'Volunteer or become an organiser',
     simulator: 'Simulator', evidence: 'Evidence', about: 'About',
     skip: 'Skip to content',
     recitals: 'Recitals',
@@ -20,7 +20,7 @@ export default {
     brief: 'One page',
     sign: 'How to sign',
     press: 'Press',
-    contribute: 'Contribute',
+    contribute: 'Improve the text',
     themeToggle: 'Switch between paper and plate (light and dark)',
     footerQuestion: 'Who owns the machine?',
     footerDrafted: 'Drafted in the open',
