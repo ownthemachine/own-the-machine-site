@@ -118,6 +118,12 @@ for (const loc of LOCALES) {
       if (seen.has(label)) bad(`${loc}: footer group "${head}" has two links labelled "${label}"`);
       seen.add(label);
     }
+    // Nor may the heading repeat one of its own links, whole or as its closing
+    // phrase ("Aan de slag, en over ons" above a link "Over ons").
+    const h = ` ${head.trim().toLowerCase().replace(/[.,;:]/g, '')} `;
+    for (const label of seen) {
+      if (label && h.includes(` ${label} `)) bad(`${loc}: footer heading "${head}" repeats its link "${label}"`);
+    }
   }
 }
 if (problems.length) {
