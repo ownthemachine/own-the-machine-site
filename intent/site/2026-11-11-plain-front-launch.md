@@ -45,3 +45,24 @@ Source: owner decisions page, 11 November 2026 (points 1 to 6, 10 and 11), answe
 20. German and Spanish go live as reviewed, without waiting for a native reader; corrections follow if one finds something.
 21. The footer labels in all five languages get a small follow-up: each footer link names what is behind it, and the group heading no longer repeats a link. The before and after for all five languages goes to the owner first.
 22. German and Spanish go live once the check-script follow-ups pass.
+
+## Footer labels (owner decision 23, 15/11/2026)
+> Owner chose, on the decisions board, 15 November 2026: "Agree with the proposed labels; build on a branch with the language review and the label check, and show the result before going live"
+
+23. In the footer's last group, in all five languages, the join page link and the contribute page link say what is behind them, and the group heading no longer repeats a link. Only labels change; no page moves. Proposed labels (final wording subject to the language review and the label check):
+
+| Language | Heading | Join page link | Contribute page link |
+|---|---|---|---|
+| English | Act and who we are | Volunteer or become an organiser | Improve the text |
+| Dutch | Aan de slag en wie we zijn | Vrijwilliger of organisator worden | De tekst verbeteren |
+| French | Agir et nous connaître | Devenir bénévole ou organisateur | Améliorer le texte |
+| German | Handeln und wer wir sind | Freiwillig oder als Organisator mitarbeiten | Den Text verbessern |
+| Spanish | Actuar y conocernos | Ser voluntario u organizador | Mejorar el texto |
+
+The Dutch, German and Spanish headings above are the wording as built: the first proposal ended in the About link's own label, which the language review caught. The help page, signing, press and About keep their labels. The result is shown to the owner before it goes live.
+
+### Footer result (owner decisions 24 and 25, 16/11/2026)
+> "24 : go" and "25 : ok" (David, 16 November 2026)
+
+24. The footer labels go live as built, including the Dutch, German and Spanish headings as built.
+25. The English heading loses its comma: "Act and who we are", in line with the other four languages.

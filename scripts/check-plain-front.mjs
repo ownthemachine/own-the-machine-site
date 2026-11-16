@@ -103,6 +103,29 @@ for (const loc of LOCALES) {
     for (const l of LOCALES) if (!html.includes(`hreflang="${l}" href="https://ownthemachine.eu${canon(l)}"`)) bad(`${loc}: ${path} lacks hreflang ${l}`);
   }
 }
+// Footer: no two links in one group carry the same label (a renamed label can
+// silently equal a neighbour; check-labels only compares a label with its page).
+for (const loc of LOCALES) {
+  const home = read(loc, '');
+  if (!home) continue;
+  const groups = home.match(/<div class="foot-group"[^>]*>[\s\S]*?<\/div>/g) || [];
+  if (groups.length !== 3) bad(`${loc}: expected 3 footer groups, found ${groups.length}`);
+  for (const g of groups) {
+    const head = decode((g.match(/<h2[^>]*>([^<]*)<\/h2>/) || [, ''])[1]);
+    const seen = new Set();
+    for (const m of g.matchAll(/<a href="[^"]*"[^>]*>([^<]*)<\/a>/g)) {
+      const label = decode(m[1]).trim().toLowerCase();
+      if (seen.has(label)) bad(`${loc}: footer group "${head}" has two links labelled "${label}"`);
+      seen.add(label);
+    }
+    // Nor may the heading repeat one of its own links, whole or as its closing
+    // phrase ("Aan de slag, en over ons" above a link "Over ons").
+    const h = ` ${head.trim().toLowerCase().replace(/[.,;:]/g, '')} `;
+    for (const label of seen) {
+      if (label && h.includes(` ${label} `)) bad(`${loc}: footer heading "${head}" repeats its link "${label}"`);
+    }
+  }
+}
 if (problems.length) {
   console.error(`check-plain-front: ${problems.length} problem(s):`);
   for (const p of problems.slice(0, 40)) console.error('  ' + p);
