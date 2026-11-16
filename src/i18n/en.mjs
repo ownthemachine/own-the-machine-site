@@ -12,7 +12,7 @@ export default {
     footNavLabel: 'All pages',
     footNavFile: 'The file',
     footNavUnderstand: 'Understand it',
-    footNavAct: 'Act, and who we are',
+    footNavAct: 'Act and who we are',
     explanatory: 'Explanatory memorandum',
     registration: 'The proposal, in the Commission’s format',
     severability: 'Severability',

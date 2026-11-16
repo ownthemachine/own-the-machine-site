@@ -53,10 +53,16 @@ Source: owner decisions page, 11 November 2026 (points 1 to 6, 10 and 11), answe
 
 | Language | Heading | Join page link | Contribute page link |
 |---|---|---|---|
-| English | Act, and who we are (unchanged) | Volunteer or become an organiser | Improve the text |
+| English | Act and who we are | Volunteer or become an organiser | Improve the text |
 | Dutch | Aan de slag en wie we zijn | Vrijwilliger of organisator worden | De tekst verbeteren |
 | French | Agir et nous connaître | Devenir bénévole ou organisateur | Améliorer le texte |
 | German | Handeln und wer wir sind | Freiwillig oder als Organisator mitarbeiten | Den Text verbessern |
 | Spanish | Actuar y conocernos | Ser voluntario u organizador | Mejorar el texto |
 
 The Dutch, German and Spanish headings above are the wording as built: the first proposal ended in the About link's own label, which the language review caught. The help page, signing, press and About keep their labels. The result is shown to the owner before it goes live.
+
+### Footer result (owner decisions 24 and 25, 16/11/2026)
+> "24 : go" and "25 : ok" (David, 16 November 2026)
+
+24. The footer labels go live as built, including the Dutch, German and Spanish headings as built.
+25. The English heading loses its comma: "Act and who we are", in line with the other four languages.
